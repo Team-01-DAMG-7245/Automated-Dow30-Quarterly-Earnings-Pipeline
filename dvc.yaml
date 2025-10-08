@@ -1,0 +1,129 @@
+# dvc.yaml
+# Project LANTERN Part 2 - Automated Dow 30 Earnings Collection
+
+stages:
+  # Generate company reference data
+  load_company_reference:
+    cmd: python src/dow30_reference.py
+    deps:
+      - src/dow30_reference.py
+    outs:
+      - data/reference/dow30_companies.csv
+      - data/reference/dow30_companies.json
+
+  # Discover IR pages programmatically
+  discover_ir_pages:
+    cmd: python src/run_collection_pipeline.py --stage discover
+    deps:
+      - src/ir_page_finder.py
+      - src/run_collection_pipeline.py
+      - data/reference/dow30_companies.json
+    outs:
+      - data/reference/companies_with_ir.json
+
+  # Locate and download latest earnings reports
+  download_earnings_reports:
+    cmd: python src/run_collection_pipeline.py --stage download
+    deps:
+      - src/earnings_report_locator.py
+      - src/earnings_report_finder.py
+      - src/run_collection_pipeline.py
+      - data/reference/companies_with_ir.json
+    outs:
+      - data/raw/earnings:
+          persist: true
+      - data/metadata/download_metadata.json
+    params:
+      - download.timeout
+      - download.max_retries
+
+  # Parse reports with Part 1 parser
+  parse_earnings_reports:
+    cmd: python src/batch_parse.py --input data/raw/earnings --output data/parsed/earnings
+    deps:
+      - src/parser_integration.py
+      - src/batch_parse.py
+      - part1_parser/document_parser.py
+      - data/raw/earnings
+    outs:
+      - data/parsed/earnings
+
+  # Extract text from earnings PDFs
+  extract_text:
+    cmd: python src/extract_pdf_text.py --input-dir data/raw/earnings --output-dir data/parsed/text/earnings
+    deps:
+      - src/extract_pdf_text.py
+      - data/raw/earnings
+    outs:
+      - data/parsed/text/earnings
+
+  # Extract tables from earnings PDFs
+  extract_tables:
+    cmd: python src/hybrid_tables.py --input-dir data/raw/earnings --output-dir data/parsed/tables/earnings
+    deps:
+      - src/hybrid_tables.py
+      - data/raw/earnings
+    outs:
+      - data/parsed/tables/earnings
+
+  # Optional: Enhance with Guidance.ai
+  enhance_with_guidance:
+    cmd: python src/guidance_enhancer.py --input-dir data/parsed/earnings --output-dir data/parsed/enhanced
+    deps:
+      - src/guidance_enhancer.py
+      - data/parsed/earnings
+    outs:
+      - data/parsed/enhanced
+    params:
+      - guidance.enabled
+      - guidance.model
+
+  # Consolidate all results
+  consolidate_results:
+    cmd: python src/consolidate_pipeline_results.py
+    deps:
+      - src/consolidate_pipeline_results.py
+      - data/parsed/earnings
+      - data/parsed/enhanced
+      - data/metadata/download_metadata.json
+    outs:
+      - data/processed/consolidated_metrics.csv
+      - data/processed/consolidated_metrics.json
+      - reports/pipeline_summary.json
+
+  # Upload to cloud storage
+  upload_to_cloud:
+    cmd: python src/cloud_storage_utils.py --raw-dir data/raw/earnings --parsed-dir data/parsed/earnings
+    deps:
+      - src/cloud_storage_utils.py
+      - data/raw/earnings
+      - data/parsed/earnings
+    outs:
+      - data/cloud_upload_manifest.json
+    params:
+      - cloud.provider
+      - cloud.bucket
+    always_changed: true
+
+  # Validate quality
+  validate_quality:
+    cmd: python src/validate_collection_quality.py --input data/processed/consolidated_metrics.csv --output evaluation_results
+    deps:
+      - src/validate_collection_quality.py
+      - data/processed/consolidated_metrics.csv
+    outs:
+      - evaluation_results/quality_report.json
+    metrics:
+      - evaluation_results/metrics.json:
+          cache: false
+
+  # Generate reports
+  generate_reports:
+    cmd: python src/generate_pipeline_reports.py
+    deps:
+      - src/generate_pipeline_reports.py
+      - data/processed/consolidated_metrics.csv
+      - evaluation_results/quality_report.json
+    outs:
+      - reports/earnings_summary.pdf
+      - reports/earnings_dashboard.html
