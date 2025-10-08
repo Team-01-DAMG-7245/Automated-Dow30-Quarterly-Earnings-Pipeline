@@ -1,0 +1,52 @@
+# Configuration parameters for Project LANTERN Part 2
+
+# IR page discovery
+discovery:
+  timeout: 15
+  max_links_to_check: 100
+  common_patterns:
+    - /investors
+    - /investor-relations
+    - /ir
+    - /shareholders
+
+# Earnings report location
+locator:
+  keywords:
+    - earnings
+    - quarterly results
+    - financial results
+    - q1
+    - q2
+    - q3
+    - q4
+  date_patterns:
+    - "Q[1-4]\\s*\\d{4}"
+    - "\\w+\\s+\\d{1,2},?\\s+\\d{4}"
+  recency_threshold_days: 180
+  min_score: 50
+
+# Download settings
+download:
+  timeout: 30
+  max_retries: 3
+  rate_limit_delay: 1.0
+  concurrent_downloads: 5
+
+# Cloud storage
+cloud:
+  provider: "aws"  # or "gcp"
+  bucket: "fintrust-earnings-data"
+  region: "us-east-1"
+  prefix: "dow30/earnings"
+  organize_by:
+    - company
+    - quarter
+    - year
+
+# Quality thresholds (for demo)
+quality:
+  min_companies_processed: 20
+  min_success_rate: 0.67
+  min_tables_per_report: 1
+  min_text_chars: 1000
