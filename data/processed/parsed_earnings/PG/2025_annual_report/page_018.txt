@@ -1,0 +1,59 @@
+6 The Procter & Gamble Company
+litigation, defects or impurities in our products, product misuse, changing consumer perceptions of certain ingredients, negative
+perceptions of packaging (such as plastic and other petroleum-based materials), lack of recyclability or other environmental
+attributes, concerns about actual or alleged labor, equality and inclusion or social practices, privacy failures or data breaches,
+allegations of product tampering or the distribution and sale of counterfeit products. Additionally, negative or inaccurate
+postings or comments on social media or networking websites about the Company or one of its brands could generate adverse
+publicity that could damage the reputation of our brands or the Company. If we are unable to effectively manage real or
+perceived issues, including concerns about safety, quality, ingredients, efficacy, environmental or social impacts or similar
+matters, sentiments toward the Company or our products could be negatively impacted, and our results of operations or cash
+flows could suffer. Our Company also devotes time and resources to citizenship efforts that are consistent with our corporate
+values and are designed to strengthen our business and protect and preserve our reputation, including programs driving ethics
+and corporate responsibility, strong communities, equality and inclusion and environmental sustainability. While the Company
+has many programs and initiatives to further these citizenship efforts, we are impacted in part by the actions and efforts of third
+parties including local and other governmental authorities, suppliers, vendors and customers. Consumer or broader stakeholder
+perceptions of these programs and initiatives widely vary and could adversely affect our business. If these programs are
+changed or suffer negative publicity, the Company's reputation and results of operations or cash flows could be adversely
+impacted.
+We rely on third parties in many aspects of our business, which creates additional risk.
+Due to the scale and scope of our business, we must rely on relationships with third parties, including our suppliers, contract
+manufacturers, distributors, contractors, commercial banks, joint venture partners and external business partners, for certain
+functions. If we are unable to effectively manage our third-party relationships and the agreements under which our third-party
+partners operate, our results of operations and cash flows could be adversely impacted. Further, failure of these third parties to
+meet their obligations to the Company, including the transparency and accuracy of the disclosures of ingredients in materials or
+processes, and the proper security of Company data and personal data, or substantial disruptions in the relationships between
+the Company and these third parties could adversely impact our operations and financial results. Additionally, while we have
+policies and procedures for managing these relationships, they inherently involve a lesser degree of control over business
+operations, governance and compliance, thereby potentially increasing our financial, legal, reputational and operational risk.
+A significant information security or operational technology incident, including a cybersecurity incident, or the failure
+of one or more key information or operations technology systems, networks, hardware, processes and/or associated sites
+involving the Company or one of its service providers could have a material adverse impact on our business or
+reputation.
+We rely extensively on information and operational technology (IT/OT) systems, networks and services, including internet and
+intranet sites, data hosting and processing facilities and technologies, physical security systems and other hardware, software
+and technical applications and platforms. Many of these are managed, hosted, provided and/or used by third parties or their
+vendors. The various uses of these IT/OT systems, networks and services include, but are not limited to, ordering and managing
+materials from suppliers; converting materials to finished products; shipping, marketing and selling products; collecting,
+transferring, storing and/or processing customer, consumer, employee, vendor, investor and other stakeholder information and
+personal data; summarizing and reporting results of operations, including financial reporting; managing our banking and other
+cash liquidity systems and platforms; hosting, processing and sharing, as appropriate, confidential and proprietary research,
+business plans and financial information; collaborating via an online and efficient means of global business communications;
+complying with regulatory, legal and tax requirements; providing data security; and handling other processes necessary to
+manage our business.
+Numerous and evolving information security threats, including advanced persistent cybersecurity threats, pose a risk to the
+security of our services, systems, networks and supply chain, as well as the confidentiality, availability and integrity of our data
+and of our critical business operations. In addition, because the techniques, tools and tactics used in cyber-attacks frequently
+change, continue to advance in sophistication and may be difficult to detect for periods of time, we and our third-party
+providers may face difficulties in anticipating and implementing adequate preventative measures or fully mitigating harms after
+such an attack, including acquired and divested businesses.
+Our IT/OT databases and systems and our third-party providers’ databases and systems have been, and will likely continue to
+be, subject to advanced computer viruses or other malicious codes, ransomware, unauthorized access attempts, denial of service
+attacks, phishing, social engineering, hacking and other cyber-attacks. Such attacks may originate from outside parties, hackers,
+criminal organizations or other threat actors, including nation states. In addition, operational errors and insider actors -
+malicious or otherwise - could cause technical disruptions and/or data incidents. We cannot guarantee that our security efforts
+or the security efforts of our third-party providers will prevent material breaches, operational outages or other breakdowns to
+our or our third-party providers’ IT/OT databases or systems.
+A breach of our data security systems or failure of our IT/OT databases and systems and those of our third-parties may have a
+material adverse impact on our business operations and financial results. If the IT/OT systems, networks or service providers
+we rely upon fail to function properly or cause operational outages or aberrations, or if we or one of our third-party providers
+suffer significant unavailability of key operations, or inadvertent disclosure of, lack of integrity of, or loss of our sensitive

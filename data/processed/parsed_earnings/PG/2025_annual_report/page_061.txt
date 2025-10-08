@@ -1,0 +1,50 @@
+The Procter & Gamble Company 49
+Income taxes consisted of the following:
+Fiscal years ended June 30 2025 2024 2023
+CURRENT TAX EXPENSE
+U.S. federal $ 2,215 $ 1,954 $ 2,303
+International 1,330 1,708 1,412
+U.S. state and local 407 368 353
+TOTAL 3,953 4,031 4,068
+DEFERRED TAX EXPENSE/(BENEFIT)
+U.S. federal 9 (133) (224)
+International and other 141 (111) (229)
+TOTAL 149 (244) (453)
+TOTAL TAX EXPENSE $ 4,102 $ 3,787 $ 3,615
+A reconciliation of the U.S. federal statutory income tax rate to our actual effective income tax rate is provided below:
+Fiscal years ended June 30 2025 2024 2023
+U.S. federal statutory income tax rate 21.0 % 21.0 % 21.0 %
+Country mix impacts of foreign operations (0.4)% 0.1 % (0.5)%
+State income taxes, net of federal benefit 1.7 % 1.8 % 1.6 %
+Excess tax benefits from the exercise of stock options (1.4)% (1.5)% (1.0)%
+Foreign derived intangible income deduction (FDII) (0.8)% (1.1)% (0.8)%
+Changes in uncertain tax positions 0.1 % 0.1 % 0.1 %
+Other 0.2 % (0.2)% (0.7)%
+EFFECTIVE INCOME TAX RATE 20.3 % 20.2 % 19.7 %
+Country mix impacts of foreign operations includes the effects of foreign subsidiaries' earnings taxed at rates other than the
+U.S. statutory rate, the U.S. tax impacts of non-U.S. earnings repatriation and any net impacts of intercompany transactions.
+Excess tax benefits from the exercise of stock options reflect the excess of actual tax benefits received on employee exercises of
+stock options and other share-based payments (which generally equals the income taxable to the employee) over the amount of
+tax benefits that were calculated and recognized based on the grant date fair values of such instruments. Changes in uncertain
+tax positions represent changes in our net liability related to prior year tax positions.
+Prior to the passage of the 2017 U.S. Tax Act, the Company asserted that substantially all of the undistributed earnings of its
+foreign subsidiaries were considered indefinitely invested and, accordingly, no deferred taxes were provided. Pursuant to the
+provisions of the 2017 U.S. Tax Act, these earnings were subjected to a one-time transition tax. This charge included taxes for
+all U.S. income taxes and for the related foreign withholding taxes for the portion of those earnings which are no longer
+considered indefinitely invested. We have not provided deferred taxes on approximately $22 billion of earnings that are
+considered indefinitely invested.
+A reconciliation of the beginning and ending liability for uncertain tax positions is as follows:
+Fiscal years ended June 30 2025 2024 2023
+BEGINNING OF YEAR $ 582 $ 515 $ 583
+Increases in tax positions for prior years 240 157 113
+Decreases in tax positions for prior years (181) (133) (119)
+Increases in tax positions for current year 57 160 60
+Settlements with taxing authorities (65) (100) (108)
+Lapse in statute of limitations (6) (9) (7)
+Currency translation 7 (8) (7)
+END OF YEAR $ 634 $ 582 $ 515
+Included in the total liability for uncertain tax positions at June 30, 2025, is $497 that, depending on the ultimate resolution,
+could impact the effective tax rate in future periods.
+The Company is present in about 70 countries and over 150 taxable jurisdictions and, at any point in time, has 30-40
+jurisdictional audits underway at various stages of completion. We evaluate our tax positions and establish liabilities for
+Amounts in millions of dollars except per share amounts or as otherwise specified.

@@ -1,0 +1,38 @@
+operated emissions, cont.
+2018 2019 2020 2021 2022 SASB ipieca
+emissions associated with exported electricity
+and steam – all GHGs (million tonnes CO₂e) 15 1 1 1 1 < 1 CCE4: C3/A6
+Upstream – all GHGs (million tonnes CO₂e) < 1 < 1 < 1 < 1 < 1
+Midstream – all GHGs (million tonnes CO₂e) 0 0 0 0 0
+Downstream – all GHGs (million tonnes CO₂e) 11 < 1 < 1 < 1 < 1 < 1
+LNG – all GHGs (million tonnes CO₂e) 0 0 0 0 0
+Chemicals – all GHGs (million tonnes CO₂e) 12 0 0 0 0 0
+Other – all GHGs (million tonnes CO₂e) 14 1 1 < 1 1 < 1
+indirect GHG emissions from imported energy
+(scope 2) 4, 6, 16
+indirect GHG emissions from imported energy
+2 1 1 2 1 CCE4: C2/C3
+(scope 2) – all GHGs (million tonnes CO₂e)
+Upstream – all GHGs (million tonnes CO₂e) 1 1 1 1 1
+Midstream – all GHGs (million tonnes CO₂e) < 1 < 1 < 1 < 1 < 1
+Downstream – all GHGs (million tonnes CO₂e) 11 1 < 1 < 1 1 1
+LNG – all GHGs (million tonnes CO₂e) 0 0 0 0 0
+Chemicals – all GHGs (million tonnes CO₂e) 12 < 1 < 1 < 1 < 1 < 1
+Other – all GHGs (million tonnes CO₂e) 14 < 1 < 1 < 1 < 1 < 1
+indirect GHG emissions (scope 3) 17 CCE4: A2
+Category 11 use of sold products –
+617 622 588 621 592
+production method – all GHGs (million tonnes CO₂e)
+Category 11 use of sold products –
+406 411 392 450 442
+throughput method – all GHGs (million tonnes CO₂e)
+GHG mitigation
+Carbon capture, utilization and storage (CCUS) –
+< 1 1 3 1 1 CCE3: A6
+all GHGs (million tonnes CO₂e) 19
+Renewable Energy Credits (RECs for indirect
+0 < 1 < 1 < 1 < 1 CCE3: A7
+emissions) – all GHGs (million tonnes CO₂e) 20
+Offsets – all GHGs (million tonnes CO₂e) 21 3 1 2 13 10
+Chevron Corporation 2023 Climate Change Resilience Report
+74

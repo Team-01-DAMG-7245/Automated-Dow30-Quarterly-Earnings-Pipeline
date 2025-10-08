@@ -1,0 +1,28 @@
+Overview Access to Health Employees Environmental Sustainability Ethics & Values Reporting indices Merck Impact Report 2024/2025 128
+GRI | SASB | UNGC | SDGs | WEF
+GRI # Description Response
+GRI 305 Emissions (2016)
+Management Explanation of the material topic, its boundary, how the topic is managed and mechanisms for
+Approach evaluating the effectiveness of the company's strategy
+305-1 Direct (Scope 1) GHG emissions
+305-2 Energy indirect (Scope 2) GHG emissions
+305-3 Other indirect (Scope 3) GHG emissions
+Pages 70-72, 75-76, 90-92
+305-4 GHG emissions intensity
+305-5 Reduction of GHG emissions
+305-6 Emissions of ozone-depleting substances (ODS)
+305-7 Nitrogen oxides (NOₓ), sulfur oxides (SOₓ), and other significant air emissions
+GRI 306 Waste (2020)
+Management Explanation of the material topic, its boundary, how the topic is managed and mechanisms for
+Approach evaluating the effectiveness of the company's strategy
+306-1 Waste generation and significant waste-related impacts
+306-2 Management of significant waste-related impacts
+Pages 82-84, 94-95
+306-3 Waste generated
+306-4 Waste diverted from disposal
+306-5 Waste directed to disposal
+GRI 308 Supplier environmental assessment (2016)
+Management Explanation of the material topic, its boundary, how the topic is managed and mechanisms for
+Pages 107-109, 112
+Approach evaluating the effectiveness of the company's strategy
+308-2 Negative environmental impacts in the supply chain and actions taken Page 112

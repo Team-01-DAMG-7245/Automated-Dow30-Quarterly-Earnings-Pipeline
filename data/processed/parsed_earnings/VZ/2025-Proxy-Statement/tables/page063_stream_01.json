@@ -1,0 +1,190 @@
+{
+  "page": 63,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 20,
+  "columns": 7,
+  "accuracy": 95.23,
+  "data": [
+    {
+      "0": "",
+      "1": "amount of compensation earned by or paid to the named executive officers as a group (excluding Mr.\u00a0Vestberg) during the applicable",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "year. In accordance with the requirements of Item 402(v) of Regulation S\u2011K, the following adjustments were made to average total",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "compensation for the named executive officers as a group (excluding Mr.\u00a0Vestberg) for each year to determine the \u201cCompensation",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Actually Paid\u201d, using the same methodology described above in Note 2:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Average",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "reported",
+      "2": "",
+      "3": "",
+      "4": "Average",
+      "5": "",
+      "6": "Average"
+    },
+    {
+      "0": "",
+      "1": "Summary",
+      "2": "Average",
+      "3": "",
+      "4": "reported",
+      "5": "",
+      "6": "Compensation"
+    },
+    {
+      "0": "",
+      "1": "Compensation",
+      "2": "reported",
+      "3": "Average",
+      "4": "change in",
+      "5": "Average",
+      "6": "Actually Paid"
+    },
+    {
+      "0": "",
+      "1": "table total for",
+      "2": "value",
+      "3": "equity",
+      "4": "",
+      "5": "pension",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "the actuarial",
+      "5": "",
+      "6": "to non\u2011\u2011CEO"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "of equity",
+      "3": "",
+      "4": "",
+      "5": "benefit",
+      "6": "named executive"
+    },
+    {
+      "0": "",
+      "1": "non\u2011\u2011CEO named",
+      "2": "",
+      "3": "award",
+      "4": "present value of",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "a",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "executive officers",
+      "2": "awards",
+      "3": "adjustments",
+      "4": "pension benefits",
+      "5": "adjustments",
+      "6": "officers"
+    },
+    {
+      "0": "Year",
+      "1": "($)",
+      "2": "($)",
+      "3": "($)",
+      "4": "($)",
+      "5": "($)",
+      "6": "($)"
+    },
+    {
+      "0": "2024",
+      "1": "11,676,817",
+      "2": "8,000,041",
+      "3": "8,475,407",
+      "4": "1,004",
+      "5": "0",
+      "6": "12,151,179"
+    },
+    {
+      "0": "2023",
+      "1": "10,823,622",
+      "2": "7,600,044",
+      "3": "3,793,065",
+      "4": "718",
+      "5": "0",
+      "6": "7,015,925"
+    },
+    {
+      "0": "2022",
+      "1": "9,782,141",
+      "2": "6,833,403",
+      "3": "3,456,829",
+      "4": "0",
+      "5": "0",
+      "6": "6,405,568"
+    },
+    {
+      "0": "2021",
+      "1": "9,282,312",
+      "2": "6,510,037",
+      "3": "1,319,470",
+      "4": "33",
+      "5": "0",
+      "6": "4,091,712"
+    },
+    {
+      "0": "2020",
+      "1": "8,546,205",
+      "2": "6,125,043",
+      "3": "6,798,961",
+      "4": "16,642",
+      "5": "0",
+      "6": "9,203,481"
+    }
+  ]
+}

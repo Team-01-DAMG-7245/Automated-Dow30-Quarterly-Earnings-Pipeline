@@ -1,0 +1,40 @@
+{
+  "page": 22,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 10,
+  "columns": 1,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "represent multiple facilities."
+    },
+    {
+      "0": "\uf0eaCorporate Headquarters"
+    },
+    {
+      "0": "+500"
+    },
+    {
+      "0": "Locations"
+    },
+    {
+      "0": "140"
+    },
+    {
+      "0": "Primary Locations"
+    },
+    {
+      "0": "in 24 Countries"
+    },
+    {
+      "0": "~120"
+    },
+    {
+      "0": "Primary Manufacturing"
+    },
+    {
+      "0": "Facilities"
+    }
+  ]
+}

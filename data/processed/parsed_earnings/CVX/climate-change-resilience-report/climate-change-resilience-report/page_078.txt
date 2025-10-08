@@ -1,0 +1,104 @@
+notes to pages 66 through 75
+1 See Calculation Methodology, Portfolio Carbon Intensity, pages 67–68. 18 For assurance statements, visit chevron.co/GHGassurance-library. Figures
+in assurance statements may vary from figures reported in each subsequent
+2 See Calculation Methodology, Upstream Carbon Intensity, page 69.
+Corporate Sustainability Report due to restatements and assurance scope.
+3 See Calculation Methodology, Refining Carbon Intensity, page 70. 2022 assurance excludes Renewable Energy Group, Inc. and Chevron Phillips
+Chemical Company, LLC data.
+4 Unless otherwise noted, Scope 1 and Scope 2 data collected as of February 9,
+2023. Data include estimates. 19 Carbon capture, utilization and storage includes both CO₂ sold to third parties
+and CO₂ (and other gas) injected for carbon storage.
+5 Scope 1 includes direct emissions. For reporting, Chevron includes indirect sources
+of GHG emissions within Scope 1 that are outside of the traditional Scope 1 20 RECs are credits generated from renewable electricity generation within the
+definition, such as GHG emissions from processes like drilling and completions, United States that are retired by Chevron. Reported Scope 2 emissions are net
+and tolling agreements up to the point of third-party custody transfer of the of contractual instruments such as RECs.
+oil or gas product. Direct GHG emissions related to production of energy in the
+21 Offsets are credits generated from the avoidance or reduction of GHG emissions
+form of electricity or steam exported or sold to a third party are included in
+or the removal of GHGs from the atmosphere that are retired by Chevron,
+the reported Scope 1 emissions to align with Ipieca’s Sustainability Reporting
+excluding RECs. Includes offsets retired in compliance programs. For programs
+Guidance for the Oil & Gas Industry (2020). Chevron’s Scope 1 includes emissions
+with multiyear compliance periods, offsets are reported in the calendar year they
+of six Kyoto GHGs – carbon dioxide (CO₂), methane (CH₄), nitrous oxide (N₂O),
+are retired.
+sulfur hexafluoride, perfluorocarbons and hydrofluorocarbons, as well as nitrogen
+trifluoride (NF₃). 22 Total Energy Consumption includes energy generated from Chevron’s operations
+and imported energy. Exported energy is not subtracted from the total.
+6 Calculation methods for Scope 1 and Scope 2 GHG emissions are based on the
+American Petroleum Institute’s Compendium of Greenhouse Gas Emissions 23 Manufacturing Energy Index (MEI) (Refining) is an analysis of Chevron’s refining
+Methodologies for the Oil and Natural Gas Industry (2021) or, where relevant, energy performance based on the Solomon Energy Intensity Index methodology.
+local regulatory reporting methodologies. Chevron’s MEI includes the refining assets at Chevron’s operated and nonoperated
+joint venture refineries. Energy consumption from Renewable Energy Group, Inc.
+7 When a nonoperated joint venture (NOJV) provides consolidated emissions
+is not included in this metric.
+data, Chevron seeks to allocate its equity share of those emissions to the
+most representative scope and GHG based on best available knowledge of 24 2022 Upstream Energy Intensity reflects continued updates to Chevron’s
+the NOJV’s operations. calculation methodology.
+8 Consistent with our financial accounting, Venezuela NOJV emissions are not 25 Pipeline Energy Intensity covers assets operated by Chevron Pipe Line Company.
+included for 2022 emissions reporting.
+26 Chevron’s Non-Manufacturing Energy Index includes operations from Chevron’s
+9 We provide methane emissions data and intensity performance as a mass chemicals and additives, products and services, and lubricants businesses. It
+of methane as well as a mass of CO₂e. To convert from methane to CO₂e, we reflects the energy required to produce Chevron’s products compared with the
+use the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment energy that would have been required to produce the same products in 1992 (the
+Report (AR4) 100-year global warming potential (GWP), except for some index’s base year). Energy consumption from Renewable Energy Group, Inc. is not
+business units for which we utilize GWP values from IPCC’s Fifth Assessment included in this metric.
+Report and IPCC’s Sixth Assessment Report in accordance with local reporting
+27 Renewable Energy Group, Inc. data are not included in water management or
+requirements. Although we strive to provide consistent data from our operated
+wastewater metrics.
+and nonoperated assets, some nonoperated assets may provide their data only
+on a CO₂e basis. Given the common industry practice of using the AR4 100-year 28 Fresh water withdrawn from the environment is defined per local legal definitions.
+GWP, we have assumed that nonoperated assets that did not provide methane If no local definition exists, fresh water is defined as water extracted, directly
+mass data use a 100-year GWP of 25. We continue to work with our joint venture or indirectly, from surface water, groundwater or rainwater that has a total
+partners to provide information on a standardized basis to increase transparency. dissolved solids concentration of less than or equal to 2,000 mg/L. Fresh
+water withdrawn does not include effluent or recycled/reclaimed water from
+10 Where flaring emissions are calculated based on mass or reported in aggregate,
+municipal or other industrial wastewater treatment systems, as this water is
+volumes are not included.
+reported under nonfresh water withdrawn. Nonfresh water withdrawn could
+11 Downstream includes emissions from refineries, terminals, marketing and include: seawater; brackish groundwater or surface water; reclaimed wastewater
+distribution, including renewable fuels. Chemical and base oil facilities located from another municipal or industrial facility; desalinated water; or remediated
+within refineries are included in refinery emissions. groundwater used for industrial purposes. Produced water is excluded from
+fresh water withdrawn, fresh water consumed and nonfresh water withdrawn.
+12 Chemicals includes emissions from stand-alone chemical, additive and lubricant
+Water quantities may be determined using direct measurement techniques or
+facilities.
+engineering estimation methods.
+13 Chevron Phillips Chemical Company LLC (CPChem.com) data received
+29 Chevron reports fresh water withdrawn and consumed in water-stressed
+April 4, 2023.
+regions according to the World Resources Institute’s definition and
+14 Other emissions include GHG emissions from Corporate Aviation, Chevron categorization of “baseline water stress.” WRI Aqueduct map version 3.0 was
+Environmental Management Company, energy management and power from used to identify water-stressed areas. Baseline water stress measures the
+Chevron Pipeline and Power, and the North American Data Center. ratio of total water withdrawals to available renewable surface and groundwater
+supplies. Water withdrawals include domestic, industrial, irrigation and
+15 Exported emissions are direct GHG emissions related to production of energy in
+livestock consumptive and nonconsumptive uses. Available renewable water
+the form of electricity or steam that are exported or sold to a third party. Direct
+supplies include the impact of upstream consumptive water users and
+GHG emissions related to production of energy in the form of electricity or steam
+large dams on downstream water availability. Higher values indicate more
+exported or sold to a third party are included in the reported Scope 1 emissions
+competition among users.
+for each segment.
+16 Scope 2 includes indirect emissions from imported electricity and steam.
+Chevron’s fresh water withdrawn and consumed in high and extremely high water
+stress areas excludes Chevron’s Fuels and Lubricants businesses and Chevron
+CO₂, CH₄ and N₂O are accounted for in Chevron’s Scope 2 emissions. Scope 2
+Environmental Management Company. Freshwater withdrawals for the Fuels and
+emissions are accounted for using the market-based approach as described in the
+Lubricants businesses and Chevron Environmental Management Company are
+World Resources Institute’s GHG Protocol Scope 2 Guidance (2015), including
+minimal (1% of the total) compared with the overall use in the corporation. For
+calculating Scope 2 emissions net of contractual instruments such as renewable
+purposes of this reporting, Chevron categorizes all of the water withdrawn and
+energy credits (RECs).
+consumed by Chevron’s Mid-Continent business unit as being in a high-stress or
+17 Chevron calculates emissions from third-party use of sold products in alignment extremely high-stress region.
+with methods in Category 11 of Ipieca’s Estimating Petroleum Industry Value Chain
+(Scope 3) Greenhouse Gas Emissions (2016). Emissions are based on aggregate 30 Freshwater use in water-stressed areas increased in 2022 due to completion
+activity increases.
+production, throughput and sales numbers that include renewable fuels.
+Chevron Corporation 2023 Climate Change Resilience Report
+76

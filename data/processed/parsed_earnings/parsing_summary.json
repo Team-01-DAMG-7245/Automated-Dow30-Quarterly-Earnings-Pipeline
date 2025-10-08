@@ -1,0 +1,366 @@
+{
+  "parse_date": "2025-10-08T12:59:46.641665",
+  "total_files": 36,
+  "successful": 22,
+  "failed": 14,
+  "total_pages": 871,
+  "total_characters": 2634954,
+  "companies": {
+    "VZ": [
+      {
+        "file_name": "2025-Proxy-Statement.pdf",
+        "success": true,
+        "pages_extracted": 88,
+        "total_characters": 297233,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/VZ/2025-Proxy-Statement",
+        "error": null
+      },
+      {
+        "file_name": "press releases.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "CAT": [
+      {
+        "file_name": "2024-Caterpillar-Investor-Presentation.pdf",
+        "success": true,
+        "pages_extracted": 25,
+        "total_characters": 63629,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/CAT/2024-Caterpillar-Investor-Presentation",
+        "error": null
+      },
+      {
+        "file_name": "2Q-2025-Glossary-of-Terms.pdf",
+        "success": true,
+        "pages_extracted": 4,
+        "total_characters": 11728,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/CAT/2Q-2025-Glossary-of-Terms",
+        "error": null
+      }
+    ],
+    "MMM": [
+      {
+        "file_name": "press releases.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      },
+      {
+        "file_name": "earnings releases.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "CVX": [
+      {
+        "file_name": "climate-change-resilience-report.pdf",
+        "success": true,
+        "pages_extracted": 88,
+        "total_characters": 307724,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/CVX/climate-change-resilience-report",
+        "error": null
+      },
+      {
+        "file_name": "chevron completes acquisition of hess corporation .pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      },
+      {
+        "file_name": "john b. hess joins chevron\u2019s board of directors \nj.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "GS": [
+      {
+        "file_name": "second-quarter-2025-10-q.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      },
+      {
+        "file_name": "2q-pillar-3-2025.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "HD": [
+      {
+        "file_name": "2024 SRS Investor Slides vFinal.pdf",
+        "success": true,
+        "pages_extracted": 15,
+        "total_characters": 16880,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/HD/2024 SRS Investor Slides vFinal",
+        "error": null
+      }
+    ],
+    "MRK": [
+      {
+        "file_name": "2Q25-Merck-Other-Financial-Disclosures.pdf",
+        "success": true,
+        "pages_extracted": 10,
+        "total_characters": 24180,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/MRK/2Q25-Merck-Other-Financial-Disclosures",
+        "error": null
+      },
+      {
+        "file_name": "PurposeforProgressMerckImpactReport2024-2025.pdf",
+        "success": true,
+        "pages_extracted": 141,
+        "total_characters": 421190,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/MRK/PurposeforProgressMerckImpactReport2024-2025",
+        "error": null
+      },
+      {
+        "file_name": "2Q25-Merck-Earnings-Announcement.pdf",
+        "success": true,
+        "pages_extracted": 14,
+        "total_characters": 35389,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/MRK/2Q25-Merck-Earnings-Announcement",
+        "error": null
+      }
+    ],
+    "MSFT": [
+      {
+        "file_name": "press release.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      },
+      {
+        "file_name": "press release & webcast.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "MCD": [
+      {
+        "file_name": "2025%20Q2%20Earnings%20Release.pdf",
+        "success": true,
+        "pages_extracted": 6,
+        "total_characters": 12477,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/MCD/2025%20Q2%20Earnings%20Release",
+        "error": null
+      },
+      {
+        "file_name": "press releases.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "PG": [
+      {
+        "file_name": "2025-Proxy-PG.pdf",
+        "success": true,
+        "pages_extracted": 132,
+        "total_characters": 425459,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/PG/2025-Proxy-PG",
+        "error": null
+      },
+      {
+        "file_name": "2025_annual_report.pdf",
+        "success": true,
+        "pages_extracted": 92,
+        "total_characters": 348590,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/PG/2025_annual_report",
+        "error": null
+      }
+    ],
+    "TRV": [
+      {
+        "file_name": "quarterly results.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      },
+      {
+        "file_name": "d2b3cb6d-e7f5-1f89-df53-2a1355c7e597.pdf",
+        "success": true,
+        "pages_extracted": 1,
+        "total_characters": 1501,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/TRV/d2b3cb6d-e7f5-1f89-df53-2a1355c7e597",
+        "error": null
+      },
+      {
+        "file_name": "press releases.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "HON": [
+      {
+        "file_name": "hon-2024-impact-report.pdf",
+        "success": true,
+        "pages_extracted": 71,
+        "total_characters": 182597,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/HON/hon-2024-impact-report",
+        "error": null
+      }
+    ],
+    "UNH": [
+      {
+        "file_name": "read press release.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      },
+      {
+        "file_name": "financial & earnings reports.pdf",
+        "success": false,
+        "pages_extracted": 0,
+        "total_characters": 0,
+        "ocr_pages": 0,
+        "output_location": null,
+        "error": "No /Root object! - Is this really a PDF?"
+      }
+    ],
+    "DIS": [
+      {
+        "file_name": "q1-fy25-earnings.pdf",
+        "success": true,
+        "pages_extracted": 22,
+        "total_characters": 43006,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/DIS/q1-fy25-earnings",
+        "error": null
+      },
+      {
+        "file_name": "q2-fy25-earnings.pdf",
+        "success": true,
+        "pages_extracted": 23,
+        "total_characters": 44569,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/DIS/q2-fy25-earnings",
+        "error": null
+      },
+      {
+        "file_name": "q3-fy25-earnings.pdf",
+        "success": true,
+        "pages_extracted": 23,
+        "total_characters": 44614,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/DIS/q3-fy25-earnings",
+        "error": null
+      }
+    ],
+    "KO": [
+      {
+        "file_name": "CORRECTED+TRANSCRIPT_+The+Coca-Cola+Co.%28KO-US%29%2C+Q2+2025+Earnings+Call%2C+22-July-2025+8_30+AM+ET.pdf",
+        "success": true,
+        "pages_extracted": 18,
+        "total_characters": 73114,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/KO/CORRECTED+TRANSCRIPT_+The+Coca-Cola+Co.%28KO-US%29%2C+Q2+2025+Earnings+Call%2C+22-July-2025+8_30+AM+ET",
+        "error": null
+      },
+      {
+        "file_name": "Q2%2725+Margin+Analysis+Schedule.pdf",
+        "success": true,
+        "pages_extracted": 8,
+        "total_characters": 6155,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/KO/Q2%2725+Margin+Analysis+Schedule",
+        "error": null
+      },
+      {
+        "file_name": "Coca-Cola+2025+Q2+Earnings+Release_Full+Release_7.22.25.pdf",
+        "success": true,
+        "pages_extracted": 31,
+        "total_characters": 75535,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/KO/Coca-Cola+2025+Q2+Earnings+Release_Full+Release_7.22.25",
+        "error": null
+      }
+    ],
+    "JPM": [
+      {
+        "file_name": "360c049d-2061-4b87-ae11-e58a741956ad.pdf",
+        "success": true,
+        "pages_extracted": 13,
+        "total_characters": 21926,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/JPM/360c049d-2061-4b87-ae11-e58a741956ad",
+        "error": null
+      },
+      {
+        "file_name": "Climate-Report-2024.pdf",
+        "success": true,
+        "pages_extracted": 38,
+        "total_characters": 151677,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/JPM/Climate-Report-2024",
+        "error": null
+      },
+      {
+        "file_name": "ac5b7d95-9133-4fea-959c-2fa6d8fd8c5b.pdf",
+        "success": true,
+        "pages_extracted": 8,
+        "total_characters": 25781,
+        "ocr_pages": 0,
+        "output_location": "data/processed/parsed_earnings/JPM/ac5b7d95-9133-4fea-959c-2fa6d8fd8c5b",
+        "error": null
+      }
+    ]
+  }
+}

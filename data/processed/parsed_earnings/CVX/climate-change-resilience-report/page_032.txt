@@ -1,0 +1,39 @@
+Exhibit 15. Oil and gas have many important and diverse uses, as shown in world energy flows
+Rail
+Transport Passenger
+Oil Transport – other
+Marine
+Aviation
+Industry – other
+Industry
+Iron, steel
+Natural gas
+Chemical, petchem
+Non-energy use*
+Heat
+Coal Residential
+Commercial
+Nuclear Electricity
+Agriculture,
+Geothermal forestry, fishing
+Solar, wind, other
+Hydro
+Power losses*
+Biofuels, waste Own use, processing
+Non-specified use*
+* Power loss = Thermal loss from the generation of electricity and loss in gas distribution, electricity transmission and coal transport. Non-energy use = Those fuels that are used as raw materials in the different
+sectors and are not consumed as a fuel or transformed into another fuel. Non-energy use is shown separately in final consumption under the heading “non-energy use.” Non-specified use = All fuel use not
+elsewhere specified, as well as consumption in the above-designated categories for which separate figures have not been provided. Military fuel use for all mobile and stationary use is included here (e.g., ships,
+aircraft, roads and energy used in living quarters), regardless of whether the fuel delivered is for the military of that country or for the military of another country.
+Based on data from: IEA, 2021 World Balances, excluding “Other Energy Sector” balances, iea.org/sankey/, modified by Chevron Corporation.
+Exhibit 16. Turnover of energy infrastructure will influence the pace of change
+12 13 17 27 30 50+ 75
+years years years years years years years
+pickups passenger other aircraft gas gas buildings
+cars trucks power plants pipelines
+Sources: Bureau of Transportation Statistics (BTS), Average Age of Automobiles and Trucks in Operation in the United States, bts.gov/content/average-age-automobiles-and-trucks-
+operation-united-states; BTS, Average Age of Aircraft 2019, bts.gov/2019-average-age-aircraft; Energy Information Administration (EIA), Natural Gas Explained: Natural Gas Pipelines,
+eia.gov/energyexplained/natural-gas/natural-gas-pipelines.php; EIA, Assumptions to the Annual Energy Outlook 2023: Commercial Demand Module, eia.gov/outlooks/aeo/assumptions/
+pdf/CDM_Assumptions.pdf; Portland Cement Association, Durability, cement.org/learn/concrete-technology/durability.
+Chevron Corporation 2023 Climate Change Resilience Report
+30

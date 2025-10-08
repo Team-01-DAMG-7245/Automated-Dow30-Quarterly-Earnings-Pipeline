@@ -1,0 +1,48 @@
+EXHIBIT C
+21.12 Retirement and Welfare Plans. Neither Awards made under this Plan nor Shares or cash
+paid pursuant to such Awards may be included as “compensation” for purposes of computing the benefits
+payable to any Participant under the Company’s or any Subsidiary’s retirement plans (both qualified and
+nonqualified) or welfare benefit plans unless such other plan expressly provides that such compensation shall be
+taken into account in computing a Participant’s benefit.
+21.13 Deferred Compensation. It is intended that any Award under this Plan shall either be exempt
+from Code Section 409A or shall comply, in form and operation, with Code Section 409A. If a Participant is a
+“specified employee” as defined under Code Section 409A and the Participant’s Award is to be settled on account
+of the Participant’s separation from service (for reasons other than death) and such Award constitutes “deferred
+compensation” as defined under Code Section 409A, then any portion of the Participant’s Award that would
+otherwise be settled during the six-month period commencing on the Participant’s separation from service shall
+be settled as soon as practicable following the conclusion of the six-month period (or following the Participant’s
+death if it occurs during such six-month period). Any Awards that are subject to Code Section 409A shall be
+interpreted in a manner that complies with Code Section 409A.
+21.14 Nonexclusivity of this Plan. The adoption of this Plan shall not be construed as creating any
+limitations on the power of the Board or Committee to adopt such other compensation arrangements as it may
+deem desirable for any Participant.
+21.15 No Constraint on Corporate Action. Nothing in this Plan shall be construed to: (i) limit,
+impair, or otherwise affect the Company’s or a Subsidiary’s right or power to make adjustments, reclassifications,
+reorganizations or changes of its capital or business structure, or to merge or consolidate, or dissolve, liquidate, sell
+or transfer all or any part of its business or assets; or (ii) limit the right or power of the Company or a Subsidiary to
+take any action that such entity deems to be necessary or appropriate.
+21.16 Governing Law. The Plan and each Award Agreement shall be governed by the laws of the
+state of Ohio excluding any conflicts or choice of law rule or principle that might otherwise refer construction or
+interpretation of this Plan to the substantive law of another jurisdiction. Any legal action related to this Plan or the
+Awards hereunder may be brought in any federal or state court located in Hamilton County, Ohio, USA, and by
+accepting an Award, the Participant agrees to accept the jurisdiction of these courts and consents to service of
+process from said courts solely for legal actions related to the Plan and any Awards.
+21.17 Delivery and Execution of Electronic Documents. To the extent permitted by applicable law,
+the Company may (i) deliver by email or other electronic means (including posting on a website maintained by
+the Company or by a third party under contract with the Company) all documents relating to the Plan or any
+Award hereunder (including without limitation, prospectuses required by the Commission) and all other
+documents that the Company is required to deliver to its security holders (including without limitation, annual
+reports and proxy statements) and (ii) permit Participants to electronically execute applicable Plan documents
+(including, but not limited to, Award Agreements).
+21.18 No Representations or Warranties Regarding Tax Effect. Notwithstanding any provision of
+the Plan to the contrary or any action taken by the Company, Subsidiaries, or the Board with respect to any
+income tax, social insurance, payroll tax, or other tax, the acceptance of an Award under the Plan represents the
+Participant’s acknowledgement that the ultimate liability for any such tax owed by the Participant is and remains
+the Participant’s responsibility, and that the Company makes no representations or warranties about the tax
+treatment of any Award, and does not commit to structure any aspect of the Award to reduce or eliminate a
+Participant’s tax liability, including without limitation, under Code Sections 409A and 457A.
+21.19 Successors. All obligations of the Company under this Plan with respect to Awards granted
+hereunder shall be binding on any successor to the Company, whether the existence of such successor is the
+result of a direct or indirect purchase, merger, consolidation, or otherwise, of all or substantially all of the business
+and/or assets of the Company.
+2025 Proxy Statement C-19

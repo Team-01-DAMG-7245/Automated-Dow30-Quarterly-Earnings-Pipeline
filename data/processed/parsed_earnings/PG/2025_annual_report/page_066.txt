@@ -1,0 +1,41 @@
+54 The Procter & Gamble Company
+Obligation and Funded Status. The following provides a reconciliation of benefit obligations, plan assets and funded status of
+these defined benefit plans:
+Pension Benefits (1) Other Retiree Benefits (2)
+Fiscal years ended June 30 2025 2024 2025 2024
+CHANGE IN BENEFIT OBLIGATION
+Benefit obligation at beginning of year (3) $ 12,355 $ 12,499 $ 2,687 $ 2,933
+Service cost 173 164 61 68
+Interest cost 498 527 147 157
+Participants' contributions 15 14 56 56
+Amendments 12 21 (4) 2
+Net actuarial loss/(gain) (263) (11) 679 (268)
+Special termination benefits 3 4 2 3
+Currency translation and other 980 (155) 17 (22)
+Benefit payments (617) (707) (250) (242)
+BENEFIT OBLIGATION AT END OF YEAR (3) $ 13,156 $ 12,355 $ 3,396 $ 2,687
+CHANGE IN PLAN ASSETS
+Fair value of plan assets at beginning of year $ 10,857 $ 10,374 $ 8,043 $ 7,324
+Actual return on plan assets 326 1,058 (168) 784
+Employer contributions 189 239 42 44
+Participants' contributions 15 14 56 56
+Currency translation and other 903 (119) — —
+ESOP debt impacts (4) — — 64 77
+Benefit payments (617) (707) (250) (242)
+FAIR VALUE OF PLAN ASSETS AT END OF YEAR $ 11,672 $ 10,857 $ 7,787 $ 8,043
+FUNDED STATUS $ (1,484) $ (1,498) $ 4,391 $ 5,356
+(1) Primarily non-U.S.-based defined benefit retirement plans.
+(2) Primarily U.S.-based other postretirement benefit plans.
+(3) For the pension benefit plans, the benefit obligation is the projected benefit obligation. For other retiree benefit plans, the benefit
+obligation is the accumulated postretirement benefit obligation.
+(4) Represents the net impact of ESOP debt service requirements, which is netted against plan assets for other retiree benefits.
+The actuarial gain for pension plans in 2025 was primarily related to increases in discount rates and updates of various
+assumptions in the plan. The actuarial loss for other retiree benefits in 2025 was primarily related to updates in assumptions for
+medical claims costs. The actuarial gain for pension benefits in 2024 was primarily related to updating of various assumptions
+in the plan, offset by updates in work experience and decreases in discount rates. The actuarial gain for other retiree benefits in
+2024 was primarily related to updating various assumptions in the plan based work experience and an increase in discount rates.
+The underfunding of pension benefits is primarily a function of the different funding incentives that exist outside of the U.S. In
+certain countries, there are no legal requirements or financial incentives provided to companies to pre-fund pension obligations
+prior to their due date. In these instances, benefit payments are typically paid directly from the Company's cash as they become
+due.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

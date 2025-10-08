@@ -1,0 +1,23 @@
+0,1,2,3
+,Executive life insurance benefit1,Disability benefit2,Financial planning
+Name,($),($),($)
+Mr. Vestberg,,,
+Death,"10,000,000",0,"24,000"
+Disability,"126,741","1,313,329","24,000"
+Retirement3,0,0,0
+Mr. Skiadas,,,
+Death,"8,000,000",0,"13,000"
+Disability,"253,087","1,468,600","13,000"
+Retirement,"253,087",0,"13,000"
+Mr. Sampath,,,
+Death,"8,000,000",0,"13,000"
+Disability,"475,844","1,747,328","13,000"
+Retirement3,0,0,0
+Mr. Malady,,,
+Death,"4,676,000",0,"13,000"
+Disability,"190,543","1,269,773","13,000"
+Retirement,"190,543",0,"13,000"
+Ms. Venkatesh,,,
+Death,"7,440,000",0,"13,000"
+Disability,"278,706","1,618,414","13,000"
+Retirement,"278,706",0,"13,000"

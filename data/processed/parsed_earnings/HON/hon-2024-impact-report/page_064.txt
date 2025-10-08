@@ -1,0 +1,20 @@
+SASB/TCFD INFORMATION
+Metrics and Targets
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+Summary response Recommended disclosure Disclosure location
+a) Disclose the metrics used by the organization to assess climate-
+related risks and opportunities in line with its strategy and risk CDP Climate Change Report
+Honeywell has a long history of setting and achieving targets to management process.
+reduce greenhouse gas emissions. In 2023, Honeywell exceeded its
+5-year “10-10-10” target by achieving >20% reduction in Scope 1 and
+2 greenhouse gas emissions intensity, deploying 20 renewable energy
+b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse ESG Data
+opportunities, and certifying 28 facilities to ISO 50001. Honeywell has
+gas (GHG) emissions, and the related risks. CDP Climate Change Report
+committed to be carbon neutral in facilities and operations¹ by 2035.
+Honeywell also has a science-based target approved by the Science
+Based Targets initiative (SBTi) that includes scope 3 emissions.
+c) Describe the targets used by the organization to manage climate- Planet
+related risks and opportunities and performance against targets. CDP Climate Change Report
+1 Scope 1 and Scope 2
+Honeywell | 2024 IMPACT REPORT | 64

@@ -1,0 +1,68 @@
+PRINCIPLES
+A FIRM FOUNDATION OF PRODUCT
+SAFETY AND INTEGRITY
+Honeywell maintains extensive product and service safety For example: - BA aligns the Engineering, Quality and Safety teams with
+programs across the enterprise, focusing on quality and safety the Design and Manufacturing teams to provide pre-
+• Honeywell Aerospace’s safety and integrity initiatives are
+throughout the product lifecycle, from design to manufacture product-launch approvals.
+administered by the Product Integrity, Product Assurance &
+to the marketplace. Each strategic business unit drives safety
+Chief Engineering function. - Key metrics such as First Pass Yield, which monitors the
+processes through:
+robustness of the manufacturing processes; customer
+- This function is run in parallel to, but independently from,
+• An extensive safety policy with objectives, accountability and field-performance metrics; and the business unit’s Product
+the strategic business unit’s other businesses to avoid
+responsibilities assigned Safety Global Procedure QP-PSC-01, which addresses
+apparent conflict of interests, while safeguarding its
+potential safety issues as they arise in pre/post launch
+• Safety risk management, which includes hazard identification commitment to safety and integrity.
+testing, help ensure a rigorous and scientific approach to
+and risk assessment and control
+• Honeywell Aerospace’s Safety Management System is used
+quality and safety.
+• Safety assurance to monitor and assess performance in the Design & Certification Process, Production Systems
+• Honeywell Industrial Automation (IA) offers a broad suite of
+and Continued Airworthiness Management, and governs
+• Safety promotion by engaging in formal training programs
+products, services and solutions with a focus on automation,
+processes, procedures, personal, equipment and facilities
+and communication
+productivity and safety. IA cross-functional teams of
+standards.
+engineers, scientists and product stewardship professionals
+The Engineering, Quality, Technology and Research &
+- As part of the Safety Management System, Honeywell
+use a phase-gate approach to bring new offerings to market,
+Development teams within Honeywell’s strategic business units
+identifies the customer and regulatory requirements,
+and IA legal and regulatory teams are integrated in product
+use development phase gates to assess new offerings’ safety
+including AS9100 standards, and the approved product
+development to bring a continued focus on compliance with
+and quality, and work closely with the company’s Regulatory,
+design requirements.
+applicable regulations.
+Product Stewardship and Legal functions to properly address
+relevant regulatory, labeling and marketing requirements. • Honeywell Energy and Sustainability Solutions (ESS) safety
+• Product assurance and safety are a key part of Honeywell
+programs provide a comprehensive framework to drive
+Connected Enterprise’s software release management
+Due to the diversified product offerings across the enterprise,
+continuous improvement in product safety and stewardship.
+process. Product Compliance, Engineering and Product
+quality and safety programs are tailored to specific regulatory
+Management teams conduct a software assurance review
+guidelines and jurisdictional rules. Risk assessments are - Among other things, ESS integrates health and safety
+using standardized checklists and methodology to evaluate
+conducted throughout Honeywell’s operations as products are considerations into all aspects of its business, with a focus
+all software products. Software goes through a testing
+developed, introduced and produced. on driving compliance with all applicable regulations.
+and quality management process before release and is
+To ensure Honeywell’s products and services meet the highest • In dealing with product and service safety risk assessments,
+consistently updated through its lifecycle.
+standards, employees receive regular training, products and product/service objectives or targets, and regular external
+services are monitored for safety, and emergency response product/service safety audits, Honeywell Building Automation
+procedures are regularly tested. (BA) drives success by focusing on quality and safety through
+the product lifecycle.
+Honeywell | 2024 IMPACT REPORT | 57

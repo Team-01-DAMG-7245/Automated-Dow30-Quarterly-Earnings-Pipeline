@@ -1,0 +1,31 @@
+{
+  "page": 5,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 7,
+  "columns": 1,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "2024 Highlights"
+    },
+    {
+      "0": "\u2022  Verizon delivered strong customer growth and profitability in 2024"
+    },
+    {
+      "0": "\u2022  Raised dividend for 18th consecutive year"
+    },
+    {
+      "0": "\u2022  More than doubled wireless postpaid phone net additions compared to 2023"
+    },
+    {
+      "0": "\u2022  Continued to take broadband market share with Fios and fixed wireless access"
+    },
+    {
+      "0": "\u2022  Executed bold strategic moves, including brand refresh, pending Frontier acquisition, Vertical Bridge"
+    },
+    {
+      "0": "tower transaction, UScellular spectrum acquisition and satellite partnerships with AST Space Mobile"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "page": 32,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 37,
+  "columns": 5,
+  "accuracy": 75.26,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "Audit \nExecutive",
+      "2": "Stock",
+      "3": "Shareholder",
+      "4": "Additional"
+    },
+    {
+      "0": "Governance \nsummary",
+      "1": "matters \ncompensation",
+      "2": "ownership",
+      "3": "proposals",
+      "4": "information"
+    },
+    {
+      "0": "",
+      "1": "Benchmarking total compensation opportunity",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "The Committee evaluates whether the compensation opportunities for our executives are appropriate and",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "competitive by comparing each named executive officer\u2019s total compensation opportunity \u2013 which represents the",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "sum of the executive\u2019s base salary and target award amounts under the Short\u2011Term Plan and the Long\u2011Term Plan \u2013 to",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "the total compensation opportunities for executives in comparable positions at peer companies, referencing the",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "50th percentile when making this comparison. A named executive officer\u2019s total compensation opportunity may be",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "higher or lower depending upon the executive\u2019s tenure and overall level of responsibility.",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "The peer groups utilized for compensation benchmarking are reviewed each year. For 2024 compensation",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "decisions, the Committee utilized a peer group that consisted of the companies in the Dow Jones Industrial Average",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "(Dow) (other than Verizon) with at least $50\u00a0billion in annual revenue, plus Verizon\u2019s four largest industry competitors",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "(AT&T, Charter Communications, Comcast and T\u2011Mobile US) and four large market\u2011capitalization technology",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "companies (Alphabet, Amazon, Meta Platforms and Netflix) that were not included in the Dow at the time of the",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "2024 compensation decisions, whose applications rely heavily on our network and technology. This is the same peer",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "group selection criteria utilized for 2023 compensation decisions.",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Below are the companies included in the Company\u2019s peer group for 2024 compensation benchmarking purposes.",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "Alphabet",
+      "1": "Cisco",
+      "2": "",
+      "3": "Microsoft",
+      "4": ""
+    },
+    {
+      "0": "Amazon",
+      "1": "Comcast",
+      "2": "",
+      "3": "Netflix",
+      "4": ""
+    },
+    {
+      "0": "American Express",
+      "1": "Home Depot",
+      "2": "",
+      "3": "Nike",
+      "4": ""
+    },
+    {
+      "0": "Apple",
+      "1": "IBM",
+      "2": "",
+      "3": "Procter\u00a0& Gamble",
+      "4": ""
+    },
+    {
+      "0": "AT&T",
+      "1": "Intel",
+      "2": "",
+      "3": "T\u2011Mobile US",
+      "4": ""
+    },
+    {
+      "0": "Boeing",
+      "1": "Johnson\u00a0& Johnson",
+      "2": "",
+      "3": "UnitedHealth Group",
+      "4": ""
+    },
+    {
+      "0": "Caterpillar",
+      "1": "JPMorgan Chase",
+      "2": "",
+      "3": "Walmart",
+      "4": ""
+    },
+    {
+      "0": "Charter Communications",
+      "1": "Merck",
+      "2": "",
+      "3": "Walt Disney",
+      "4": ""
+    },
+    {
+      "0": "Chevron",
+      "1": "Meta Platforms",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Compensation objectives and elements of compensation",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "Compensation objectives",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Verizon\u2019s executive compensation program supports the creation of shareholder value by pursuing four key objectives:",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Attract and retain high\u2011\u2011performing executives with the leadership abilities and experience necessary to drive",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "our customer\u2011focused, technology\u2011enabled strategy, within an enterprise of our scale, breadth and complexity;",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Pay for superior results and sustainable growth by rewarding the achievement of challenging short- and",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "long\u2011term performance goals designed to build shareholder value;",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "\u2022  Drive performance and create shareholder value by emphasizing variable, at\u2011risk compensation with an",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "appropriate balance of short\u2011term and long\u2011term objectives that align executive and shareholder interests;\u00a0and",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "\u2022  Manage risk through oversight and compensation design features, policies and practices that strike an",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "appropriate balance between risk and reward.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    }
+  ]
+}

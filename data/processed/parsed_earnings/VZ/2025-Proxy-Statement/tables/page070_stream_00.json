@@ -1,0 +1,70 @@
+{
+  "page": 70,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 12,
+  "columns": 3,
+  "accuracy": 88.3,
+  "data": [
+    {
+      "0": "these shares is entitled to one vote. The following table sets forth information about persons we know to beneficially",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "own more than five percent of the shares of Verizon common stock, based on our records and information reported",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "in filings with the SEC. To the extent that information in the table is based on information contained in an SEC filing, it",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "is accurate only as of the date referenced in the filing.",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "Name and address of",
+      "1": "Amount\u00a0and\u00a0nature\u00a0of",
+      "2": ""
+    },
+    {
+      "0": "beneficial owner",
+      "1": "beneficial ownership",
+      "2": "Percent\u00a0of\u00a0class"
+    },
+    {
+      "0": "The Vanguard Group1",
+      "1": "350,035,321 shares",
+      "2": "8.3%"
+    },
+    {
+      "0": "100 Vanguard Blvd.",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "Malvern, Pennsylvania 19355",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "BlackRock, Inc.2",
+      "1": "348,127,746\u00a0shares",
+      "2": "8.3%"
+    },
+    {
+      "0": "50 Hudson Yards",
+      "1": "",
+      "2": ""
+    },
+    {
+      "0": "New York, New York 10001",
+      "1": "",
+      "2": ""
+    }
+  ]
+}

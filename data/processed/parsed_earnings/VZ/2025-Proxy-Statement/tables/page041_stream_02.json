@@ -1,0 +1,42 @@
+{
+  "page": 41,
+  "table_number": 2,
+  "method": "stream",
+  "rows": 8,
+  "columns": 2,
+  "accuracy": 95.4,
+  "data": [
+    {
+      "0": "$15.21",
+      "1": "50%"
+    },
+    {
+      "0": "Less than $15.21",
+      "1": "0%"
+    },
+    {
+      "0": "",
+      "1": ""
+    },
+    {
+      "0": "1 \nAdjusted EPS is defined as Verizon\u2019s cumulative earnings per share over the three\u2011year performance period, adjusted to exclude the",
+      "1": ""
+    },
+    {
+      "0": "impact of special items, including the benefit of any repurchases of Verizon\u2019s common stock under a share buyback program, and is",
+      "1": ""
+    },
+    {
+      "0": "subject to adjustment to eliminate the financial impact of significant transactions, changes in legal or regulatory policy and other",
+      "1": ""
+    },
+    {
+      "0": "extraordinary items.",
+      "1": ""
+    },
+    {
+      "0": "2 \nFor achievement between the stated levels, vesting is determined by linear interpolation.",
+      "1": ""
+    }
+  ]
+}

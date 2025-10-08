@@ -1,0 +1,49 @@
+EXHIBIT C
+6.3 Forfeiture and Repayment Obligations. All Awards shall be subject to forfeiture and/or
+repayment to the Company to the extent and in the manner required (i) to comply with any requirements
+imposed under applicable laws, regulations, stock exchange listing rules or other rules; (ii) under the terms of the
+P&G Dodd-Frank Compensation Recoupment Policy and the P&G Senior Executive Officer Recoupment Policy, to
+the extent applicable to the Participant, or under any other similar policy or guideline adopted by the Company. In
+addition, upon exercise, payment or delivery of an Award, the Company may require that the Participant certify in
+a manner acceptable to the Company that he or she has complied with the terms and conditions of the Plan and
+applicable Award Agreement. In the event a Participant fails to comply with any provision in the Plan and the
+applicable Award Agreement at any time before or after exercise, payment or delivery of an Award, the Participant
+shall repay to the Company the net proceeds of any exercises, payments or deliveries of Awards which occur at
+any time after the earlier of the following two dates: (a) the date three (3) years immediately preceding any such
+violation; or (b) the date six (6) months prior to the Participant’s Termination of Employment. The Participant shall
+repay to the Company the net proceeds in such manner and on such terms and conditions as may be required by
+the Company, and the Company shall be entitled to set-off against the amount of any such net proceeds any
+amount owed to the Participant by the Company, to the extent that such set-off is not inconsistent with Code
+Section 409A. For purposes of this paragraph, “net proceeds” shall mean (1) for each Option or SAR exercise, the
+difference between the Option Price or SAR Price, as applicable, and the greater of (i) the price of Shares on the
+date of exercise or (ii) the amount realized upon the disposition of the underlying Shares, less any applicable taxes
+withheld by the Company; (2) for RSUs or Performance Stock Units, the greater of (i) the number of net Shares
+delivered to the Participant multiplied by the closing price of Shares on the date of delivery or (ii) the amount
+realized upon the disposition of the number of net Shares delivered, in either case less any applicable taxes
+withheld by the Company; (3) for Restricted Stock, the greater of (i) the number of net Shares retained by, or
+delivered to, the Participant after any restrictions lapse multiplied by the closing price of Shares on the date the
+restrictions lapse or (ii) the amount realized upon the disposition of the number of net Shares delivered, in either
+case less any applicable taxes withheld by the Company; and (4) for all other Awards, the value of Shares or cash
+delivered to the Participant less any applicable taxes withheld by the Company.
+6.4 Suspension of Exercise. The Company reserves the right from time to time to suspend the
+exercise of any Award, where such suspension is deemed by the Company as necessary or appropriate for
+corporate purposes. No such suspension shall extend the life of the Option or Stock Appreciation Right beyond its
+expiration date, and in no event will there be a suspension in the five (5) calendar days immediately preceding the
+expiration date.
+ARTICLE 7 STOCK OPTIONS
+7.1 Grant of Options. Options may be granted to Participants in such number, and upon such
+terms, and at any time and from time to time as shall be determined by the Committee in its sole discretion. Each
+grant of an Option shall be evidenced by an Award Agreement which shall specify whether the Option is in the
+form of a Nonqualified Stock Option or an Incentive Stock Option.
+7.2 Option Price. The Option Price for each grant of an Option shall be determined by the
+Committee in its sole discretion and shall be specified in the Award Agreement evidencing such Option; provided,
+however, the Option Price must be at least equal to 100% of the Fair Market Value of a Share as of the Option’s
+Grant Date, subject to adjustment as provided for under Section 4.5.
+7.3 Term of Option. The term of an Option granted to a Participant shall be determined by the
+Committee in its sole discretion; provided, however, no Option shall be exercisable later than the tenth anniversary
+of the Grant Date.
+7.4 Exercise of Option. An Option shall be exercisable at such times and be subject to such
+restrictions and conditions as the Committee shall in each instance approve, which terms and restrictions need
+not be the same for each grant or for each Participant, except that no Option shall be exercisable within one
+(1) year from its Grant Date, except in the case of the death of the Participant.
+2025 Proxy Statement C-9

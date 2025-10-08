@@ -1,0 +1,449 @@
+{
+  "ticker": "CAT",
+  "file_name": "2024-Caterpillar-Investor-Presentation.pdf",
+  "parsed_date": "2025-10-08T13:05:49.684077",
+  "text": {
+    "pages": 25,
+    "total_characters": 63629,
+    "page_files": [
+      "page_024.txt",
+      "page_018.txt",
+      "page_019.txt",
+      "page_025.txt",
+      "page_022.txt",
+      "page_023.txt",
+      "page_009.txt",
+      "page_021.txt",
+      "page_020.txt",
+      "page_008.txt",
+      "page_011.txt",
+      "page_005.txt",
+      "page_004.txt",
+      "page_010.txt",
+      "page_006.txt",
+      "page_012.txt",
+      "page_013.txt",
+      "page_007.txt",
+      "page_003.txt",
+      "page_017.txt",
+      "page_016.txt",
+      "page_002.txt",
+      "page_014.txt",
+      "page_001.txt",
+      "page_015.txt"
+    ]
+  },
+  "tables": {
+    "count": 28,
+    "extraction_method": "hybrid (lattice + stream)",
+    "tables": [
+      {
+        "page": 1,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 8,
+        "columns": 1,
+        "csv_file": "page001_stream_00.csv",
+        "json_file": "page001_stream_00.json"
+      },
+      {
+        "page": 2,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 31,
+        "columns": 2,
+        "csv_file": "page002_stream_00.csv",
+        "json_file": "page002_stream_00.json"
+      },
+      {
+        "page": 3,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 34,
+        "columns": 2,
+        "csv_file": "page003_stream_00.csv",
+        "json_file": "page003_stream_00.json"
+      },
+      {
+        "page": 4,
+        "table_number": 0,
+        "method": "lattice",
+        "rows": 3,
+        "columns": 2,
+        "csv_file": "page004_lattice_00.csv",
+        "json_file": "page004_lattice_00.json"
+      },
+      {
+        "page": 5,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 2,
+        "csv_file": "page005_stream_00.csv",
+        "json_file": "page005_stream_00.json"
+      },
+      {
+        "page": 5,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 21,
+        "columns": 4,
+        "csv_file": "page005_stream_01.csv",
+        "json_file": "page005_stream_01.json"
+      },
+      {
+        "page": 6,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 69,
+        "columns": 10,
+        "csv_file": "page006_stream_00.csv",
+        "json_file": "page006_stream_00.json"
+      },
+      {
+        "page": 7,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 55,
+        "columns": 13,
+        "csv_file": "page007_stream_00.csv",
+        "json_file": "page007_stream_00.json"
+      },
+      {
+        "page": 8,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 8,
+        "columns": 6,
+        "csv_file": "page008_stream_00.csv",
+        "json_file": "page008_stream_00.json"
+      },
+      {
+        "page": 9,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 21,
+        "columns": 4,
+        "csv_file": "page009_stream_00.csv",
+        "json_file": "page009_stream_00.json"
+      },
+      {
+        "page": 10,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 19,
+        "columns": 9,
+        "csv_file": "page010_stream_00.csv",
+        "json_file": "page010_stream_00.json"
+      },
+      {
+        "page": 11,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 9,
+        "columns": 5,
+        "csv_file": "page011_stream_00.csv",
+        "json_file": "page011_stream_00.json"
+      },
+      {
+        "page": 12,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 68,
+        "columns": 4,
+        "csv_file": "page012_stream_00.csv",
+        "json_file": "page012_stream_00.json"
+      },
+      {
+        "page": 13,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 6,
+        "columns": 2,
+        "csv_file": "page013_stream_00.csv",
+        "json_file": "page013_stream_00.json"
+      },
+      {
+        "page": 13,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 20,
+        "columns": 6,
+        "csv_file": "page013_stream_01.csv",
+        "json_file": "page013_stream_01.json"
+      },
+      {
+        "page": 14,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 16,
+        "columns": 2,
+        "csv_file": "page014_stream_00.csv",
+        "json_file": "page014_stream_00.json"
+      },
+      {
+        "page": 15,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 21,
+        "columns": 7,
+        "csv_file": "page015_stream_00.csv",
+        "json_file": "page015_stream_00.json"
+      },
+      {
+        "page": 16,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 21,
+        "columns": 7,
+        "csv_file": "page016_stream_00.csv",
+        "json_file": "page016_stream_00.json"
+      },
+      {
+        "page": 17,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 34,
+        "columns": 3,
+        "csv_file": "page017_stream_00.csv",
+        "json_file": "page017_stream_00.json"
+      },
+      {
+        "page": 18,
+        "table_number": 0,
+        "method": "lattice",
+        "rows": 1,
+        "columns": 6,
+        "csv_file": "page018_lattice_00.csv",
+        "json_file": "page018_lattice_00.json"
+      },
+      {
+        "page": 19,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 32,
+        "columns": 2,
+        "csv_file": "page019_stream_00.csv",
+        "json_file": "page019_stream_00.json"
+      },
+      {
+        "page": 20,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 27,
+        "columns": 3,
+        "csv_file": "page020_stream_00.csv",
+        "json_file": "page020_stream_00.json"
+      },
+      {
+        "page": 21,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 48,
+        "columns": 3,
+        "csv_file": "page021_stream_00.csv",
+        "json_file": "page021_stream_00.json"
+      },
+      {
+        "page": 22,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 13,
+        "columns": 2,
+        "csv_file": "page022_stream_00.csv",
+        "json_file": "page022_stream_00.json"
+      },
+      {
+        "page": 22,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 10,
+        "columns": 1,
+        "csv_file": "page022_stream_01.csv",
+        "json_file": "page022_stream_01.json"
+      },
+      {
+        "page": 23,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 51,
+        "columns": 3,
+        "csv_file": "page023_stream_00.csv",
+        "json_file": "page023_stream_00.json"
+      },
+      {
+        "page": 24,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 12,
+        "columns": 2,
+        "csv_file": "page024_stream_00.csv",
+        "json_file": "page024_stream_00.json"
+      },
+      {
+        "page": 25,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 10,
+        "csv_file": "page025_stream_00.csv",
+        "json_file": "page025_stream_00.json"
+      }
+    ]
+  },
+  "images": {
+    "count": 25,
+    "images": [
+      {
+        "page": 1,
+        "type": "full_page",
+        "filename": "page001_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 2,
+        "type": "full_page",
+        "filename": "page002_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 3,
+        "type": "full_page",
+        "filename": "page003_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 4,
+        "type": "full_page",
+        "filename": "page004_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 5,
+        "type": "full_page",
+        "filename": "page005_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 6,
+        "type": "full_page",
+        "filename": "page006_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 7,
+        "type": "full_page",
+        "filename": "page007_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 8,
+        "type": "full_page",
+        "filename": "page008_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 9,
+        "type": "full_page",
+        "filename": "page009_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 10,
+        "type": "full_page",
+        "filename": "page010_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 11,
+        "type": "full_page",
+        "filename": "page011_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 12,
+        "type": "full_page",
+        "filename": "page012_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 13,
+        "type": "full_page",
+        "filename": "page013_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 14,
+        "type": "full_page",
+        "filename": "page014_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 15,
+        "type": "full_page",
+        "filename": "page015_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 16,
+        "type": "full_page",
+        "filename": "page016_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 17,
+        "type": "full_page",
+        "filename": "page017_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 18,
+        "type": "full_page",
+        "filename": "page018_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 19,
+        "type": "full_page",
+        "filename": "page019_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 20,
+        "type": "full_page",
+        "filename": "page020_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 21,
+        "type": "full_page",
+        "filename": "page021_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 22,
+        "type": "full_page",
+        "filename": "page022_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 23,
+        "type": "full_page",
+        "filename": "page023_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 24,
+        "type": "full_page",
+        "filename": "page024_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 25,
+        "type": "full_page",
+        "filename": "page025_full.png",
+        "resolution": 150
+      }
+    ]
+  }
+}

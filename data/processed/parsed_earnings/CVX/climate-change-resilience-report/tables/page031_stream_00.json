@@ -1,0 +1,58 @@
+{
+  "page": 31,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 12,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "",
+      "1": "2022 Demand\n2040 Average scenario demand"
+    },
+    {
+      "0": "limited by the slow turnover of transportation stock (Exhibit 16).24",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "2040 Scenario ranges"
+    },
+    {
+      "0": "As the future is uncertain, we leverage signposts that help us",
+      "1": "Sources: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022, License:"
+    },
+    {
+      "0": "",
+      "1": "CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A); BNEF Scenarios: Energy Transition Scenario 2022,"
+    },
+    {
+      "0": "track market conditions and the evolution of the energy system",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "Net Zero Scenario 2022; Wood Mackenzie Scenarios (2022): Energy Transition Outlook, Accelerated"
+    },
+    {
+      "0": "",
+      "1": ""
+    },
+    {
+      "0": "(Exhibit\u00a014). Our signpost framework includes indicators for energy",
+      "1": "Energy Transition 2\u00b0\u00a0C; S&P Global Commodity Insights Scenarios (2022): Inflections (IHSM),"
+    },
+    {
+      "0": "",
+      "1": "Green Rules (IHSM), Discord (IHSM), Accelerated CCS (IHSM), Multitechnology Mitigation (IHSM),"
+    },
+    {
+      "0": "investment, consumer behavior, raw material inputs, electrification,",
+      "1": "December Most Likely Case (Platts), 2\u00b0 C Case (Platts)."
+    },
+    {
+      "0": "",
+      "1": "*\u200aOLCE: Other low-carbon energy (nuclear, hydrogen and biomass)"
+    }
+  ]
+}

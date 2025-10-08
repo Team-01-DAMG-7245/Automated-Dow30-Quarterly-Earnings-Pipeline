@@ -1,0 +1,36 @@
+The following table reconciles reported diluted EPS to diluted EPS excluding certain items for the
+third quarter:
+Pre-Tax Tax After-Tax Change vs.
+Income/ Benefit/ Income/ Diluted prior-year
+($ in millions except EPS) Loss Expense(1) Loss(2) EPS(3) period
+Quarter Ended June 28, 2025
+As reported $ 3,211 $ 2,732 $ 5,943 $ 2.92 >100 %
+Exclude:
+Hulu Transaction Impacts(4) — (3,277) (3,277) (1.56)
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(5) 395 (92) 303 0.16
+Restructuring and impairment charges(6) 185 (43) 142 0.08
+Excluding certain items $ 3,791 $ (680) $ 3,111 $ 1.61 16 %
+Quarter Ended June 29, 2024
+As reported $ 3,093 $ (251) $ 2,842 $ 1.43
+Exclude:
+Income Tax Reserve Adjustments — (418) (418) (0.23)
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(5) 397 (93) 304 0.16
+Other expense(7) 65 (11) 54 0.03
+Excluding certain items $ 3,555 $ (773) $ 2,782 $ 1.39
+(1) Tax benefit/expense is determined using the tax rate applicable to the individual item.
+(2) Before noncontrolling interest share.
+(3) Net of noncontrolling interest share, where applicable. Total may not equal the sum of the column due to rounding.
+(4) Reflects a $3,277 million non-cash tax benefit recognized upon the change in Hulu’s U.S. income tax classification and
+$477 million recognized in “Net income attributable to noncontrolling interests” related to the acquisition of Hulu
+(Hulu Transaction Impacts).
+(5) For the current quarter, intangible asset amortization was $326 million, step-up amortization was $66 million and
+amortization of intangible assets related to a TFCF equity investee was $3 million. For the prior-year quarter,
+intangible asset amortization was $326 million, step-up amortization was $68 million and amortization of intangible
+assets related to a TFCF equity investee was $3 million.
+(6) Amounts for the current quarter include an impairment charge related to an equity investment ($179 million).
+(7) For the prior-year quarter, other expense was due to a charge related to a legal ruling ($65 million).
+18

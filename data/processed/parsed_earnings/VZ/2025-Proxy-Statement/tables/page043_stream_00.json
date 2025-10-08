@@ -1,0 +1,451 @@
+{
+  "page": 43,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 49,
+  "columns": 7,
+  "accuracy": 46.35,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "2022\u2011\u20112024 relative TSR modifier based on Verizon\u2019s TSR rank among S&P 100",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Ranked 1st-25th",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "+25%",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "82nd",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "0",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "Ranked 75th-100th",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Ranked 26th-74th",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "-25%",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "1% subtracted from modifier for each decrease in rank",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "2022\u2011\u20112024 PSU payout. Based on the results described above, in the first quarter of 2025 the Committee determined",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "that the PSUs awarded to our named executive officers for the 2022\u20112024 performance cycle would payout at 0%.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Committee actions taken after fiscal year 2024",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "In March 2025, the Committee recommended, and the Board approved, an increase to the annual target long\u2011term",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "incentive opportunity for Mr. Vestberg, based on its assessment of the market competitiveness of his total",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "compensation opportunity, his tenure and his experience.\u00a0 Mr. Vestberg\u2019s target 2025 long\u2011term incentive",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "opportunity increased from $18,000,000 to $25,000,000, and consistent with Mr. Vestberg's prior annual long\u2011term",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "incentive awards, the award is comprised of 67% PSUs and 33% RSUs. The PSUs and RSUs are subject to the same",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "terms and conditions as the PSUs and RSUs granted to the other senior executives, which is consistent with prior",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "year long\u2011term incentive awards.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Other elements of the compensation program",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Verizon also provides the named executive officers with limited additional benefits as generally described below,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "which are subject to applicable taxes and not intended to be a significant portion of their overall pay package. No",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "named executive officer is eligible for a tax gross\u2011up payment in connection with any of these benefits, including with",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "respect to excise tax liability arising from any Internal Revenue Code Section\u00a0280G excess parachute payments.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Personal benefits",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Transportation. Verizon provides limited aircraft and ground transportation benefits to enhance the safety and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "security of certain named executive officers. These transportation benefits also serve business purposes, such as",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "allowing an executive to attend to confidential business matters while in transit.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Executive life insurance. Verizon offers the named executive officers and other executives the opportunity to",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "participate in an executive life insurance program in lieu of participating in our basic and supplemental life insurance",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "programs. The executives who elect to participate in the executive life insurance program own the life insurance",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "policy, and Verizon provides an annual cash payment to defray a portion of the annual premiums.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Financial planning. Verizon provides a voluntary Company\u2011sponsored financial planning benefit program for the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "named executive officers and other executives. If an executive participates in the program, the cost of the financial",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "planning benefit is included in the executive\u2019s income.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "For additional information on these benefits, see footnote 4 to the Summary Compensation table on page\u00a037.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Retirement benefits",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Over 15 years ago, the Committee determined that guaranteed pay in the form of defined benefit pension and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "supplemental executive retirement benefits was not consistent with Verizon\u2019s pay\u2011for\u2011performance culture.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Accordingly, effective June\u00a030, 2006, Verizon froze all future pension accruals under its management tax\u2011qualified",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "and supplemental defined benefit retirement plans. These legacy retirement benefits that were previously provided",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "to certain executives, including Messrs. Malady and Silliman and Ms. Venkatesh, are described in more detail under",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "the section titled \u201cPension plans\u201d beginning on page\u00a043.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "During 2024, all of Verizon\u2019s named executive officers were eligible to participate in Verizon\u2019s tax\u2011qualified defined",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "contribution savings plan, the Verizon Management Savings Plan, referred to as the Savings Plan, and Verizon\u2019s",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "nonqualified defined contribution savings plan, the Verizon Executive Deferral Plan, referred to as the Deferral Plan.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "Verizon 2025 Proxy Statement",
+      "6": "33"
+    }
+  ]
+}

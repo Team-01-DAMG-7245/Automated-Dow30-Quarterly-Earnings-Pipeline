@@ -1,0 +1,56 @@
+{
+  "ticker": "VZ",
+  "file_name": "2025-Proxy-Statement.pdf",
+  "parsed_date": "2025-10-08T13:22:28.761390",
+  "stages_completed": [
+    "text_extraction",
+    "table_extraction",
+    "layout_detection",
+    "image_extraction",
+    "format_conversion"
+  ],
+  "extraction_methods": {
+    "text": "pdfplumber with OCR fallback (pytesseract)",
+    "tables": "Camelot hybrid (lattice + stream)",
+    "layout": "PubLayNet deep learning model",
+    "images": "PyMuPDF embedded + layout-based extraction",
+    "formats": "Markdown, JSON, Plain Text"
+  },
+  "results": {
+    "text_extraction": {
+      "success": true,
+      "pages": 88,
+      "total_characters": 297233
+    },
+    "table_extraction": {
+      "success": true,
+      "tables_extracted": 217
+    },
+    "layout_detection": {
+      "success": true,
+      "total_blocks": 1373,
+      "block_types": {
+        "Title": 427,
+        "Table": 31,
+        "List": 128,
+        "Text": 711,
+        "Figure": 76
+      }
+    },
+    "image_extraction": {
+      "success": true,
+      "embedded_images": 27,
+      "figure_blocks": 59,
+      "total_images": 86
+    },
+    "format_conversion": {
+      "success": true,
+      "formats": [
+        "markdown",
+        "json",
+        "txt",
+        "report"
+      ]
+    }
+  }
+}

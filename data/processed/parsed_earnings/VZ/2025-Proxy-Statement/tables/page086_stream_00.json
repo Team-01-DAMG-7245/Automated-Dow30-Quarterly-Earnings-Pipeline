@@ -1,0 +1,70 @@
+{
+  "page": 86,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 10,
+  "columns": 4,
+  "accuracy": 99.01,
+  "data": [
+    {
+      "0": "Free cash flow reconciliation for Long\u2011\u2011Term Incentive Plan",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "(dollars in billions)"
+    },
+    {
+      "0": "Years ended December 31,",
+      "1": "2022",
+      "2": "2023",
+      "3": "2024"
+    },
+    {
+      "0": "Net cash provided by operating activities",
+      "1": "$  37.1",
+      "2": "$  37.5",
+      "3": "$ \u00a036.9"
+    },
+    {
+      "0": "Capital expenditures (including capitalized software)",
+      "1": "(23.1)",
+      "2": "(18.8)",
+      "3": "(17.1)"
+    },
+    {
+      "0": "Free cash flow*",
+      "1": "$ \n14.1",
+      "2": "$ \n18.7",
+      "3": "$ \u00a019.8"
+    },
+    {
+      "0": "Proceeds from monetization of tower assets",
+      "1": "\u2014",
+      "2": "\u2014",
+      "3": "(2.0)"
+    },
+    {
+      "0": "Severance payments related to Voluntary Separation Program",
+      "1": "\u2014",
+      "2": "\u2014",
+      "3": "0.6"
+    },
+    {
+      "0": "Adjusted free cash flow for Long\u2011\u2011Term Incentive Plan*",
+      "1": "$ \n14.1",
+      "2": "$  18.7",
+      "3": "$  18.4"
+    },
+    {
+      "0": "Cumulative adjusted free cash flow for Long\u2011\u2011Term Incentive Plan",
+      "1": "",
+      "2": "",
+      "3": "$  51.2"
+    }
+  ]
+}

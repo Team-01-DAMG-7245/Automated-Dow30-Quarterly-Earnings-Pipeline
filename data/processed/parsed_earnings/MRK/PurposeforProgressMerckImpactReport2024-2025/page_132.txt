@@ -1,0 +1,30 @@
+Overview Access to Health Employees Environmental Sustainability Ethics & Values Reporting indices Merck Impact Report 2024/2025 132
+GRI | SASB | UNGC | SDGs | WEF
+Sustainability Accounting Standards Board (SASB)
+SASB is an independent standards-setting organization dedicated to improving the effectiveness and comparability of corporate disclosure on sustainability-related factors. The table below summarizes how our
+existing reporting aligns with the recommended metrics for the Biotechnology & Pharmaceuticals Standard within the Health Care sector, and where this information can be found in this report.
+SASB # Description Response
+Safety of clinical trial participants
+Discussion, by region, of management process for ensuring quality and patient safety during
+210a.1 Pages 25, 101-104
+clinical trials
+Number of inspections related to clinical trial management and pharmacovigilance that resulted in:
+210a.2 None
+(1) entity voluntary remediation or (2) regulatory or administrative actions taken against the entity
+Total amount of monetary losses as a result of legal proceedings associated with clinical trials
+210a.3 Not reported
+in developing countries
+Access to medicines
+Description of actions and initiatives to promote access to health care products for priority diseases
+240a.1 Pages 18-42
+and in priority countries as defined by the Access to Medicine Index
+List of products on the WHO List of Prequalified Medicinal Products as part of its Prequalification of
+240a.2 Page 28
+Medicines Programme (PQP)
+Affordability and pricing
+Percentage change in: (1) weighted average list price and (2) weighted average net price across
+240b.2 Not reported
+product portfolio compared to previous reporting period
+Percentage change in: (1) list price and (2) net price of product with largest increase compared to
+240b.3 Not reported
+previous reporting period

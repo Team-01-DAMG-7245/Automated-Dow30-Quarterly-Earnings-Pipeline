@@ -1,0 +1,35 @@
+The following definitions are provided for the non-GAAP financial measures used in this report. These non-GAAP financial measures have
+Appendix:
+no standardized meaning prescribed by U.S. GAAP and therefore are unlikely to be comparable to the calculation of similar measures
+for other companies. Management does not intend these items to be considered in isolation or as a substitute for the related GAAP measures.
+Non-GAAP
+We believe it is important to separately quantify the profit impact of several significant items in order for our results to be meaningful to our readers.
+Financial
+These items consist of (i) restructuring income/costs related to the divestitures of certain non-U.S. entities in 2024, (ii) restructuring costs related
+to the divestiture of the company’s Longwall business in 2023, (iii) other restructuring costs, (iv) pension and OPEB mark-to-market gains/losses resulting
+Measures from plan remeasurements, (v) a discrete tax benefit for a tax law change related to currency translation in 2024, (vi) certain deferred tax valuation
+allowance adjustments in 2023, 2018 and 2017, (vii) U.S. tax reform impact in 2019, 2018 and 2017, (viii) a gain on the sale of an equity investment
+in 2017 and (ix) goodwill impairment charges in 2022 and in 2016. We do not consider these items indicative of earnings from ongoing business activities
+and believe the non-GAAP measures will provide investors with useful perspective on underlying business results and trends and aid with assessing
+our period-over-period results. In addition, we provide a calculation of ME&T free cash flow as we believe it is an important measure for investors
+to determine the cash generation available for financing activities including debt repayments, dividends and share repurchases.
+Reconciliations of ME&T free cash flow to the most directly comparable GAAP measure, net cash provided by operating activities are as follows:
+(millions of dollars) 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+ME&T net cash provided by operating activities1 $6 $8 $4 $9 $7 $5 $4 $5 $6 $5 $4 $7 $6 $12 $11
+ME&T capital expenditures ($2) ($3) ($3) ($3) ($2) ($2) ($1) ($1) ($1) ($1) ($1) ($1) ($1) ($2) ($2)
+Payments made related to settlements with IRS — — — — — — — — — — — — $1 — ––
+ME&T discretionary pension contributions — $1 $1 $2 — — — — ––
+ME&T free cash flow $4 $5 $1 $6 $6 $4 $3 $6 $6 $5 $3 $6 $6 $10 $9
+1 A reconciliation of ME&T net cash provided by operating activities to consolidated net cash provided by operating activities can be found in our Form 10-K filings with the SEC,
+which are available on our website at www.caterpillar.com/en/investors/sec-filings.html.
+Reconciliations of adjusted operating profit margin to the most directly comparable GAAP measure, operating profit as a percent of sales and revenues are as follows:
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Operating profit as a percent of total sales and revenues 10% 13% 14% 11% 10% 8% 3% 10% 15% 15% 11% 13% 13% 19% 20%
+Restructuring (income) costs -
+–– –– –– –– –– –– –– –– –– –– –– –– –– –– 0%
+divestitures of certain non-U.S. entities
+Restructuring costs - Longwall divestiture — — — — — — — — — — — — — 1% ––
+Other restructuring costs — — — — 1% 2% 3% 3% 1% 1% 1% 0% 1% 0% 0%
+Goodwill impairment — — 1% — — — 2% — — — — — 2% — ––
+Adjusted operating profit margin 10% 13% 15% 11% 11% 10% 7% 13% 16% 16% 12% 14% 15% 21% 21%
+CATERPILLAR INC. 2024 INVESTOR PRESENTATION 22

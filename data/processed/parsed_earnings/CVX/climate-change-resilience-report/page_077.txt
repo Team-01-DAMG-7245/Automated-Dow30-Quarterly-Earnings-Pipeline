@@ -1,0 +1,38 @@
+operated other environmental metrics
+2018 2019 2020 2021 2022 SASB ipieca
+energy efficiency CCE6
+Total energy consumption, operated assets and
+940 916 851 859 784 CCE6: C1
+nonoperated joint venture refineries (trillion BTUs) 22
+Total energy consumption, operated assets
+and nonoperated joint venture refineries 992 967 898 906 828 CCE6: C1
+(million gigajoules) 22
+Total energy consumption, operated assets
+778 758 701 703 626 CCE6: C1
+(trillion BTUs) 22
+Total energy consumption, operated assets
+821 800 739 741 661 CCE6: C1
+(million gigajoules) 22
+Manufacturing Energy Index (Refining) 23 85 85 88 88 92 CCE6: A4
+Upstream Energy Intensity (thousand BTUs
+358 362 341 306 255 CCE6: A2
+per barrel of oil-equivalent) 24
+Pipeline Energy Intensity
+10 8 10 10 10 CCE6: A2
+(BTUs per barrel of oil-equivalent-mile) 25
+Shipping Energy Intensity (BTUs per metric ton-mile) 75 70 69 60 58 CCE6: A2
+Non-Manufacturing Energy Index 26 74 67 71 65 67 CCE6: A3
+water management 27
+water withdrawn 28 ENV1
+Fresh water withdrawn (million cubic meters) 71 70 63 67 63 ENV1: C1
+Fresh water consumed (million cubic meters) 70 69 62 66 62 EM-EP-140a.1 ENV1: C2
+Nonfresh water withdrawn (million cubic meters) 39 45 34 33 33 ENV1: A4
+Fresh water withdrawn in regions with high or EM-EP-140a.1
+0 0 0 19 24 ENV1: C4
+extremely high baseline water stress (%) 29, 30 EM-RM-140a.1
+Fresh water consumed in regions with high or EM-EP-140a.1
+0 0 0 19 25 ENV1: C4
+extremely high baseline water stress (%) 29, 30 EM-RM-140a.1
+Indicates restatement of data from 2021 reporting.
+Chevron Corporation 2023 Climate Change Resilience Report
+75

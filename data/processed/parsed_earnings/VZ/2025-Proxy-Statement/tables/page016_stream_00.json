@@ -1,0 +1,34 @@
+{
+  "page": 16,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 6,
+  "columns": 2,
+  "accuracy": 98.31,
+  "data": [
+    {
+      "0": "",
+      "1": "Laxman Narasimhan"
+    },
+    {
+      "0": "Independent Director since: 2024",
+      "1": "Independent Director since: 2021"
+    },
+    {
+      "0": "Age: 56",
+      "1": "Age: 57"
+    },
+    {
+      "0": "",
+      "1": "Committees:"
+    },
+    {
+      "0": "",
+      "1": "Corporate Governance and Policy"
+    },
+    {
+      "0": "",
+      "1": "Human Resources"
+    }
+  ]
+}

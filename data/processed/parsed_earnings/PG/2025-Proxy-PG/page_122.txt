@@ -1,0 +1,48 @@
+EXHIBIT C
+7.5 Notice of Exercise. An Option shall be exercised by the delivery of a notice of exercise to the
+Company or an agent designated by the Company in a form specified or accepted by the Committee, or by
+complying with any alternative procedures that may be authorized by the Committee, setting forth the number of
+Shares with respect to which the Option is to be exercised.
+7.6 Payment of Option Price. A condition of the issuance of the Shares as to which an Option
+shall be exercised shall be the payment of the Option Price. The Option Price of any exercised Option shall be
+payable to the Company in accordance with one of the following methods:
+(a) In cash or its equivalent;
+(b) By a cashless (broker-assisted) exercise;
+(c) By any combination of (a) and (b); or
+(d) Any other method approved or accepted by the Committee in its sole discretion.
+Unless otherwise determined by the Committee, all payments under all of the methods indicated
+above shall be paid in United States dollars or Shares, as applicable.
+7.7 Special Rules Regarding ISOs. Notwithstanding any provision of the Plan to the contrary, an
+Option granted in the form of an ISO to a Participant shall be subject to the following rules. An ISO may be
+granted solely to eligible Employees of the Company, a parent corporation, or a subsidiary, as defined in Code
+Section 422. An Award Agreement evidencing the grant of an ISO shall specify that such grant is intended to be
+an ISO. The Option Price for each grant of an ISO must be at least equal to 100% of the Fair Market Value of a Share
+as of the ISO’s Grant Date (in the case of 10% owners, within the meaning of Code Section 422, the Option Price
+must be at least 110% of such Fair Market Value), subject to adjustment provided for under Section 4.5. Any ISO
+granted to a Participant shall be exercisable during the Participant’s lifetime solely by such Participant. The period
+during which a Participant may exercise an ISO shall not exceed ten (10) years (five (5) years in the case of a
+Participant who is a 10% owner within the meaning of Code Section 422) from its Grant Date. To the extent that
+the aggregate Fair Market Value of (a) the Shares with respect to which Options are designated as ISOs plus
+(b) the shares of stock of the Company, parent corporation and subsidiary with respect to which other ISOs are
+exercisable for the first time by a holder of such ISOs during any calendar year under all plans of the Company, any
+parent corporation, and any subsidiary exceeds $100,000, such Options shall be treated as Nonqualified Stock
+Options. For purposes of the preceding sentence, (a) Options shall be taken into account in the order in which
+they were granted, and (b) the Fair Market Value of the Shares shall be determined as of the time the Option or
+other ISO is granted. No more than 100,000,000 Shares shall be available under this Plan for delivery with respect
+to ISOs. No ISO may be granted more than ten years after the earlier of (a) adoption of this Plan by the Board and
+(b) the Effective Date. No ISO may be sold, transferred, pledged, assigned or otherwise alienated or hypothecated,
+other than by will or by the laws of descent and distribution; provided, however, that at the discretion of the
+Committee, an ISO may be transferred to a grantor trust under which the Participant making the transfer is the
+sole beneficiary.
+ARTICLE 8 STOCK APPRECIATION RIGHTS
+8.1 Grant of SARs. SARs may be granted to Participants in such number, and upon such terms, and
+at any time and from time to time as shall be determined by the Committee in its sole discretion. Each grant of
+SARs shall be evidenced by an Award Agreement.
+8.2 SAR Price. The SAR Price for each grant of an SAR shall be determined by the Committee and
+shall be specified in the Award Agreement evidencing the SAR; provided, however, the SAR Price must be at least
+equal to 100% of the Fair Market Value of a Share as of the Grant Date, subject to adjustment as provided for under
+Section 4.5.
+8.3 Term of SAR. The term of an SAR granted to a Participant shall be determined by the
+Committee in its sole discretion; provided, however, no SAR shall be exercisable later than the tenth anniversary of
+the Grant Date.
+C-10 The Procter & Gamble Company

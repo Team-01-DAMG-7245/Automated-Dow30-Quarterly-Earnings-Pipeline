@@ -1,0 +1,316 @@
+{
+  "page": 77,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 34,
+  "columns": 7,
+  "accuracy": 45.55,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "",
+      "1": "Item 6: Discrimination in advertising services",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "American Family Association, owner of 530 shares of Verizon\u2019s common stock, proposes the following:",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Respect Civil Liberties in Advertising Services",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Whereas: Verizon is a global brand with immense influence and ad\u2011buying power. It should be advertising in ways",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "that support its competitive interests and build its reputation for serving its diverse customers.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "But recent reports have shown that it colluded with the world's largest advertising buyers, agencies, industry associations,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "and social media platforms through the Global Alliance for Responsible Media1  to demonetize platforms, podcasts, news",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "outlets, and others for expressing disfavored political and religious viewpoints.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "A product of the World Federation of Advertisers, GARM was formed in 2019 and quickly amassed tremendous market",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "power. WFA members represent about 90% of global advertising, spending nearly a trillion dollars annually.2",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "GARM\u2019s express mission was to \u201cdo more to address harmful and misleading media environments,\u201d specifically \u201chate speech,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "bullying and disinformation,\u201d all under the guise of \u201cbrand safety.\u201d3  GARM leader Rob Rakowitz explained that the \u201cwhole",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "issue bubbling beneath the surface\u201d of the advertising industry and digital platforms is the \u201cextreme global interpretation of",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "the US Constitution.\u201d4",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "GARM graded platforms on how much they censored using the above terms as well as terms like \u201cinsensitive\u201d or",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u201cirresponsible\u201d treatment of \u201cdebated sensitive social issues.\u201d5  The 2024 Viewpoint Diversity Business lndex6  found that",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "76% of the largest tech and finance companies have similarly vague and subjective terms. These terms encourage",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "companies\u2014and activists like GARM\u2014to restrict service for arbitrary and discriminatory reasons and let them avoid",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "accountability by hiding censorship behind vague and shifting standards.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "For its part, GARM promoted hyper\u2011partisan and censorial groups like the Global Disinformation Index and NewsGuard,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "which smear many mainstream outlets as \u201cdisinformation.\u201d7  GARM threatened Spotify because Joe Rogan promoted views it",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "disagreed with on COVID\u201119. And it infamously boycotted X because Elon Musk loosened some of the platform\u2019s censorship",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "restrictions8",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "GARM disbanded shortly after public pressure and a lawsuit from X in 2024,9 which ironically evinces how brand\u2011damaging",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "these practices are. But these censorious practices are still prevalent. Many of the \u201cBig Six\u201d advertising agencies that were",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "all a part of GARM, for example, maintain similar policies.10",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "These policies and Verizon's actions create legal exposure under antitrust and anti\u2011discrimination laws.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Verizon needs to rebuild trust by providing transparency around these policies and practices. This will assure customers,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "shareholders, and others that it is protecting, not targeting, free speech and religious freedom.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Resolved: Shareholders request the Board of Directors of Verizon conduct an evaluation and issue a report within the next",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "year, at reasonable cost and excluding proprietary information and confidential information, evaluating how it oversees risks",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "related to discrimination against ad buyers and sellers based on their political or religious status or views.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

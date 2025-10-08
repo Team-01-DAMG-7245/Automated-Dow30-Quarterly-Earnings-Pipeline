@@ -1,0 +1,3278 @@
+LOREN IPSUM
+PURPOSEFUL
+GROWTH
+POSITIVE
+IMPACT
+2024 IMPACT REPORT
+Honeywell | 2024 IMPACT REPORT | 1
+
+=== PAGE BREAK ===
+
+FORWARD-LOOKING
+STATEMENTS
+This report contains certain statements that may be deemed “forward-looking statements” within the meaning of Section 21E of the Securities Exchange Act of 1934. All statements, other than
+statements of historical fact, that address activities, events or developments that we or our management intends, expects, projects, believes or anticipates will or may occur in the future are forward-
+looking statements. We use words such as aim, anticipate, believe, commit, drive, estimate, ensure, expect, goal, intend, may, mission, plan, project, seek, strategy, strive, target, will and would or similar
+expressions to identify forward-looking statements. In particular, such statements may include but are not limited to: (1) statements which may relate to our purpose, ambitions, aims, commitments,
+targets, plans, and objectives, and sustainability goal progress; (2) environmental, health, and safety (EHS) data as it relates to the environment, safety performance, management systems,
+implementation, and regulatory compliance, including data collection systems at applicable sites that track and collect EHS data through the corporate-wide EHS reporting systems; (3) social
+data as it relates to employee metrics, social practices and community engagement programs derived from our various databases; (4) responsible sourcing of materials and the related responsible
+sourcing systems and data; and (5) statements about actions of suppliers and partners or our work with them. Such statements are based upon certain assumptions and assessments made by
+our management in light of their experience and their perception of historical trends, current economic and industry conditions, expected future developments and other factors they believe to be
+appropriate, many of which are difficult to predict and outside our control. The forward-looking statements included in this report are also subject to a number of material risks and uncertainties that
+may cause actual results to differ materially.
+Such risks and uncertainties include, but are not limited to, economic, competitive, governmental, technological, geopolitical and public health factors affecting our operations, markets, products,
+services and prices, assumptions not being realized, scientific or technological developments, evolving sustainability strategies, changes in carbon markets, evolving government regulations, our
+expansion into new products, services, technologies, and geographic regions, or other changes in circumstances, as well as those factors set forth in the “Risk Factors” section of our most recent
+Annual Report on Form 10-K and subsequent quarterly reports on Form 10-Q filed with the U.S. Securities and Exchange Commission. Such forward-looking statements are not guarantees of future
+performance, and actual results, and other developments, and business decisions may differ from those envisaged by such forward-looking statements. The information and opinions contained in
+this report are provided as of the date of this report and are subject to change without notice. We undertake no obligation to update any forward-looking statements contained in this report as a result
+of new information or future events or developments.
+This report represents our current policy and intent and is not intended to create legal rights or obligations. The standards of measurement and performance contained in this report are developing
+and based on assumptions, and no assurance can be given that any plan, initiative, projection, goal, commitment, expectation, or prospect set forth in this report can or will be achieved. This report
+may contain or incorporate by reference public information not separately reviewed, approved, or endorsed by us, and we make no representation, warranty, or undertaking as to the accuracy,
+reasonableness, or completeness of such information. Information contained on or accessible through, including any reports available on, any website referenced herein, is not a part of, and is not
+incorporated by reference into, this report, except as otherwise stated.
+This report contains examples of savings and results achieved by us, our customers and our partners that may or may not be representative of what other companies could achieve in similar
+circumstances. Inclusion of information in this report is not an indication that the subject or information is material to our business or operating results. “Material” for the purposes of this report should
+not be read as equating to any use of the word in our other reporting or filings with the U.S. Securities and Exchange Commission. No part of this report or our website constitutes, or shall be taken to
+constitute, an invitation or inducement to invest in us or any other entity and shall not be relied upon in any way in connection with any investment decisions.
+Honeywell | 2024 IMPACT REPORT | 2
+
+=== PAGE BREAK ===
+
+LETTER FROM OUR CHAIRMAN & CEO
+DEFINING OUR COMMITMENT TO
+OUR PLANET, PEOPLE AND PRINCIPLES
+three megatrends — automation, the future of deploying new renewable energy opportunities OUR PRINCIPLES
+aviation and the energy transition. and obtaining ISO 50001 certifications.
+Integrity and ethics, supported by the
+Our progress against these goals now gives
+cornerstones of safety, inclusion and diversity,
+At Honeywell, the way we conduct our business
+us greater confidence in achieving our and workplace respect, underlie every aspect of
+today enables us to not only anticipate, but
+commitment to carbon neutrality across our our operations at Honeywell. These foundational
+proactively fulfill the evolving needs of our
+facilities and operations³ by 2035. principles are complemented by the new
+stakeholders to pave the way for tomorrow’s
+behaviors we established to define our core
+success.
+OUR PEOPLE values and reinforce our performance culture. Our
+Board of Directors also continues to work closely
+OUR PLANET
+We succeed as a business and can make a
+with our senior leadership team to ensure we
+Last year, we delivered a new generation of difference in our communities thanks to our
+adhere to our responsible reporting and operating
+transformative solutions to our customers,
+global team of Futureshapers. In return, we
+practices and conduct business the right way.
+while taking steps to minimize our carbon
+are deeply committed to creating unique and
+footprint and maximize our positive impact We are encouraged by our achievements this year,
+meaningful opportunities for them to grow
+but we are far from finished. Our commitment
+on the planet. For the third consecutive
+alongside us and to benefit from our focus on
+to continuous improvement, transparency, and
+year, we invested approximately 60% of
+professional development, rigorous succession
+accountability is steadfast, as we continue to
+Honeywell’s research and development
+planning and continuous learning.
+deliver for our stakeholders. We understand
+funding in sustainability-oriented offerings¹
+Similarly, we concentrate on improving the significant opportunity we have to create a
+that improve safety, environmental impact and
+societal resilience for our customers and the representation, retention and recognition of positive impact — together, the future is what we
+To Our Shareholders and Stakeholders, make it.
+communities they serve. Looking ahead, we diverse perspectives across our workforce —
+estimate that Honeywell technologies will including through our leadership development Thank you for your continued support and
+For nearly 150 years, Honeywell has been
+have a cumulative impact of mitigating 2 programs, which amplify the diverse partnership on our journey.
+central to shaping the future. During my three-
+billion metric tons of CO2e between 2023 perspectives of our talent, and our nine
+decade-plus tenure, I have been inspired by
+and 2030². employee networks that foster collaboration
+working with our teams to drive innovation
+and belonging. In 2024, Honeywell expects
+across a multitude of industries and countries. In this report, we highlight one of our most
+to train approximately 1,200 interns to
+In this Impact Report, we detail how we exciting 2023 achievements: we exceeded
+maintained our unwavering commitment to the three ambitious sustainability-oriented help prepare them to be Futureshapers. We
+are committed to significantly increasing this
+our Planet, People and Principles as we goals we set in 2019 — reducing Scope 1
+Vimal Kapur
+simplified and aligned our business with and 2 greenhouse gas emissions intensity, group in the year ahead.
+CHAIRMAN & CEO
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for identifying sustainability-
+oriented offerings is available at investor.honeywell.com (see “ESG/ESG Information/Identification of Sustainability-Oriented Offerings”). 2 Methodology for estimating GHG mitigation
+Honeywell | 2024 IMPACT REPORT | 3
+impact is available at investor.honeywell.com (see “ESG/ESG Information/GHG Mitigation Impact of Honeywell Technologies”). 3 Scope 1 and Scope 2
+
+=== PAGE BREAK ===
+
+TABLE OF CONTENTS
+OUR COMPANY 05 Inclusion and Diversity: PRINCIPLES 43 Board of Directors 53
+A Foundational Principle 31 • Board Oversight of ESG 53
+Honeywell Overview 07 Integrity and Compliance 45
+• I&D Priority Areas 32 • Enterprise Risk Management 53
+• Organization & Leadership 45
+Our Purposeful Approach 08
+I&D In Action 33 • Board Oversight 45 • Shareowner Engagement 53
+Honeywell Impact Highlights 09
+• Talent Acquisition 33 • Key Elements of Our Integrity Maintaining Expertise
+Innovating for Impact 10 • Talent development 33 and Compliance Programs 46 in Supply Chain Management 54
+Sustainability-Oriented Solutions 11 • Innovation 33 • Anti-Corruption Program 46 • Supply Chain Integrity:
+• Global Trade Controls Program 46 Roles and Responsibilities 54
+Honeywell Employee Networks 34
+PLANET 13 • Integrity and Ethics Certification, • Supplier Code of Business Conduct 54
+Insights From Some of Our Training and Communication 47 • Supplier Diversity 55
+Driving Growth Responsibly 14
+Employee Network Leaders 35 • Whistleblower Program 47 • Supply Chain Due Diligence 55
+Our Journey to Carbon Neutrality 15 • Human Rights 48 • Employee Training 56
+Empowering I&D 36
+• Critical Materials 56
+Reducing GHG Emissions 17 • Inclusive Leadership 36 Data Protection and Cybersecurity 49
+• Conflict Minerals 56
+Improving Energy Efficiency 18 • Strategic Partnerships 37 • Data Privacy Governance 49
+• Data Privacy Principles 49 A Firm Foundation of
+Health and Safety 38
+Managing Air Emissions 19
+Product Safety and Integrity 57
+• Training and Awareness 49
+• Protecting the Workforce 38
+Minimizing Waste 20
+• Training, Competency and Awareness 38 • Data Privacy and Security by Design 50 Charting a Path Forward with
+Wastewater and Effluent Management • Cybersecurity 50 Political Accountability 58
+• Emergency Preparedness 38
+and Water Stewardship 21
+• Audit 50
+Corporate Social Responsibility 39
+SASB/TCFD INFORMATION 59
+Revitalization for a Better Future: • Supplier Risk Management 50
+Shaping the Next Generation
+Environmental Remediation 23 • Incident Response 50 SASB/TCFD Information 60
+of Innovators 40
+• SASB 60
+Biodiversity 24 AI Governance 51
+• Investing in the STEM Workforce
+• TCFD Disclosure 62
+of Tomorrow 41 • Responsible Use of AI 51
+Product Stewardship 25
+• Table A: Examples of climate-related
+• Environmental Education Takes Root 41
+HSE Governance 52
+risks with mitigation strategies 65
+PEOPLE 26
+Volunteering for the Greater Good 42 • Voluntary Protection Program 52 • Table B: Examples of climate-related
+Our Futureshapers 27 • Humanitarian Relief Powered • Responsible Care® Program 52 opportunities with strategies to realize
+by Employee Giving 42 the opportunity 66
+• Attracting the Best Talent 28 • Environmental Justice 52
+• Spotlight on Skills-Based Volunteering 42
+• Developing Skills and Growing Careers 28 ESG DATA 67
+• Engaging our Futureshapers 30
+Honeywell | 2024 IMPACT REPORT | 4
+
+=== PAGE BREAK ===
+
+LOREN IPSUM | LOREN IPSUM
+OUR COMPANY
+HONEYWELL OVERVIEW 07
+OUR PURPOSEFUL APPROACH 08
+HONEYWELL IMPACT HIGHLIGHTS 09
+INNOVATING FOR IMPACT 10
+SUSTAINABILITY-ORIENTED SOLUTIONS 11
+Honeywell | 2024 IMPACT REPORT | 5
+
+=== PAGE BREAK ===
+
+OUR
+COMPANY
+Honeywell is an integrated operating
+company serving a broad range of industries
+and geographies around the world. Our
+business is aligned with three powerful
+megatrends — automation, the future of
+aviation and energy transition — underpinned
+by the Honeywell Forge IoT platform and our
+Honeywell Accelerator operating system.
+As a trusted partner, we help organizations
+solve the world’s toughest, most complex
+challenges, providing actionable solutions
+and innovations through our Aerospace
+Technologies, Building Automation, Energy
+and Sustainability Solutions, and Industrial
+Automation business segments that help make
+the world smarter and safer, as well as more
+secure and sustainable.
+Honeywell | 2024 IMPACT REPORT | 6
+
+=== PAGE BREAK ===
+
+OUR COMPANY
+HONEYWELL
+NASDAQ: Locations¹: Employees¹: 2023 Revenue: Headquarters:
+OVERVIEW HON ~715 ~95,000 ~$37B Charlotte, NC
+THE FUTURE IS WHAT WE MAKE IT
+AEROSPACE TECHNOLOGIES BUILDING ENERGY & SUSTAINABILITY INDUSTRIAL AUTOMATION
+Used in virtually every commercial and AUTOMATION SOLUTIONS Our technologies are on the job every day
+defense aircraft platform worldwide, our More than 10 million buildings leverage Across dozens of industries, our solutions in factories, refineries and other industrial
+aerospace products and services continue our technologies to create and maintain are driving the energy transition and settings where operators count on our
+to lead the future of air travel, including spaces that are more efficient, secure, and decarbonization to help organizations products, services and software to manage
+developments in advanced air mobility and safe for the people who use them, ultimately meet their commitments to regulators, complex processes and deliver consistent
+the electrification of aircraft. boosting their performance. stakeholders and the planet. outcomes.
+Learn more Learn more Learn more Learn more
+HONEYWELL FORGE IOT PLATFORM HONEYWELL ACCELERATOR
+Our flagship internet of things (IoT) software platform, Honeywell Forge, underpins each of our The Honeywell Accelerator operating system houses our corporate strategy and global
+business segments. By uniting real-time data across assets, people and processes, Honeywell design models for each of our four business models and a robust learning platform — to
+Forge helps power intelligent operations, growth, productivity and risk mitigation. This strategic standardize and digitize operations and outcomes across our company. The operating
+digital pillar helps drive new product introductions, boosting growth at Honeywell and in turn, our system provides the tools, processes and best practices that enable Honeywell’s
+ability to make a purposeful impact across our global customer base. Futureshapers to tackle the toughest customer challenges and quality demands.
+1 As of December 31, 2023
+Honeywell | 2024 IMPACT REPORT | 7
+
+=== PAGE BREAK ===
+
+OUR COMPANY
+Labor Practices &
+OUR PURPOSEFUL
+Human Rights
+APPROACH
+Occupational
+Risk Management
+Health & Safety
+From our industrial roots, to becoming the premier software
+industrial, to leading in the energy transition, Honeywell’s ability
+to achieve ambitious, transformative objectives is rooted in our
+purposeful approach to making a difference.
+ESG PRIORITIES ASSESSMENT Decarbonization & Data Privacy &
+At Honeywell, we are committed to continuous evaluation and Climate Strategy CO Cybersecurity
+2
+evolution of our ESG strategy, including identifying the ESG
+areas that are most important to our business. In 2023, we
+ESG
+used a third party to conduct a comprehensive ESG Priorities
+Assessment. The purpose of this assessment was to understand
+the perspectives and expectations of both internal and external PRIORITIES
+stakeholders. Through internal and external surveys, interviews
+and comprehensive research, we analyzed the ESG topics
+Environmental
+Supply Chain
+considered most relevant to Honeywell’s business by regulators,
+Impact of Products
+Management/
+investors, customers, employees and other key stakeholders.
+& Services
+Responsible Sourcing
+In addition, our annual Enterprise Risk Management (ERM)
+process specifically includes ESG topics, and input from this
+process was considered in identifying priority ESG areas.
+Through this engagement, research and analysis, we have
+identified priority topics that will continue to inform our ESG
+Human Capital
+strategy outlined to the right. Business Ethics
+Management
+& Integrity
+Product Quality & Safety
+HHoonneeyywweellll || 22002244 IIMMPPAACCTT RREEPPOORRTT || 88
+
+=== PAGE BREAK ===
+
+OUR COMPANY
+HONEYWELL
+>60% OF 2023 SALES ~60% OF 2023 NEW PRODUCT RESEARCH
+were from offerings that contribute to
+AND DEVELOPMENT INVESTMENT
+IMPACT
+sustainability-oriented outcomes¹
+was directed toward sustainability-oriented outcomes¹
+HIGHLIGHTS
+Recognized as a “BEST PLACE TO WORK Offered 100+ jobs/internships to students
+FOR DISABILITY INCLUSION” by Disability:IN through National Society of Black Engineers
+2023-2024 SNAPSHOT
+Distributed over $7.7 MILLION in relief Named NATIONAL PARTNER OF THE YEAR at the 49th
+assistance to employees since 2005 National Society of Black Engineers Annual Convention
+28 Honeywell locations globally certified for energy
+management efficiency with ISO 50001
+42% of the Board of Directors are ethnically
+>90% REDUCTION in Scope 1 and Scope 2 or racially diverse and 33% are women²
+greenhouse gas intensity since 2004
+Rated a CPA-Zicklin TRENDSETTER by
+the Center for Political Accountability
+More than 3,000 acres remediated and
+PLANET PEOPLE PRINCIPLES
+Implemented digital tools and processes
+restored as valuable community assets
+with over 1,000 data elements to enhance
+our anti-corruption program
+6,500+ sustainability projects since 2010
+100% of all eligible employees complete Code
+of Business Conduct training every year
+SAVED 170M gallons of water in water-stressed
+Comprehensive integrity and compliance
+regions through 195+ projects since 2013
+training made available in 20+ languages
+On track to help support Launched an INCLUSIVE
+Validated SCIENCE-BASED TARGET with
+the planting of 1 MILLION LANGUAGE GUIDE, available
+Science Based Targets initiative (SBTi)
+Implemented a new RESPONSIBLE AI
+saplings in 10 cities by 2032 to all employees to review
+GOVERNANCE FRAMEWORK to support our
+in partnership with
+Futureshapers spent 151,000+ deployment of AI responsibly and in compliance with
+Give Me Trees Trust
+Making Measurable Progress
+hours within the Accelerator applicable law and Company policy
+Honeywell is proud to be ranked 10th out of 44 companies on the 2024 Completed 35,000+ Learning platform. 300,000+
+Fortune Change the World list, which celebrates businesses making volunteer hours in 2023 Accelerator modules completed 18 U.S. manufacturing facilities hold
+the prestigious VPP STAR recognition
+measurable progress to address pressing social problems as part of their
+core strategy. This award highlights three significant areas of positive
+success: social impact, business results and degree of innovation.
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for identifying
+Honeywell | 2024 IMPACT REPORT | 9
+sustainability-oriented offerings is available at investor.honeywell.com (see “ESG/ESG Information/Identification of Sustainability-Oriented Offerings”). 2 As of December 31, 2023.
+
+=== PAGE BREAK ===
+
+OUR COMPANY
+Honeywell solutions can contribute to the mitigation
+INNOVATING
+of roughly 50% of anthropogenic GHG emissions²
+FOR IMPACT
+Livestock
+14%
+DELIVERING SOLUTIONS FOR EMISSIONS MITIGATION
+6%
+For nearly 150 years, Honeywell has been a global leader in powering innovation to transform
+Other agriculture
+tomorrow. From the world’s most widely used barcode to providing technology for the first U.S.
+and land use
+13% 25%
+manned mission to space, we have over a century of experience in transforming how people
+live, work, travel and connect. But it’s not only about our past innovations; it’s about our ongoing
+Industry
+commitment to shaping a brighter future.
+Others
+Today, Honeywell innovations are creating opportunities to help our customers lead smarter and
+safer lives and achieve their sustainability-oriented goals. We continue to introduce cutting- TOTAL
+8%
+edge offerings for a vast number of global markets and industries, with a portfolio of products
+GHG
+and solutions that spans the industries and sectors that most directly contribute to making a 4%
+EMISSIONS³
+comprehensive energy transition at scale — including energy efficiency, electrification, net zero
+enablers, health, safety and security, circularity, and measurement and reporting.
+6% 8%
+These solutions work together to help reduce CO e emissions across some of the most difficult 6%
+16%
+2
+industries to abate, making significant contributions to sustainability-oriented goals worldwide.
+Fugitive emissions
+We estimate that Honeywell technologies will have a cumulative impact of mitigating
+8%
+2.0 billion metric tons of CO2e between 2023 and 2030¹. This is 175 times Honeywell’s own
+projected Scope 1 and 2 greenhouse gas (GHG) emissions over the same time period. 8% Transport
+18%
+Other energy
+“The aerospace industry plays a key role in helping to achieve a net-zero future, 7.5%
+and we will continue developing solutions that enable more energy efficient
+Buildings
+aviation, protecting our planet for future generations.”
+Jim Currier, President and CEO, Honeywell Aerospace
+% of total GHG emissions where HONEYWELL
+TECHNOLOGIES can contribute to mitigation
+1 Methodology for estimating GHG mitigation impact is available at investor.honeywell.com (see “ESG/ESG Information/GHG Mitigation Impact of Honeywell Technologies”). ² Extent of contribution depends
+on the sector and technology deployed. More information is available at investor.honeywell.com (see “ESG/ESG Information/GHG Mitigation Impact of Honeywell Technologies”). ³ PCC (2022): Climate Change
+2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Honeywell | 2024 IMPACT REPORT | 10
+Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA.
+
+=== PAGE BREAK ===
+
+OUR COMPANY
+SUSTAINABILITY-ORIENTED 1
+SOLUTIONS Real-Time Measurement High GWP Emissions Monitoring and Remediation
+Bio-Sourced Materials and
+Smart Metering
+As Honeywell looks to our future, we will continue to innovate
+Bio-Derived Plastics
+to improve our operations as we progress toward carbon
+Energy Performance Contract
+neutrality. These innovations contribute to improvements in
+health, safety, security, environmental impact, and resiliency
+Asset Life Extension Flight Efficiency
+to help our customers with their most complex challenges in
+these areas.
+Energy Optimization
+Plastics Recycling Flight Management System
+HONEYWELL
+SUSTAINABILITY-
+ORIENTED
+SOLUTIONS
+Energy Storage System
+Healthy Building
+and Controls
+Solutions
+Personal Protection
+Electric Vehicles Sensors
+Warehouse Automation
+Enterprise Command and Control
+Electrification in Aerospace
+Low Global Warming Potential Molecules Carbon Capture and Storage
+Renewable Fuels Hydrogen
+1 Sustainability-oriented offerings are solutions that help improve safety,
+environmental impact, health, security, resilience and accountability.
+Methodology for identifying sustainability-oriented offerings is available
+at investor.honeywell.com (see “ESG/ESG Information/Identification of
+Sustainability-Oriented Offerings”).
+Honeywell | 2024 IMPACT REPORT | 11
+
+=== PAGE BREAK ===
+
+OUR COMPANY
+140 million
+metric tons of CO e from our
+2
+Methane Emissions Detection and Flare Monitoring
+270 million
+metric tons of CO e from our
+2
+Aviation technologies
+Each of
+420 million
+metric tons of CO e from our
+Honeywell’s
+2
+Sustainable Buildings technologies
+technologies and
+solutions will
+have a role in the 320 million
+metric tons of CO e from our
+2
+mitigation of GHG
+Carbon Capture and Utilization or Sequestration (CCUS)
+emissions between
+2023 and 20301.
+200 million
+metric tons of CO e from our
+This includes the 2
+Industrial Automation technologies
+reduction of up to:
+600 million
+metric tons of CO e from substitution of high global warming
+2
+potential (high-GWP) fluorinated gases (F-gases) with lower GWP alternatives
+such as Honeywell HFO technologies
+50 million
+metric tons of CO e from our
+2
+Hydrogen Combustion systems
+1 Methodology for estimating GHG mitigation impact is available at investor.honeywell.com (see “ESG/ESG Information/GHG Mitigation Impact of Honeywell Technologies”).
+Honeywell | 2024 IMPACT REPORT | 12
+
+=== PAGE BREAK ===
+
+LOREN IPSUM | LOREN IPSUM
+PLANET
+DRIVING GROWTH RESPONSIBLY 14
+OUR JOURNEY TO CARBON NEUTRALITY 15
+REDUCING GHG EMISSIONS 17
+IMPROVING ENERGY EFFICIENCY 18
+MANAGING AIR EMISSIONS 19
+MINIMIZING WASTE 20
+WASTEWATER AND EFFLUENT
+MANAGEMENT AND WATER STEWARDSHIP 21
+REVITALIZATION FOR A BETTER FUTURE:
+ENVIRONMENTAL REMEDIATION 23
+BIODIVERSITY 24
+PRODUCT STEWARDSHIP 25
+Honeywell | 2024 IMPACT REPORT | 13
+
+=== PAGE BREAK ===
+
+PLANET
+set to achieve by 2024, as we reached >20%
+DRIVING GROWTH
+reduction in Scope 1 and 2 GHG emissions
+intensity relative to 2018, deployment of 20
+We have exceeded our 10-10-10
+RESPONSIBLY
+renewable energy opportunities, and ISO 50001
+goals to achieve:
+certifications at 28 facilities in 2023.
+We are proud of the environmental improvements
+GOAL EXCEEDED GOAL
+we have achieved to date and strive to continue
+Our commitment to being environmentally responsible
+our commitment to making progress through the
+is reflected in the extensive work we do to reduce GHG
+following goals: Reduce global
+emissions, increase energy efficiency, conserve water,
+Scope 1 and Scope Reached >20%
+minimize waste, manage air emissions and drive efficiency · Reduce U.S. Scope 1 and Scope 2 GHG
+2 greenhouse gas reduction in scope 1
+throughout our operations. emissions by 50% by 2030 from a 2018 base
+year as a member of the U.S. Department of emissions intensity and 2 GHG emissions
+Honeywell’s Corporate Energy & Sustainability Team (CEST)
+Energy Better Climate Challenge. by an additional 10% relative to 2018
+drives our company’s goals and is led by our Integrated Supply
+Chain and Global Real Estate organizations. The cross-business, from 2018 levels
+· Be carbon neutral in our facilities and
+cross-function team meets monthly and is responsible for
+operations2 by 2035.
+driving improvements through a rigorous process of goal setting,
+· Commitment validated by Science Based
+deploying capital for improvement projects, monitoring and
+Targets initiative (SBTi) to:
+measurement, training and best practice sharing.
+- Reduce absolute Scope 1 and 2 GHG
+“Our technologies play an instrumental role in
+emissions 50% by 2037 from a 2019 base
+Deploy at least 10 Deployed 20
+helping people, communities and organizations
+year.
+renewable energy renewable energy
+respond to climate change and advance the
+- Reduce absolute Scope 3 GHG emissions
+energy transition. Through innovation and opportunities opportunities
+23% within the same timeframe.
+creativity, we have developed ready-now
+solutions to help bring our company and our
+Progress against these goals is monitored by
+world closer to the point of net zero emissions.”
+the CEST, reported periodically to our CEO, and
+Gavin Towler, Chief Sustainability Officer is reviewed at least annually with the Board’s
+Corporate Governance and Responsibility
+Since project tracking began in 2010, more than 6,500
+Committee. In addition, each of our strategic
+sustainability-oriented¹ projects have been implemented
+business groups is required to establish internal
+Achieve certification
+at our facilities and have resulted in more than $100M in
+Achieved ISO 50001
+goals for year-over-year improvements in GHG
+to ISO’s 50001 Energy
+annualized savings. These include building automation and
+emissions, energy efficiency, hazardous waste certifications at
+controls, lighting, compressed air and gas systems, mechanical Management Standard
+reduction intensity and non-hazardous waste
+28 facilities
+upgrades and renewable energy projects. Our focus on GHG at 10 facilities
+diversion rates.
+reduction also enabled us to exceed the 10-10-10 goals we
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability.
+Methodology for identifying sustainability-oriented offerings is available at investor.honeywell.com (see “ESG/ESG Information/Identification of
+Honeywell | 2024 IMPACT REPORT | 14
+Sustainability-Oriented Offerings”). 2 Scope 1 and Scope 2
+
+=== PAGE BREAK ===
+
+PLANET
+OUR JOURNEY TO
+CARBON NEUTRALITY
+Our senior leadership, including our Chairman and CEO and of onsite capital projects, energy efficiency, investment in To further support the advancement of our technologies,
+Board of Directors, is engaged in decision-making regarding renewable energy projects, and the use of credible market- the ERB oversees the use of our facilities as laboratories for
+the company’s climate efforts, and regularly provides oversight based instruments. We are focused on investing in renewable innovation. For example, in 2023, we installed a microgrid at
+on climate risks. Honeywell supports the goals of the Paris energy projects and the engineering of capital projects before one of our facilities in Lugoj, Romania. The system generates
+Agreement and is committed to advocating for legislation and 2030, as well as the deployment of capital projects and renewable energy to lower the site’s carbon footprint while
+public policies that align with the Paris Agreement goals of acquisition of credible market-based instruments between using Honeywell battery energy storage technology to improve
+limiting global average temperature rise to well below 2⁰C by 2030 and 2035. The table on the following page describes in resilience. The project successfully started up in late 2023 and
+2100. further detail the core strategies that Honeywell plans to utilize will serve as a blueprint for future projects at other Honeywell
+in our journey to achieve carbon neutrality by 2035. and customer facilities.
+In 2021, we committed to reaching carbon neutrality in
+our facilities and operations by 2035. In the same year, we
+“We are helping ourselves and our customers
+established an ESG Review Board (ERB) consisting of senior
+realize Energy Transition opportunities
+executives to oversee multiple aspects of ESG including our
+and outcomes with low-carbon solutions,
+carbon reduction goals.
+renewables, and optimization of their industrial
+At the direction of the ERB, Honeywell has developed a strategy processes — all with the goal of improving
+and plan to achieve our goals that consists of a combination energy efficiency and reducing their overall
+carbon footprint.”
+Ken West
+Honeywell decarbonization strategy:
+President and CEO, Energy and
+Sustainability Solutions
+Carbon Neutral by 2035
+~1.4
+MILLION
+2035
+METRIC TONS CO
+2
+CO e Carbon Neutral
+2
+2023 Emissions Energy Renewable Fuel Plant Fleet Carbon Process Market Based
+Efficiency Energy Switching Electrification Electrification Capture Emissions Instruments
+Honeywell | 2024 IMPACT REPORT | 15
+
+=== PAGE BREAK ===
+
+PLANET
+OUR JOURNEY TO
+CARBON NEUTRALITY
+Decarbonization Strategy Example
+Honeywell looks for opportunities to upgrade and make existing equipment more energy efficient through
+the replacement of assets such as compressors and pumps with newer, more efficient designs. We also
+Energy Efficiency
+take advantage of opportunities to capture waste energy through the installation of boiler economizers
+and upgraded heat exchangers.
+Honeywell has entered into an agreement to invest in a utility scale solar project in Louisiana that is
+expected to reduce its Scope 2 footprint by approximately 80,000 metric tons per year. In addition,
+Renewable Energy
+Honeywell is closing several waste beds in Syracuse, New York using solar panels that will generate
+renewable energy for the local community.
+As hydrogen becomes available near our large manufacturing plants, Honeywell will pursue opportunities
+Fuel Switching
+to replace natural gas with hydrogen for boilers and other industrial equipment.
+Honeywell currently uses natural gas-fired boilers for comfort heating and the generation of process
+steam at many of our manufacturing plants. We are developing a plan to replace several of these boilers
+Electrification
+with electric boilers and/or heat pumps between now and 2035. Honeywell has also deployed a program
+to electrify its vehicle fleet by 2035.
+Honeywell is identifying opportunities at our sites to deploy our Advanced Solvent Carbon Capture
+Carbon Capture
+process that removes CO from flue gas so it can be utilized or stored instead of entering the environment.
+2
+Honeywell continues to develop and deploy technology aimed toward reducing process emissions at its
+Process Emissions manufacturing facilities. For example, Honeywell’s Rebellion cameras can detect emissions in real-time,
+allowing for fast response and resolution.
+Honeywell will invest in renewable fuels such as sustainable aviation fuel (SAF) and renewable natural
+Market-Based Instruments gas. If needed to achieve carbon neutrality, Honeywell will also invest in credible carbon offsets. Credible
+carbon offsets will come from projects that are technology-based, metered, and permanently store
+(Credible Offsets & Renewable Fuels)
+captured carbon.
+Honeywell | 2024 IMPACT REPORT | 16
+
+=== PAGE BREAK ===
+
+PLANET
+REDUCING
+GHG EMISSIONS
+Honeywell reports on its global GHG emissions pursuant to The Greenhouse Gas Protocol and publicly reports through CDP, a As a part of our commitment to reduce GHG emissions,
+U.K.-based organization that supports companies’ and cities’ environmental disclosures, as well as various regulatory agencies. Honeywell has been implementing solar projects to reduce
+dependency on conventional power sources. Examples of in-
+We have received third-party limited assurance per ISO 14064-3 of our Scope 1 and Scope 2 GHG emissions annually since 2011.
+progress and recently completed solar projects include:
+Greenhouse Gas Data
+2019 2020 2021 2022 2023
+Scope 1, Metric Tons CO2e 1,384,849 1,384,849 1,324,742 1,059,105 690,042
+• Investment in a utility scale solar facility in Louisiana that
+Scope 2, Metric Tons CO e 951,982 860,579 693,288 697,090 665,877
+is expected to reduce our GHG footprint by approximately
+2
+80,000 metric tons per year.
+Total 2,336,831 2,248,306 2,018,031 1,756,196 1,355,919
+• Installation of solar panels over an existing waste bed slated
+for closure instead of the traditional method of installing an
+impermeable cap over the waste bed.
+GHG Intensity, Metric Tons CO2e/$M Revenue 63.4 68.9 58.7 49.5 37.0
+• Installation of a rooftop solar system at our factory in
+Trieste, Italy that produces approximately 500,000 kilowatt
+The GHG intensity metrics are the sum of our Scope 1 and location-based Scope 2 emissions in metric tons of carbon dioxide equivalent divided by revenue in million U.S.
+hours per year.
+dollars. Variations in data reported can occur due to timing of reporting and updates to methodologies as newer reporting protocols and emission factors are adopted.
+Honeywell | 2024 IMPACT REPORT | 17
+
+=== PAGE BREAK ===
+
+PLANET
+IMPROVING
+ENERGY EFFICIENCY
+Energy efficiency is more important than ever in the pursuit of carbon neutrality. To support our goals, and as part of our Health, Global program examples:
+Safety, Environment, Product Stewardship and Sustainability (HSEPS) Management System, our largest sites are required to
+• Lighting: Honeywell has converted a significant portion of
+identify their significant energy use in line with ISO 50001, obtain an energy audit on an established cycle, train personnel on
+our facilities to LED and continues to systematically replace
+energy management, and track identified projects via our standard database. This ensures a robust pipeline of both low-cost and
+lighting with the most up-to-date LED and occupancy control
+capital projects that can be considered for execution.
+technologies. Overall, we have executed more than 975 LED
+lighting and controls projects providing annual savings of over
+Energy Performance $11 million, and reductions of 50,000 metric tons of GHG
+emissions and 355 billion BTU. In addition, new construction
+2019 2020 2021 2022 2023
+energy standards ensure all new facilities include LED and
+occupancy sensors to maximize energy efficiency.
+Energy, billion BTU 17,208 15,348 15,247 15,603 15,353
+• Compressed air and gas systems: As with the global lighting
+Energy Efficiency, billion BTU/$M 0.469 0.470 0.443 0.440 0.420
+program, Honeywell is utilizing a programmatic approach to
+The assurance process we use for our GHG inventory includes, by default, our energy footprint. The energy data compiled here represents our global continue upgrading our compressed air and gas systems, as
+footprint for all our sites. Estimates are used for some of our smaller sites but are typically in the range of 5% of our overall inventory.
+well as adding variable frequency drives to fans and pumps to
+improve efficiency in facility and manufacturing processes.
+Honeywell’s culture of continuous improvement has driven our tools such as tiered accountability, self-assessments and
+success at increasing efficiency. The HSEPS team combines kaizens (short-duration projects led by a facilitator with a
+its deep knowledge of energy and environmental matters with specific aim at improvement) to maintain a pipeline of projects
+“Next-generation digital technologies provide
+our HSEPS Management System and continuous improvement that help us achieve our goals.
+a path to cut emissions and achieve energy
+We install a wide range of technologies, including those from efficiency goals, while improving profitability.
+our own product portfolio, at our manufacturing sites and Organizations that adopt these automation
+“How we manage the built environment will
+significantly impact our ability to achieve offices around the world. These include energy management tools can operate more efficiently by reducing
+carbon neutrality. We are advancing solutions and control systems, automation systems for boilers, LED waste and process upsets, as well as more
+productively and more responsibly, helping
+that create and maintain safer, more resilient lighting, HVAC controls and refrigerants, variable frequency
+to lead to reduced environmental impact,
+and environmentally responsible spaces for drives, occupancy sensors, metering, and renewable energy.
+enhanced competitiveness, and a brighter
+ourselves, our customers, and our communities We take a systems-based approach using technology,
+future for all.”
+globally.” operational excellence and employee engagement aligned
+Billal Hammoud, President and CEO,
+with our operating system to drive continuous improvements.
+Lucian Boldea, President and CEO,
+Additionally, Honeywell continues to focus on improving energy Industrial Automation
+Honeywell Building Automation
+efficiency in our industrial and production processes.
+Honeywell | 2024 IMPACT REPORT | 18
+
+=== PAGE BREAK ===
+
+PLANET
+MANAGING
+AIR EMISSIONS
+We manage air emissions in accordance with all regulatory requirements while also seeking to
+minimize our environmental impact. All of our locations are required to meet the requirements of
+our HSEPS Management System, which include:
+• Identifying and detailing all emissions to air on an inventory that captures both stack and
+fugitive emissions and covers process, combustion and VOC emissions, as well as visible
+emissions, odors and noise.
+• Developing operational controls, both physical and administrative, to comply with all regulatory
+or permit requirements and minimize the impact of our operations on both the environment and
+our neighbors.
+• Conducting emissions monitoring as required by local regulations, and using this data to help
+identify opportunities to reduce our emissions levels beyond regulatory thresholds.
+• Completing regular training on our operational controls to maintain efficiency and compliance.
+A verification program and independent internal audit measure compliance with our requirements
+and identify opportunities for continuous improvement of our air emissions standards.
+Honeywell | 2024 IMPACT REPORT | 19
+
+=== PAGE BREAK ===
+
+PLANET
+MINIMIZING
+WASTE
+Honeywell manages waste in accordance with all regulatory In addition to any regulatory reporting requirements, sites
+requirements while also seeking to minimize waste generation must also adhere to internal reporting requirements so we
+and environmental impacts. All of our locations and functions can maintain a global inventory of waste data, including both
+are required to manage waste in accordance with our HSEPS hazardous and non-hazardous metrics.
+Management System, which includes:
+Each of our strategic business groups must establish annual
+targets for reducing hazardous waste as normalized by revenue
+• Detailed characterization and classification of all hazardous
+and improving non-hazardous diversion rates (diverting waste
+and non-hazardous waste streams.
+from landfills).
+• Process of due diligence and impact assessment for all
+Honeywell executes waste reduction projects in support of our
+facilities receiving hazardous waste from our operations,
+goals and as part of our global sustainability efforts. Waste
+including a review and approval process by a global team;
+reduction projects, often identified via a kaizen process, are
+Honeywell’s hazardous waste streams are only permitted to
+tracked in our project database from conception through
+be sent to these approved facilities.
+execution.
+• Annual duty of care assessments of all receiving facilities and
+Recent project examples:
+transporters of Honeywell’s waste, including compliance with
+local regulations and permitting requirements and ability to • Southend, United Kingdom: The site worked with their
+hazardous waste contractor to improve their degreasing
+handle our waste streams, prior to any waste movement.
+process by adding filters to the degreasing tanks and
+• On-site management of waste streams to prevent releases
+extending the solvent cycle to 12 weeks to achieve a reduction
+and impact on the environment, including container of 540 liters of hazardous waste per year. The site also
+management and spill prevention. optimized their plastic wrapping processes for finished parts
+and retail packaging, resulting in the elimination of over a ton
+• Annual training for all employees and contractors who
+plastic wrap per year.
+perform waste-related activities.
+• Hlubocky, Czech Republic: The site installed an
+• Annual, or more frequent, audits of waste movements to
+ultrafiltration system to reduce hazardous waste generated
+confirm compliance and identify opportunities for waste
+during production. This filtration technology will also
+reduction and diversion.
+improve efficiency of wastewater treatment, enabling treated
+water to be used for a longer period of time and reduce the
+A verification program and independent internal audits measure
+consumption of activated carbon required for production. This
+compliance with our requirements and identify opportunities for
+project reduced hazardous waste and has resulted in annual
+continuous improvement of our waste management standards.
+operational savings of approximately $73,000.
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for
+Honeywell | 2024 IMPACT REPORT | 20
+identifying sustainability-oriented offerings is available at investor.honeywell.com (see “ESG/ESG Information/Identification of Sustainability-Oriented Offerings”).
+
+=== PAGE BREAK ===
+
+PLANET
+WASTEWATER AND EFFLUENT MANAGEMENT
+AND WATER STEWARDSHIP
+Honeywell manages water in accordance with all regulatory These include documenting specific actions to ensure
+requirements while also taking steps to protect and conserve a compliance with legal, permit and Honeywell requirements.
+vital natural resource.
+• Developing comprehensive location-specific operational
+Our locations and functions are required to manage their water controls, including physical and administrative controls, to
+use and wastewater and effluent generation in accordance with manage our wastewater and effluents in compliance with
+our HSEPS Management System, which includes: legal and other requirements, and to minimize environmental
+impact, including unwanted releases. Our operational
+• Completing a water inventory identifying all uses and
+controls include quality assurance and control plans to
+discharges of water, including source of supply, use and
+identify potential issues before they happen or to enable rapid
+what happens to the resulting wastewater. Also considered
+response.
+are any discharges generated by plant operations, such as
+compressor blow-down and condensate discharges, and • Restrictions on some methods of discharge to limit potential
+water reuse. This breakdown of water use facilitates identifying environmental impacts.
+opportunities for reducing consumption and requirements for
+• Good management practices to reduce contamination and
+managing effluents.
+impact of storm water run-off for all locations.
+• Creating and maintaining a detailed inventory or balance of
+• Separating potable and processing water supplies to eliminate
+water intakes, activities using or producing water, and water
+the risk of cross-contamination.
+discharges, including characterization of any wastewaters.
+• Container management and spill prevention controls to
+This breakdown of water use facilitates identifying
+minimize risk of unwanted release and contamination of
+opportunities for reducing consumption and waste.
+ground and surface waters.
+• Completing a review of all legal and other requirements
+• Training for employees and contractors who perform critical
+for wastewater and effluent management. Our industrial
+activities related to wastewater and stormwater management.
+facilities that produce emissions may require specific water
+discharge permits, with many requiring us to conduct studies
+• Collating data on water withdrawals and discharges and
+or develop models of the potential impacts of the activities on
+conducting regular water audits to identify opportunities to
+communities and the environment before permits are issued
+reduce water consumption.
+or renewed. If a government-required wastewater permit,
+license, impact analysis document or other legal requirement
+is applicable, Honeywell implements operational controls.
+Honeywell | 2024 IMPACT REPORT | 21
+
+=== PAGE BREAK ===
+
+PLANET
+Wastewater and effluent management system requirements Examples of recent projects:
+are subject to three levels of governance: a location level self-
+Glendale, Arizona: The site replaced their time-based
+assessment against requirements, a verification process by
+controllers for irrigation with a water-sensing controlled
+more senior personnel within the organization and auditing by
+system to avoid irrigating when raining. This project resulted
+third-party teams of Honeywell and external experts.
+in approximately 1.5 million gallons of water savings annually.
+Honeywell maintains a process to act in a timely manner to In addition to the controls, the site has been replacing
+address incidents or nonconformities, including those related landscaping with xeriscape landscaping; to date, the site has
+to wastewater and effluent management. These processes replaced approximately 9,000 SF of landscaping, resulting in an
+include root cause analysis and taking preventative and additional 140,000 gallons in reduced water consumption.
+corrective actions when needed. Key findings and continuous
+Torrance, California: The site updated the water treatment
+improvement opportunities for wastewater and effluent
+system on their cooling towers to increase the cycles of
+control are also evaluated and incorporated into the overall
+concentration by 12.5%. This reduced the amount of blow-
+management system.
+down/make-up water required and yields an estimated water
+Honeywell’s global inventory of water usage data supports the savings of 538,000 gallons per year.
+identification of conservation opportunities. Honeywell analyzes
+all its operations for Baseline Water Stress using the World
+Resources Institute’s (WRI) Water Risk Atlas tool, Aqueduct.
+To ensure a continuous focus on conservation at our larger
+company sites in water-stressed regions, and as part of our
+HSEPS Management System requirements, all sites in locations
+with High (40–80%) or Extremely High (greater than 80%)
+Baseline Water Stress meeting a certain threshold must:
+• Complete an annual water efficiency assessment based on
+water best practices.
+• Maintain a water balance of all significant flows in and out of
+the facility.
+• Obtain a comprehensive water audit on an established cycle.
+• Train personnel on water management.
+• Maintain a list of water conservation measures identified and
+completed.
+Honeywell | 2024 IMPACT REPORT | 22
+
+=== PAGE BREAK ===
+
+PLANET
+REVITALIZATION FOR A BETTER FUTURE:
+ENVIRONMENTAL REMEDIATION
+Like other companies with long, successful histories, many Examples of remediation and redevelopment projects can be
+of our former operations were closed or sold years ago and found in our Report on Due Diligence Processes to Identify and
+are now considered brownfields. In addition, many of the sites
+Address Environmental and Social Risks.
+had multiple owners over the years, and most no longer exist.
+These historic operations mostly predate the Clean Water
+ENVIRONMENTAL REMEDIATION
+Act, the Clean Air Act, Superfund regulations, the Resource
+PROMOTING SOLAR
+Conservation and Recovery Act, and/or the U.S. Environmental
+Protection Agency and are not a reflection of Honeywell’s RRG incorporates options to maximize net environmental
+current operations and processes. benefits of cleanup actions, referred to as “green remediation”
+by the U.S. Environmental Protection Agency. RRG has
+Honeywell recognizes idle properties as assets that can be
+completed several projects that included solar arrays to
+revitalized to mutually benefit communities and the company.
+The properties that emerge from this approach galvanize civic minimize the impact to the electrical grid, minimize GHG
+pride and catalyze further community development initiatives. emissions and support long-term treatment systems.
+Honeywell has spent more than $4 billion over the last 20
+years to remediate and restore approximately 3,000 acres for Examples of recent projects:
+productive community use. Using cutting-edge science, design
+Ironton, Ohio: A one-megawatt (MWdc) ground-mounted
+and engineering to protect human health and the environment,
+solar array covering 2.3 acres on the site of the former Allied
+Honeywell works cooperatively with governments and engages
+Tar & Coke plant is designed to supply 100% of the electricity
+with local communities and other external stakeholders to
+consumed by the community’s groundwater treatment plant,
+implement effective solutions.
+which consumes about 1.2 million kilowatt hours per year.
+Honeywell’s Remediation and Redevelopment Group (RRG)
+The project received support from both the federal and Ohio
+manages every project and is led by the Global Remediation
+environmental protection agencies and local stakeholders,
+Vice President. The regulatory framework for environmental
+serving as an example of green remediation.
+remediation in the United States requires extensive community
+engagement and assessment of potential community risks, all
+Syracuse, New York: A 680-kilowatt (kWdc) rooftop solar
+overseen by government agencies. Honeywell’s work at these
+array supplies 100% of electricity consumed by the onsite
+sites does not necessarily end when a remedy is complete, as
+groundwater treatment plant and nearby pump stations via
+we continue to comply with all requirements for environmental
+virtual net metering.
+remediation, including required monitoring of sites to ensure the
+effectiveness of the remedy.
+Honeywell | 2024 IMPACT REPORT | 23
+
+=== PAGE BREAK ===
+
+PLANET
+BIODIVERSITY
+At Honeywell, we recognize the critical importance of As part of our RRG activities, Honeywell actively revitalizes Honeywell received approval from the New York State
+biodiversity in maintaining the health of our planet and ecosystems. Over the past 20 years, Honeywell has remediated Department of Environmental Conservation to remediate a
+supporting sustainable development. Biodiversity is essential and restored 3,000 acres, including 2,800 acres of biodiverse non-hazardous landfill with an innovative approach known as
+for ecosystem resilience, and is crucial for human well-being, habitats. These efforts rehabilitate former industrial sites the Agri-photovoltaic (“Agri-PV”) remedy. The Agri-PV system
+economic prosperity, and environmental health. As a global and promote biodiversity by creating vibrant, natural habitats consists of solar panels acting in concert with a stormwater
+leader in industrial technology, Honeywell is integrating that support diverse wildlife and plant species. A standout management system and native vegetation, reducing surface
+biodiversity conservation into our business operations and project is the restoration of Onondaga Lake in Syracuse, N.Y., water infiltration. The first 80-acre area is currently under
+sustainability strategies. once considered the most polluted lake in North America. construction and consists of three, five-megawatt (MW)
+Through this effort, 1.1 million native plants were introduced, community solar farms slated for operation in 2025. Once
+We have conducted a biodiversity impact assessment
+transforming the area into a thriving ecosystem with completed, this unique remediation approach will provide
+and evaluated our global sites based on their proximity to
+approximately 290 wildlife species and 140 unique bird species. renewable electricity to community members, as well as a
+protected areas, key biodiversity areas, IUCN Red List Species,
+habitat for wildlife and various pollinator species such as bees
+and biomes. From these biodiversity-sensitive locations,
+and butterflies.
+we selected pilot sites to further evaluate their biodiversity
+impacts and opportunities. Utilizing the Exploring Natural
+Capital Opportunities, Risks, and Exposure (ENCORE) tool, the
+assessment yielded several key outcomes:
+• Analyzed biodiversity impacts and materiality rankings by
+industry to help identify the potential impacts of our activities
+on biodiversity.
+• Created a visual heatmap of potential biodiversity impacts and
+opportunities across Honeywell operations.
+• Identified common biodiversity and nature-related risks
+across our sites, which are helping to inform future strategies.
+Honeywell | 2024 IMPACT REPORT | 24
+
+=== PAGE BREAK ===
+
+PLANET
+PRODUCT
+STEWARDSHIP
+For Honeywell, making products safer for people and the Regulatory monitoring, combined with expertise and internal EXTENDED PRODUCER RESPONSIBILITY
+planet is systematically considered at the design stage of procedures, helps ensure comprehensive programs are in
+Extended Producer Responsibility (EPR) is an environmental
+all products. As Honeywell businesses invent new tools and place throughout Honeywell to manage and meet regulatory
+policy approach in which a producer’s responsibility for a
+solutions, we take deliberate, strategic steps to improve requirements such as:
+product is extended to the post-consumer management of
+each innovation’s eco-efficiency.
+• REACH (Registration, Evaluation, Authorization and the product and its packaging. Honeywell complies with all
+Restriction of Chemicals) legal requirements for EPR either directly or by working with
+Specifically, we evaluate new products by gauging their
+accredited recycling partners or networks to ensure proper end-
+potential to: • RoHS (Restriction of Hazardous Substances)
+of-life treatment of our products to avoid any impacts to the
+• Reduce the use of natural resources during manufacturing • TSCA (Toxic Substances Control Act)
+environment. Potentially applicable regulations include:
+and distribution
+• GHS (Globally Harmonized System of Classification and
+• Waste Electrical & Electronic Equipment (WEEE)
+• Increase the energy efficiency of the product itself or because Labelling of Chemicals)
+• Battery recycling obligations
+of its use
+• WEEE (Waste Electrical and Electronic Equipment)
+• Packaging recycling obligations
+• Reduce production waste
+To meet regulatory requirements, we actively engage with our
+Our New Product Introduction requirements help ensure that
+• Identify opportunities for product reuse and recycling
+suppliers to obtain chemical substance information for the
+EPR strategies are considered during the design and packaging
+• Utilize recycled or renewable materials materials they supply as well as the sourcing of minerals used.
+of products.
+• Reduce and eliminate classified toxic or hazardous materials
+REACH
+• Be packaged more efficiently
+We are committed to ensuring all our products manufactured
+in or imported into the European Union comply with REACH
+PRODUCT COMPLIANCE
+legislative requirements. Honeywell has regulatory management
+We are committed to ensuring that our products are
+systems in place to support ongoing compliance activities to
+manufactured to comply with environmental regulations in the
+monitor the Candidate List and European Chemical Agency’s
+markets we serve.
+recommendations for authorization.
+Our Global Product Stewardship team is responsible for the
+Honeywell has submitted dossier updates when required and
+management of environmental compliance activities.
+continues to meet communication requirements to downstream
+users.
+Honeywell | 2024 IMPACT REPORT | 25
+
+=== PAGE BREAK ===
+
+LOREN IPSUM | LOREN IPSUM
+PEOPLE
+OUR FUTURESHAPERS 27 HEALTH AND SAFETY 38
+• ATTRACTING THE BEST TALENT 28 • PROTECTING THE WORKFORCE 38
+• DEVELOPING SKILLS AND GROWING CAREERS 28 • TRAINING, COMPETENCY AND AWARENESS 38
+• ENGAGING OUR FUTURESHAPERS 30 • EMERGENCY PREPAREDNESS 38
+INCLUSION AND DIVERSITY: CORPORATE SOCIAL RESPONSIBILITY 39
+A FOUNDATIONAL PRINCIPLE 31
+SHAPING THE NEXT GENERATION
+• I&D PRIORITY AREAS 32
+OF INNOVATORS 40
+I&D IN ACTION 33 • INVESTING IN THE STEM WORKFORCE
+OF TOMORROW 41
+• TALENT ACQUISITION 33
+• ENVIRONMENTAL EDUCATION TAKES ROOT 41
+• TALENT DEVELOPMENT 33
+• INNOVATION 33
+VOLUNTEERING FOR THE GREATER GOOD 42
+• HUMANITARIAN RELIEF POWERED
+HONEYWELL EMPLOYEE NETWORKS 34
+BY EMPLOYEE GIVING 42
+INSIGHTS FROM SOME OF OUR
+• SPOTLIGHT ON SKILLS-BASED VOLUNTEERING 42
+EMPLOYEE NETWORK LEADERS 35
+EMPOWERING I&D 36
+• INCLUSIVE LEADERSHIP 36
+• STRATEGIC PARTNERSHIPS 37
+Honeywell | 2024 IMPACT REPORT | 26
+
+=== PAGE BREAK ===
+
+PEOPLE
+OUR
+FUTURESHAPERS
+A summary of top highlights of how we support our people:
+From solving global challenges to supporting our local
+communities, every Honeywell Futureshaper helps make it
+happen.
+Futureshapers are thinkers, dreamers, doers and innovators.
+Together we commit to ensuring a respectful and inclusive
+culture that enables career growth, continuous learning and
+development, and support for well-being. 9 employee
+networks
+Our talent strategy is underpinned by these values and
+commitment to enabling each Futureshaper to make an
+impact, make real connections and be their best selves. Built
+91,000
+active users
+around an end-to-end approach of plan, attract, develop and
+engage, our strategic talent agenda is aligned with business
+within Honeywell’s Accelerator
+goals and objectives and holistically supports the acquisition
+Learning Program
+of new skilled talent while investing in the development, growth
+and succession of our current Futureshapers. From learning,
+development and enabling leadership capabilities, to digital HR
+technology transformation and engagement and well-being, our
+1,200+
+Engagement
+talent strategy encompasses the full employee experience.
+scores up
+interns
+3 points YoY
+welcomed
+90%
+response rate 151,000+
+to “Voice of the Employee”
+hours of learning
+feedback survey, with
+107,000+ written
+300,000+ Accelerator
+comments
+modules completed
+Honeywell | 2024 IMPACT REPORT | 27
+
+=== PAGE BREAK ===
+
+PEOPLE
+ATTRACTING DEVELOPING SKILLS become more efficient, enabling them to focus more on their
+professional development and less on plan creation. Our
+THE BEST TALENT AND GROWING CAREERS
+approach was driven by creative strategies and informed by
+Attracting and recruiting top talent is foundational to our Learning and development customer feedback, which allowed us to introduce solutions that
+success. “Building Exceptional Talent” is one of Honeywell’s met the evolving needs of our business. This customer-focused
+Investing in skill development enables our Futureshapers to
+Six Behaviors and emphasizes the importance of developing strategy guided our efforts in developing talent and learning
+grow their careers through a range of learning offerings. In
+all Futureshapers, while continuing to attract top talent to solutions, empowering our Futureshapers to become their best.
+2023, over 91,000 Futureshapers were active users within
+the organization.
+the Accelerator Learning Platform. This demonstrates our
+Throughout 2023, Honeywell honed its talent acquisition commitment to continuous learning, which is core to our culture
+strategy with a focus on expediting the filling of critical and long-term business growth strategy.
+talent roles, enhancing the diversity of candidate slates, and
+We offer an extensive suite of mandatory and voluntary
+bolstering internal hiring. This strategic approach encompassed
+technical and functional training to ensure new skills are
+a new three-year ongoing partnership with the Society of
+gained while compliance requirements are met globally. Our
+Hispanic Professional Engineers to support early education
+contemporary, interactive and accessible learning platform,
+STEM programs, undergraduate recruitment activities and
+Accelerator Learning, serves as a central source of information
+professional development. Additionally, we continued our long-
+and learning opportunities for our Futureshapers, boasting 642
+term partnership with the National Society of Black Engineers,
+modules for Futureshapers to access. In 2023, Futureshapers
+where Honeywell provided scholarships and mentored students
+spent over 151,000 hours within the platform to learn about the
+at summer camps to help build a strong pipeline for future
+“Honeywell way of working,” ensuring alignment and common
+engineering talent.
+understanding across the organization.
+Honeywell has partnered with Hiring our Heroes to offer
+In addition, we standardized content governance across all
+internships to veterans transitioning to the private sector,
+Functional Academies, which offer role-specific knowledge and
+with many being hired full-time. We have also continued our
+resources to improve content development and delivery across
+collaboration with American Corporate Partners, mentoring
+Honeywell. These resources and development opportunities
+military members and hiring seven individuals. Additionally,
+ensure that Futureshapers can continue to grow and Win
+within our Aerospace Technologies business we initiated a
+Together.
+neurodiverse intern program, and provided global support for
+the Society of Women Engineers, particularly focusing on hiring
+Career growth
+in India. We recognize the importance of a diverse workforce and
+In 2023, we made significant progress in promoting the
+remain committed to ensuring a varied slate of candidates for
+adoption of Individual Development Plans (IDPs), with 96%
+open positions through a diverse hiring process.
+of Band 3+ Futureshapers leveraging their IDP. By integrating
+innovative technology, we improved the accessibility and user
+experience of IDP processes, making it easier to take action. We
+also standardized our training materials, making onboarding
+smoother for new hires while helping our Futureshapers
+Honeywell | 2024 IMPACT REPORT | 28
+
+=== PAGE BREAK ===
+
+PEOPLE
+Leadership programs
+• Manager Development Program: Develops high-performing
+leaders into transformational executives prepared to take the
+Effective and impactful leadership is central to delivering next big step.
+business results, creating transformational products and
+• Leadership Development Program: Develops skills, experience
+services and engaging and retaining our best talent. Leadership
+and resilience to successfully lead today and shape the future
+development is a robust mix of in-person development
+in expanded leadership roles.
+coaching, mentorship, peer sharing and virtual learning
+modules, case studies and best practice resources. We offer a • Functional programs including Finance as a Competitive Tool,
+range of executive, management and functional development Chief Technology Officer Program and Catapult, an annual
+programs which feeds our strategic internal talent mobility and top talent program designed to develop, retain, and enhance
+robust talent pipeline. critical general manager skillsets.
+From executive to manager, our programs continue to evolve
+with market and business priorities. Participants gain essential
+knowledge and skills related to making an impact through
+driving business results and helping them be their best as
+people-leading Futureshapers. Our broad portfolio of leadership
+development programs in 2023 included:
+• Honeywell Leadership Edge: Progressive, virtual leadership
+development program required for all mid-level managers,
+covering skills such as building exceptional talent, applying
+business acumen, inspiring innovation and developing
+committed people leadership.
+• Level Up: A continuous annual training for executives and
+people leaders that keeps them updated on top-of-mind
+business topics critical to business that year. Level Up
+encourages continuous professional development to build
+and retain talent.
+• Empower: A program dedicated to supporting people
+leaders as they seek to better galvanize their teams, drive
+business success and create a culture of engagement across
+Honeywell.
+• Executive Development Program: Senior development
+program that gives strong leaders skills to prepare for senior
+executive leadership.
+Honeywell | 2024 IMPACT REPORT | 29
+
+=== PAGE BREAK ===
+
+PEOPLE
+Throughout 2023, we led well-being The Employee Assistance Program (EAP), To support the diversity of our workforce
+ENGAGING OUR FUTURESHAPERS
+campaigns to provide visibility for resources available to all employees and their family across the globe, Honeywell offers a number
+and available benefits across a range of topics, members globally, is a vital component of of country-specific benefit enhancements
+Voice of the Employee
+including health and wellness programs, caring our mental health resources. The EAP offers that cover flexible benefits, infertility services,
+Listening, learning and taking action are key
+for your family and taking care of finances. therapy sessions, comprehensive mental tutoring and support for raising children, surgery
+components of our engagement approach.
+Mental health remains an important topic for health benefits for those enrolled in the U.S. support and health and wellness incentive-
+Honeywell’s Voice of the Employee (VOE)
+us globally and was promoted during Mental medical plan, virtual mental health options, based challenges and information platforms.
+feedback survey is conducted annually with all
+Health Awareness Month in May, as well as navigation tools to improve access and speed
+global Futureshapers. It provides data and tools
+World Mental Health Day in October. of care and preventive/mental health resilience
+to leaders at all levels to best drive actionable
+plans around employee engagement and build
+Honeywell’s desired culture that attracts and
+PHYSICAL
+retains top talent, improves performance and
+Understand personal health risks and the tools available to address them.
+distinguishes the company as a great place to
+work.
+MENTAL
+Access the behavioral healthcare system through multiple channels.
+In our most recent survey, not only did we have
+a 90% response rate across the company
+FINANCIAL
+globally with over 107,000 written comments,
+Understand any financial gaps, set goals and utilize tools and resources to achieve goals.
+our employee engagement scores continue to
+rise year-over-year. Rising engagement scores INDIVIDUAL
+are directly correlated with improved retention
+Programs and policies that provide support of our diverse workforce.
+and manager performance.
+Insights gained showed Futureshapers are
+programs. In addition to these offerings, a
+excited about the future of Honeywell, how Highlights of our programming included
+variety of live and virtual events were hosted at
+their role contributes to the company’s success webinars on “Minding your Mental Health” and
+our site facilities throughout 2023, many led by
+and how committed they are to customers' introducing a new, global forum for managers
+the EAP. These events covered topics such as
+needs. on how to support employee well-being.
+managing stress, caregiving, raising children
+We introduced a suite of new benefits focused and self-care, reinforcing our commitment
+Well-being
+on employee well-being globally, such as to the well-being of our employees and their
+At Honeywell, we understand that well-being
+extended outpatient coverage in Korea, families.
+is holistic. As part of our Futureshaper “Make
+enhanced health screenings in Hong Kong,
+Our flexible 3+ work arrangement underscores
+the Best You” principle, our well-being strategy
+Macau, and the Philippines and a new Milk
+our overall well-being strategy and helps
+provides benefits and resources across
+Stork service, which ensures free transportation
+support Futureshapers with the flexibility
+physical, mental, financial, individual and
+of breast milk for global Honeywell employees
+they need while providing opportunities for
+community needs, helping Futureshapers and
+traveling or commuting around the world.
+connection and collaboration while in the
+their families be their best, both personally and
+Additionally, we maintained employee medical
+office.
+professionally.
+premiums in the U.S. at the same rate for the
+sixth consecutive year.
+Honeywell | 2024 IMPACT REPORT | 30
+
+=== PAGE BREAK ===
+
+PEOPLE
+INCLUSION AND DIVERSITY:
+A FOUNDATIONAL PRINCIPLE
+At Honeywell, we know that Inclusion and Throughout the year, Honeywell made Alongside our major milestones, we’ve make our products, solutions and sites more
+Diversity (I&D) is central to our mission of important progress in our I&D journey, also seen our employee networks flourish accessible, support local I&D efforts and
+solving the world’s toughest challenges. I&D including: during the year. Since their official launch deepen Futureshapers’ understanding of I&D
+is woven throughout our business to spark in 2020, the networks expanded to over to create an exceptional workplace experience.
+• The introduction of new courses on our
+creativity and help us innovate to new heights. 12,000 members and became a hub for
+Accelerator learning platform including I am proud of the effort, dedication and passion
+As we look back on the strides we’ve made in professional development and new ideas from
+topics such as Intersectionality and Inclusive from Futureshapers worldwide that drove our
+our I&D journey, it’s clear that this foundational Futureshapers all over the world. In 2023,
+Language to broaden our I&D knowledge. I&D initiatives in 2023. Our goal is to continue
+principle has enhanced the Futureshaper networks including Heighten Your Professional
+this momentum and work together to shape a
+• Held our first Employee Network Leadership
+experience and been instrumental to our Experience (HYPE), the Honeywell Asian
+more inclusive future.
+Meetings, bringing together employee
+success. In this report, you’ll find that in the Employee Network (HASEN) and the Honeywell
+network leaders and Honeywell executives to
+past year we’ve reaffirmed our commitment Growing Experience Employee Network
+Sandra Barbosa
+discuss the impact of employee networks in
+to I&D, fostered a diverse talent pipeline (HGEN) all introduced mentorship programs, Chief Inclusion and Diversity Officer
+driving conversations and innovation.
+and promoted a culture that is inclusive and enabling them to nurture talent throughout
+accessible, empowering every Futureshaper the enterprise. Other networks including
+• We make training available to Futureshapers
+across the globe. Honeywell Black Employee Network (HBEN),
+to help them better understand how their
+the LGBTQ+ Employee Network, Honeywell
+prior life experiences might inadvertently
+In 2023, Honeywell’s commitment to I&D was
+AllAbilities Network, Honeywell Hispanic and
+color how they perceive others.
+illustrated as we celebrated our second annual
+Latin Employee Network (HHLEN), Honeywell
+Global I&D Month. The month was honored
+• For the first time, we received a top score of
+Veterans Employee Network (HVEN) and
+with exciting events and thought-provoking
+100 on the Disability Equality Index.
+Honeywell Women’s Employee Network
+conversations, providing Futureshapers a
+• Received recognition from several external (HWEN) played a pivotal role in strengthening
+platform to engage, learn and grow. The launch
+organizations including Disability Matters, the business through recruiting and retaining
+of our Inclusive Language Guide during the
+Society of Women Engineers, National talent, spurring innovation and developing our
+month was another highlight of the year,
+Society of Black Engineers, Society of employees.
+equipping our employees with the tools and
+Hispanic Professional Engineers, Human
+resources to have impactful dialogue with As we look ahead, our focus remains on
+Rights Campaign in the U.S. and Mexico,
+clients, partners and fellow Futureshapers shaping an inclusive and diverse workplace.
+India Workplace Equality Index and China’s
+We’re not just imagining a future where every
+across a wide range of cultures and
+Top Employers Institute.
+Futureshaper can leverage their unique
+backgrounds.
+experiences to propel Honeywell’s success
+— we’re making it happen. Our mission is to
+Honeywell | 2024 IMPACT REPORT | 31
+
+=== PAGE BREAK ===
+
+PEOPLE
+I&D PRIORITY AREAS
+Inclusion and Diversity (I&D) is a foundational principle at Honeywell, both because it’s the
+right thing to do and because it’s a fundamental enabler for our business. From recruitment
+to employee experience and partnerships, Honeywell fully embraces inclusion of diverse
+backgrounds, perspectives and experiences — encouraging respect to flourish and innovation
+to thrive.
+With our global programs and inclusive culture, we recruit, develop, retain and promote diverse
+talent. We continue to build partnerships with diverse organizations and develop resources to
+support diverse employees. All Futureshapers are encouraged to actively support I&D in words
+and actions.
+Our Chief Inclusion and Diversity Officer and I&D leaders for each business unit lead three
+strategic priority areas:
+REPRESENTATION
+• Cultivate a workforce that reflects our communities and the world.
+• Sustain a pipeline of diverse talent from campus to the C-Suite.
+• Promote a culture of inclusion, accessibility and respect.
+RETENTION
+• Create employee development and advancement opportunities.
+• Foster community engagement and belonging.
+• Offer competitive compensation, rewards and recognition.
+RECOGNITION
+• Be a global employer-of-choice for I&D.
+• Leverage our culture as a competitive advantage.
+• Lead on I&D practices.
+Honeywell | 2024 IMPACT REPORT | 32
+
+=== PAGE BREAK ===
+
+PEOPLE
+I&D
+IN ACTION
+TALENT ACQUISITION empowering sessions in Bogotá, Colombia aimed at inspiring
+secondary school girls. A group of 24 dedicated Futureshapers
+National partner of the year for the 49th National Society of
+shared their personal narratives and professional insights,
+Black Engineers (NSBE) annual convention
+encouraging these young students to pursue their dreams with
+At the 49th National Society of Black Engineers (NSBE) Annual conviction. Through eight impactful sessions, they imparted
+Convention, Honeywell was named National Partner of the Year. valuable advice and recounted the challenges they faced along
+The event, held in Kansas City, Missouri, saw a team of over 100 their career paths, ultimately reaching and inspiring over 300
+Futureshapers attending to recruit new engineers. From 2020 to students to believe in their potential and forge their own futures.
+2023, Honeywell has been continually involved in and invested
+in NSBE at all levels, including the NSBE/Honeywell Integrated INNOVATION
+Pipeline Program (NHIPP), the Summer Engineering Experience
+Driving accessible innovation
+for Kids (SEEK) program, and the Professional Development
+The annual Ideathon, hosted by the AllAbilities Employee
+Conference. Honeywell has agreed to another four years of
+Network, celebrates and showcases innovations aimed at
+support. During NSBE49, Honeywell sponsored the Career Fair
+shaping a more accessible future. This employee-driven
+Prep Center, which was open to all conference attendees. A
+competition encourages Futureshapers from across the
+team of volunteer Futureshapers provided professional career
+enterprise to submit their ideas for accessibility-driven solutions
+services to over 2,000 undergraduate and graduate students
+and offerings. Employees then cast their vote for the top 10
+over the course of three days. In addition to sponsoring the
+ideas, culminating in a panel of executive judges selecting the
+Career Fair Prep Center, Honeywell employees hosted two
+winner during the annual A11Y awards. In 2023, the Ideathon
+professional development workshops focused on leadership
+produced the ideation of the Inclusive Fire Life Safety System
+and professional growth. The 2023 convention marked another
+in Building Automation, which was prominently featured at
+successful year for Honeywell, with full-time and internship
+the Honeywell Growth Symposium. This event showcases
+offers extended to more than 50 students.
+how Inclusion & Diversity (I&D) drives innovation and fosters
+TALENT DEVELOPMENT a collaborative spirit among Futureshapers, highlighting our
+commitment to accessibility and inclusivity.
+Spotlight on Latin America’s (LATAM) Women Development
+Program
+The LATAM Women Development Program, in collaboration
+with the Inspiring Girls Foundation, orchestrated a series of
+Honeywell | 2024 IMPACT REPORT | 33
+
+=== PAGE BREAK ===
+
+PEOPLE
+HONEYWELL
+EMPLOYEE NETWORKS
+Honeywell is deeply committed to inclusion and diversity, not
+HONEYWELL HONEYWELL HONEYWELL
+only because it’s the right thing to do, but because it’s critical to
+HISPANIC LATIN BLACK ASIAN
+our success. From recruitment to the Futureshaper experience
+EMPLOYEE EMPLOYEE EMPLOYEE
+and partnership, we fully embrace these values. We are proud
+NETWORK NETWORK NETWORK
+to offer nine employee networks that cultivate spaces for
+collaboration, belonging and development. Our networks are
+open to all employees and empower our Futureshapers across
+the enterprise to learn, grow and be their best in an inclusive and
+supportive environment.
+HONEYWELL
+HONEYWELL
+HONEYWELL
+HEIGHTEN YOUR
+GROWING
+PROFESSIONAL WOMEN’S
+EXPERIENCE
+EXPERIENCE EMPLOYEE
+EMPLOYEE
+EMPLOYEE NETWORK
+NETWORK
+NETWORK
+HONEYWELL HONEYWELL HONEYWELL
+VETERANS ALL ABILITIES LGBTQ+
+EMPLOYEE EMPLOYEE EMPLOYEE
+NETWORK NETWORK NETWORK
+Honeywell | 2024 IMPACT REPORT | 34
+
+=== PAGE BREAK ===
+
+PEOPLE
+INSIGHTS
+Shannon Bathis Khenda McIntee David “DJ” Johnson
+Senior Director Transformation Sr. IT Business Partner – Vice President – Honeywell
+FROM SOME
+– Accelerator in Building Commercial Excellence & Federal Solutions
+Automation and Global LGBTQ+ Customer Experience and and HBEN Leader
+Employee Network Leader HYPE Co-Chair
+OF OUR
+“When I joined Honeywell in 2003, I did not “As the global co-lead for HYPE and being “As a member of multiple employee networks,
+EMPLOYEE immediately feel it safe to disclose that I was an early career myself, I am passionate about they’ve shown me how we can nurture
+part of the LGBTQ+ community. Over time, and helping other early careers navigate their professional development by promoting diversity,
+with a great ally, a safe space was created for first corporate job and help them succeed. I fostering engagement and sparking innovation.
+NETWORK
+The networks provided me with more learning
+me to share, and it enabled me to bring my true understand the unique challenges of working
+opportunities, making me want to stay and grow
+self to the work environment and focus all my at a Fortune 100 global company and I believe
+LEADERS
+with Honeywell. Each of my network affiliations
+efforts on achieving in my job role. Since then, it’s crucial to have a supportive community
+has been a forum where I’ve forged connections,
+it’s been humbling to be part of the I&D and where individuals can connect, share
+exchanged insights and offered mutual support
+Employee Network community and help create experiences, and grow together. HYPE has
+— all of which have been critical to my personal
+the environment that encourages you to be been invaluable to my growth, both personally
+and professional advancement. I have seen first-
+The global leaders of Honeywell’s employee
+your authentic self.” and professionally, and has reinforced the
+hand how our employee networks encourage
+networks are active participants and advocates
+importance of community and collaboration in
+innovation that fuel solutions for our customers’
+for inclusion and diversity at Honeywell, taking
+achieving our goals.”
+most challenging issues.”
+the initiative to foster a truly inclusive and
+supportive workplace.
+Avishkar Madar Lisa Bickel T.J. Pope
+Director of Engineering in Chief Labor & Employment Sr. Director – Engines Growth
+Aerospace Technologies Leader in Aerospace Technologies
+Counsel – Aerospace
+and HYPE Co-Chair and HVEN Leader
+Technologies and All Abilities
+Employee Network Leader
+“As the most senior member of the HYPE “I am the mother of quadruplets, two of whom “I’ve had great experiences as a Veteran at
+steering committee, it has been exciting to were disabled. My Honeywell managers have Honeywell, even with a year-long absence
+see our early career members develop their always supported me as I navigated working for a military deployment. I know the positive
+skills and confidence. The employee network as a Honeywell executive and my family outcomes of my experiences were due to my
+is a sandbox for the future leaders of our situation. My disabled daughter died of cancer leaders, but that should be consistent for all
+company to develop soft skills that will be in December of 2019. Honeywell launched employees. I took on a leadership role in HVEN
+needed throughout their career. Skills we the All-Abilities Network in the fall of 2020, to help educate and train the organization
+all need throughout our careers, like project and I volunteered to lead it as a way to honor and ensure all Veterans have the positive
+management, influential leadership and my daughter and support the inclusion of experiences I’ve had.”
+executive communication are practiced employees with disabilities and caregivers
+regularly within the employee networks.” working at Honeywell.”
+Honeywell | 2024 IMPACT REPORT | 35
+
+=== PAGE BREAK ===
+
+PEOPLE
+EMPOWERING
+I&D
+INCLUSIVE LEADERSHIP Equipping Futureshapers with inclusive language
+Our I&D strategy and initiatives foster a workplace that values
+Building strong teams through inclusion
+and welcomes diversity of thought, identity and experience.
+and empathic leadership
+We remain committed to building an inclusive culture that
+Developing and nurturing inclusive leaders and enriching embraces and celebrates our differences.
+the workplace with educational experiences to promote
+inclusion and diversity remains a top priority for Honeywell.
+The company makes available inclusive leadership training to
+help educate employees and influence behavior. This year, the
+I&D team rolled out refreshed training to enable employees
+to better understand how their prior life experiences might
+inadvertently color how they perceive others and thus help
+employees grow and develop as inclusive leaders. By becoming
+aware of our own preconceptions, we can learn to overcome
+them and create a more inclusive and diverse workplace.
+Prioritizing accessibility
+Honeywell is steadfast in our commitment to creating
+an inclusive and accessible world, as highlighted in our
+Accessibility Statement. This statement is a testament to
+Honeywell's dedication to inclusion and diversity, ensuring that
+all individuals can access Honeywell's products, technology,
+services and employment opportunities. Honeywell is dedicated
+to empowering employees with disabilities by providing
+accessible spaces and fostering an environment where everyone
+can contribute to shaping the future. To push us forward on our
+ongoing universal accessibility journey, Honeywell created a
+specialized role solely focused on promoting accessibility. This
+role is a crucial step in Honeywell’s journey to create a more
+accessible world.
+Honeywell | 2024 IMPACT REPORT | 36
+
+=== PAGE BREAK ===
+
+PEOPLE
+EMPOWERING
+I&D
+STRATEGIC PARTNERSHIPS engaging with Historically Black Colleges Empowering Women Engineers
+and Universities (HBCUs). Over 30 driven
+Honeywell is proud to support the Society of
+Honeywell Women’s Employee Network and talented students were welcomed at our
+Women Engineers (SWE), an organization
+(HWEN) and Robogals Unite to inspire STEM annual HBCU summit in October 2023, which
+dedicated to advancing women in engineering
+students in the Pacific highlighted our company’s culture, core values
+and the STEM community. In 2023, seven
+and available opportunities. These students
+HWEN’s Pacific chapter sponsored several Futureshapers were honored by SWE for their
+had the opportunity to engage with our top
+Robogals University organizations in cities remarkable contributions to the STEM field and
+executives, gain insights into our business
+including Melbourne, Sydney, Perth and their efforts in promoting the advancement
+sectors and technologies and take part in
+Auckland. Robogals, a global initiative, focuses of women in engineering including Aerospace
+interviews and workshops.
+on inspiring and empowering young women Technologies engineer Thea Feyereisen
+to consider careers in STEM through various who received the Achievement Award for
+Honeywell’s partnership with the Society
+activities such as workshops, camps and her visionary work in aviation electronics
+of Hispanic Professional Engineers
+outreach programs. This impactful partnership and making air travel safer. This recognition
+enabled HWEN to promote Honeywell at Honeywell is a proud partner of the Society of not only highlights the incredible impact of
+Robogals events and build relationships with Hispanic Professional Engineers (SHPE), the our women engineers but also underscores
+university groups to attract and recruit diverse largest association in the U.S. for Hispanics and our commitment to fostering an inclusive
+talent. The effort also tapped into a robust Latinos in STEM careers. In 2023, Honeywell and supportive workplace. Our partnership
+talent pipeline of young women passionate attended the national convention, which with SWE exemplifies our dedication to I&D,
+about STEM, attracting talent from different provided an amazing opportunity to network empowering our women Futureshapers to
+backgrounds to enrich Honeywell’s business with a diverse group of talented engineers excel, innovate and lead in their careers. We
+with their unique cultures and experiences. and candidates from various backgrounds continue to work with SWE to uplift the next
+and fields. Our relationship with SHPE has
+generation of women engineers by sponsoring
+Honeywell’s Black Employee Network a significant impact on our recruitment
+scholarships and utilizing SWE as a vital talent
+(HBEN) Leverages Partners to Cultivate a efforts and helps us foster a pipeline for the
+pipeline.
+Robust Talent Pipeline most talented Futureshapers in STEM. This
+partnership enables us to attract and hire top
+In collaboration with the National Society of
+talent, ensuring that our workforce reflects the
+Black Engineers, HBEN successfully recruited
+diverse communities we serve and reinforcing
+and onboarded approximately 58 interns and
+our commitment to diversity and inclusion.
+new hires in 2023. In 2023 HBEN further
+strengthened Honeywell’s talent pipeline by
+Honeywell | 2024 IMPACT REPORT | 37
+
+=== PAGE BREAK ===
+
+PEOPLE
+HEALTH
+AND SAFETY
+The safety of our employees, contractors, and partners is administrative controls, and/or institute the use of new or EMERGENCY PREPAREDNESS
+a top priority. We use our learn-based operating system different worker personal protective equipment.
+Emergency Management Plans are required everywhere we
+approach to drive improvements in our safety record.
+operate. As part of the plan development process, emergency
+TRAINING, COMPETENCY AND AWARENESS
+scenarios are evaluated to anticipate, prevent and minimize risks
+To establish a uniform standard for evaluation, Honeywell
+Through careful risk assessment, we determine the learning
+from potential emergencies.
+standardizes the internal reporting of occupational injuries
+needed for employees to perform their jobs safely and maintain
+and illnesses pursuant to U.S. OSHA requirements. Facilities Key community-related elements include:
+appropriate levels of competency. The assessment for learning
+outside the U.S. are also required to follow any applicable
+needs considers assigned responsibilities, abilities, language • Communicating with employees, contractors, visitors, relevant
+additional external reporting requirements. Based on this data,
+skills, literacy and employee feedback. Based on learning needs, emergency response services, government authorities and the
+our global Total Recordable Incident Rate (TRIR), the number of
+training plans are developed to ensure that the appropriate local community as appropriate.
+occupational injuries and illnesses per 100 employees, was 0.18
+level of competence is achieved for the relevant HSE aspects,
+at the end of 2023. Utilizing U.S. Bureau of Labor Statistics, • Annual engagement with external emergency response
+impacts, control measures and compliance obligations.
+Honeywell’s safety record is more than four times better than providers and local emergency planning committees to
+Employees are deemed competent on the basis of education,
+the weighted average TRIR of the industries in which it operates. discuss coordination, participation and feedback on potential
+training, qualification and/or experience. Training content
+emergency response activities.
+is developed and delivered by a skilled person or through a
+PROTECTING THE WORKFORCE
+• A process for responding to raw material, product, process
+competent process to assure training objectives are met. The
+Our operating locations rely on comprehensive processes and waste material transportation incidents that could occur
+effectiveness of training and the overall process is periodically
+for assessments of hazards that could pose a risk to workers, away from operating locations.
+evaluated.
+including employees, contractors and visitors. Based on
+• Forums for open dialogue between the community and
+At a minimum, all persons doing work under the control of
+these assessments, risk mitigation controls are identified,
+business representatives to discuss health and safety
+Honeywell are made aware of the Sustainable Opportunity
+implemented, and monitored to help ensure effective worker
+considerations affecting the community.
+Policy, significant risks and compliance obligations associated
+protections remain in place. Types of assessments include
+with their work, and implications of not confirming to HSE
+pre-use chemical reviews, ergonomic assessments, personal
+requirements.
+protective equipment evaluations and inspections, procedure
+checks for reporting adverse effects from chemicals, and
+routine exposure monitoring for certain chemicals known to
+be present in the workplace. Upon identification of a risk, we
+implement one or more of the following risk-reducing controls:
+eliminate the activity or chemical usage, switch to a lower-
+risk activity or chemical, install engineered controls, apply
+Honeywell | 2024 IMPACT REPORT | 38
+
+=== PAGE BREAK ===
+
+PEOPLE
+CORPORATE SOCIAL
+RESPONSIBILITY
+Honeywell’s global Corporate Social
+Responsibility initiatives improve lives and
+inspire change in communities around the
+world. Our partnerships and programs focus
+$1.9M
+on access to STEM education; sustainability
+awareness; humanitarian relief; and
+employee volunteerism — underpinned by
+our commitment to advance inclusion and $10.8M $3.5M
+diversity.
+employee grants available
+through Honeywell
+annual investment matching donations
+humanitarian relief
+in Corporate through HIPAC
+foundation
+Social Responsibility
+35,000+ $644K $443K
+annual volunteer hours employee giving annual in-kind
+to Honeywell causes product donations
+Honeywell | 2024 IMPACT REPORT | 39
+
+=== PAGE BREAK ===
+
+PEOPLE
+SHAPING THE NEXT
+GENERATION OF INNOVATORS
+Every community needs a STEM-trained The Honeywell Leadership Challenge Academy Honeywell partnered with the NFL Carolina
+workforce of diverse individuals who are curious infuses STEM curriculum and leadership Panthers and two NBA teams, the Charlotte
+and eager to solve the world’s most pressing development into a week-long camp for high Hornets and Atlanta Hawks, to challenge
+problems. school students. Hosted at the U.S. Space and students to consider all the ways an
+Rocket Center in Huntsville, Alabama, students entertainment destination could be more
+Honeywell has partnered with organizations
+from around the world form teams to build and sustainable. Students considered the
+around the world to make STEM accessible
+launch model rockets, successfully complete use of environmentally friendly materials,
+and engaging to our next generation of
+simulated space missions, and learn new skills incorporating renewable energy sources
+Futureshapers. These programs put learning
+that apply on earth and in space. Since starting like solar panels and wind turbines, and
+into action to inspire young people to
+the program in 2010, Honeywell has sponsored implementing water-saving technologies, to
+pursue studies and careers in STEM and
+more than 3,000 students to attend the unique create innovative solutions of their own. The
+sustainability-related disciplines.
+space camp experience. winning projects included using water pistons
+and automation to move seats and stages with
+less energy and converting foot traffic into
+energy to power the arena.
+Students across Malaysia addressed real-world
+sustainability challenges in the Honeywell
+STEM For Sustainability Competition.
+Following months of mentoring, concept
+design and presentation preparation, the
+team from Universiti Putra Malaysia won with
+an improved design for rainwater harvesting
+to reduce utilization of the country’s water
+infrastructure. Their prototype addressed
+catchment and treatment for residential and
+agricultural uses and was equipped with soil
+moisture sensors and automated operations.
+Honeywell | 2024 IMPACT REPORT | 40
+
+=== PAGE BREAK ===
+
+PEOPLE
+INVESTING IN THE STEM WORKFORCE which aims to protect and revive ecosystems
+across the globe. Driven by a force of
+OF TOMORROW
+Honeywell volunteers, we are on track to plant
+By integrating workforce development into the
+1 million saplings across 10 cities by 2032. In
+classroom setting, Honeywell is augmenting
+addition, many of the newly-planted trees will
+the educational experience for students of
+produce fruits and vegetables that can be sold
+all ages and providing real-time, hands-on
+to generate income.
+opportunities to develop skills for the future.
+Honeywell recognizes forward-thinking
+In South Africa, Honeywell has partnered with
+companies and public projects that are
+the Gauteng Department of Education to
+accelerating environmental impact goals,
+provide STEM labs in area schools to boost
+including developing affordable, energy-
+digital acumen, upskilling local students and
+efficient housing, investing in electric vehicles
+matching them with STEM-focused jobs.
+and infrastructure, and expanding access
+Honeywell has developed a partnership with to clean energy. Through programs like
+Arizona’s largest school system to ignite Sustain Charlotte, Honeywell is spotlighting
+enthusiasm for science and math among the achievements of environmental leaders
+students K–12. The Graduation-Plus Initiative, and championing issues that shape the
+aimed at high school students, helps students sustainability of our communities.
+build robust portfolios, including support on
+capstone projects and internships, ensuring
+across the country help students build the Honeywell joined Discovery Education, the
+they are college-, career- and community-
+technical skills and knowledge required to join, world’s leading edtech provider, to address
+ready.
+compete and succeed in the global industrial the environmental education gap. The newly
+automation sector. The Labs focus on skills launched Environmental Education Initiative
+ranging from electrical and civil engineering to aims to empower over 10 million students by
+automation, computer science and other STEM 2030 to make informed decisions that support
+subjects. healthy environments and civic engagement for
+all generations. As a coalition, we create digital
+ENVIRONMENTAL EDUCATION education resources and tools for classrooms
+TAKES ROOT to inspire students to be changemakers in their
+communities.
+Closing the gap between knowledge and
+action is critical to protecting the environment. Honeywell Hometown Solutions India
+Honeywell helps deliver environmental- Foundation (HHSIF), a philanthropic arm of
+By forging strong partnerships with universities
+focused education and accelerating activations Honeywell, partners with the Give Me Trees
+across Romania, Honeywell is helping to
+to empower people and businesses to make Trust to launch “Plant the Future - A million
+shape a diverse pool of talent. In all, nine
+informed decisions that support environmental tree project.” The initiative supports the United
+Futureshaper Labs located in universities
+integrity and economic viability. Nations Decade on Ecosystem Restoration,
+Honeywell | 2024 IMPACT REPORT | 41
+
+=== PAGE BREAK ===
+
+PEOPLE
+VOLUNTEERING
+FOR THE GREATER GOOD
+Honeywell’s annual Global Volunteering Month is a tradition Financial expertise
+that encourages our entire workforce to put their time and
+Ben Harris, finance manager at Honeywell, learned about a
+talents to work for the greater good.
+unique volunteer opportunity to help Roof Above, a nonprofit
+During the 2023 Global Volunteering Month, and year-round, organization and Honeywell partner in Charlotte, North Carolina,
+Honeywell employees enlisted friends, families and business that works to provide resources and housing support to those
+partners to plant urban gardens, collect clothing for donations, experiencing homelessness.
+mentor students, pack hundreds of pounds of food to feed
+“What caught my eye is that Honeywell was looking for volunteers
+hungry families, and more. With hundreds of activities occurring
+to offer their professional skills to help a community partner,”
+around the globe, Honeywell employees increased previous
+Harris says. “And they needed support specifically in finance,
+years’ investment in local communities, totaling more than
+which is my education and background. It was a cool opportunity
+35,000 volunteer hours throughout the year.
+to do what I do every day, but in a new way.”
+HUMANITARIAN RELIEF POWERED Harris explains that the overall task was to help Roof Above with
+financial reporting and forecasting to be able to look at their
+BY EMPLOYEE GIVING
+finances in a faster, more reliable way and make better-informed
+When a natural disaster strikes, the Honeywell Humanitarian
+decisions about the future.
+Relief Foundation (HHRF) acts quickly, delivering direct
+Over about two months, Harris and fellow Futureshaper Andrew
+assistance to employees and communities in need.
+Miller, senior financial analyst at Honeywell, worked with the
+Since the HHRF began in 2005, more than $7.7 million in relief Roof Above team, offering ideas and solutions on how Roof
+assistance has been donated by thousands of employees and Above could better leverage existing tools and resources.
+provided to more than 2,600 employees. Generous employee
+Greg Lewis, Honeywell Senior Vice President and Chief Financial
+donations have helped the HHRF rebuild 930 homes, four
+Officer, was the executive sponsor of this initiative. “Sharing the
+schools, nine medical clinics and one elder-care center, with
+expertise of our employees is one of the most impactful ways we
+more projects in process.
+can support our community partners. From IT audits to financial
+modeling, pro bono legal consults to HR policy reviews, our
+SPOTLIGHT ON SKILLS-BASED VOLUNTEERING
+Futureshapers are helping to modernize the agencies that do so
+Helping our partners in the community can take different much — often with limited resources — to keep our communities
+forms. But for these Futureshapers, making a difference in the strong and vibrant,” Lewis said. “Sharing core capabilities that we
+community means putting their job-related expertise to use. are so used to at Honeywell can make a huge difference.”
+Honeywell | 2024 IMPACT REPORT | 42
+
+=== PAGE BREAK ===
+
+LOREN IPSUM | LOREN IPSUM
+PRINCIPLES
+INTEGRITY AND COMPLIANCE 45 AI GOVERNANCE 51 A FIRM FOUNDATION OF
+PRODUCT SAFETY AND INTEGRITY 57
+• ORGANIZATION & LEADERSHIP 45 • RESPONSIBLE USE OF AI 51
+• BOARD OVERSIGHT 45 CHARTING A PATH FORWARD WITH
+HSE GOVERNANCE 52
+POLITICAL ACCOUNTABILITY 58
+• KEY ELEMENTS OF OUR INTEGRITY
+• VOLUNTARY PROTECTION PROGRAM 52
+AND COMPLIANCE PROGRAMS 46
+• RESPONSIBLE CARE® PROGRAM 52
+• ANTI-CORRUPTION PROGRAM 46
+• ENVIROMENTAL JUSTICE 52
+• GLOBAL TRADE CONTROLS PROGRAM 46
+BOARD OF DIRECTORS 53
+• INTEGRITY AND ETHICS CERTIFICATION,
+TRAINING AND COMMUNICATION 47
+• BOARD OVERSIGHT OF ESG 53
+• WHISTLEBLOWER PROGRAM 47
+• ENTERPRISE RISK MANAGEMENT 53
+• HUMAN RIGHTS 48
+• SHAREOWNER ENGAGEMENT 53
+DATA PROTECTION AND CYBERSECURITY 49
+MAINTAINING EXPERTISE
+IN SUPPLY CHAIN MANAGEMENT 54
+• DATA PRIVACY GOVERNANCE 49
+• SUPPLY CHAIN INTEGRITY:
+• DATA PRIVACY PRINCIPLES 49
+ROLES AND RESPONSIBILITIES 54
+• TRAINING AND AWARENESS 49
+• SUPPLIER CODE OF BUSINESS CONDUCT 54
+• DATA PRIVACY AND SECURITY BY DESIGN 50
+• SUPPLIER DIVERSITY 55
+• CYBERSECURITY 50
+• SUPPLY CHAIN DUE DILIGENCE 55
+• AUDIT 50
+• EMPLOYEE TRAINING 56
+• SUPPLIER RISK MANAGEMENT 50
+• CRITICAL MATERIALS 56
+• INCIDENT RESPONSE 50
+• CONFLICT MINERALS 56
+Honeywell | 2024 IMPACT REPORT | 43
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+PRINCIPLES
+At Honeywell, we are dedicated to conducting business with
+integrity and ethics, guided by our Code of Business Conduct.
+These principles are the cornerstones of how we operate
+our company. We have high standards, and we’re proud of
+our Futureshapers who uphold them in every decision, every
+day. Our senior leadership team collaborates closely with our
+Board of Directors to ensure the company upholds responsible
+reporting and operating practices, and complies with
+international regulations and polices. Our efforts in these areas
+contribute to Honeywell's reputation for high standards and the
+success of our Futureshapers.
+Honeywell | 2024 IMPACT REPORT | 44
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+INTEGRITY
+AND COMPLIANCE
+Our Code of Business Conduct defines a baseline set of defense to support our daily business operations. The company BOARD OVERSIGHT
+requirements articulating how we treat employees, customers, has a dedicated Integrity and Compliance organization that is
+The Board of Directors has overall oversight responsibility for
+suppliers, shareholders and communities around the world. led by the Vice President and Chief Compliance Officer and the
+integrity and compliance at Honeywell, and the Corporate
+It also empowers employees to recognize and report integrity Vice President and General Counsel, ESG, who also serves as
+Governance and Responsibility Committee (CGRC), the
+and compliance issues, and to contribute toward upholding a Secretary of the Board. Both have direct access to the Board of
+Audit Committee and the Management Development and
+work environment where everyone is treated ethically and with Directors.
+Compensation Committee (MDCC) each play a role in providing
+respect.
+These individuals co-chair the Corporate Integrity and oversight over Honeywell’s Integrity and Compliance program.
+Through close collaboration with risk area owners and subject Compliance Council, which includes integrity and compliance
+The CGRC receives reports from the Chief Compliance Officer.
+matter experts, Honeywell revises the Code of Business representatives from each strategic business group and region,
+Topics reported by the Chief Compliance Officer include the
+Conduct every year to ensure it remains up to date. Our Code is as well as representatives from key compliance functions
+company’s integrity and ethics program, whistleblower and
+offered in 28 languages. such as Cybersecurity, Data Privacy, Health and Safety, and
+investigations program, ethics assessment results and critical
+Procurement. The Council monitors compliance with Honeywell
+The Code affirms our commitment to:
+regulatory compliance programs.
+policies and applicable laws and regulations, evaluates and
+• Workplace respect, diversity and inclusion
+monitors trends arising from misconduct investigations,
+The Audit Committee receives annual reports regarding
+promotes awareness of integrity and compliance topics
+• A work environment in which employees can communicate
+the company’s compliance risk management program and
+throughout the organization, shares insights from employee
+openly and voice concerns without fear of retaliation,
+quarterly reports detailing significant accounting and controls
+ethical culture surveys, drives best practices, provides feedback
+intimidation or harassment
+investigations, along with disciplinary and other corrective
+on global integrity and compliance program enhancements and
+• A safe and healthy workplace actions taken in response to substantiated allegations.
+assists in development and implementation of integrity and
+• Honest and fair business practices, avoiding conflicts of compliance initiatives.
+The MDCC receives quarterly summaries detailing any
+interests and prohibiting improper payments
+The integrity and compliance representatives from the strategic significant, substantiated human resources investigations
+• Maintaining accurate books and records business groups and regions are responsible for effective (including those involving discrimination, harassment,
+implementation and continuing effectiveness of integrity workplace respect and workplace violence) and disciplinary
+• Robust data privacy, sound cybersecurity practices and
+and compliance initiatives in the areas they represent. Their actions taken in response.
+responsible AI
+responsibilities include monitoring trends and concerns
+arising from misconduct investigations, providing feedback
+ORGANIZATION AND LEADERSHIP
+on the program and sharing lessons learned for continuous
+Honeywell’s Integrity and Compliance Program is a Corporate
+improvement.
+Center of Excellence that provides a strong second line of
+Honeywell | 2024 IMPACT REPORT | 45
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+KEY ELEMENTS OF OUR INTEGRITY AND ANTI-CORRUPTION PROGRAM screening for risk, enables mandatory advanced approval
+of commissioned sales agents, and blocks payments until
+COMPLIANCE PROGRAM
+Honeywell has a well-established, global anti-corruption
+verification that a proper basis for payment has been logged
+• The ACCESS Integrity Helpline is a 24-hour, multilingual program designed to detect, investigate and remediate any
+into the approval system.
+service operated by an independent third-party provider that issues related to potential anti-corruption and anti-bribery
+is open to all internal and external stakeholders concerns using modern, digital tools and experienced, globally- Honeywell also conducts continuous monitoring of suppliers
+dispersed personnel located in high-risk regions to execute the through its supplier due diligence program.
+• Integrity and Compliance councils operate at the corporate,
+elements of the program.
+business unit and regional levels
+GLOBAL TRADE CONTROLS PROGRAM
+The foundation of this program is our company-wide anti-
+• Mandatory company-wide training for all employees in health,
+corruption policy. Available in over 20 languages, this policy As a global company, Honeywell has a mature trade program
+safety and environmental responsibility, nondiscrimination,
+applies to all employees, directors, sales intermediaries, designed to implement effective trade controls practices in
+harassment, conflicts of interest, anti-corruption,
+suppliers and vendors, and prohibits offering, making or critical areas related to export, trade sanctions and import
+cybersecurity, data privacy and trade controls
+accepting a bribe; making any facilitation payments or retaining compliance under the laws and regulations of the jurisdictions
+• Robust and frequent communications to engage all levels of a third party when there is a reason to suspect an improper where we develop technology, locate operations, and ship
+the company on the criticality of integrity and compliance payment. products and services. This program relies on access to
+sophisticated data related to trade transactions, using modern
+• Comprehensive training on key compliance topics in over 20 Honeywell’s anti-corruption organization is led by our Vice
+tools to classify critical technology for global trade, and a
+native languages President and General Counsel for Anti-Corruption, who
+geographically dispersed global team to reside close to our
+supervises a team of professionals with diverse backgrounds
+• Essential compliance tools that offer near real-time visibility business to provide timely and informed advice to our business
+in law, auditing and analytics. The team is dispersed globally
+into business transactions partners.
+with on-the-ground presence in key geographies. Honeywell
+• Global compliance teams in regions at elevated risk for also has a due diligence and analytics center of excellence Honeywell’s statement of its trade principles can be found in its
+compliance concerns responsible for maintaining compliance processes, conducting Global Trade Policy and Global Import Policy. The Vice President
+due diligence on customer and supplier third parties, and using and General Counsel for Global Trade leads the export and
+• Frequent self-assessments, independent internal and third-
+data analytics to identify indicators of risk. trade sanctions programs, and the Vice President for Import
+party reviews and audits of compliance risk areas
+Compliance leads the customs and import area. As a result of
+• External and internal risk assessments evaluate the strength
+these key organizations, Honeywell is well-positioned to manage
+Honeywell has implemented a suite of digital
+of our ethics and compliance program against standards
+the fast-changing risk profile of the global trade upon which
+tools and processes to enable the anti-corruption
+informed by government authorities and industry best
+much of its business relies daily to meet customer needs.
+practices program including a Honeywell-unique risk map
+Due to the dynamic nature of global trade, Honeywell
+based upon over 1,000 data elements.
+• Robust integration processes ensure newly acquired
+has invested in efforts to identify and mitigate the risk of
+companies understand and comply with Honeywell principles,
+Honeywell uses a risk assessment to allocate resources and the diversion of its products to unauthorized users. It has
+policies and procedures
+implement standard risk mitigation actions based upon the implemented enhanced due diligence and data analytics related
+• The Internal Audit organization conducts independent audits anti-corruption risk profile of our business that includes to detection of potential trade diversion and unauthorized
+of various compliance program elements to help ensure tailored in-person and online annual anti-corruption training. end use or unapproved end users of Honeywell’s controlled
+Honeywell requires all payments to commissioned sales agents products. These efforts protect Honeywell’s brand and
+policies and procedures are operating as designed
+to be processed through its sales intermediary end-to-end reputation and ensure its products are used as intended
+tool, a homegrown digital process that engages in automated by authorized users, an expectation of its shareholders and
+regulators globally.
+Honeywell | 2024 IMPACT REPORT | 46
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+INTEGRITY AND ETHICS CERTIFICATION, TRAINING and report any instances of ethical misconduct. The Integrity
+and Compliance team works with the Communications
+AND COMMUNICATION
+Department to establish an annual communications plan based
+To hold our workforce to Honeywell’s integrity and ethics
+on misconduct violation trends, enterprise risk management
+standards, all officers and employees, where permitted by law,
+results and audit findings. The communications plan includes
+are required to complete annual Code of Business Conduct
+initiatives to drive integrity awareness communications across
+training, and Honeywell requires all officers and employees to
+Honeywell, including through town halls, newsletters and
+annually certify their compliance with its tenets.
+monthly integrity awareness manager toolkits that provide
+Honeywell is committed to obtaining annual Code of Business people managers with ready-to-use materials to support
+Conduct certification from 100% of all eligible employees at discussion of integrity and compliance topics with their teams.
+all levels of the organization, including production employees, Monthly integrity awareness communications have covered
+While Honeywell works hard to identify, incentivize and reward
+part-time employees and interns. The completion status of this topics such as workplace respect, diversity and inclusion,
+those who do the right thing, it also takes swift and decisive
+training and certification requirement is reported to the CGRC conflicts of interest, anti-corruption and the importance of
+action, including notifying government authorities and imposing
+each year. accurate books and records.
+serious employment action up to and including termination,
+Honeywell also requires individual contractors and in compliance with all local requirements, against employees
+WHISTLEBLOWER PROGRAM
+subcontractors to complete Code of Conduct training as part of found to have engaged in conduct that is a violation of our Code
+their onboarding process. Honeywell ensures all allegations of suspected violations of the of Business Conduct, company policy or applicable laws.
+Code of Business Conduct, company policies and applicable
+Honeywell’s mandatory, annual Code of Business Conduct Honeywell will not tolerate any form of retaliation for good
+laws or regulations are investigated promptly, thoroughly,
+training and certification process ensures that all eligible faith reporting of actual or potential misconduct and
+competently and confidentially.
+employees receive training on high-priority integrity and communicates this policy to all employees, including through
+compliance topics on a timely and regular basis. Topics that Honeywell provides various mechanisms for employees to training required as part of the annual Code of Business
+have been addressed include workplace harassment, conflicts report concerns, such as phone, email and online through Conduct certification process that applies to all employees
+of interest, anti-corruption, accurate books and records, health Honeywell’s ACCESS Integrity helpline. where legally permissible. Our no-retaliation policy ensures
+and safety, cybersecurity and data privacy. employees who report a compliance concern or suspected
+Honeywell’s ACCESS Integrity helpline is a 24-hour, multilingual
+violation in good faith will not be subject to any disciplinary
+New employees must complete Code of Business Conduct service operated by an independent third-party provider
+action or reduction in force without the advance approval of the
+training within 30 days of hire. We also assign other that enables any internal or external party to report known or
+Law Department. Honeywell investigates and responds to all
+comprehensive and mandatory compliance learning within 60 suspected violations.
+allegations of retaliation in any form, including but not limited
+days of hire depending on the new employee’s role and location,
+Anyone who reports a concern has the option to do so
+to threats, harassment, reprimands, suspension of payment of
+including training related to handling conflicts of interest, anti-
+anonymously, where permitted by applicable law.
+compensation or benefits, transfers or demotions.
+corruption, antitrust, records management, data privacy and
+All concerns reported through any of the mechanisms
+cybersecurity. For more information, please see our Whistleblower Program
+mentioned above are investigated promptly, thoroughly and
+Statement.
+Honeywell empowers and expects our people managers to
+competently in accordance with applicable Honeywell policy
+communicate openly with their team members regarding the
+and/or law. Honeywell provides feedback on the report to the
+importance of conducting themselves with integrity. That
+person reporting the issue (if that person is known) within a Honeywell investigates and responds to 100% of
+includes fostering an environment that encourages candid
+reasonable timeframe.
+the allegations reported through ACCESS Integrity.
+discussion of integrity and compliance topics and how to raise
+Honeywell | 2024 IMPACT REPORT | 47
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+HUMAN RIGHTS
+Honeywell’s Code of Business Conduct, Supplier Code of
+Business Conduct and our Human Rights Policy address
+a broad range of human and workplace rights in our global
+operations and supply chain to ensure fairness, ethical behavior,
+dignity, respect and compliance with all applicable laws of the
+jurisdictions where we operate.
+Our Human Rights Policy applies to all Honeywell workers
+worldwide, including contingent workers, agents and candidates
+for hire. Honeywell also requires suppliers to uphold human
+rights principles as described in Honeywell’s Supplier Code of
+Conduct. These expectations are endorsed by Honeywell’s Chief
+Executive Officer and are reinforced through various internal
+and external communication channels.
+Key elements of our Human Rights Policy include inclusion and
+diversity, workplace respect, freedom of association, a safe and
+healthy workplace, workplace security, work hours and wages,
+forced labor and human trafficking, child labor and rights of
+local communities and those who live and work there.
+Honeywell conducts periodic global human rights impact
+assessments to better understand Honeywell’s potential
+human rights impacts. Comprising interviews with internal
+stakeholders, industry information, country risk information
+and review of documentation, the assessments have informed
+improvement areas that have been considered and actioned to
+improve our policies, processes, training and other compliance
+controls in place to continue to fulfill our Human Rights
+commitments.
+Top Score In Corporate Equality Index
+Human Rights Campaign Foundation's U.S. Corporate Equality Index is the national
+benchmarking tool on corporate policies, practices and benefits pertinent to lesbian,
+gay, bisexual, transgender and queer employees. Honeywell achieved a top score of
+100 earning the coveted "Equality 100 Award."
+Honeywell | 2024 IMPACT REPORT | 48
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+DATA PROTECTION
+AND CYBERSECURITY
+Honeywell is committed to protecting the personal data of DATA PRIVACY PRINCIPLES TRAINING AND AWARENESS
+employees, customers, suppliers and others who entrust their
+Honeywell’s data privacy policies and practices have been At Honeywell, we ensure our employees understand data
+data to us as well as the technology resources we provide to
+established across Honeywell’s products and business protection is everyone’s responsibility. Toward that end,
+our employees and others. As such, Honeywell has in place
+operations and promote adherence to data privacy principles Honeywell deploys mandatory all-employee training on data
+appropriate data privacy and cybersecurity organizational
+commonly recognized around the world, including: privacy and cybersecurity issues during onboarding and as
+structures, policies and procedures to respect individual privacy
+part of annual Code of Business Conduct certification and
+rights and promote data protection and information security.
+• We fairly and lawfully process personal data for legitimate
+training. Honeywell also requires job-specific data privacy
+business purposes.
+training for certain roles. We conduct phishing scenario learning
+DATA PRIVACY GOVERNANCE
+experiences and cybersecurity knowledge campaigns to
+• We strive to use the minimum amount of personal data
+Honeywell’s Global Data Privacy Program led by our Vice maintain awareness of these ongoing threats.
+needed to accomplish our objectives and avoid processing
+President and GC Data Privacy, Cyber and Trust, Digital
+personal data when possible.
+Data, and AI Governance and Chief Privacy Officer includes
+• We do not share personal data with anyone, inside or outside
+a dedicated in-house data privacy team within the Law
+our Company, who does not have a business need to know it.
+Department which monitors developments in data privacy
+regulation globally. The Data Privacy Function is responsible for
+• We make our privacy practices transparent and clear to
+developing and operationalizing our data protection strategy to
+individuals.
+ensure compliance with applicable data protection regulations
+• We provide mechanisms for individuals to exercise applicable
+worldwide. A Data Privacy Governance Council led by the
+legal rights.
+Chief Privacy Officer and comprised of cross-functional senior
+leadership meets regularly for strategic alignment and policy • We have measures in place to comply with applicable law
+decision-making. A Digital Marketing Governance Council, led regarding cross-border data sharing.
+by the Chief Privacy Officer and senior Sales and Marketing
+• We securely delete personal data when it is no longer needed
+leadership, promotes collaboration on data privacy issues in
+and in accordance with our Records Management Policy.
+digital marketing and online advertising.
+• We secure personal data in accordance with global standards.
+Honeywell | 2024 IMPACT REPORT | 49
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+DATA PRIVACY AND SECURITY BY DESIGN ISO 27001 certification for certain businesses and complies INCIDENT RESPONSE
+with the IASME standard. Further, we have completed the
+Honeywell applies data privacy and security-by-design Honeywell maintains robust data privacy and cybersecurity
+Saudi Aramco CyberSecurity Compliance Cerificate (CCC),
+principles from the beginning stages of the development of incident response policies and procedures that allow us to
+CyberVadis and Cyber GRX Tier 3 assessments and maintain a
+products, processes, systems and services involving personal respond responsibly and promptly to potential data security
+cybersecurity insurance policy. Honeywell leverages a defensive
+data, leveraging a robust Privacy Impact Assessment program incidents. Our incident response standards, processes
+in-depth model for cybersecurity, enabling multiple levels of
+and data lifecycle design practices. Our processes incorporate and procedures include incident identification, response
+protection against threats. Our integration of protective and
+data privacy and cybersecurity starting at the beginning of any management, root cause analysis and reporting, including
+detective controls helps us prevent, defend and rapidly respond
+new product development process, in-depth security testing appropriate disclosures to regulators, law enforcement, affected
+to security risks for both our internal systems and customer-
+throughout the development process and review before those individuals, customers and other stakeholders in accordance
+facing products and services. Our program is built on industry
+products or services are released, updated or offered for sale to with law, contract and relevant standards.
+standards and constantly evolves to meet the ever-changing
+Honeywell customers. Our approach to product cybersecurity
+threat landscape.
+also includes vulnerability management, incident response and
+security bulletins. With Honeywell’s strong data privacy and
+AUDIT
+security-by-design program, customers know they can rely on
+Honeywell’s Corporate Audit department provides independent
+Honeywell to supply products and services that respect data
+assurance in accordance with Institute of Internal Auditors
+privacy and security principles while helping them comply with
+standards (IIA). Corporate Audit is directly responsible to
+applicable law. To strengthen the confidence our customers
+Honeywell’s Audit Committee on behalf of the Board of
+place in us, in 2024 we created a new Data Privacy Trust
+Directors and is not constrained by management in the
+Center available on our internet site to demonstrate our strong
+performance of its duties.
+commitment to data privacy.
+Corporate Audit periodically evaluates Honeywell’s
+CYBERSECURITY
+governance and operations related to cybersecurity and
+Honeywell’s cybersecurity framework safeguards the privacy to determine that risks are appropriately identified and
+confidentiality, integrity and availability of information assets managed, and ensure compliance to the Company’s policies
+and ensures that all regulatory, operational and contractual and procedures, and adherence to all applicable laws and
+requirements are fulfilled. Our policies and practices include regulations.
+regular internal and external audits; vulnerability assessments
+SUPPLIER RISK MANAGEMENT
+and penetration testing of the company’s systems, products
+and practices; and robust measures to monitor and respond
+Honeywell’s Supplier Risk Management standard establishes
+to data breach and cybersecurity incidents. The framework
+requirements for engaging and managing suppliers who
+is aligned to industry standards including: NIST SP 800-171,
+process, store, produce, communicate with or otherwise access
+International Organization for Standardizations (ISO) 27001,
+Honeywell information, assets or services. Our Supplier Code
+27702 and 22301, Payment Card Industry Data Security
+of Business Conduct and contracts require suppliers to comply
+Standard (PCI DSS), Sarbanes Oxley (SOX) and the Cloud
+with privacy and cybersecurity requirements, and suppliers that
+Security Alliance (CSA) program. In addition, the company
+process personal data on behalf of Honeywell or our customers
+has received Cyber Essential Scheme (CES+) certification and
+are required to comply with stringent data processing standards.
+Honeywell | 2024 IMPACT REPORT | 50
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+AI
+GOVERNANCE
+RESPONSIBLE USE OF AI • Fair and Equitable. We strive to treat people fairly and
+equitably from the design to implementation of AI, including
+As an innovative industrial leader, new technologies like AI
+seeking to identify and mitigate algorithmic bias.
+provide Honeywell tremendous opportunity as we design and
+develop pioneering solutions that address the world’s most • Privacy-Enabled. We strive to safeguard individual
+critical needs. In 2024, Honeywell implemented a Responsible confidentiality, autonomy and control over the use and
+AI Governance Framework to support our deployment of disclosure of Personal Data as feasible, appropriate and legally
+AI responsibly and in compliance with applicable law and required and to protect Honeywell and third-party intellectual
+Company policy. Under the direction of Honeywell’s Data & AI property and data rights.
+Steering Committee comprised of Honeywell senior leaders,
+• Transparent and Explainable. We promote transparency in
+Honeywell’s Responsible AI Governance Framework provides
+our design, function, description and use of AI and endeavor
+appropriate oversight, record keeping and monitoring of AI uses
+to maximize explainability of AI decision-making when feasible
+at the Company. At the core of the Company’s Responsible
+and appropriate.
+AI Governance Framework is a Responsible AI Policy based
+• Sustainable. We are committed to reducing our
+on a set of principles that inform decision making across the
+environmental footprint, including supporting the
+Company’s AI uses. The following are Honeywell’s Responsible
+environmentally and socially conscious use of AI.
+AI Principles:
+• Accountable. We strive to hold ourselves accountable
+through robust AI governance, clear lines of responsibility,
+and monitoring to help ensure continuous improvement. We
+expect our partners to do the same.
+• Safe and Secure. We seek to protect against unintended
+applications, access, or harm associated with our use or
+provision of AI.
+• Valid and Reliable. We aim to employ technology that
+produces appropriately consistent and accurate results and
+incorporates controls designed to help minimize disruptions.
+Honeywell | 2024 IMPACT REPORT | 51
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+Compliance with regulatory and company requirements is Honeywell’s Energy and Sustainability Solutions headquarters
+HSE
+monitored through a comprehensive three-phase governance has been certified RC14001 by an external ISO registrar since
+process. The phases include ongoing self-assessment, annual 2005. Learn more about the Responsible Care® program.
+GOVERNANCE
+verification and internal corporate audit. All Honeywell locations
+are subject to independent internal audit. ENVIRONMENTAL JUSTICE
+For internal corporate audit, a team of independent HSEPS Honeywell’s Health, Safety and Environment program includes
+Our commitment to health, safety and the environment is
+internal and external subject matter experts conduct identifying and addressing the environmental and social impact
+outlined in our Sustainable Opportunity Policy. This policy is
+the audits and focus on verification of requirements and of our operations on the surrounding communities and ensuring
+incorporated into our company-wide operating system and
+continuous improvement. When the requirements are not met, compliance with regulatory standards. Our program calls for
+serves as a blueprint for continuous operational improvement
+nonconformities are identified and corrective action plans are safe and responsible environmental stewardship, compliance
+throughout our Health, Safety, Environment, Product
+developed, implemented and monitored through our centralized with applicable laws and building trust through early and
+Stewardship and Sustainability (HSEPS) Management System.
+management system tool. consistent community engagement.
+Endorsed by our CEO and senior leadership, the policy is
+posted in every facility and communicated to all employees and Protecting the environment and meaningfully engaging the
+VOLUNTARY PROTECTION PROGRAM
+contractors annually. surrounding community have been long-standing hallmarks
+The U.S. Occupational Safety and Health Administration (OSHA)
+of our commitments. We have established procedures to
+All Honeywell locations are subject to governance via our
+Voluntary Protection Program (VPP) promotes effective site
+implement these commitments in a multi- step, integrated
+comprehensive management system based on recognized
+based safety and health protocols and sets performance-
+process that is overseen by management for both Honeywell’s
+third-party standards including ISO 14001 and ISO 45001,
+based criteria for health and safety management systems.
+current operations and legacy sites. Our commitment to
+as well as industry best practices. HSE-related incidents,
+To participate, employers must apply to OSHA and undergo
+community engagement applies to impacted fence-line
+such as injuries and environmental events, are reported via a
+a rigorous on-site evaluation by a team of safety and health
+communities, including those that could be categorized as
+comprehensive management system software solution.
+professionals. Currently, 18 of our U.S. manufacturing facilities
+environmental justice communities based on current federal
+hold the prestigious VPP STAR recognition, which is the highest
+The Honeywell HSEPS Management System encompasses 18
+and state regulatory screening tools. More details about how
+level given under the program.
+interconnected core elements and is applied everywhere we
+these actions consider fence-line and environmental justice
+operate. Implementation of the management system requires
+communities can be found in our Due Diligence Processes to
+RESPONSIBLE CARE® PROGRAM
+identification and assurance of compliance to all HSEPS
+Identify and Address Environmental and Social Risk.
+legal requirements. It sets clear, constructive objectives for
+Honeywell’s Energy and Sustainability Solutions business
+improvement and maintains the programs designed to achieve
+participates in the Responsible Care program of the American
+those objectives. In addition, we have developed detailed
+Chemistry Council (ACC). Responsible Care is a global,
+operational controls aligned to common risks and regulatory
+voluntary initiative developed by the chemicals industry to drive
+obligations in approximately 90 specific subject areas that
+continuous improvement in health, safety and environmental
+prescribe requirements related to, among other things, safety,
+performance and is practiced today in nearly 70 countries
+industrial hygiene, loss prevention, environment, health, product
+around the world. As a Responsible Care signatory company,
+stewardship, transportation safety, process safety management,
+we are committed to improving the industry’s performance
+construction safety and remediation. All Honeywell operations
+in the fields of environmental protection, occupational safety
+are required to comply with these operational controls, as well
+and health protection, plant security, process safety, product
+as any applicable legal requirements.
+stewardship, operational energy efficiency and logistics.
+Honeywell | 2024 IMPACT REPORT | 52
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+and overseeing ESG disclosure. Each Board committee strategic functional leaders throughout the year to discuss
+BOARD OF
+then has oversight responsibility over discrete ESG risk and results of risk assessments performed and the emerging risks
+opportunity areas as delegated by the Board, supported by they identify. The Vice President and staff of the Corporate Audit
+DIRECTORS
+regular engagement with the senior leaders accountable for Department, and the Vice President and General Counsel, ESG,
+the respective areas. The Board leverages our Enterprise Risk facilitate the ERM program and are primarily responsible for
+Management program and strategic planning process to the annual assessment. The Senior Vice President and Chief
+identify and prioritize ESG impacts, risks and opportunities, Financial Officer and the Senior Vice President and General
+assess the company’s performance and monitor risk mitigation Counsel review ERM results with the full Board, the CGRC
+The Board of Directors’ Corporate Governance and
+efforts. and the Audit Committee each year. As part of continuous
+Responsibility Committee (CGRC) places an emphasis on
+improvement for the ERM program, the Corporate Audit
+ensuring Board members demonstrate the right leadership
+ENTERPRISE RISK MANAGEMENT Department benchmarks with other relevant industry peers and
+traits, personality, work ethic, independence and diversity
+consulting and risk management firms to identify best practices
+of background to align with Honeywell’s performance
+The Board uses an Enterprise Risk Management (ERM) program
+and deploy risk management programs or risk framework
+culture and long-term strategic vision.
+as a key tool for understanding the range of risks facing
+improvements.
+When identifying Board candidates, the CGRC requires qualified Honeywell, as well as assessing the design and effectiveness
+candidates who are diverse with respect to race, ethnicity and/ of management’s processes, procedures and practices for SHAREOWNER ENGAGEMENT
+or gender are included in the pool from which any new director mitigating those risks. The ERM assessment deployed by
+Honeywell maintains a robust shareowner engagement
+nominee is selected, and that one or more diverse candidates management is robust, based on both an enterprise-wide
+program that features year-round opportunities for its
+are interviewed before a successful candidate is identified. “top down” and “bottom up” view of commercial, strategic,
+Board and senior management, including our independent
+legal, compliance, human capital, cyber and reputational
+This is to ensure we continue to enhance both the diversity of
+risks, and the strategies in place to mitigate those risks. Lead Director, the chairs of our Corporate Governance
+the Board and the perspectives and values that are represented
+The ERM framework also incorporates ESG impacts, risks and Responsibility Committee (CGRC) and Management,
+in Board and committee meetings.
+and opportunities, enabling a thorough assessment of the Development and Compensation Committee (MDCC), and
+The Board uses a skills and experience matrix to facilitate the company’s performance across the ESG landscape. As part of
+executive officers, to engage in dialogue with key stakeholders.
+review of our directors’ skills versus those deemed important the ERM program, there are several distinct touchpoints with
+Based on this dialogue, we have implemented actions over
+to oversee the company’s current strategy. The skills included each Strategic Business Group Leadership Team and other
+the last several years to increase shareowner rights, enhance
+in the matrix are evaluated against the company’s articulated
+the Board’s structure, increase transparency on political and
+strategy each year so the matrix can serve as an up-to-date tool
+climate lobbying, disclose our EEO-1 report, and augment our
+“The Board of Directors is committed to
+for identifying director nominees who collectively possess the
+commitment to sustainability and corporate responsibility.
+guiding Honeywell in a way that mitigates
+complementary experience, qualifications, skills and attributes
+risks but also capitalizes on opportunities
+to guide the company. Our shareowner engagement program has covered topics
+aligned with our strategic priorities and the
+such as our business strategy, comprehensive portfolio review,
+powerful megatrends that will shape the global
+BOARD OVERSIGHT OF ESG
+corporate governance practices, executive compensation
+economy. We do this by engaging with Vimal
+The Board and the CGRC proactively oversee the company’s and the executive leadership team to focus programs, CEO succession, political lobbying disclosures,
+overall environmental, social and governance (ESG) on generating value for our shareholders climate change, inclusion and diversity, human capital
+performance. The CGRC has responsibility for reviewing and delivering solutions for our customers to management, human rights, sustainability, social responsibility
+Honeywell’s ESG performance, strategies, goals and enable long-term growth.”
+and humanitarian relief initiatives.
+objectives, monitoring ESG impacts, risks and opportunities,
+William Ayer, Lead Independent Director
+Honeywell | 2024 IMPACT REPORT | 53
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+MAINTAINING EXPERTISE IN
+SUPPLY CHAIN MANAGEMENT
+We believe responsible supply chain management is critical The VP and Chief Procurement Officer has overall responsibility Key elements of our Supplier Code of Business Conduct include:
+to upholding our commitment to integrity and compliance, for procurement, supplier risk monitoring and mitigation,
+• Labor and Human Rights: Including fair treatment of
+mitigating financial risk and acting as a good corporate supplier social responsibility, and supplier adherence to the
+employees, no child or involuntary labor, fair wages and
+citizen. Supplier Code of Business Conduct.
+benefits, subcontractor compliance and acceptable living
+The VP and General Counsel, Supply Chain has overall conditions.
+Honeywell’s Integrated Supply Chain (ISC) activities are
+responsibility for legal compliance of suppliers, including setting
+managed by a global team of seasoned professionals who • Health and Safety: Including occupational safety, emergency
+standardized contract language to ensure compliance with legal
+manage tens of thousands of suppliers around the globe. preparedness and sanitation.
+and Honeywell requirements.
+Our professionals have expertise in procurement, supply
+• Environmental: Including environmental permits, waste, and
+management, operations management, logistics, supplier
+pollution management; labeling and warning requirements,
+SUPPLIER CODE OF BUSINESS CONDUCT
+resiliency and supply chain performance optimization.
+hazardous substance management and reporting, and
+Honeywell’s Supplier Code of Business Conduct sets forth
+Our management structure ensures we have the necessary appropriate programs to understand and mitigate GHG
+our commitment to integrity and compliance within our
+expertise to support the breadth and complexity of our supply emissions in their operations, facilities and supply chain.
+global supply chain. We require all our suppliers to adhere
+chain operations.
+to the Supplier Code of Business Conduct and ensure these • Integrity and Compliance: Including books and
+recordkeeping, business integrity, protection of intellectual
+requirements are also met within their supply chain. Supplier
+SUPPLY CHAIN INTEGRITY:
+property, substance abuse, responsible sourcing of minerals,
+adherence to Honeywell’s Supplier Code of Business Conduct is
+ROLES AND RESPONSIBILITIES
+adherence to applicable trade controls and quality.
+a key consideration when we make sourcing decisions.
+Honeywell’s Supplier Code of Business Conduct requires its • Management Systems: Including management
+accountability, risk management, training, standards, audits,
+suppliers to:
+CHIEF EXECUTIVE OFFICER
+third-party diligence and assessments.
+• Provide their employees with a safe working environment.
+• Treat their workers with dignity and respect.
+• Engage in environmentally sound and sustainable
+manufacturing processes.
+SENIOR AND CHIEF SENIOR VP AND
+SUPPLY CHAIN OFFICER GENERAL COUNSEL
+• Comply with the law in all countries where they conduct
+business.
+• Foster a culture in which employees and managers can
+VP AND CHIEF VP AND GENERAL COUNSEL communicate openly and raise concerns without fear of
+PROCUREMENT OFFICER SUPPLY CHAIN
+retaliation, intimidation or harassment.
+Honeywell | 2024 IMPACT REPORT | 54
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+SUPPLIER DIVERSITY SUPPLY CHAIN DUE DILIGENCE
+Honeywell understands the importance of supplier diversity in Screening of New Suppliers
+creating a more inclusive and equitable business environment.
+Honeywell has an ongoing policy of screening and vetting new
+Our supplier diversity strategy is carefully designed to promote
+suppliers. As part of the screening process, Honeywell considers
+supplier diversity, foster inclusion and create equal opportunities
+vetted reliable sources that identify supplier compliance risks,
+within our procurement processes.
+including labor and human rights, fraud, illegal activities,
+We’ve established clear policies and procedures that effectively corruption, environmental crimes, trade risks and other
+guide our team in executing our supplier diversity program. Supplier Code of Business Conduct considerations. Identified
+These best practices are continuously reviewed and refined, compliance risks are reviewed and vetted by subject matter
+ensuring our environment actively promotes supplier diversity, experts.
+inclusion and equitable access opportunities.
+Ongoing Monitoring of Existing Suppliers
+wages and benefits, air emissions, protection of intellectual
+Our supplier diversity program leverages tools with industry-
+In addition, Honeywell has implemented a real-time continuous property, environmental impact, reasonable work hours and
+leading data to ensure accuracy and compliance. Through
+monitoring diligence program that applies to existing suppliers. human trafficking.
+collaboration with a trusted third-party organization, we have
+The monitoring program considers vetted reliable sources
+This process includes conducting thorough on-site audits that
+established a robust system to maintain a transparent and
+and monitors for a variety of compliance risks, including labor
+gather information from an on-site walkthrough, employee and
+reliable record of our supplier diversity spend.
+and other human rights, fraud, illegal activities, corruption,
+management interviews, and documentation review of payroll
+Furthermore, by partnering with this third-party organization environmental crimes, trade risks, sanctions and other
+information, policies, training logs, permits, verification of waste
+that specializes in supplier diversity tracking, we ensure small Supplier Code of Business Conduct considerations. The
+management procedures and workers’ safety conditions.
+and diverse suppliers looking to partner with our organization program considers and applies different levels of screening
+Corrective Action and Remediation
+can use the support of our third-party agency to assist with for each supplier, depending upon a variety of risk factors that
+getting certified. Resources are offered through the Supplier includes geography and industry. Review and clearance by an
+Honeywell implements corrective action plans to remediate
+Diversity Portal. appropriate subject matter expert is required when a supplier
+risks or findings identified through supplier screening,
+generates a finding against any of the compliance or Supplier
+monitoring or audit programs, up to and including suspension or
+We recognize the value and strength diverse-owned companies
+Code of Business Conduct elements.
+termination of the supplier.
+bring to our supply chain, and we are committed to supporting
+and empowering these businesses. Supplier On-Site Audits Examples of significant findings might include.
+Each year, we work with qualified third parties to conduct on-
+• Labor and Human Rights: Excessive overtime, unpaid hours,
+site audits of certain higher-risk suppliers using a standardized
+involuntary labor or unfair treatment, including discrimination
+assessment that incorporates the requirements of our Supplier
+and harassment.
+Code of Business Conduct. We prioritize higher-risk suppliers
+• Health and Safety: No health permits or health audits;
+when selecting suppliers for on-site audits, based on an analysis
+blocked, unmarked or unlighted emergency exits; and
+that takes into account global high-risk geographies, spend,
+improper or no personal protective equipment.
+industry and other elements as prescribed by the Integrity and
+Compliance function and the Law Department. Risk factors • Environmental: Missing or expired permits, hazardous waste
+assessed in the audits include, but are not limited to, child labor, discharge and improper chemical storage.
+Honeywell | 2024 IMPACT REPORT | 55
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+EMPLOYEE TRAINING CRITICAL MATERIALS
+Honeywell is committed to properly training our procurement As a manufacturer of electronic equipment, many of our
+employees to better enable them to uphold our standards when products require the use of critical materials, such as fluorspar,
+sourcing materials. We have developed robust curricula tailored precious metals, minor metals and rare earth materials. We
+recognize there is inherent risk associated with such materials,
+to specific types of jobs.
+including potential supply issues, lack of available substitutes,
+In addition to deploying training on standard procurement
+increased global demand driving heightened competition and
+practices, employees are also educated on supplier risk
+impacts from geopolitical uncertainty. We take a multifaceted
+management, conflicts of interest, code of conduct, forced labor
+approach to risk mitigation to ensure product availability,
+prevention and all applicable Honeywell procurement policies.
+manage price increases and manage supply risk.
+For example, we:
+• Practice hedging, forward-buying and lock-pricing to ensure.
+continued supply and pricing stability of critical materi
+• Monitor geopolitical trends through a tool for universal
+grading of active production suppliers
+• Conduct financial risk assessments
+• Secure multiple sources for material where possible
+• Recycle critical minerals or rare earth elements
+CONFLICT MINERALS
+Honeywell is committed to the responsible sourcing of tin
+(cassiterite), tungsten (wolframite), tantalum (columbite-
+tantalite or coltan), gold or their derivatives (collectively known
+as “3TG”) throughout our global supply chain in a manner that
+complies with applicable laws.
+These rules require certain Honeywell direct or indirect
+subsidiaries to undertake reasonable due diligence steps
+to determine the origin of the 3TG used in its products and
+disclose the results of such diligence, including filing a public
+report with the US Securities and Exchange Commission.
+Honeywell’s 3TG compliance program is designed to
+conform to the Organisation for Economic Co-operation and
+Development’s “Due Diligence Guidance for Responsible Supply
+Chains of Minerals from Conflict-Affected Areas and High-Risk
+Areas.”
+Honeywell | 2024 IMPACT REPORT | 56
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+A FIRM FOUNDATION OF PRODUCT
+SAFETY AND INTEGRITY
+Honeywell maintains extensive product and service safety For example: - BA aligns the Engineering, Quality and Safety teams with
+programs across the enterprise, focusing on quality and safety the Design and Manufacturing teams to provide pre-
+• Honeywell Aerospace’s safety and integrity initiatives are
+throughout the product lifecycle, from design to manufacture product-launch approvals.
+administered by the Product Integrity, Product Assurance &
+to the marketplace. Each strategic business unit drives safety
+Chief Engineering function. - Key metrics such as First Pass Yield, which monitors the
+processes through:
+robustness of the manufacturing processes; customer
+- This function is run in parallel to, but independently from,
+• An extensive safety policy with objectives, accountability and field-performance metrics; and the business unit’s Product
+the strategic business unit’s other businesses to avoid
+responsibilities assigned Safety Global Procedure QP-PSC-01, which addresses
+apparent conflict of interests, while safeguarding its
+potential safety issues as they arise in pre/post launch
+• Safety risk management, which includes hazard identification commitment to safety and integrity.
+testing, help ensure a rigorous and scientific approach to
+and risk assessment and control
+• Honeywell Aerospace’s Safety Management System is used
+quality and safety.
+• Safety assurance to monitor and assess performance in the Design & Certification Process, Production Systems
+• Honeywell Industrial Automation (IA) offers a broad suite of
+and Continued Airworthiness Management, and governs
+• Safety promotion by engaging in formal training programs
+products, services and solutions with a focus on automation,
+processes, procedures, personal, equipment and facilities
+and communication
+productivity and safety. IA cross-functional teams of
+standards.
+engineers, scientists and product stewardship professionals
+The Engineering, Quality, Technology and Research &
+- As part of the Safety Management System, Honeywell
+use a phase-gate approach to bring new offerings to market,
+Development teams within Honeywell’s strategic business units
+identifies the customer and regulatory requirements,
+and IA legal and regulatory teams are integrated in product
+use development phase gates to assess new offerings’ safety
+including AS9100 standards, and the approved product
+development to bring a continued focus on compliance with
+and quality, and work closely with the company’s Regulatory,
+design requirements.
+applicable regulations.
+Product Stewardship and Legal functions to properly address
+relevant regulatory, labeling and marketing requirements. • Honeywell Energy and Sustainability Solutions (ESS) safety
+• Product assurance and safety are a key part of Honeywell
+programs provide a comprehensive framework to drive
+Connected Enterprise’s software release management
+Due to the diversified product offerings across the enterprise,
+continuous improvement in product safety and stewardship.
+process. Product Compliance, Engineering and Product
+quality and safety programs are tailored to specific regulatory
+Management teams conduct a software assurance review
+guidelines and jurisdictional rules. Risk assessments are - Among other things, ESS integrates health and safety
+using standardized checklists and methodology to evaluate
+conducted throughout Honeywell’s operations as products are considerations into all aspects of its business, with a focus
+all software products. Software goes through a testing
+developed, introduced and produced. on driving compliance with all applicable regulations.
+and quality management process before release and is
+To ensure Honeywell’s products and services meet the highest • In dealing with product and service safety risk assessments,
+consistently updated through its lifecycle.
+standards, employees receive regular training, products and product/service objectives or targets, and regular external
+services are monitored for safety, and emergency response product/service safety audits, Honeywell Building Automation
+procedures are regularly tested. (BA) drives success by focusing on quality and safety through
+the product lifecycle.
+Honeywell | 2024 IMPACT REPORT | 57
+
+=== PAGE BREAK ===
+
+PRINCIPLES
+CHARTING A PATH FORWARD
+WITH POLITICAL ACCOUNTABILITY
+Engagement in the political process is critical to Honeywell’s • Streamlined and direct access to federal, state and local independent, nonemployee directors. Each year, the CGRC
+success. The company’s future growth depends on forward- lobbying reports. receives an annual report on the company’s policies and
+thinking legislation and regulation that makes society safer, practices regarding political contributions.
+• Identification of trade associations receiving membership
+more energy efficient and improves public infrastructure.
+dues of $50,000 or more from Honeywell annually and the The Senior Vice President of Global Government Relations
+Honeywell strives to engage responsibly in the political process,
+corresponding nondeductible portion of the dues. reports to the CGRC each year on trade association
+and to ensure that participation is consistent with all applicable
+memberships and to the full Board on the global lobbying
+laws and regulations, principles of good governance and high Annually, Honeywell conducts an evaluation of our lobbying
+and government relations program. The CGRC’s oversight
+standards of ethical conduct. activities and the public statements of trade associations that
+of the company’s political activities ensures compliance
+receive membership dues of $50,000 or more from Honeywell
+Honeywell is committed to providing transparent disclosure
+with applicable law and alignment with its policies, strategic
+to assess alignment with the goals of the Paris Agreement.
+of political contributions and lobbying activities. Based on
+priorities, Code of Business Conduct and values.
+Honeywell issued a publicly available report that describes
+feedback from stakeholders, Honeywell has continued to
+enhance its political engagement disclosures. The Center for Honeywell’s climate-related lobbying activities and assesses In 2020, the company established a bipartisan Advisory
+Political Accountability rates Honeywell as a “Trendsetter” alignment of these trade associations’ climate-related public Board of leaders representing a cross-section of Honeywell
+among first-tier companies. statements with Paris Agreement goals. who meet regularly to review proposed HIPAC and corporate
+disbursements to assess alignment with Honeywell’s
+Disclosures are available at https://investor.honeywell.com/ The Law Department oversees the company’s lobbying
+Foundational Principles: Integrity and Ethics, Inclusion and
+corporate-governance/political-contributions. activities. Honeywell’s Senior Vice President of Global
+Diversity, and Workplace Respect. The Advisory Board also
+Government Relations reports directly to the Senior Vice
+Honeywell makes every effort to be accurate and
+reviews memberships in third-party organizations (including
+President and General Counsel and works closely with the Vice
+comprehensive while considering the perspective of the
+trade associations) and alignment of proposed disbursements
+President and General Counsel of ESG, whose organization
+company’s largest shareowners. Disclosures include
+with Honeywell’s principles. The Advisory Board meets at the
+ensures compliance with all applicable laws with our political
+explanations of the company’s rationale for engaging in the
+start of each Congress, and at least quarterly thereafter, to
+spending policy. Honeywell’s Senior Vice President and General
+political process, identifying top legislative and regulatory
+determine whether proposed recipients of funding are eligible in
+Counsel, and its Senior Vice President of Global Government
+priorities and defining governance processes. The company’s
+alignment with Honeywell’s foundational values.
+Relations, meet regularly with the Chief Executive Officer to
+disclosures also address:
+review legislative, regulatory and political developments. Advisory Board decisions are documented and reported
+• The use of corporate funds for political contributions and
+quarterly to the HIPAC Board of Directors and to Honeywell’s
+Honeywell’s public policy efforts, including all lobbying
+contributions to tax-exempt organizations that may use funds
+Chief Executive Officer. Honeywell’s Senior Vice President,
+activities, political contributions and payments to trade
+for political purposes.
+Global Government Relations, also includes notable Advisory
+associations and other tax-exempt organizations, are the
+• Details regarding Honeywell’s exclusively employee-funded Board decisions in the annual report to the CGRC.
+responsibility of the Board’s Corporate Governance and
+political action committee, the Honeywell International Political
+Responsibility Committee (CGRC), which consists entirely of
+Action Committee (HIPAC), including its disbursements.
+Honeywell | 2024 IMPACT REPORT | 58
+
+=== PAGE BREAK ===
+
+LOREN IPSUM | LOREN IPSUM
+SASB/TCFD
+INFORMATION
+SASB/TCFD INFORMATION 60
+• SASB 60
+• TCFD DISCLOSURE 62
+• TABLE A: EXAMPLES OF CLIMATE-RELATED
+RISKS WITH MITIGATION STRATEGIES 65
+• TABLE B: EXAMPLES OF CLIMATE-RELATED
+OPPORTUNITIES WITH STRATEGIES TO REALIZE
+THE OPPORTUNITY 66
+ESG DATA 67
+Honeywell | 2024 IMPACT REPORT | 59
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+SASB
+SASB/TCFD
+The following disclosures are aligned to the Sustainability Accounting Standards Board (SASB) framework for the Resource
+INFORMATION Transformation—Electrical and Electronic Equipment (EE) industry. As a diversified industrial manufacturer, the nature of
+Honeywell’s business does not fit squarely within one industry, so Honeywell has included metrics aligned to other industries we
+believe would be of interest to our investors. Honeywell will continue to evaluate the disclosure of additional topics relevant to our
+industries, taking into account materiality, availability of reliable data and competitive sensitivities.
+Topic Accounting Metric SASB Code Honeywell Metric1/Disclosure Location
+690,042 metric tons CO₂e²;
+Gross global Scope 1 emissions, percentage covered under emissions-limiting
+RT-CH-110a.1
+regulations
+2.6% under emissions-limiting regulations
+Greenhouse Gas Emissions
+Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions,
+RT-CH-110a.2 Driving Growth Sustainably
+emissions reduction targets, and an analysis of performance against those targets
+(1) 16,198,587 GJ
+(1) total energy consumed,
+Energy Management (2) percentage grid electricity, RT-EE-130a.1 (2) 36% grid electricity
+(3) percentage renewable
+(3) 1% renewable energy
+21,4013 thousand cubic meters
+1) Total water withdrawn, (2) total water consumed, percentage of each in regions with
+RT-CH-140a.1
+High or Extremely High Baseline Water Stress
+20% in water-stressed regions
+Water Management
+Description of water management risks and discussion of strategies and practices to Wastewater and Effluent Management and Water
+RT-CH-140a.3
+mitigate those risks Stewardship
+Hazardous Waste Management Amount of hazardous waste generated RT-CH-150a.1 13,595 metric tons generated
+(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and
+RT-CH-320a.1 0.18⁴
+(b) contract employees
+Workforce Health & Safety
+Description of efforts to assess, monitor and reduce exposure of employees and contract
+RT-CH-320a.2 Protecting the Workforce
+workers to long-term (chronic) health risks
+Honeywell | 2024 IMPACT REPORT | 60
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+Topic Accounting Metric SASB Code Honeywell Metric1/Disclosure Location
+Discussion of engagement processes to manage risks and opportunities associated Report on Honeywell Due Diligence Process to Identify and
+Community Relations RT-CH-210a.1
+with community interests Address Environmental and Social Risk
+RT-EE-440a.1
+Materials Sourcing Description of the management of risks associated with the use of critical materials Critical Materials
+RT-AE-440a.1
+Management of the Legal & Discussion of corporate positions related to government regulations and/or policy
+RT-CH-530a.1 Political Contributions
+Regulatory Environment proposals that address environmental and social factors affecting the industry
+Integrity and Compliance
+Anti-Corruption Policy Highlights
+Description of policies and practices for prevention of: (1) corruption and bribery, and
+RT-EE-510a.1 Code of Business Conduct: Avoiding Conflicts of Interest, Seeking
+(2) anti-competitive behavior
+Business Openly and Honestly, Compliance with International
+Competition Laws
+Integrity and Compliance
+Discussion of processes to manage business ethics risks throughout the value chain RT-CH-150a.1 Code of Business Conduct: One Honeywell How We Treat Our
+Customers, One Honeywell How We Treat Our Suppliers
+Business Ethics
+Total amount of monetary losses as a result of legal proceedings associated with SEC Filings: Information on legal proceedings is disclosed in our Annual
+RT-CH-320a.1
+bribery or corruption (and/or illicit international trade) Report on Form 10-K and in our Quarterly Reports on Form 10-Q
+Total amount of monetary losses as a result of legal proceedings associated with SEC Filings: Information on legal proceedings is disclosed in our Annual
+RT-CH-320a.2
+anticompetitive behavior regulations Report on Form 10-K and in our Quarterly Reports on Form 10-Q
+RT-EE-000.B
+Activity Number of employees 95,000 5
+RT-AE-000.B
+1 Represents 2023 data. 2 Reported pursuant to The Greenhouse Gas Protocol. 3 Water withdrawal and Hazardous waste data reported does not include Units currently under remediation. 4 TRIR for employees and directly supervised contractors and
+calculated based on OSHA guidelines. 5 Excludes Sandia National Laboratories (Sandia) and Kansas City National Security Campus (KCNSC) work forces of approximately 24,000 employees. Sandia and KCNSC are U.S. Department of Energy facilities.
+Honeywell manages these facilities as a contract operator and does not establish or control their human resource policies.
+Honeywell | 2024 IMPACT REPORT | 61
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+TCFD DISCLOSURE
+The following table maps Honeywell’s publicly available climate-
+related discussion against the framework developed by the Task
+Force on Climate-Related Financial Disclosures. For detailed
+discussion, please see the referenced documents.
+Governance
+Disclose the organization’s governance around climate-related risks and opportunities.
+Summary response Recommended disclosure Disclosure location
+Honeywell is committed to strong corporate governance policies,
+practices and procedures designed to ensure our Board effectively
+exercises its oversight role. Our Board is responsible for, among
+other things, reviewing and monitoring implementation of
+Honeywell’s strategic plans, reviewing risk assessments, and
+monitoring mitigation activities with respect to significant risks CDP Climate Change Report
+and issues facing the company, including climate-related risks
+a) Describe the board’s oversight of climate-related risks and opportunities. 2024 Proxy: Corporate Governance
+and opportunities. The Board’s Corporate Governance and
+Responsibility Committee (CGRC) has primary responsibility
+for managing climate-related risks and opportunities. Roles for
+assessing and managing climate-related risks and opportunities
+are integrated into a number of functions and committees
+throughout the company. Honeywell’s Vice President, Health,
+Safety, and Environment is responsible for implementing our
+HSEPS Management System. Environmental goals are established
+annually with each of our strategic businesses. Honeywell’s
+Corporate Energy & Sustainability Team (CEST) drives our
+company’s goals and is led by our Integrated Supply Chain and
+Global Real Estate organizations. The cross-business, cross-
+function team meets monthly and is responsible for driving
+improvements through a rigorous process of goal setting,
+b) Describe management’s role in assessing and managing climate-related
+monitoring and measurement, training and best practice sharing.
+CDP Climate Change Report
+Progress on these goals is reported quarterly to the Company’s risks and opportunities.
+ESG Review Board and periodically to the CEO, and is reviewed with
+the CGRC at least annually.
+Honeywell | 2024 IMPACT REPORT | 62
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+Strategy
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s
+businesses, strategy, and financial planning where such information is material.
+Summary response Recommended disclosure Disclosure location
+Honeywell’s diverse portfolio of products, solutions, end-markets
+and business models — along with our decentralized operational a) Describe the climate-related risks and opportunities the organization has identified CDP Climate Change Report
+footprint and our rigorous risk identification, assessment and planning
+over the short, medium, and long term. TCFD Information Table A & Table B
+processes — help mitigate the impact of climate-related risks. We
+do not believe climate-related risks are reasonably likely to have a
+material effect in the foreseeable future on the company’s business
+or the markets it serves, nor on our results of operations, capital
+b) Describe the impact of climate-related risks and opportunities on the organization’s CDP Climate Change Report
+expenditures, or financial position. Honeywell is uniquely positioned to
+businesses, strategy, and financial planning. TCFD Information Table A & Table B
+help shape a safer future with less environmental impact. We continue
+to invent and develop technologies that provide our customers with
+adaptable and efficient solutions to address their safety, energy and
+c) Describe the resilience of the organization’s strategy, taking into consideration
+CDP Climate Change Report
+environmental needs.
+different climate-related scenarios, including a 2°C or lower scenario
+Risk Management
+Disclose how the organization identifies, assesses, and manages climate-related risks.
+Summary response Recommended disclosure Disclosure location
+a) Describe the organization’s processes for identifying and assessing climate-related
+CDP Climate Change Report
+Honeywell regularly assesses risks and opportunities at both a
+risks.
+company-wide and asset-specific level to determine both probability
+of occurrence and potential impact to the business. This assessment
+is incorporated into our standard business planning and opportunity
+b) Describe the organization’s processes for managing climate-related risks. CDP Climate Change Report
+and risk management processes. While risk and opportunity
+management are part of our standard business operations, the Board
+has responsibility for risk oversight and regularly reviews top-level,
+strategic, operational, reporting and compliance risks. c) Describe how processes for identifying, assessing, and managing climate-related
+CDP Climate Change Report
+risks are integrated into the organization’s overall risk management.
+Honeywell | 2024 IMPACT REPORT | 63
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+Metrics and Targets
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+Summary response Recommended disclosure Disclosure location
+a) Disclose the metrics used by the organization to assess climate-
+related risks and opportunities in line with its strategy and risk CDP Climate Change Report
+Honeywell has a long history of setting and achieving targets to management process.
+reduce greenhouse gas emissions. In 2023, Honeywell exceeded its
+5-year “10-10-10” target by achieving >20% reduction in Scope 1 and
+2 greenhouse gas emissions intensity, deploying 20 renewable energy
+b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse ESG Data
+opportunities, and certifying 28 facilities to ISO 50001. Honeywell has
+gas (GHG) emissions, and the related risks. CDP Climate Change Report
+committed to be carbon neutral in facilities and operations¹ by 2035.
+Honeywell also has a science-based target approved by the Science
+Based Targets initiative (SBTi) that includes scope 3 emissions.
+c) Describe the targets used by the organization to manage climate- Planet
+related risks and opportunities and performance against targets. CDP Climate Change Report
+1 Scope 1 and Scope 2
+Honeywell | 2024 IMPACT REPORT | 64
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+Table A: Examples of climate-related risks with mitigation strategies
+Time horizon
+Risk type Potential financial impact (-) Short Medium Long Mitigation strategy
+Honeywell has a comprehensive energy efficiency program and has implemented more than 6,500 sustainability
+projects since 2010 with an estimated annualized savings of more than $100 million. Honeywell has committed to be
+Transition: Increased pricing of greenhouse gas
+X carbon neutral in facilities and operations1 by 2035 and has a science-based target approved by the Science Based
+Policy and Legal emissions due to regulations
+Targets initiative (SBTi) that includes scope 3 emissions. Additionally, we evaluate the potential impact from changes in
+climate-related regulations and litigation on a quarterly basis.
+Honeywell continuously innovates to expand sustainable opportunities with our products and services. Approximately
+Reduced demand for goods and
+60% of our new product research and development investment is directed toward sustainability-oriented outcomes¹
+Transition: services due to shift in consumer
+X including offerings related to reducing GHG emissions. In addition, each of our new products is subject to an eco-
+Market preferences or changes in
+efficiency assessment considering opportunities to improve energy efficiency, and each quarter we assess whether
+purchasing power
+changes in our product mixes may impact GHG emissions.
+Climate change data is incorporated into the emergency response plans for every one of our facilities, which specify
+programs to mitigate the potential risks of physical damage. In addition, we evaluate on a quarterly basis the potential
+Reduced revenue from business
+Physical: Acute X for impact to our supply chain from physical damage due to climate-related events. Our Business Continuity
+disruption
+Management Program also creates plans to help ensure the company can continue critical operations in the event of
+a disaster and promptly recover essential systems and technology.
+Climate change data is incorporated into the emergency response plans for every one of our facilities, which specify
+programs to mitigate the potential risks of physical damage. In addition, we evaluate on a regular basis the potential
+Increased costs from repairing or
+X for impact to our supply chain from physical damage due to climate-related events. Our Business Continuity
+restoring damaged locations
+Management Program also creates plans to help ensure the company can continue critical operations in the event of
+a disaster and promptly recover essential systems and technology.
+Increased cost related to relocation Honeywell’s Global Real Estate group incorporates physical risk considerations as part of due diligence for any new
+Physical: Chronic X
+due to sea level rise locations.
+Honeywell’s Global Real Estate group incorporates energy efficiency and energy procurement as part of due diligence
+for any new location to help manage costs related to energy use, heating and cooling. In addition, Honeywell has a
+Increased cost related to increased
+comprehensive program to audit, identify, execute and track completion of energy efficiency projects in all our facilities.
+Physical: Chronic need for cooling and heating due to X
+Since project tracking began in 2010, more than 6,500 sustainability projects have been implemented at our facilities
+changing temperatures
+and have resulted in more than $100M in annualized savings. These include building automation and controls, lighting,
+compressed air and gas systems, mechanical upgrades and renewable energy projects.
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for identifying
+Honeywell | 2024 IMPACT REPORT | 65
+sustainability-oriented offerings is available at investor.honeywell.com (see “ESG/ESG Information/Identification of Sustainability-Oriented Offerings”).
+
+=== PAGE BREAK ===
+
+SASB/TCFD INFORMATION
+Table B: Examples of climate-related opportunities with strategies to realize the opportunity
+Time horizon
+Risk type Potential financial impact (-) Short Medium Long Mitigation strategy
+Through the Global Real Estate group, Honeywell consistently seeks energy-efficient alternatives and initiatives
+Reduced operating costs
+to implement throughout our facilities for new construction, project upgrades and retrofits. In addition,
+through efficiency gains and cost
+Resource Efficiency X Honeywell has a comprehensive energy efficiency program with periodic audits, goals and project reviews
+reductions by moving to more
+to completion. There have been more than 6,500 sustainability projects implemented since 2010 with an
+efficient buildings
+estimated annualized savings of more than $100 million.
+Honeywell continuously innovates to expand our portfolio of sustainable products and services. Approximately
+60% of our new product research and development investment is directed toward sustainability-oriented
+outcomes¹ including offerings related to reducing GHG emissions. In 2023, Honeywell announced the
+simplification of its operating structure to focus on three powerful megatrends: automation, the future of
+aviation and energy transition. We continue to introduce cutting-edge offerings for a vast number of global
+Increase revenue through
+Products and Services X markets and industries, with a portfolio of products and solutions including energy efficiency, electrification,
+demand for sustainable products
+net zero enablers, health, safety and security, circularity, and measurement and reporting. Climate-related
+scenario modeling is part of our annual business planning process. We use socioeconomic climate models
+with different scenario assumptions to determine product strategy and customer impact for products that
+address greenhouse gas emissions, energy efficiency and changes in fuel use such as decarbonization,
+renewable fuels and power.
+Our Government Relations team identifies and assesses emerging trends and advocates for favorable policies,
+Better competitive position legislation and regulation globally to promote clean energy and energy efficiency. Changes in regulations,
+to reflect shifting consumer increases in the demand for advanced building controls and energy efficient products, and the transition
+X
+preferences, resulting in to a lower-carbon economy support demand for our sustainable products. We estimate that Honeywell
+increased revenues technologies will have a cumulative impact of mitigating 2.0 billion metric tons of CO2e between 2023 and
+2030.²
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for identifying sustainability-oriented offerings is available at investor.honeywell.com (see “ESG/
+ESG Information/Identification of Sustainability-Oriented Offerings”). ² Methodology for estimating GHG mitigation impact is available at investor.honeywell.com (see “ESG/ESG Information/GHG Mitigation Impact of Honeywell Technologies”).
+Honeywell | 2024 IMPACT REPORT | 66
+
+=== PAGE BREAK ===
+
+ESG DATA
+ESG
+DATA
+ESG Data Sheet
+Category Metric 2022 2023
+Scope 1 GHG emissions, metric tons CO e 1,059,105 690,042
+2
+Scope 2 GHG emissions, location-based, metric tons CO e 697,091 665,877
+2
+Total Scope 1 & 2 emissions, location-based, metric tons CO2e 1,756,196 1,355,919
+GHG intensity, Scope 1 & 2 location-based, metric tons CO e/$M revenue 49.5 37.0
+2
+Scope 2 GHG emissions, market-based, metric tons CO e 694,255 695,345
+2
+Scope 3 GHG emissions2, select categories, metric tons CO e
+2
+Purchased goods and services 16,222,277 15,557,194
+Capital goods 471,091 608,814
+Greenhouse
+Fuel and energy-related activities (not included in Scope 1 & 2) 349,765 332,286
+Gas (GHG) Emissions1
+Upstream transportation and distribution 876,674 262,323
+Waste generated in operations 95,754 61,698
+Business travel 72,177 98,749
+Employee commuting 106,537 104,789
+Upstream leased assets 591 433
+Downstream leased assets 6,424 9,983
+Carbon neutrality pledge³ Scope 1 by 2035 and Scope 2 by 2035
+Science-based targets⁴ SBTi Committed
+Honeywell | 2024 IMPACT REPORT | 67
+
+=== PAGE BREAK ===
+
+ESG DATA
+ESG Data Sheet
+Category Metric 2022 2023
+Total energy consumed, gigajoules 16,462,506 16,198,587
+% grid electricity 37% 36%
+Energy Management
+% renewable 1% 1%
+Energy intensity, billion British thermal units/$M revenue 0.440 0.420
+Hazardous Waste Total hazardous waste generated, metric tons 13,414 13,595
+Total water withdrawal, thousand cubic meters 20,986 21,401
+% water withdrawal in water-stressed locations, as defined by SASB 23% 20%
+Water Management
+Projects completed in water-stressed locations since 2013 185 195
+Water saved from projects in water-stressed regions since 2013, thousand cubic meters 625 662
+Sustainability Projects5 Number of sustainability projects completed since 2010 6,300 6,500
+Total recordable incident rate (TRIR) for direct employees 0.20 0.18
+TRIR weighted industry average 1.73 1.81
+Workforce Health and Safety6 Total lost workday case incident rate (LWCIR) 0.1 0.1
+LWCIR weighted industry average 0.66 0.67
+Fatality rate for direct employees⁷ 0.000 0.001
+% revenue >60% >60%
+Sustainability-Oriented Solutions8
+% new product research and development ~ 60% ~60%
+% manufacturing sites with ISO 9001 / AS 9001 93% 92%
+% manufacturing sites with ISO 14001 / RC 14001 37% 37%
+Certification
+% manufacturing sites with ISO 45001 / OHSAS 18001 / VPP 38% 39%
+Number of sites with ISO 50001 26 28
+Honeywell | 2024 IMPACT REPORT | 68
+
+=== PAGE BREAK ===
+
+ESG DATA
+ESG Data Sheet
+Category Metric 2022 2023
+Number of directors 10 12
+Number of independent directors 9 10
+Number of women 4 4
+Number of men 6 8
+Board of Directors9
+Number of people of color 4 5
+Asian Pacific Islander 1 2
+Black 2 2
+Hispanic 1 1
+Number of employees (global) 97,000 95,000
+Number of employees (U.S.) 34,000 33,000
+Women, % of total workforce (global) 29.50% 29.60%
+Men, % of total workforce (global) 70.50% 70.40%
+Undisclosed, % of total workforce (global) ~0.00% 0.10%
+Human Capital10 Women, % of executives (global) 25.90% 28.40%
+Men, % of executives (global) 74.10% 71.60%
+Undisclosed, % of executives (global) 0.00% 0.00%
+Women, % of other managers (global) 21.40% 21.90%
+Men, % of other managers (global) 78.60% 78.00%
+Undisclosed, % of other managers (global) ~0.00% ~0.00%
+Honeywell | 2024 IMPACT REPORT | 69
+
+=== PAGE BREAK ===
+
+ESG DATA
+ESG Data Sheet
+Category Metric 2022 2023
+White, % of total workforce (U.S.) 64.60% 63.40%
+People of Color, % of total workforce (U.S.) 35.40% 36.60%
+Black 10.50% 10.70%
+Hispanic 10.00% 10.20%
+Asian Pacific Islander 12.90% 13.50%
+Other 2.00% 2.20%
+White, % of executives (U.S.) 76.10% 73.20%
+People of Color, % of executives (U.S.) 23.90% 26.80%
+Black 3.40% 2.90%
+Human Capital10 Hispanic 3.70% 4.30%
+Asian Pacific Islander 14.30% 16.90%
+Other 2.50% 2.70%
+White, % of other managers (U.S.) 71.60% 70.10%
+People of Color, % of other managers (U.S.) 28.40% 29.90%
+Black 5.80% 5.70%
+Hispanic 6.30% 6.60%
+Asian Pacific Islander 14.20% 15.20%
+Other 2.10% 2.40%
+Honeywell | 2024 IMPACT REPORT | 70
+
+=== PAGE BREAK ===
+
+ESG DATA
+ESG Data Sheet
+Category Metric 2022 2023
+CDP Climate Report Yes Yes
+TCFD Report Yes Yes
+Reporting
+SASB Report Yes Yes
+EEO-1 Report Yes Yes
+1 Limited third-party GHG assurance obtained since 2011.
+2 Represents estimated Scope 3 GHG emissions for the select categories disclosed in our CDP Climate Report.
+3 Announced April 2021.
+4 Commitment letter submitted to the Science Based Targets initiative (SBTi) in February 2022 and validated in April 2023.
+5 Energy, GHG, water and waste projects
+6 Weighted industry averages are based on the following NAICS benchmark codes: 237, 325, 326, 334, 541, 2382, 2389, 3162, 3339, 3364.
+7 Metrics calculated in accordance with SASB definitions.
+8 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for identifying sustainability-oriented offerings is available at investor.honeywell.com
+(see “ESG/ESG Information/Identification of Sustainability-Oriented Offerings”).
+9 Data presented as of December 31 of the applicable year.
+10 As of December 31, 2023, unless otherwise indicated. Percentages may not equal 100% due to rounding. Excludes Sandia National Laboratories (Sandia) and Kansas City National Security Campus (KCNSC) workforces. Sandia and KCNSC are U.S.
+Department of Energy facilities. Honeywell manages these facilities as a contract operator and does not establish or control their human resources policies. The executives category represents executive-band employees.
+Honeywell | 2024 IMPACT REPORT | 71

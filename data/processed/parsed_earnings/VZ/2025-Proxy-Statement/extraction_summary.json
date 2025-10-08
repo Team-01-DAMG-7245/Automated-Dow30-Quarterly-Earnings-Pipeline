@@ -1,0 +1,1799 @@
+{
+  "ticker": "VZ",
+  "file_name": "2025-Proxy-Statement.pdf",
+  "parsed_date": "2025-10-08T13:04:34.202605",
+  "text": {
+    "pages": 88,
+    "total_characters": 297233,
+    "page_files": [
+      "page_084.txt",
+      "page_053.txt",
+      "page_047.txt",
+      "page_046.txt",
+      "page_052.txt",
+      "page_085.txt",
+      "page_087.txt",
+      "page_044.txt",
+      "page_050.txt",
+      "page_078.txt",
+      "page_079.txt",
+      "page_051.txt",
+      "page_045.txt",
+      "page_086.txt",
+      "page_082.txt",
+      "page_069.txt",
+      "page_041.txt",
+      "page_055.txt",
+      "page_054.txt",
+      "page_040.txt",
+      "page_068.txt",
+      "page_083.txt",
+      "page_081.txt",
+      "page_056.txt",
+      "page_042.txt",
+      "page_043.txt",
+      "page_057.txt",
+      "page_080.txt",
+      "page_030.txt",
+      "page_024.txt",
+      "page_018.txt",
+      "page_019.txt",
+      "page_025.txt",
+      "page_031.txt",
+      "page_027.txt",
+      "page_033.txt",
+      "page_032.txt",
+      "page_026.txt",
+      "page_022.txt",
+      "page_036.txt",
+      "page_037.txt",
+      "page_023.txt",
+      "page_009.txt",
+      "page_035.txt",
+      "page_021.txt",
+      "page_020.txt",
+      "page_034.txt",
+      "page_008.txt",
+      "page_011.txt",
+      "page_005.txt",
+      "page_039.txt",
+      "page_038.txt",
+      "page_004.txt",
+      "page_010.txt",
+      "page_006.txt",
+      "page_012.txt",
+      "page_013.txt",
+      "page_007.txt",
+      "page_003.txt",
+      "page_017.txt",
+      "page_016.txt",
+      "page_002.txt",
+      "page_028.txt",
+      "page_014.txt",
+      "page_001.txt",
+      "page_015.txt",
+      "page_029.txt",
+      "page_072.txt",
+      "page_066.txt",
+      "page_067.txt",
+      "page_073.txt",
+      "page_065.txt",
+      "page_071.txt",
+      "page_059.txt",
+      "page_058.txt",
+      "page_070.txt",
+      "page_064.txt",
+      "page_048.txt",
+      "page_060.txt",
+      "page_074.txt",
+      "page_075.txt",
+      "page_061.txt",
+      "page_049.txt",
+      "page_088.txt",
+      "page_077.txt",
+      "page_063.txt",
+      "page_062.txt",
+      "page_076.txt"
+    ]
+  },
+  "tables": {
+    "count": 129,
+    "extraction_method": "hybrid (lattice + stream)",
+    "tables": [
+      {
+        "page": 1,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 2,
+        "columns": 1,
+        "csv_file": "page001_stream_00.csv",
+        "json_file": "page001_stream_00.json"
+      },
+      {
+        "page": 2,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 44,
+        "columns": 2,
+        "csv_file": "page002_stream_00.csv",
+        "json_file": "page002_stream_00.json"
+      },
+      {
+        "page": 3,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 52,
+        "columns": 2,
+        "csv_file": "page003_stream_00.csv",
+        "json_file": "page003_stream_00.json"
+      },
+      {
+        "page": 4,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 45,
+        "columns": 4,
+        "csv_file": "page004_stream_00.csv",
+        "json_file": "page004_stream_00.json"
+      },
+      {
+        "page": 5,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 7,
+        "columns": 1,
+        "csv_file": "page005_stream_00.csv",
+        "json_file": "page005_stream_00.json"
+      },
+      {
+        "page": 5,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 8,
+        "columns": 1,
+        "csv_file": "page005_stream_01.csv",
+        "json_file": "page005_stream_01.json"
+      },
+      {
+        "page": 6,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 8,
+        "columns": 1,
+        "csv_file": "page006_stream_00.csv",
+        "json_file": "page006_stream_00.json"
+      },
+      {
+        "page": 7,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 40,
+        "columns": 6,
+        "csv_file": "page007_stream_00.csv",
+        "json_file": "page007_stream_00.json"
+      },
+      {
+        "page": 8,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 22,
+        "columns": 2,
+        "csv_file": "page008_stream_00.csv",
+        "json_file": "page008_stream_00.json"
+      },
+      {
+        "page": 9,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 29,
+        "columns": 9,
+        "csv_file": "page009_stream_00.csv",
+        "json_file": "page009_stream_00.json"
+      },
+      {
+        "page": 10,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 14,
+        "columns": 7,
+        "csv_file": "page010_stream_00.csv",
+        "json_file": "page010_stream_00.json"
+      },
+      {
+        "page": 11,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 45,
+        "columns": 6,
+        "csv_file": "page011_stream_00.csv",
+        "json_file": "page011_stream_00.json"
+      },
+      {
+        "page": 12,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 53,
+        "columns": 1,
+        "csv_file": "page012_stream_00.csv",
+        "json_file": "page012_stream_00.json"
+      },
+      {
+        "page": 13,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 31,
+        "columns": 7,
+        "csv_file": "page013_stream_00.csv",
+        "json_file": "page013_stream_00.json"
+      },
+      {
+        "page": 14,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 7,
+        "columns": 2,
+        "csv_file": "page014_stream_00.csv",
+        "json_file": "page014_stream_00.json"
+      },
+      {
+        "page": 14,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 52,
+        "columns": 2,
+        "csv_file": "page014_stream_01.csv",
+        "json_file": "page014_stream_01.json"
+      },
+      {
+        "page": 15,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 6,
+        "columns": 2,
+        "csv_file": "page015_stream_00.csv",
+        "json_file": "page015_stream_00.json"
+      },
+      {
+        "page": 15,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 42,
+        "columns": 2,
+        "csv_file": "page015_stream_01.csv",
+        "json_file": "page015_stream_01.json"
+      },
+      {
+        "page": 16,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 6,
+        "columns": 2,
+        "csv_file": "page016_stream_00.csv",
+        "json_file": "page016_stream_00.json"
+      },
+      {
+        "page": 16,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 50,
+        "columns": 2,
+        "csv_file": "page016_stream_01.csv",
+        "json_file": "page016_stream_01.json"
+      },
+      {
+        "page": 17,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 7,
+        "columns": 2,
+        "csv_file": "page017_stream_00.csv",
+        "json_file": "page017_stream_00.json"
+      },
+      {
+        "page": 17,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 42,
+        "columns": 2,
+        "csv_file": "page017_stream_01.csv",
+        "json_file": "page017_stream_01.json"
+      },
+      {
+        "page": 18,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 22,
+        "columns": 2,
+        "csv_file": "page018_stream_00.csv",
+        "json_file": "page018_stream_00.json"
+      },
+      {
+        "page": 18,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 54,
+        "columns": 2,
+        "csv_file": "page018_stream_01.csv",
+        "json_file": "page018_stream_01.json"
+      },
+      {
+        "page": 19,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 88,
+        "columns": 2,
+        "csv_file": "page019_stream_00.csv",
+        "json_file": "page019_stream_00.json"
+      },
+      {
+        "page": 20,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 91,
+        "columns": 2,
+        "csv_file": "page020_stream_00.csv",
+        "json_file": "page020_stream_00.json"
+      },
+      {
+        "page": 21,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 64,
+        "columns": 2,
+        "csv_file": "page021_stream_00.csv",
+        "json_file": "page021_stream_00.json"
+      },
+      {
+        "page": 22,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 25,
+        "columns": 3,
+        "csv_file": "page022_stream_00.csv",
+        "json_file": "page022_stream_00.json"
+      },
+      {
+        "page": 23,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 22,
+        "columns": 7,
+        "csv_file": "page023_stream_00.csv",
+        "json_file": "page023_stream_00.json"
+      },
+      {
+        "page": 23,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 11,
+        "columns": 5,
+        "csv_file": "page023_stream_01.csv",
+        "json_file": "page023_stream_01.json"
+      },
+      {
+        "page": 24,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 52,
+        "columns": 7,
+        "csv_file": "page024_stream_00.csv",
+        "json_file": "page024_stream_00.json"
+      },
+      {
+        "page": 25,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 9,
+        "columns": 7,
+        "csv_file": "page025_stream_00.csv",
+        "json_file": "page025_stream_00.json"
+      },
+      {
+        "page": 26,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 53,
+        "columns": 4,
+        "csv_file": "page026_stream_00.csv",
+        "json_file": "page026_stream_00.json"
+      },
+      {
+        "page": 27,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 14,
+        "columns": 7,
+        "csv_file": "page027_stream_00.csv",
+        "json_file": "page027_stream_00.json"
+      },
+      {
+        "page": 27,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 16,
+        "columns": 1,
+        "csv_file": "page027_stream_01.csv",
+        "json_file": "page027_stream_01.json"
+      },
+      {
+        "page": 28,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 24,
+        "columns": 7,
+        "csv_file": "page028_stream_00.csv",
+        "json_file": "page028_stream_00.json"
+      },
+      {
+        "page": 28,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 23,
+        "columns": 8,
+        "csv_file": "page028_stream_01.csv",
+        "json_file": "page028_stream_01.json"
+      },
+      {
+        "page": 28,
+        "table_number": 2,
+        "method": "stream",
+        "rows": 10,
+        "columns": 2,
+        "csv_file": "page028_stream_02.csv",
+        "json_file": "page028_stream_02.json"
+      },
+      {
+        "page": 29,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 29,
+        "columns": 7,
+        "csv_file": "page029_stream_00.csv",
+        "json_file": "page029_stream_00.json"
+      },
+      {
+        "page": 30,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 11,
+        "columns": 7,
+        "csv_file": "page030_stream_00.csv",
+        "json_file": "page030_stream_00.json"
+      },
+      {
+        "page": 31,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 21,
+        "columns": 7,
+        "csv_file": "page031_stream_00.csv",
+        "json_file": "page031_stream_00.json"
+      },
+      {
+        "page": 31,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 35,
+        "columns": 3,
+        "csv_file": "page031_stream_01.csv",
+        "json_file": "page031_stream_01.json"
+      },
+      {
+        "page": 32,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 37,
+        "columns": 5,
+        "csv_file": "page032_stream_00.csv",
+        "json_file": "page032_stream_00.json"
+      },
+      {
+        "page": 33,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 6,
+        "columns": 7,
+        "csv_file": "page033_stream_00.csv",
+        "json_file": "page033_stream_00.json"
+      },
+      {
+        "page": 33,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 13,
+        "columns": 3,
+        "csv_file": "page033_stream_01.csv",
+        "json_file": "page033_stream_01.json"
+      },
+      {
+        "page": 34,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 47,
+        "columns": 7,
+        "csv_file": "page034_stream_00.csv",
+        "json_file": "page034_stream_00.json"
+      },
+      {
+        "page": 35,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 7,
+        "csv_file": "page035_stream_00.csv",
+        "json_file": "page035_stream_00.json"
+      },
+      {
+        "page": 35,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 9,
+        "columns": 4,
+        "csv_file": "page035_stream_01.csv",
+        "json_file": "page035_stream_01.json"
+      },
+      {
+        "page": 36,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 21,
+        "columns": 4,
+        "csv_file": "page036_stream_00.csv",
+        "json_file": "page036_stream_00.json"
+      },
+      {
+        "page": 37,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 9,
+        "columns": 7,
+        "csv_file": "page037_stream_00.csv",
+        "json_file": "page037_stream_00.json"
+      },
+      {
+        "page": 37,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 10,
+        "columns": 7,
+        "csv_file": "page037_stream_01.csv",
+        "json_file": "page037_stream_01.json"
+      },
+      {
+        "page": 38,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 44,
+        "columns": 6,
+        "csv_file": "page038_stream_00.csv",
+        "json_file": "page038_stream_00.json"
+      },
+      {
+        "page": 38,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 10,
+        "columns": 3,
+        "csv_file": "page038_stream_01.csv",
+        "json_file": "page038_stream_01.json"
+      },
+      {
+        "page": 39,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 30,
+        "columns": 2,
+        "csv_file": "page039_stream_00.csv",
+        "json_file": "page039_stream_00.json"
+      },
+      {
+        "page": 40,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 26,
+        "columns": 7,
+        "csv_file": "page040_stream_00.csv",
+        "json_file": "page040_stream_00.json"
+      },
+      {
+        "page": 40,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 15,
+        "columns": 1,
+        "csv_file": "page040_stream_01.csv",
+        "json_file": "page040_stream_01.json"
+      },
+      {
+        "page": 41,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 12,
+        "columns": 7,
+        "csv_file": "page041_stream_00.csv",
+        "json_file": "page041_stream_00.json"
+      },
+      {
+        "page": 41,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 9,
+        "columns": 2,
+        "csv_file": "page041_stream_01.csv",
+        "json_file": "page041_stream_01.json"
+      },
+      {
+        "page": 41,
+        "table_number": 2,
+        "method": "stream",
+        "rows": 8,
+        "columns": 2,
+        "csv_file": "page041_stream_02.csv",
+        "json_file": "page041_stream_02.json"
+      },
+      {
+        "page": 42,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 16,
+        "columns": 7,
+        "csv_file": "page042_stream_00.csv",
+        "json_file": "page042_stream_00.json"
+      },
+      {
+        "page": 42,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 10,
+        "columns": 2,
+        "csv_file": "page042_stream_01.csv",
+        "json_file": "page042_stream_01.json"
+      },
+      {
+        "page": 42,
+        "table_number": 2,
+        "method": "stream",
+        "rows": 7,
+        "columns": 2,
+        "csv_file": "page042_stream_02.csv",
+        "json_file": "page042_stream_02.json"
+      },
+      {
+        "page": 43,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 49,
+        "columns": 7,
+        "csv_file": "page043_stream_00.csv",
+        "json_file": "page043_stream_00.json"
+      },
+      {
+        "page": 44,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 58,
+        "columns": 7,
+        "csv_file": "page044_stream_00.csv",
+        "json_file": "page044_stream_00.json"
+      },
+      {
+        "page": 45,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 18,
+        "columns": 7,
+        "csv_file": "page045_stream_00.csv",
+        "json_file": "page045_stream_00.json"
+      },
+      {
+        "page": 45,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 19,
+        "columns": 2,
+        "csv_file": "page045_stream_01.csv",
+        "json_file": "page045_stream_01.json"
+      },
+      {
+        "page": 46,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 7,
+        "csv_file": "page046_stream_00.csv",
+        "json_file": "page046_stream_00.json"
+      },
+      {
+        "page": 47,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 41,
+        "columns": 10,
+        "csv_file": "page047_stream_00.csv",
+        "json_file": "page047_stream_00.json"
+      },
+      {
+        "page": 48,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 9,
+        "columns": 7,
+        "csv_file": "page048_stream_00.csv",
+        "json_file": "page048_stream_00.json"
+      },
+      {
+        "page": 48,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 13,
+        "columns": 9,
+        "csv_file": "page048_stream_01.csv",
+        "json_file": "page048_stream_01.json"
+      },
+      {
+        "page": 49,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 30,
+        "columns": 11,
+        "csv_file": "page049_stream_00.csv",
+        "json_file": "page049_stream_00.json"
+      },
+      {
+        "page": 50,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 32,
+        "columns": 10,
+        "csv_file": "page050_stream_00.csv",
+        "json_file": "page050_stream_00.json"
+      },
+      {
+        "page": 51,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 11,
+        "csv_file": "page051_stream_00.csv",
+        "json_file": "page051_stream_00.json"
+      },
+      {
+        "page": 52,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 7,
+        "columns": 2,
+        "csv_file": "page052_stream_00.csv",
+        "json_file": "page052_stream_00.json"
+      },
+      {
+        "page": 52,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 11,
+        "columns": 5,
+        "csv_file": "page052_stream_01.csv",
+        "json_file": "page052_stream_01.json"
+      },
+      {
+        "page": 52,
+        "table_number": 2,
+        "method": "stream",
+        "rows": 10,
+        "columns": 2,
+        "csv_file": "page052_stream_02.csv",
+        "json_file": "page052_stream_02.json"
+      },
+      {
+        "page": 53,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 62,
+        "columns": 7,
+        "csv_file": "page053_stream_00.csv",
+        "json_file": "page053_stream_00.json"
+      },
+      {
+        "page": 54,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 13,
+        "columns": 5,
+        "csv_file": "page054_stream_00.csv",
+        "json_file": "page054_stream_00.json"
+      },
+      {
+        "page": 54,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 14,
+        "columns": 1,
+        "csv_file": "page054_stream_01.csv",
+        "json_file": "page054_stream_01.json"
+      },
+      {
+        "page": 55,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 14,
+        "columns": 5,
+        "csv_file": "page055_stream_00.csv",
+        "json_file": "page055_stream_00.json"
+      },
+      {
+        "page": 56,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 45,
+        "columns": 7,
+        "csv_file": "page056_stream_00.csv",
+        "json_file": "page056_stream_00.json"
+      },
+      {
+        "page": 57,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 10,
+        "columns": 7,
+        "csv_file": "page057_stream_00.csv",
+        "json_file": "page057_stream_00.json"
+      },
+      {
+        "page": 58,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 22,
+        "columns": 4,
+        "csv_file": "page058_stream_00.csv",
+        "json_file": "page058_stream_00.json"
+      },
+      {
+        "page": 58,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 18,
+        "columns": 5,
+        "csv_file": "page058_stream_01.csv",
+        "json_file": "page058_stream_01.json"
+      },
+      {
+        "page": 59,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 50,
+        "columns": 7,
+        "csv_file": "page059_stream_00.csv",
+        "json_file": "page059_stream_00.json"
+      },
+      {
+        "page": 60,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 20,
+        "columns": 7,
+        "csv_file": "page060_stream_00.csv",
+        "json_file": "page060_stream_00.json"
+      },
+      {
+        "page": 60,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 9,
+        "columns": 6,
+        "csv_file": "page060_stream_01.csv",
+        "json_file": "page060_stream_01.json"
+      },
+      {
+        "page": 60,
+        "table_number": 2,
+        "method": "stream",
+        "rows": 13,
+        "columns": 6,
+        "csv_file": "page060_stream_02.csv",
+        "json_file": "page060_stream_02.json"
+      },
+      {
+        "page": 61,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 7,
+        "columns": 7,
+        "csv_file": "page061_stream_00.csv",
+        "json_file": "page061_stream_00.json"
+      },
+      {
+        "page": 61,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 14,
+        "columns": 2,
+        "csv_file": "page061_stream_01.csv",
+        "json_file": "page061_stream_01.json"
+      },
+      {
+        "page": 62,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 17,
+        "columns": 9,
+        "csv_file": "page062_stream_00.csv",
+        "json_file": "page062_stream_00.json"
+      },
+      {
+        "page": 62,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 16,
+        "columns": 7,
+        "csv_file": "page062_stream_01.csv",
+        "json_file": "page062_stream_01.json"
+      },
+      {
+        "page": 63,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 18,
+        "columns": 6,
+        "csv_file": "page063_stream_00.csv",
+        "json_file": "page063_stream_00.json"
+      },
+      {
+        "page": 63,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 20,
+        "columns": 7,
+        "csv_file": "page063_stream_01.csv",
+        "json_file": "page063_stream_01.json"
+      },
+      {
+        "page": 64,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 12,
+        "columns": 8,
+        "csv_file": "page064_stream_00.csv",
+        "json_file": "page064_stream_00.json"
+      },
+      {
+        "page": 64,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 9,
+        "columns": 8,
+        "csv_file": "page064_stream_01.csv",
+        "json_file": "page064_stream_01.json"
+      },
+      {
+        "page": 65,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 7,
+        "csv_file": "page065_stream_00.csv",
+        "json_file": "page065_stream_00.json"
+      },
+      {
+        "page": 65,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 13,
+        "columns": 7,
+        "csv_file": "page065_stream_01.csv",
+        "json_file": "page065_stream_01.json"
+      },
+      {
+        "page": 65,
+        "table_number": 2,
+        "method": "stream",
+        "rows": 15,
+        "columns": 7,
+        "csv_file": "page065_stream_02.csv",
+        "json_file": "page065_stream_02.json"
+      },
+      {
+        "page": 66,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 29,
+        "columns": 7,
+        "csv_file": "page066_stream_00.csv",
+        "json_file": "page066_stream_00.json"
+      },
+      {
+        "page": 67,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 16,
+        "columns": 2,
+        "csv_file": "page067_stream_00.csv",
+        "json_file": "page067_stream_00.json"
+      },
+      {
+        "page": 68,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 16,
+        "columns": 7,
+        "csv_file": "page068_stream_00.csv",
+        "json_file": "page068_stream_00.json"
+      },
+      {
+        "page": 69,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 34,
+        "columns": 7,
+        "csv_file": "page069_stream_00.csv",
+        "json_file": "page069_stream_00.json"
+      },
+      {
+        "page": 70,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 12,
+        "columns": 3,
+        "csv_file": "page070_stream_00.csv",
+        "json_file": "page070_stream_00.json"
+      },
+      {
+        "page": 70,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 11,
+        "columns": 2,
+        "csv_file": "page070_stream_01.csv",
+        "json_file": "page070_stream_01.json"
+      },
+      {
+        "page": 71,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 55,
+        "columns": 6,
+        "csv_file": "page071_stream_00.csv",
+        "json_file": "page071_stream_00.json"
+      },
+      {
+        "page": 71,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 10,
+        "columns": 2,
+        "csv_file": "page071_stream_01.csv",
+        "json_file": "page071_stream_01.json"
+      },
+      {
+        "page": 72,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 44,
+        "columns": 7,
+        "csv_file": "page072_stream_00.csv",
+        "json_file": "page072_stream_00.json"
+      },
+      {
+        "page": 73,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 28,
+        "columns": 7,
+        "csv_file": "page073_stream_00.csv",
+        "json_file": "page073_stream_00.json"
+      },
+      {
+        "page": 73,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 20,
+        "columns": 1,
+        "csv_file": "page073_stream_01.csv",
+        "json_file": "page073_stream_01.json"
+      },
+      {
+        "page": 74,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 35,
+        "columns": 1,
+        "csv_file": "page074_stream_00.csv",
+        "json_file": "page074_stream_00.json"
+      },
+      {
+        "page": 75,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 37,
+        "columns": 7,
+        "csv_file": "page075_stream_00.csv",
+        "json_file": "page075_stream_00.json"
+      },
+      {
+        "page": 76,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 23,
+        "columns": 1,
+        "csv_file": "page076_stream_00.csv",
+        "json_file": "page076_stream_00.json"
+      },
+      {
+        "page": 77,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 34,
+        "columns": 7,
+        "csv_file": "page077_stream_00.csv",
+        "json_file": "page077_stream_00.json"
+      },
+      {
+        "page": 77,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 24,
+        "columns": 1,
+        "csv_file": "page077_stream_01.csv",
+        "json_file": "page077_stream_01.json"
+      },
+      {
+        "page": 78,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 22,
+        "columns": 6,
+        "csv_file": "page078_stream_00.csv",
+        "json_file": "page078_stream_00.json"
+      },
+      {
+        "page": 79,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 20,
+        "columns": 1,
+        "csv_file": "page079_stream_00.csv",
+        "json_file": "page079_stream_00.json"
+      },
+      {
+        "page": 80,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 23,
+        "columns": 7,
+        "csv_file": "page080_stream_00.csv",
+        "json_file": "page080_stream_00.json"
+      },
+      {
+        "page": 80,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 17,
+        "columns": 1,
+        "csv_file": "page080_stream_01.csv",
+        "json_file": "page080_stream_01.json"
+      },
+      {
+        "page": 81,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 47,
+        "columns": 7,
+        "csv_file": "page081_stream_00.csv",
+        "json_file": "page081_stream_00.json"
+      },
+      {
+        "page": 82,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 16,
+        "columns": 1,
+        "csv_file": "page082_stream_00.csv",
+        "json_file": "page082_stream_00.json"
+      },
+      {
+        "page": 83,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 40,
+        "columns": 4,
+        "csv_file": "page083_stream_00.csv",
+        "json_file": "page083_stream_00.json"
+      },
+      {
+        "page": 84,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 15,
+        "columns": 7,
+        "csv_file": "page084_stream_00.csv",
+        "json_file": "page084_stream_00.json"
+      },
+      {
+        "page": 84,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 13,
+        "columns": 2,
+        "csv_file": "page084_stream_01.csv",
+        "json_file": "page084_stream_01.json"
+      },
+      {
+        "page": 85,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 29,
+        "columns": 2,
+        "csv_file": "page085_stream_00.csv",
+        "json_file": "page085_stream_00.json"
+      },
+      {
+        "page": 86,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 10,
+        "columns": 4,
+        "csv_file": "page086_stream_00.csv",
+        "json_file": "page086_stream_00.json"
+      },
+      {
+        "page": 86,
+        "table_number": 1,
+        "method": "stream",
+        "rows": 8,
+        "columns": 4,
+        "csv_file": "page086_stream_01.csv",
+        "json_file": "page086_stream_01.json"
+      },
+      {
+        "page": 87,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 16,
+        "columns": 10,
+        "csv_file": "page087_stream_00.csv",
+        "json_file": "page087_stream_00.json"
+      },
+      {
+        "page": 88,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 4,
+        "columns": 1,
+        "csv_file": "page088_stream_00.csv",
+        "json_file": "page088_stream_00.json"
+      }
+    ]
+  },
+  "images": {
+    "count": 88,
+    "images": [
+      {
+        "page": 1,
+        "type": "full_page",
+        "filename": "page001_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 2,
+        "type": "full_page",
+        "filename": "page002_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 3,
+        "type": "full_page",
+        "filename": "page003_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 4,
+        "type": "full_page",
+        "filename": "page004_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 5,
+        "type": "full_page",
+        "filename": "page005_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 6,
+        "type": "full_page",
+        "filename": "page006_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 7,
+        "type": "full_page",
+        "filename": "page007_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 8,
+        "type": "full_page",
+        "filename": "page008_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 9,
+        "type": "full_page",
+        "filename": "page009_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 10,
+        "type": "full_page",
+        "filename": "page010_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 11,
+        "type": "full_page",
+        "filename": "page011_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 12,
+        "type": "full_page",
+        "filename": "page012_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 13,
+        "type": "full_page",
+        "filename": "page013_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 14,
+        "type": "full_page",
+        "filename": "page014_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 15,
+        "type": "full_page",
+        "filename": "page015_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 16,
+        "type": "full_page",
+        "filename": "page016_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 17,
+        "type": "full_page",
+        "filename": "page017_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 18,
+        "type": "full_page",
+        "filename": "page018_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 19,
+        "type": "full_page",
+        "filename": "page019_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 20,
+        "type": "full_page",
+        "filename": "page020_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 21,
+        "type": "full_page",
+        "filename": "page021_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 22,
+        "type": "full_page",
+        "filename": "page022_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 23,
+        "type": "full_page",
+        "filename": "page023_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 24,
+        "type": "full_page",
+        "filename": "page024_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 25,
+        "type": "full_page",
+        "filename": "page025_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 26,
+        "type": "full_page",
+        "filename": "page026_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 27,
+        "type": "full_page",
+        "filename": "page027_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 28,
+        "type": "full_page",
+        "filename": "page028_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 29,
+        "type": "full_page",
+        "filename": "page029_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 30,
+        "type": "full_page",
+        "filename": "page030_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 31,
+        "type": "full_page",
+        "filename": "page031_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 32,
+        "type": "full_page",
+        "filename": "page032_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 33,
+        "type": "full_page",
+        "filename": "page033_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 34,
+        "type": "full_page",
+        "filename": "page034_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 35,
+        "type": "full_page",
+        "filename": "page035_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 36,
+        "type": "full_page",
+        "filename": "page036_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 37,
+        "type": "full_page",
+        "filename": "page037_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 38,
+        "type": "full_page",
+        "filename": "page038_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 39,
+        "type": "full_page",
+        "filename": "page039_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 40,
+        "type": "full_page",
+        "filename": "page040_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 41,
+        "type": "full_page",
+        "filename": "page041_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 42,
+        "type": "full_page",
+        "filename": "page042_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 43,
+        "type": "full_page",
+        "filename": "page043_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 44,
+        "type": "full_page",
+        "filename": "page044_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 45,
+        "type": "full_page",
+        "filename": "page045_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 46,
+        "type": "full_page",
+        "filename": "page046_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 47,
+        "type": "full_page",
+        "filename": "page047_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 48,
+        "type": "full_page",
+        "filename": "page048_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 49,
+        "type": "full_page",
+        "filename": "page049_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 50,
+        "type": "full_page",
+        "filename": "page050_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 51,
+        "type": "full_page",
+        "filename": "page051_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 52,
+        "type": "full_page",
+        "filename": "page052_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 53,
+        "type": "full_page",
+        "filename": "page053_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 54,
+        "type": "full_page",
+        "filename": "page054_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 55,
+        "type": "full_page",
+        "filename": "page055_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 56,
+        "type": "full_page",
+        "filename": "page056_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 57,
+        "type": "full_page",
+        "filename": "page057_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 58,
+        "type": "full_page",
+        "filename": "page058_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 59,
+        "type": "full_page",
+        "filename": "page059_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 60,
+        "type": "full_page",
+        "filename": "page060_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 61,
+        "type": "full_page",
+        "filename": "page061_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 62,
+        "type": "full_page",
+        "filename": "page062_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 63,
+        "type": "full_page",
+        "filename": "page063_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 64,
+        "type": "full_page",
+        "filename": "page064_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 65,
+        "type": "full_page",
+        "filename": "page065_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 66,
+        "type": "full_page",
+        "filename": "page066_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 67,
+        "type": "full_page",
+        "filename": "page067_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 68,
+        "type": "full_page",
+        "filename": "page068_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 69,
+        "type": "full_page",
+        "filename": "page069_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 70,
+        "type": "full_page",
+        "filename": "page070_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 71,
+        "type": "full_page",
+        "filename": "page071_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 72,
+        "type": "full_page",
+        "filename": "page072_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 73,
+        "type": "full_page",
+        "filename": "page073_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 74,
+        "type": "full_page",
+        "filename": "page074_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 75,
+        "type": "full_page",
+        "filename": "page075_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 76,
+        "type": "full_page",
+        "filename": "page076_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 77,
+        "type": "full_page",
+        "filename": "page077_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 78,
+        "type": "full_page",
+        "filename": "page078_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 79,
+        "type": "full_page",
+        "filename": "page079_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 80,
+        "type": "full_page",
+        "filename": "page080_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 81,
+        "type": "full_page",
+        "filename": "page081_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 82,
+        "type": "full_page",
+        "filename": "page082_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 83,
+        "type": "full_page",
+        "filename": "page083_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 84,
+        "type": "full_page",
+        "filename": "page084_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 85,
+        "type": "full_page",
+        "filename": "page085_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 86,
+        "type": "full_page",
+        "filename": "page086_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 87,
+        "type": "full_page",
+        "filename": "page087_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 88,
+        "type": "full_page",
+        "filename": "page088_full.png",
+        "resolution": 150
+      }
+    ]
+  }
+}

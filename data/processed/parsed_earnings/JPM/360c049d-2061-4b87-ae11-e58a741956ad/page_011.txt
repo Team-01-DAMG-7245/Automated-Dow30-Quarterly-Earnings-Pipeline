@@ -1,0 +1,15 @@
+Additional notes
+1. As of January 1, 2025, the benefit from the Current Expected Credit Losses ("CECL") capital transition provision had been fully phased-out; as of June 30, 2024, CET1
+capital and Total Loss-Absorbing Capacity reflected the remaining $720mm CECL benefit. Refer to Note 21 of the Firm's Quarterly Report on Form 10-Q for the
+quarterly period ended March 31, 2025and Note 27 of the Firm’s 2024 Form 10-K for additional information
+2. Total excess high-quality liquid assets (“HQLA”) represent the average eligible unencumbered liquid assets that are in excess ofwhat is required to meet the estimated
+Firm and Bank total net cash outflows over a prospective 30 calendar-day period of significant stress under the LCR rule. HQLA and unencumbered marketable
+securities include end-of-period HQLA, excluding regulatory prescribed haircuts under the LCR rule where applicable, for both the Firm and the excess HQLA-eligible
+securities included as part of the excess liquidity at JPMorgan Chase Bank, N.A., which are not transferable to non-bank affiliates and thus excluded from the Firm’s
+LCR. Also include other end-of-period unencumbered marketable securities, such as equity and debt securities. Does not include borrowing capacity at Federal Home
+Loan Banks and the discount window at the Federal Reserve Bank. Refer to Liquidity Risk Management on pages 40-46 of the Firm’s Quarterly Report on Form 10-Q
+for the quarterly period ended March 31, 2025and pages 108-115 of the Firm’s 2024 Form 10-K for additional information
+3. During the fourth quarter of 2024, the Firm made a change to its funds transfer pricing with respect to consumer deposits, resulting in an increase in the funding benefit
+reflected within CCB net interest income which is fully offset within Corporate net interest income. Refer to page 17 of the Firm's Quarterly Report on Form 10-Q for the
+quarterly period ended March 31, 2025and page 71 of the Firm’s 2024 Form 10-K for additional information
+10

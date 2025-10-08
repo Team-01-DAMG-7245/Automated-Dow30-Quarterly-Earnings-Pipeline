@@ -1,0 +1,41 @@
+PAY VERSUS PERFORMANCE
+Compensation Actually Paid Reconciliation
+The tables below provide the reconciliation between the equity amounts reported in the Summary Compensation
+Table (“SCT”) and those used to calculate CAP for both the CEO and the average of all other NEOs. As described in
+the Compensation Discussion and Analysis section, our NEOs receive equity awards under the PSP, LTIP, and
+Retirement Restoration Programs. NEOs receive PSUs in the PSP program, retirement restricted RSUs in the
+Retirement Restoration Program, and may select between stock options and RSUs in 25% increments in the LTIP
+program, except for the CEO where the C&LD Committee determines the appropriate mix of stock options and
+RSUs. Measurement of vested and unvested stock option awards uses the same lattice model used for financial
+statement reporting purposes, while PSUs are re-valued using the same Monte-Carlo simulation used for financial
+statement reporting purposes.
+2024-25 2023-24 2022-23 2021-22 2020-21
+CEO(a) CEO(a) CEO(a) CEO(a) CEO(a) CEO(a)
+Adjustments (Moeller) (Moeller) (Moeller) (Taylor) (Moeller) (Taylor)
+Summary Compensation Table Total 21,909,816 22,963,881 21,715,625 18,595,382 17,716,015 23,900,381
+(Deduct): Aggregate grant date fair value for stock
+awards and option awards included in the SCT(b) (18,082,160) (16,901,830) (14,997,563) (13,552,685) (12,044,670) (15,283,808)
+Add: Fair value at fiscal year end of awards granted
+during the covered fiscal year that were outstanding
+and unvested at fiscal year end(c) 11,863,926 21,316,676 18,527,276 12,022,907 14,208,859 15,625,764
+Add: Year-over-year change in fair value at fiscal year
+end of awards granted in any prior fiscal year that were
+outstanding and unvested at the fiscal year end(d) (2,924,340) 6,319,870 1,100,946 8,156,040 5,143,672 8,814,092
+Add: Fair value at vesting date of Stock Awards and
+Options granted and vested during the fiscal year(e) 360,238 351,275 281,459 339,121 205,328 307,588
+Add/(Deduct): Change as of the vesting date (from the
+end of the prior fiscal year) in fair value of awards
+granted in any prior fiscal year for which vesting
+conditions were satisfied during the fiscal year(f) 2,297,931 3,948,457 108,992 8,772,467 5,103,456 4,838,412
+Add: Fair value at end of prior fiscal year of awards
+granted in any prior fiscal year that failed to meet the
+applicable vesting conditions during the covered fiscal
+year(g) 0 0 0 0 0 0
+(Deduct): Aggregate change in the actuarial present
+value of the accumulated benefit under any pension
+plan(h) 0 0 — 0 0 0
+Add: Aggregate service cost and prior service cost for
+pension plans(i) 0 0 0 0 0 0
+Total value of adjustments (6,484,406) 15,034,448 5,021,110 15,737,850 12,616,645 14,302,048
+CAP Amounts (as calculated) 15,425,410 37,998,329 26,736,735 34,333,232 30,332,659 38,202,429
+2025 Proxy Statement 76

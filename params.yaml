@@ -1,11 +1,47 @@
 # params.yaml
-# Project LANTERN Part 2 - Pipeline Parameters
 
 # Generate Company Reference
 generate_company_reference:
   source_url: "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
-  output_dir: "data/raw/scraped"  
+  output_dir: "data/raw/scraped"
   backup_enabled: true
   date_format: "%Y%m%d"
   request_timeout: 15
   source_name: "Wikipedia"
+
+# Find IR Pages
+find_ir_pages:
+  input_file: "data/raw/scraped/dow30_companies.csv"
+  output_dir: "data/processed/ir_pages"
+  timeout: 10
+  rate_limit: 2
+  user_agent: "FinTrustAnalytics project-lantern YOUR-EMAIL@example.com"
+
+# Find Earnings Reports
+find_earnings_reports:
+  input_file: "data/processed/ir_pages/ir_pages.json"
+  output_dir: "data/processed/earnings_reports"
+  timeout: 10
+  rate_limit: 2
+
+# Download Reports
+download_reports:
+  input_file: "data/processed/earnings_reports/earnings_reports_links.json"
+  output_dir: "data/raw/earnings_reports"
+  max_reports_per_company: 3
+  timeout: 30
+  rate_limit: 2
+  max_retries: 3
+
+# Parse Reports
+# Parse Reports
+parse_reports:
+  input_dir: "data/raw/earnings_reports"
+  output_dir: "data/processed/parsed_earnings"
+  model_dir: "publaynet-model"  # Path to PubLayNet model
+  extract_text: true
+  extract_tables: true
+  extract_images: true
+  extract_layout: true
+  convert_formats: true
+  table_threshold: 20

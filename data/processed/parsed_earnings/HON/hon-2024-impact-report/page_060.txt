@@ -1,0 +1,41 @@
+SASB/TCFD INFORMATION
+SASB
+SASB/TCFD
+The following disclosures are aligned to the Sustainability Accounting Standards Board (SASB) framework for the Resource
+INFORMATION Transformation—Electrical and Electronic Equipment (EE) industry. As a diversified industrial manufacturer, the nature of
+Honeywell’s business does not fit squarely within one industry, so Honeywell has included metrics aligned to other industries we
+believe would be of interest to our investors. Honeywell will continue to evaluate the disclosure of additional topics relevant to our
+industries, taking into account materiality, availability of reliable data and competitive sensitivities.
+Topic Accounting Metric SASB Code Honeywell Metric1/Disclosure Location
+690,042 metric tons CO₂e²;
+Gross global Scope 1 emissions, percentage covered under emissions-limiting
+RT-CH-110a.1
+regulations
+2.6% under emissions-limiting regulations
+Greenhouse Gas Emissions
+Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions,
+RT-CH-110a.2 Driving Growth Sustainably
+emissions reduction targets, and an analysis of performance against those targets
+(1) 16,198,587 GJ
+(1) total energy consumed,
+Energy Management (2) percentage grid electricity, RT-EE-130a.1 (2) 36% grid electricity
+(3) percentage renewable
+(3) 1% renewable energy
+21,4013 thousand cubic meters
+1) Total water withdrawn, (2) total water consumed, percentage of each in regions with
+RT-CH-140a.1
+High or Extremely High Baseline Water Stress
+20% in water-stressed regions
+Water Management
+Description of water management risks and discussion of strategies and practices to Wastewater and Effluent Management and Water
+RT-CH-140a.3
+mitigate those risks Stewardship
+Hazardous Waste Management Amount of hazardous waste generated RT-CH-150a.1 13,595 metric tons generated
+(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and
+RT-CH-320a.1 0.18⁴
+(b) contract employees
+Workforce Health & Safety
+Description of efforts to assess, monitor and reduce exposure of employees and contract
+RT-CH-320a.2 Protecting the Workforce
+workers to long-term (chronic) health risks
+Honeywell | 2024 IMPACT REPORT | 60

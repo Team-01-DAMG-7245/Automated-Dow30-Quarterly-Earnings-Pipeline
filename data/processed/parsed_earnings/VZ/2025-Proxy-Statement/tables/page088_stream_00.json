@@ -1,0 +1,22 @@
+{
+  "page": 88,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 4,
+  "columns": 1,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Verizon Communications Inc."
+    },
+    {
+      "0": "1095 Avenue of the Americas"
+    },
+    {
+      "0": "New York, NY 10036"
+    },
+    {
+      "0": "212.395.1000"
+    }
+  ]
+}

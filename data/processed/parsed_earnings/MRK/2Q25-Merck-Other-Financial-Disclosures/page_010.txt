@@ -1,0 +1,19 @@
+MERCK & CO., INC., RAHWAY, N.J., USA
+OTHER (INCOME) EXPENSE, NET - GAAP
+(AMOUNTS IN MILLIONS)
+(UNAUDITED)
+Table 4
+OTHER (INCOME) EXPENSE, NET
+June YTD June YTD
+2Q25 2Q24 2025 2024
+Interest income $ (69) $ (69) $ (178) $ (141)
+Interest expense 3 05 3 10 618 613
+Exchange losses 7 8 6 0 167 144
+Income from investments in equity securities, net (1) (100) (56) (189) (200)
+Net periodic defined benefit plan (credit) cost other than service cost (152) (159) (300) (319)
+Other, net (69) (44) (161) (85)
+Total $ (7) $ 4 2 $ (43) $ 12
+(1) Includes net realized and unrealized gains and losses from investments in equity securities either owned directly or through
+ownership interests in investment funds. Unrealized gains and losses from investments that are directly owned are determined at
+the end of the reporting period, while gains and losses from ownership interests in investment funds are accounted for on a one
+quarter lag.

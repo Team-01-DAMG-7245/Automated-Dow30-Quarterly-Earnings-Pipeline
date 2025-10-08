@@ -1,0 +1,16 @@
+70 The Procter & Gamble Company
+Exhibit (99-1) - Summary of Directors and Officers Insurance Program. +
+101.INS (1) Inline XBRL Instance Document
+101.SCH (1) Inline XBRL Taxonomy Extension Schema Document
+101.CAL (1) Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF (1) Inline XBRL Taxonomy Definition Linkbase Document
+101.LAB (1) Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE (1) Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101)
+(1) Pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not filed or part of a registration
+statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933 or Section 18 of the Securities
+Exchange Act of 1934 and otherwise are not subject to liability.
+* Compensatory plan or arrangement.
++ Filed herewith.
+Item 16. Form 10-K Summary.
+Not applicable.

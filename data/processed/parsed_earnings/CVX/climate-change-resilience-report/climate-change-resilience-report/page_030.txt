@@ -1,0 +1,60 @@
+Hydrogen
+Hydrogen (350 bar)
+Hydrogen (liquid)
+Batteries
+Lithium-ion battery pack (2018)
+Lithium metal battery pack
+Natural gas
+Liquid fuels
+Compressed natural Sustainable aviation fuel
+gas (250 bar)
+Gasoline
+Biodiesel
+Ethanol
+Methanol
+Liquid organic hydrogen carriers Space saving
+gnivas
+thgieW
+140
+120
+Hydrogen (700 bar)
+100 Potential with
+storage tank
+improvement
+80
+Lithium-ion battery pack (2025+)
+60
+Liquefied natural gas
+Renewable diesel
+Diesel
+40 Jet fuel
+Compressed natural
+20 gas (250 bar, with tank)
+Hydrogen (700 bar, with tank)
+0
+gk/seluojagem
+,ytisned
+cirtemivarG
+Exhibit 12. Energy density of different fuel sources can drive the attractiveness of fuel types
+0 10 20 30 40
+Volumetric density, megajoules/liter
+Sources: Argonne National Laboratory, GREET Model Fuel Specifications, 2022, greet.anl.gov; Advanced Automotive Battery Conference (AABC) for Li-ion Battery Performance,
+2018, with Chevron internal compilations.
+Energy density of different fuels: The energy density and Fundamental differences in energy densities are a major obstacle
+portability of a fuel are among the most important characteristics to using alternative fuels for some modes of transport, such as
+when considering viability for use in transportation (Exhibit 12). long-distance shipping and air travel. To date, few alternative fuels
+Two important aspects are as follows: or energy storage systems can surpass the energy densities of
+liquid fuels.
+• Gravimetric density, the energy contained in a unit mass of fuel,
+determines how far a vehicle can travel with a given amount of Gaseous fuels, like CNG and hydrogen, currently require large and
+fuel. Higher gravimetric density means less weight is required to heavy tanks for onboard vehicle storage. Further research and
+be carried as fuel, meaning more weight capacity is available for development are needed to reduce the weight and size of such
+carrying people and freight. storage tanks. Li-ion battery systems have achieved considerable
+progress in light-duty vehicle applications in the past decade,
+• Volumetric density, the energy stored in a unit volume of fuel, but some trade-offs in range, which is dictated by energy density,
+determines how much space the fuel takes up. Higher volumetric still exist.22
+energy density means less vehicle space is required to store
+the fuel, and thus more space is available for carrying people
+and freight.
+Chevron Corporation 2023 Climate Change Resilience Report
+28

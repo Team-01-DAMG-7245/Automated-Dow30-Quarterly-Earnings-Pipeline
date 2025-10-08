@@ -1,0 +1,42 @@
+The Procter & Gamble Company 39
+Consolidated Statements of Cash Flows
+Amounts in millions; fiscal years ended June 30 2025 2024 2023
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, BEGINNING OF YEAR $ 9,482 $ 8,246 $ 7,214
+OPERATING ACTIVITIES (1)
+Net earnings 16,065 14,974 14,738
+Depreciation and amortization 2,847 2,896 2,714
+Share-based compensation expense 476 562 545
+Deferred income taxes 149 (244) (453)
+Loss/(gain) on sale of assets 755 (215) (40)
+Indefinite-lived intangible asset impairment charge — 1,341 —
+Change in accounts receivable 45 (766) (307)
+Change in inventories (324) (70) (119)
+Change in accounts payable (542) 878 (447)
+Other (1,653) 491 217
+TOTAL OPERATING ACTIVITIES 17,817 19,846 16,848
+INVESTING ACTIVITIES
+Capital expenditures (3,773) (3,322) (3,062)
+Proceeds from asset sales 107 346 46
+Acquisitions, net of cash acquired (11) (21) (765)
+Other investing activity (141) (507) 281
+TOTAL INVESTING ACTIVITIES (3,818) (3,504) (3,500)
+FINANCING ACTIVITIES
+Dividends to shareholders (9,872) (9,312) (8,999)
+Additions to short-term debt with original maturities of more than three months 8,020 3,528 17,168
+Reductions in short-term debt with original maturities of more than three months (6,512) (7,689) (13,031)
+Net additions/(reductions) to other short-term debt (1,138) 857 (3,319)
+Additions to long-term debt 2,237 3,197 3,997
+Reductions in long-term debt (1,977) (2,335) (1,878)
+Treasury stock purchases (6,500) (5,006) (7,353)
+Impact of stock options and other 1,707 1,905 1,269
+TOTAL FINANCING ACTIVITIES (14,036) (14,855) (12,146)
+EFFECT OF EXCHANGE RATE CHANGES ON CASH, CASH EQUIVALENTS
+AND RESTRICTED CASH 112 (251) (170)
+CHANGE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH 75 1,235 1,032
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, END OF YEAR $ 9,556 $ 9,482 $ 8,246
+SUPPLEMENTAL DISCLOSURE
+Cash payments for interest $ 896 $ 878 $ 721
+Cash payments for income taxes 4,554 4,363 4,278
+(1) Certain prior period amounts within Operating Activities have been reclassified for consistency with the current period presentation.
+These reclassifications had no effect on the previously reported Total Operating Activities.
+See accompanying Notes to Consolidated Financial Statements.

@@ -1,0 +1,40 @@
+PLANET
+Wastewater and effluent management system requirements Examples of recent projects:
+are subject to three levels of governance: a location level self-
+Glendale, Arizona: The site replaced their time-based
+assessment against requirements, a verification process by
+controllers for irrigation with a water-sensing controlled
+more senior personnel within the organization and auditing by
+system to avoid irrigating when raining. This project resulted
+third-party teams of Honeywell and external experts.
+in approximately 1.5 million gallons of water savings annually.
+Honeywell maintains a process to act in a timely manner to In addition to the controls, the site has been replacing
+address incidents or nonconformities, including those related landscaping with xeriscape landscaping; to date, the site has
+to wastewater and effluent management. These processes replaced approximately 9,000 SF of landscaping, resulting in an
+include root cause analysis and taking preventative and additional 140,000 gallons in reduced water consumption.
+corrective actions when needed. Key findings and continuous
+Torrance, California: The site updated the water treatment
+improvement opportunities for wastewater and effluent
+system on their cooling towers to increase the cycles of
+control are also evaluated and incorporated into the overall
+concentration by 12.5%. This reduced the amount of blow-
+management system.
+down/make-up water required and yields an estimated water
+Honeywell’s global inventory of water usage data supports the savings of 538,000 gallons per year.
+identification of conservation opportunities. Honeywell analyzes
+all its operations for Baseline Water Stress using the World
+Resources Institute’s (WRI) Water Risk Atlas tool, Aqueduct.
+To ensure a continuous focus on conservation at our larger
+company sites in water-stressed regions, and as part of our
+HSEPS Management System requirements, all sites in locations
+with High (40–80%) or Extremely High (greater than 80%)
+Baseline Water Stress meeting a certain threshold must:
+• Complete an annual water efficiency assessment based on
+water best practices.
+• Maintain a water balance of all significant flows in and out of
+the facility.
+• Obtain a comprehensive water audit on an established cycle.
+• Train personnel on water management.
+• Maintain a list of water conservation measures identified and
+completed.
+Honeywell | 2024 IMPACT REPORT | 22

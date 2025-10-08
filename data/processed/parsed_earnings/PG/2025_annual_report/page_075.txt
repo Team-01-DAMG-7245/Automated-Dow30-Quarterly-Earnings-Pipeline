@@ -1,0 +1,53 @@
+The Procter & Gamble Company 63
+October 2025, respectively. Both facilities can be extended for certain periods of time as specified in the terms of the credit
+agreement. These facilities are currently undrawn and we anticipate that they will remain undrawn. These credit facilities do not
+have cross-default or ratings triggers, nor do they have material adverse event clauses, except at the time of signing.
+NOTE 11
+ACCUMULATED OTHER COMPREHENSIVE INCOME/(LOSS)
+The table below presents the changes in Accumulated other comprehensive income/(loss) attributable to Procter & Gamble
+(AOCI), including the reclassifications out of AOCI by component:
+Changes in Accumulated Other Comprehensive Income/(Loss) by Component
+Post-
+retirement Foreign
+Investment Benefit Currency
+Securities Plans Translation Total AOCI
+BALANCE AT JUNE 30, 2023, NET OF TAX $ 13 $ 67 $ (12,300) $ (12,220)
+Other comprehensive income/(loss), before tax:
+OCI before reclassifications (4) 823 (376) 443
+Amounts reclassified to the Consolidated Statement of Earnings — (47) 216 169
+Total other comprehensive income/(loss), before tax (4) 776 (160) 612
+Tax effect 1 (230) (66) (295)
+Total other comprehensive income/(loss), net of tax (3) 546 (226) 317
+Less: OCI attributable to non-controlling interests, net of tax — — (3) (3)
+BALANCE AT JUNE 30, 2024, NET OF TAX 10 613 (12,522) (11,900)
+Other comprehensive income/(loss), before tax:
+OCI before reclassifications (1) (1,717) (51) (1,769)
+Amounts reclassified to the Consolidated Statement of Earnings — (81) 752 671
+Total other comprehensive income/(loss), before tax (1) (1,798) 701 (1,098)
+Tax effect 1 407 442 850
+Total other comprehensive income/(loss), net of tax — (1,390) 1,143 (248)
+Less: OCI attributable to non-controlling interests, net of tax — — (4) (4)
+BALANCE AT JUNE 30, 2025, NET OF TAX $ 9 $ (777) $ (11,375) $ (12,143)
+Foreign currency translation includes financial statement translation and changes in fair value of net investment hedges (see
+Note 9).
+The below provides additional details on amounts reclassified from AOCI into the Consolidated Statement of Earnings:
+• Postretirement benefit plan amounts are reclassified from AOCI into Other non-operating income, net and included in
+the computation of net periodic postretirement costs/(credit) (see Note 8).
+• Foreign currency translation amounts are reclassified from AOCI into Other non-operating income, net, upon the
+substantial liquidation of foreign operations. These accumulated foreign currency translation losses include non-cash
+charges due to the substantial liquidation of operations in certain Enterprise markets, including Argentina in 2025 and
+Nigeria in 2024 (see Note 3).
+NOTE 12
+LEASES
+The Company determines whether a contract contains a lease at the inception of a contract by determining if the contract
+conveys the right to control the use of identified property, plant or equipment for a period of time in exchange for consideration.
+We lease certain real estate, machinery, equipment, vehicles and office equipment for varying periods. Many of these leases
+include an option to either renew or terminate the lease. For purposes of calculating lease liabilities, these options are included
+within the lease term when it has become reasonably certain that the Company will exercise such options. The incremental
+borrowing rate utilized to calculate our lease liabilities is based on the information available at commencement date, as most of
+the leases do not provide an implicit borrowing rate. Our operating lease agreements do not contain any material guarantees or
+restrictive covenants. The Company does not have any material finance leases or sublease activities. Short-term leases, defined
+as leases with initial terms of 12 months or less, are not reflected on the Consolidated Balance Sheets. Lease expense for such
+short-term leases is not material. The most significant assets in our leasing portfolio relate to real estate and vehicles. For
+purposes of calculating lease liabilities for such leases, we have combined lease and non-lease components.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

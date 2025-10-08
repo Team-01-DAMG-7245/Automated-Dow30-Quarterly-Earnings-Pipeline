@@ -1,0 +1,289 @@
+{
+  "page": 13,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 31,
+  "columns": 7,
+  "accuracy": 45.7,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "",
+      "1": "Director criteria, qualifications and experience",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "To be eligible for consideration, any proposed Director candidate must:",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Possess exemplary ethics and integrity",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Have proven judgment and competence",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Have professional skills and experience that align with the needs of Verizon\u2019s long\u2011term business strategy and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "complement the experience represented on the Board",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Have demonstrated the ability to act independently and be willing to represent the long\u2011term interests of all",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "shareholders and not just those of\u00a0a\u00a0particular constituency or perspective",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Be willing and able to devote sufficient time to fulfill responsibilities to Verizon and our shareholders",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Election process",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Verizon\u2019s Directors are elected annually for a term of one year. We believe annual elections are consistent with good",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "corporate governance because they foster Director accountability and increase shareholder confidence. Verizon\u2019s",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "bylaws require Directors to be elected by a majority of the votes cast in an uncontested election.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Nominees for election",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Our Board has nominated the 10 candidates below, all of whom currently serve as Directors of Verizon, for election",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "as Directors. In June 2024, the Board elected Ms. Litchfield as an independent Director, effective October 1, 2024.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Ms. Litchfield was recommended by an executive search firm retained by the Corporate Governance and Policy",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Committee.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Each candidate has consented to stand for election, and we do not anticipate that any candidate will be unavailable",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "to serve. If any candidate were to become unavailable before the election, the proxy committee could vote the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "shares it represents for a substitute named by the Board. Each candidate has submitted an irrevocable, conditional",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "letter of resignation that our Board will consider if that candidate fails to receive a majority of the votes cast.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Biographical information for each Director nominee follows, including career highlights, the key skills and experience",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "that we believe each Director nominee brings to our Board, and other public board directorships. All of our nominees",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "bring more qualifications to the Board than those highlighted in their biographies, and these are reflected in the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "aggregate Board composition statistics provided in the Proxy Summary.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "When deciding to re\u2011nominate these Directors, the Corporate Governance and Policy Committee and the Board",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "considered each Director\u2019s individual qualifications, as well as the aggregate of skills and experience represented on",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "the Board, in light of the Company\u2019s strategy and expected future business needs.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "page": 30,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 11,
+  "columns": 7,
+  "accuracy": 99.93,
+  "data": [
+    {
+      "0": "2024",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Named",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Hans",
+      "2": "Anthony",
+      "3": "Sowmyanarayan",
+      "4": "Kyle",
+      "5": "Vandana",
+      "6": "Craig"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "executive",
+      "1": "Vestberg",
+      "2": "Skiadas",
+      "3": "Sampath",
+      "4": "Malady",
+      "5": "Venkatesh",
+      "6": "Silliman*"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "officers",
+      "1": "Chairman and",
+      "2": "Executive Vice",
+      "3": "Executive Vice",
+      "4": "Executive Vice",
+      "5": "Executive Vice",
+      "6": "Former Executive"
+    },
+    {
+      "0": "",
+      "1": "Chief Executive",
+      "2": "President and",
+      "3": "President and",
+      "4": "President and",
+      "5": "President \u2013 Public",
+      "6": "Vice President"
+    },
+    {
+      "0": "",
+      "1": "Officer",
+      "2": "Chief Financial",
+      "3": "Group CEO \u2013",
+      "4": "Group CEO \u2013",
+      "5": "Policy and Chief",
+      "6": "and President \u2013"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "Officer",
+      "3": "Verizon Consumer",
+      "4": "Verizon Business",
+      "5": "Legal Officer",
+      "6": "Verizon Global"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "Services"
+    }
+  ]
+}

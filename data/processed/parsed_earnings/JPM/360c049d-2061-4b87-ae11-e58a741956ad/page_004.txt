@@ -1,0 +1,36 @@
+Fortress balance sheet
+$B, EXCEPT PER SHARE DATA STANDARDIZED CET1 RATIO1
+2Q25 1Q25 2Q24
+Risk-based capital metrics1
+81 bps
+CET1 capital $284 $280 $267
+CET1 capital ratio – Standardized 15.0% 15.4% 15.3%
+15.4% (60 bps)
+CET1 capital ratio – Advanced 15.1 15.6 15.5 4 bps 15.0%
+(59 bps) (2 bps)
+Basel III Standardized RWA $1,886 $1,815 $1,743
+Leverage-based capital metric2
+Firm SLR 5.9% 6.0% 6.1%
+1Q25 Net Capital RWA AOCI7 Other8 2Q25
+income5 Distributions6
+Liquidity metrics3 STANDARDIZED RISK-WEIGHTED ASSETS ($B)1
+Firm LCR 113% 113% 112%
+Bank LCR 120 124 125 28 1,886
+Total excess HQLA $274 $292 $275
+5
+39
+HQLA and unencumbered marketable securities 1,543 1,516 1,464
+1,815
+Balance sheet metrics
+Total assets (EOP) $4,552 $4,358 $4,143
+Deposits (average) 2,505 2,430 2,371
+Tangible book value per share4 103.40 100.36 92.77
+1Q25 Lending9 Market Risk Credit Risk 2Q25
+ex. Lending
+Note: Totals may not sum due to rounding
+1Estimated for the current period. See note 1 on slide 10 5Reflects Net Income Applicable to Common Equity
+2Estimated for the current period. Represents the supplementary leverage ratio (“SLR”) 6Includes net share repurchases and common dividends
+3Estimated for the current period. Liquidity Coverage Ratio (“LCR”) represents the average LCR for the Firm and 7Excludes AOCI on cash flow hedges and DVA related to structured notes
+JPMorgan Chase Bank, N.A. (“Bank”). See note 2 on slide 10 8Primarily CET1 capital deductions
+4See note 3 on slide 9 9Includes Loans and Commitments
+3

@@ -1,0 +1,55 @@
+calculation methodology
+portfolio carbon intensity
+grams CO₂e/megajoule
+i [(GHG intensity) i * (Energy) i ] – j (Net GHG removals) j
+(Energy)
+i
+Where: (GHG intensity) is the simplified value chain GHG intensity of marketed product , (Net GHG removals)
+i i j
+is the net GHG emissions stored, or offset, and (Energy) is the energy of the marketed product .
+i i
+our portfolio carbon intensity methodology
+Introduction: The portfolio carbon intensity (PCI) methodology is Scope: The PCI is calculated on an annual basis as the weighted-average
+designed to facilitate carbon intensity accounting of a company’s portfolio.
+GHG intensity of energy delivered across gas, natural gas liquid (NGL), oil,
+It uses a representative value chain that includes equity-based emissions
+biofuel, hydrogen and lower carbon power products. Carbon removals are
+associated with bringing products to market, including the indirect
+deducted from total lifecycle emissions estimates.
+emissions from use of sold products (Scope 3). The PCI methodology
+facilitates transparency in calculations and data with information taken The following energy products (i) are included in the PCI methodology:
+from financial statements and emissions disclosures. This approach
+• Gas: piped gas, LNG, compressed natural gas and renewable natural gas
+enables comparison of companies that may participate in different parts
+of the value chain and the use of real data when possible. • Natural gas liquids: NGLs from upstream and refining
+• Liquid fuels: crude oil and its refined products (gasoline, diesel, jet
+Chevron’s PCI represents the products we sell, including our own
+fuel, fuel oil and other petroleum products), ethanol, renewable diesel,
+emissions, emissions from third parties and emissions from customer
+biodiesel and sustainable aviation fuel
+use of our products. For Chevron, the volume of emissions produced by
+users of our products is larger than our volume of emissions associated • Hydrogen: external sales of hydrogen, including lower carbon hydrogen
+with either upstream production or manufacturing. • Lower carbon power: external sales of wind, solar and
+geothermal power
+Intent: The PCI methodology provides a framework for transparent and
+The following removals (j) are included in the PCI methodology
+consistent comparisons of the mix of energy products provided by a
+calculation:
+company and their associated carbon performance, inclusive of elements
+of direct emissions (Scope 1), indirect emissions from imported energy • CCUS removes CO₂ either directly from the atmosphere or from streams
+(Scope 2), and indirect emissions associated with the value chain and use that would be released to the atmosphere. It does not include CO₂
+of sold products (Scope 3). The methodology is broadly applicable to oil produced from naturally occurring reservoirs that is used for enhanced
+and gas companies involved in exploration and production, manufacturing oil recovery.
+or marketing activities. • High-integrity offsets include nature-based solutions
+PCI definition: Estimated energy-weighted average GHG emissions inten sity For traditional hydrocarbon products (gas, NGL and oil), marketed
+from a simplified value chain from the production, manufacturing, distribu- volumes are based on the business segment (production, manufacturing
+tion and end use of marketed energy products per unit of energy delivered. or marketing) with the largest overall commodity volume, inclusive of all
+traded volumes.
+Units: Grams of carbon dioxide-equivalent GHG emissions per megajoule
+of energy delivered (g CO₂e/MJ) on a higher-heating-value basis to align Chemicals and other business lines that do not primarily supply energy
+with prior frameworks on gas value chain emissions and with heating products are excluded from this calculation.
+values commonly used in commercial contracts.†
+† Several prior product-intensity frameworks have used lower heating value for
+intensity calculations.
+Chevron Corporation 2023 Climate Change Resilience Report
+67

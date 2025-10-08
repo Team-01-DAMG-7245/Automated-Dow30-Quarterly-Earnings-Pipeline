@@ -1,0 +1,57 @@
+40 The Procter & Gamble Company
+Notes to Consolidated Financial Statements
+NOTE 1
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Nature of Operations
+The Procter & Gamble Company's (the "Company," "Procter & Gamble," "we" or "us") business is focused on providing
+branded consumer packaged goods of superior quality and value. Our products are sold in about 180 countries and territories
+primarily through mass merchandisers, e-commerce (including social commerce) channels, grocery stores, membership club
+stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport duty-free stores),
+high-frequency stores, pharmacies, electronics stores and professional channels. We also sell direct to consumers. We have on-
+the-ground operations in about 70 countries.
+Basis of Presentation
+The Consolidated Financial Statements include the Company and its controlled subsidiaries. Intercompany transactions are
+eliminated.
+Use of Estimates
+Preparation of financial statements in conformity with accounting principles generally accepted in the United States of America
+(U.S. GAAP) requires management to make estimates and assumptions that affect the amounts reported in the Consolidated
+Financial Statements and accompanying disclosures. These estimates are based on management's best knowledge of current
+events and actions the Company may undertake in the future. Estimates are used in accounting for, among other items,
+consumer and trade promotion accruals, restructuring reserves, pensions, postretirement benefits, stock options, valuation of
+acquired intangible assets, useful lives for depreciation and amortization of long-lived assets, future cash flows associated with
+impairment testing for goodwill, indefinite-lived intangible assets and other long-lived assets, deferred tax assets and liabilities,
+uncertain income tax positions and contingencies. Actual results may ultimately differ from estimates, although management
+does not generally believe such differences would materially affect the financial statements in any individual year. However,
+regarding ongoing impairment testing of goodwill and indefinite-lived intangible assets, significant deterioration in future cash
+flow projections or other assumptions used in estimating fair values versus those anticipated at the time of the initial valuations,
+could result in impairment charges that materially affect the financial statements in a given year.
+Revenue Recognition
+Our revenue is primarily generated from the sale of finished product to customers. Those sales predominantly contain a single
+performance obligation and revenue is recognized at a single point in time when ownership, risks and rewards transfer, which
+can be on the date of shipment or the date of receipt by the customer. A provision for payment discounts and product return
+allowances is recorded as a reduction of sales in the same period the revenue is recognized. The revenue recorded is presented
+net of sales and other taxes we collect on behalf of governmental authorities. The revenue includes shipping and handling costs,
+which generally are included in the list price to the customer.
+Trade promotions, consisting primarily of customer pricing allowances, merchandising funds and consumer coupons, are
+offered through various programs to customers and consumers. Sales are recorded net of trade promotion spending, which is
+recognized as incurred at the time of the sale. Most of these arrangements have terms of approximately one year. Accruals for
+expected payouts under these programs are included as accrued marketing and promotion in the Accrued and other liabilities
+line item in the Consolidated Balance Sheets.
+Cost of Products Sold
+Cost of products sold is primarily comprised of direct materials and supplies consumed in the manufacturing of product, as well
+as manufacturing labor, depreciation expense and direct overhead expenses necessary to acquire and convert the purchased
+materials and supplies into finished products. Cost of products sold also includes the cost to distribute products to customers,
+inbound freight costs, customs and duties, internal transfer costs, warehousing costs and other shipping and handling activity.
+Selling, General and Administrative Expense
+Selling, general and administrative expense (SG&A) is primarily comprised of marketing expenses, selling expenses, research
+and development costs, administrative and other indirect overhead costs, depreciation and amortization expense on non-
+manufacturing assets and other miscellaneous operating items. Research and development costs are charged to expense as
+incurred and were $2.1 billion in 2025 and $2.0 billion in 2024 and 2023. Advertising costs, charged to expense as incurred,
+include television, print, radio, digital and in-store advertising expenses and were $9.2 billion in 2025, $9.6 billion in 2024 and
+$8.0 billion in 2023. Non-advertising related components of the Company's total marketing spending reported in SG&A include
+costs associated with consumer promotions, product sampling and sales aids.
+Other Non-Operating Income, Net
+Other non-operating income, net primarily includes divestiture gains, net non-service impacts related to postretirement benefit
+plans, investment income, accumulated foreign currency translation losses recognized upon the substantial liquidation of
+foreign operations and other non-operating items.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

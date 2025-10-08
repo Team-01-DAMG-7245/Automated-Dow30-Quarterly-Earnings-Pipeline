@@ -1,0 +1,90 @@
+{
+  "page": 37,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 20,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Carbon intensity of upstream production: Carbon intensity,",
+      "1": "Exhibit 23. The 2022 global average refining carbon intensity"
+    },
+    {
+      "0": "or CO\u2082e per unit of production, of each resource type is loosely",
+      "1": "was 33 kg CO\u2082e/boe"
+    },
+    {
+      "0": "correlated to the resource\u2019s position, or cost of production, on",
+      "1": ""
+    },
+    {
+      "0": "the supply curve. Like the wide distribution of supply cost for each",
+      "1": "100"
+    },
+    {
+      "0": "resource type, carbon intensity for each resource type is widely",
+      "1": ""
+    },
+    {
+      "0": "distributed and can be influenced by the producer. The charts",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "75th percentile"
+    },
+    {
+      "0": "",
+      "1": "80"
+    },
+    {
+      "0": "from the IEA\u2019s The Oil and Gas Industry in Net Zero Transitions",
+      "1": "39 kg CO2e/boe"
+    },
+    {
+      "0": "presented in Exhibits 21 and 22 above represent IEA estimates",
+      "1": "Chevron, 2022"
+    },
+    {
+      "0": "",
+      "1": "37 kg CO2e/boe"
+    },
+    {
+      "0": "for global carbon intensity supply stacks for oil and gas, with the",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "60"
+    },
+    {
+      "0": "methane global warming potential (GWP) converted to the IPCC",
+      "1": "50th percentile"
+    },
+    {
+      "0": "",
+      "1": "Kilograms CO2e/boe\n25th percentile\n27 kg CO2e/boe"
+    },
+    {
+      "0": "AR4 values. Per Ipieca, the preferred source for GWP factors is",
+      "1": "23 kg CO2e/boe"
+    },
+    {
+      "0": "the IPCC\u2019s AR4.36*",
+      "1": "40"
+    },
+    {
+      "0": "Carbon intensity of refining: Generally, more-complex refineries",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "20"
+    },
+    {
+      "0": "are more carbon-intensive per unit of throughput than simpler",
+      "1": ""
+    }
+  ]
+}

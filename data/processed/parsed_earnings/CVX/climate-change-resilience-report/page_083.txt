@@ -1,0 +1,64 @@
+Methane measurement The process of taking a reading of the methane definition of selected units and terms
+concentration or methane emissions rate within an air sample at a specific
+point in time. Typical measurement units are parts per million, parts per American Petroleum Institute (API) Trade association representing all
+billion and kilograms per hour. Understanding global and local background segments of the oil and gas industry in the United States.
+methane concentrations is necessary to contextualize the data. Emissions
+bbl Barrel or barrels.
+measurements may be performed as one-time activities, at regular
+intervals or on a continuous basis, but whatever the frequency, obtaining bcm Billions of cubic meters.
+representative measurements is important.
+bcm/y Billions of cubic meters per year.
+Methane quantification Methods for determining the size of a methane
+International Association of Oil and Gas Producers (IOGP) Global forum
+emission source in customary units of emissions rate, such as mass per time
+of oil and gas producers.
+(e.g., kilograms per hour) or volume per time (e.g., standard cubic meters
+per hour). Methane can be quantified through engineering estimations, International Petroleum Industry Environmental Conservation
+direct measurement of a methane source (e.g., by utilizing bagging proce- Association (Ipieca) Global not-for-profit oil and gas industry association
+dures), and modeling that uses ambient measurements and meteorological for environmental and social issues.
+data to infer an emissions rate.
+mbd Thousands of barrels per day.
+Natural climate solutions Actions that reduce or avoid emissions and/or
+mboe/d Thousands of barrels of oil-equivalent per day.
+enhance the capture and storage of carbon in nature include conservation,
+restoration, and improved land management interventions on natural and mmbd Millions of barrels per day.
+agricultural lands.
+mmboe/d Millions of barrels of oil-equivalent per day.
+Nature-based solutions Per the International Energy Agency (IEA), these
+mmbtu Millions of British thermal units.
+include the repurposing of land use by growing forests where there were
+none before (afforestation) or reestablishing a forest where there was one mmbtu/d Millions of British thermal units per day.
+in the past (reforestation). Other nature-based solutions include restora-
+mmscf Millions of standard cubic feet.
+tion of coastal and marine habitats to ensure they continue to draw CO₂
+from the air. mmtpa Millions of tonnes per annum.
+Net positive impact Per Ipieca, a target for project outcomes in which the mtpa Thousands of tonnes per annum.
+impacts on biodiversity (i.e., the variety of ecosystems and living things)
+caused by the project are outweighed by the actions taken to avoid and
+reduce such impacts, rehabilitate affected species and landscapes, and
+offset any residual impacts.
+Net zero upstream aspiration (Scope 1 and 2) Chevron aspires to reach
+net zero upstream emissions (Scope 1 and 2) by 2050. Accomplishing
+this aspiration depends on continuing progress on commercially viable
+technology; government policy; successful negotiations for carbon capture
+and storage and nature-based projects; availability of cost-effective,
+verifiable offsets in the global market; and granting of necessary permits
+by governing authorities.
+Pneumatic controller An automated instrument used for maintaining
+a process condition such as liquid level, pressure, delta-pressure
+and temperature.
+Portfolio carbon intensity (PCI) Representation of the estimated energy-
+weighted average greenhouse gas emissions intensity from a simplified
+value chain from the production, refinement, distribution and end use of
+marketed energy products per unit of energy delivered.
+Routine flaring The flaring of gas during normal oil production operations
+in the absence of sufficient facilities or amenable geology to reinject the
+produced gas, utilize it onsite or dispatch it to a market.
+Super-emitter A methane source that emits a disproportionate amount
+compared to emissions from the total source category. Super-emitters can
+be continuous or episodic and can have a wide range of underlying causes,
+such as a failing tank control, lack of takeaway or pipeline blowdown.
+A study by NASA defines a super-emitter as a source that emits greater
+than 10 kilograms of methane per hour.
+Chevron Corporation 2023 Climate Change Resilience Report
+81

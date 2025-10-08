@@ -1,0 +1,51 @@
+2.2.6 scenario test
+stress-testing our portfolio under the IEA NZE scenario
+We consider a range of long-term energy-demand scenarios* and commodity prices when evaluating
+our portfolio. For longer-term scenarios, we routinely use external views to both inform and challenge
+our internal views. This includes scenarios that assume a wide range of energy transition outcomes,
+which may include scenarios for which the possibility of occurrence is remote. We analyze these
+alternative scenarios representing diverse potential futures to stress-test our portfolio and integrate
+lessons learned into our decision making to assess investments and evaluate business risk.
+IEA NZE Scenario in context Exhibit 2. IEA NZE Scenario in context: oil and gas demand in
+various 2° C or lower external scenarios
+The International Energy Agency (IEA) Net Zero Emissions by 2050 (mmboe/d)
+(NZE) Scenario is one potential path to a 1.5° C scenario. Described
+by the IEA as “a pathway to reach net zero emissions by 2050,
+175
+not the [emphasis added] pathway,” the scenario was originally
+published in 2021, with an update issued in October 2022.
+150
+We used the assumptions in the NZE Scenario (2022) to test
+125
+the resiliency of our portfolio. The statements that follow in this
+section represent projections and assumptions associated with
+100
+that scenario test. They are not representative of Chevron’s own
+predictions or actual conditions at the present time. 75
+The hypothetical NZE Scenario sets out a pathway to achieve net 50
+zero emissions from the global energy system in 2050. It assumes
+a transition based on three fundamental shifts in the global 25
+energy system: massive electrification, unprecedented levels of
+energy intensity improvement† and widespread global policy 0
+2022 2026 2030 2034 2038 2042 2046 2050
+cooperation. In the scenario, the global economy moves away from
+one largely powered by fossil fuels to one powered predominantly IPCC scenarios IEA NZE Scenario (2022)
+by renewable energy and decreases in oil and gas demand put
+Sources: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022; IPCC, AR6
+downward pressure on prices. Scenario Explorer and Database Hosted by IIASA, data.ene.iiasa.ac.at/ar6/#/downloads.
+The NZE Scenario has lower oil and gas demand than other barrel by 2050 in real terms. This compares with projections for
+externally developed Paris-aligned scenarios such as the average oil prices greater than $85 per barrel in 2030 and approximately
+C1 pathway, described as warming limited to 1.5° C with no or $110 per barrel in 2050, in real terms, in the NGFS Net Zero by
+limited overshoot, through C4 pathway, described as warming 2050 Scenario.
+limited to 2° C (Exhibit 2), of the Intergovernmental Panel on
+Climate Change (IPCC). The 2022 update to the NZE Scenario reflects higher near-term
+emissions following the world’s rebound from the COVID-19
+The NZE Scenario also reflects lower oil and gas prices than other pandemic, initial increased use of coal and a faster transition from
+1.5° C scenarios such as the Network for Greening the Financial gas to renewables in Europe following the Russia-Ukraine military
+System Net Zero by 2050 Scenario (NGFS Net Zero by 2050 conflict, and revisions to behavior-based assumptions. Compared
+Scenario).² The IEA’s NZE Scenario projects the price of oil drops with NZE Scenario forecasted assumptions in 2021, the 2022
+to approximately $35 per barrel by 2030 and to less than $25 per
+* A scenario is a hypothetical construct that uses assumptions and estimates to highlight central elements of a possible future but is not a forecast, prediction or sensitivity analysis.
+† The IEA defines energy intensity improvement as the percentage decrease in the ratio of global total energy supply per unit of gross domestic product.
+Chevron Corporation 2023 Climate Change Resilience Report
+16

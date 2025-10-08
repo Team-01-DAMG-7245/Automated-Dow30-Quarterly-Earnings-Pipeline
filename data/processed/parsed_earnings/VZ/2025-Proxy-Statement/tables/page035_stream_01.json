@@ -1,0 +1,64 @@
+{
+  "page": 35,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 9,
+  "columns": 4,
+  "accuracy": 98.8,
+  "data": [
+    {
+      "0": "executive\u00a0officers.",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "2024 Short\u2011\u2011Term Plan target award opportunity",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    {
+      "0": "Named executive officer",
+      "1": "As\u00a0a\u00a0percentage\u00a0of\u00a0base\u00a0salary",
+      "2": "",
+      "3": "As\u00a0a\u00a0dollar\u00a0value"
+    },
+    {
+      "0": "Mr.\u00a0Vestberg",
+      "1": "250%",
+      "2": "$",
+      "3": "3,750,000"
+    },
+    {
+      "0": "Mr.\u00a0Skiadas",
+      "1": "150%",
+      "2": "$",
+      "3": "1,500,000"
+    },
+    {
+      "0": "Mr.\u00a0Sampath",
+      "1": "150%",
+      "2": "$",
+      "3": "1,800,000"
+    },
+    {
+      "0": "Mr. Malady",
+      "1": "150%",
+      "2": "$",
+      "3": "1,650,000"
+    },
+    {
+      "0": "Ms.\u00a0Venkatesh",
+      "1": "150%",
+      "2": "$",
+      "3": "1,050,000"
+    },
+    {
+      "0": "Mr.\u00a0Silliman",
+      "1": "150%",
+      "2": "$",
+      "3": "1,387,500"
+    }
+  ]
+}

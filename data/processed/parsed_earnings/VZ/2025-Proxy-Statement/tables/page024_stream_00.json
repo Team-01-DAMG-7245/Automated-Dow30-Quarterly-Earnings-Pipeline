@@ -1,0 +1,478 @@
+{
+  "page": 24,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 52,
+  "columns": 7,
+  "accuracy": 37.04,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "",
+      "1": "Oversight of business risks",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "While senior management has primary responsibility for managing business risks, our Board of Directors is",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "responsible for risk oversight. The Board works closely with senior management to develop a comprehensive view of",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Verizon\u2019s key short- and long\u2011term business risks. Verizon has a formalized business risk management reporting",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "process that is designed to provide visibility to the Board about critical risks and risk mitigation strategies.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "The Board of Directors uses several different levels of review in overseeing the management of risks inherent in the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "operation of Verizon\u2019s businesses and the implementation of our strategic plan. The Board addresses the primary",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "risks associated with Verizon\u2019s business units and corporate functions in its operations reviews of those units and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "functions. Further, the Board reviews the risks associated with Verizon\u2019s strategic plan throughout the year.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "In addition, each of our Board committees oversees the management of risks that fall within that committee\u2019s areas",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "of responsibility. In performing this function, each Board committee has full access to management and may engage",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "independent advisors. As part of the Board\u2019s risk oversight function, the Board regularly brings in outside advisors",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "and experts to speak to the Board on topics including emerging business risks.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Enterprise risk management. The Audit Committee oversees the operations of Verizon\u2019s Enterprise Risk",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Management program, which identifies the primary risks to Verizon\u2019s business and also assesses Verizon\u2019s overall",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "control environment, including controls related to financial reporting, disclosure, compliance and significant financial",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "and business risks. These risks inform Board and Audit Committee discussion topics throughout the year.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Senior management teams from across the business periodically meet with the Audit Committee to discuss the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "primary risks associated with their respective business units and functions, and related risk mitigation initiatives. As",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "part of Verizon\u2019s annual enterprise risk assessment process, the Audit Committee also reviews key business risks",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "with the CFO, the Senior Vice President of Internal Audit and the Chief Compliance Officer. The Audit Committee",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "routinely meets privately with representatives from the independent registered public accounting firm, the Senior",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Vice President of Internal Audit, and the Chief Legal Officer.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Financial risk and capital allocation. The Finance Committee assists our Board in its oversight of financial risk",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "management. In performing this function, the Finance Committee oversees the strategy for managing risks related to",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "currency, interest rate, renewable energy, counterparty exposures and use of derivatives.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Environmental sustainability. To address climate\u2011related risks, Verizon has a long\u2011term goal to achieve net\u2011zero emissions",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "in our operations by 2035. We have set interim Science\u2011based Target Initiative (SBTi)-approved targets to reduce",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "operational and value chain emissions, as well as renewable energy targets. In addition, in 2024, we committed to set an",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "SBTi\u2011approved target to reach net\u2011zero GHG emissions across our value chain (scopes 1, 2 and 3) by 2050. We are",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "upgrading and hardening our infrastructure to be prepared for a changing climate, improving energy efficiency across our",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "networks and facilities and making substantial investments in renewable energy. Several of our Directors have experience",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "with climate\u2011related issues, including renewable energy, network resilience, innovative technological solutions and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "emissions management.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Each committee of the Board oversees the management of the specific risks related to our environmental sustainability",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "strategy and the transition to a low\u2011carbon economy that fall under the committee\u2019s area of responsibility:",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Audit Committee. Discusses environmental and climate\u2011related risks as part of its annual business risk reviews.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Corporate Governance and Policy Committee. Oversees Verizon\u2019s strategy for managing climate\u2011related risks and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "monitors the Company\u2019s progress on meeting climate\u2011related goals.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Finance Committee. Oversees the strategy for managing risks related to Verizon\u2019s renewable energy exposure",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "through renewable energy purchase agreements, as well as the Company\u2019s green financing program.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Human Resources Committee. To incentivize management to achieve the Company\u2019s climate\u2011related goals, the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Human Resources Committee has included a carbon intensity reduction metric as one of the performance",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "measures in the Short\u2011Term Plan since 2014.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Data privacy and cybersecurity. The Board is committed to maintaining strong and meaningful privacy and security",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "protections for our customers\u2019 information. The Audit Committee has primary responsibility for overseeing Verizon\u2019s",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "risk management programs relating to data protection and privacy and cybersecurity. The Audit Committee also",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "monitors Verizon\u2019s compliance in the areas of data protection and privacy.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Data privacy. Verizon has a dedicated Chief Privacy Officer whose team advises the business on privacy risks and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "assesses the effectiveness of privacy controls. The Chief Privacy Officer at least annually briefs the Audit Committee on",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "page": 15,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 8,
+  "columns": 1,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Climate disclosure frameworks generally identify two main areas of"
+    },
+    {
+      "0": "corporate climate risk: physical risks and transition risks.* Physical"
+    },
+    {
+      "0": "risks include potential physical impacts driven by both acute"
+    },
+    {
+      "0": "events and long-term shifts in climate patterns. Transition risks"
+    },
+    {
+      "0": "include the potential risks to a company arising from the transition"
+    },
+    {
+      "0": "to a lower carbon energy system, such as litigation, technology"
+    },
+    {
+      "0": "advancements and changes in policy, supply and demand, and"
+    },
+    {
+      "0": "stakeholder perceptions."
+    }
+  ]
+}

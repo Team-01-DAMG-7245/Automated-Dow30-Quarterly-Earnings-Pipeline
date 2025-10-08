@@ -1,0 +1,66 @@
+{
+  "page": 61,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 14,
+  "columns": 2,
+  "accuracy": 94.96,
+  "data": [
+    {
+      "0": "Name",
+      "1": "($) \n($) \n($) \n($) \n($) \n($) \n($)"
+    },
+    {
+      "0": "Mr. Silliman",
+      "1": "4,625,000 \n65,230 \n16,400,899 \n1,429,125 \n13,000 \n77,752 \n40,000"
+    },
+    {
+      "0": "1",
+      "1": "Represents Verizon\u2019s estimated cost of providing medical, dental and vision coverage for two years."
+    },
+    {
+      "0": "2",
+      "1": "Represents the estimated value of Mr. Silliman's 2022 annual RSU award and the estimated value of his outstanding 2023 and 2024"
+    },
+    {
+      "0": "",
+      "1": "annual RSU and PSU awards. Mr. Silliman had attained retirement eligibility for purposes of his outstanding Long\u2011Term Plan awards on"
+    },
+    {
+      "0": "",
+      "1": "his separation date. The 2022 PSUs had a vesting percentage of 0% resulting in no payout for this award. \u00a0The value of the 2022 RSU"
+    },
+    {
+      "0": "",
+      "1": "award and the 2023 and 2024 RSU and PSU awards were calculated using the total number of units (including accrued dividends) on"
+    },
+    {
+      "0": "",
+      "1": "December 31, 2024 and $39.99, Verizon\u2019s closing stock price on that date, and, in the case of the PSUs, assuming the awards would"
+    },
+    {
+      "0": "",
+      "1": "vest at target performance levels. These awards will be paid on the regularly scheduled payment date following the applicable vesting"
+    },
+    {
+      "0": "",
+      "1": "date based on the stock price on the applicable vesting date, and, in the case of the PSUs only, if and to the extent that the applicable"
+    },
+    {
+      "0": "",
+      "1": "performance criteria have been satisfied."
+    },
+    {
+      "0": "3",
+      "1": "Represents the value of the future annual cash payments from Verizon used to defray a portion of the annual premiums until Mr."
+    },
+    {
+      "0": "",
+      "1": "Silliman's attainment of age 60 provided he continues to pay the annual premiums pursuant to the terms of the executive"
+    },
+    {
+      "0": "",
+      "1": "life insurance program."
+    }
+  ]
+}

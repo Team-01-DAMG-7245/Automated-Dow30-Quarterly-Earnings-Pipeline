@@ -1,0 +1,71 @@
+• Oil price: The NZE Scenario projects that the price of oil drops CCUS, hydrogen and renewable fuels
+to approximately $35 per barrel by 2030 and to less than $25
+per barrel by 2050 in real terms. We have assumed this global oil • CCUS: The NZE Scenario assumes implementation of policies
+price represents Brent. to support a range of measures that establish markets for
+CCUS investment. By 2050, approximately 6.2 Gt of carbon are
+captured. While efforts are pursued to increase the efficiency
+“there is continued investment in existing of industrial processes such as cement manufacturing in the
+fields ... to ensure that supply does not fall NZE Scenario, CCUS plays an important role in limiting these
+faster than the decline in demand”4 emissions from harder-to-abate energy-consuming sectors. In
+addition, many developing nations have recently built or are
+building large numbers of coal power plants. Given the service
+life of these facilities, retrofitting them with CCUS will be central
+natural gas
+to reducing emissions in these economies.
+• Natural gas demand: The NZE Scenario approximates that gas
+• Hydrogen: Lower carbon intensity hydrogen production
+demand peaks in the near term and drops 30% through 2030 to
+increases from very low current levels to approximately
+3,300 bcm and 1,200 bcm in 2050, 70% lower than in 2021. By
+450 million tonnes in 2050 in the NZE Scenario projections.
+2050, approximately 40% of global natural gas demand goes to
+Approximately 60% is used in end-use sectors, such as for steel
+CCUS-paired hydrogen production.
+and chemical production, with the remainder converted to
+power or other fuels. By 2050, over 70% of hydrogen production
+• Natural gas supply: As with oil, continued natural gas
+is from electrolysis, with the remainder largely from natural gas
+investment is needed to maintain supply at existing fields in the
+in combination with CCUS.
+NZE Scenario. Natural gas investment averages approximately
+$200 billion per year through 2030 and $85 billion per year
+• Renewable fuels: Renewable fuels supplies accelerate in the
+thereafter. Under the NZE Scenario, traded volumes of liquefied
+NZE Scenario, with liquid biofuels expanding by a factor of
+natural gas (LNG) fall by two-thirds and traded volumes of
+approximately three and biogases by a factor of approximately
+pipeline gas fall by 85% between 2021 and 2050.
+12 by 2050. Liquid demand is driven by conventional ethanol and
+biodiesel for passenger cars and trucks through 2030, shifting
+• Natural gas price: The NZE Scenario includes projections
+to advanced biodiesel and sustainable aviation fuel for shipping
+for country- and region-level gas prices in the United States,
+and aviation through 2050. Advanced liquid biofuels increase
+European Union, China and Japan. The United States benchmark
+their share of the global aviation fuel market to 40% in 2050.
+decreases to $1.9 per mmbtu in 2030 and $1.8 per mmbtu in
+In addition, biogas and biomethane are used for clean cooking
+2050. The European Union benchmark decreases to $4.6 per
+fuels and transport via compressed natural gas (CNG) in the
+mmbtu in 2030 and $3.8 per mmbtu in 2050. The China and
+NZE Scenario.
+Japan benchmarks decrease to approximately $6 per mmbtu
+in 2030 and $5.1 per mmbtu in 2050. The lack of granular
+market descriptors and/or regional information in the dataset
+necessitates additional judgments; we have made additional
+assumptions to convert these prices to regional benchmarks.
+refined products
+In the NZE Scenario, rapid electrification of the vehicle fleet
+leads to a sharp decline in demand for refined products, such as
+gasoline and diesel, which implies decreased refinery throughput.
+At the same time, demand for noncombusted refined products,
+such as petrochemicals, remains more resilient. Refineries able to
+shift production to chemicals and biofuels may gain competitive
+advantage, as both of these products see increased demand
+through 2030. Nevertheless, the scale of changes in the
+NZE Scenario would inevitably lead to rationalization. Refineries
+able to shift to other areas, such as chemical recycling, renewable
+fuels or hydrogen production, may be able to reconfigure to avoid
+full closure.
+Chevron Corporation 2023 Climate Change Resilience Report
+19

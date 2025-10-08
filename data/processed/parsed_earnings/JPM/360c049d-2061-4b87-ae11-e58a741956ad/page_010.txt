@@ -1,0 +1,33 @@
+Notes on non-GAAP financial measures
+1. In addition to analyzing the Firm’s results on a reported basis, management reviews Firmwide results, including the overhead ratio, on a “managed” basis; these
+Firmwide managed basis results are non-GAAP financial measures. The Firm also reviews the results of the lines of business on a managed basis. The Firm’s
+definition of managed basis starts, in each case, with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm as
+a whole and for each of the reportable business segments and Corporate on a fully taxable-equivalent basis. Accordingly, revenuefrom investments that receive tax
+credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities. These financial measures allow
+management to assess the comparability of revenue from year-to-year arising from both taxable and tax-exempt sources. The corresponding income tax impact related
+to tax-exempt items is recorded within income tax expense. These adjustments have no impact on net income as reported by the Firm as a whole or by each of the
+lines of business and Corporate. For a reconciliation of the Firm’s results from a reported to managed basis, refer to page 7 ofthe Earnings Release Financial
+Supplement
+2. In addition to reviewing net interest income (“NII”) and noninterest revenue (“NIR”) on a managed basis, management also reviewsthese metrics excluding Markets,
+which is composed of Fixed Income Markets and Equity Markets. Markets revenue consists of principal transactions, fees, commissions and other income, as well as
+net interest income. These metrics, which exclude Markets, are non-GAAP financial measures. Management reviews these metrics to assess the performance of the
+Firm’s lending, investing (including asset-liability management) and deposit-raising activities, apart from any volatility associated with Markets activities. In addition,
+management also assesses Markets business performance on a total revenue basis as offsets may occur across revenue lines. For example, securities that generate
+net interest income may be risk-managed by derivatives that are reflected at fair value in principal transactions revenue. Management believes these measures provide
+investors and analysts with alternative measures to analyze the revenue trends of the Firm. For a reconciliation of NII and NIR from reported to excluding Markets,
+refer to page 28 of the Earnings Release Financial Supplement. For additional information on Markets revenue, refer to pages 81-82 of the Firm’s 2024 Form 10-K
+3. Tangible common equity (“TCE”), return on tangible common equity (“ROTCE”) and tangible book value per share (“TBVPS”) are each non-GAAP financial measures.
+TCE represents the Firm’s common stockholders’ equity (i.e., total stockholders’ equity less preferred stock) less goodwill and identifiable intangible assets (other than
+mortgage servicing rights), net of related deferred tax liabilities. For a reconciliation from common stockholders’ equity to TCE, refer to page 10 of the Earnings
+Release Financial Supplement. ROTCE measures the Firm’s net income applicable to common equity as a percentage of average TCE. TBVPS represents the Firm’s
+TCE at period-end divided by common shares at period-end. Book value per share was $122.51, $119.24 and $111.29 atJune 30, 2025, March 31, 2025and June 30,
+2024, respectively. TCE, ROTCE and TBVPS are utilized by the Firm, as well as investors and analysts, in assessing the Firm’suse of equity
+4. Adjusted expense and adjusted overhead ratio are each non-GAAP financial measures. Adjusted expense represents noninterest expense excluding Firmwide legal
+expense of $118mm, $121mm and $317mm for the three months ended June 30, 2025, March 31, 2025and June 30, 2024, respectively. The adjusted overhead ratio
+measures the Firm’s adjusted expense as a percentage of managed net revenue. Management believes this information helps investors understand the effect of these
+items on reported results and provides an alternate presentation of the Firm’s performance
+5. Second-quarter 2025 net income, earnings per share and ROTCE excluding the $774mm income tax benefit are non-GAAP financial measures. Excluding this item
+resulted in a decrease of $774mm (after tax) to reported net income from $15.0B to $14.2B; a decrease of $0.28 per share to reported EPS from $5.24 to $4.96; and a
+decrease of 1% to ROTCE from 21% to 20%. Management believes these measures provide useful information to investors and analystsin assessing the Firm’s
+results
+9

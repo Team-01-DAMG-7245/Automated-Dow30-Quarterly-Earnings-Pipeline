@@ -1,0 +1,56 @@
+{
+  "ticker": "CAT",
+  "file_name": "2024-Caterpillar-Investor-Presentation.pdf",
+  "parsed_date": "2025-10-08T13:25:53.953711",
+  "stages_completed": [
+    "text_extraction",
+    "table_extraction",
+    "layout_detection",
+    "image_extraction",
+    "format_conversion"
+  ],
+  "extraction_methods": {
+    "text": "pdfplumber with OCR fallback (pytesseract)",
+    "tables": "Camelot hybrid (lattice + stream)",
+    "layout": "PubLayNet deep learning model",
+    "images": "PyMuPDF embedded + layout-based extraction",
+    "formats": "Markdown, JSON, Plain Text"
+  },
+  "results": {
+    "text_extraction": {
+      "success": true,
+      "pages": 25,
+      "total_characters": 63629
+    },
+    "table_extraction": {
+      "success": true,
+      "tables_extracted": 56
+    },
+    "layout_detection": {
+      "success": true,
+      "total_blocks": 271,
+      "block_types": {
+        "Title": 85,
+        "Table": 8,
+        "List": 36,
+        "Text": 92,
+        "Figure": 50
+      }
+    },
+    "image_extraction": {
+      "success": true,
+      "embedded_images": 103,
+      "figure_blocks": 31,
+      "total_images": 134
+    },
+    "format_conversion": {
+      "success": true,
+      "formats": [
+        "markdown",
+        "json",
+        "txt",
+        "report"
+      ]
+    }
+  }
+}

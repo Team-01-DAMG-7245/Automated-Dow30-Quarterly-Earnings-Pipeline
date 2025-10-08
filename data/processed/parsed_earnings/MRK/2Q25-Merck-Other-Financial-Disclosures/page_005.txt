@@ -1,0 +1,41 @@
+MERCK & CO., INC., RAHWAY, N.J., USA
+THREE AND SIX MONTHS ENDED JUNE 30, 2024 GAAP TO NON-GAAP RECONCILIATION
+(AMOUNTS IN MILLIONS, EXCEPT PER SHARE FIGURES)
+(UNAUDITED)
+Table 2b
+GAAP Acqui R si e ti l o a n te a d n C d o D s i t v s e ( s 1) titure- Restructuring Costs (2) In (I v n e c s o t S m m e e e c n ) u t L r s i o t i i s n e s s E fr q o u m ity Certain Other Items Adjustment Subtotal Non-GAAP
+Second Quarter
+Cost of sales $ 3 ,745 606 66 6 72 $ 3 ,073
+Selling, general and administrative 2,739 24 31 55 2,684
+Research and development 3,500 20 20 3,480
+Restructuring costs 80 80 80 –
+Other (income) expense, net 42 (17) (49) (66) 108
+Income Before Taxes 6,006 (633) (177) 49 (761) 6,767
+Income Tax Provision (Benefit) 545 (129)(3) (30)(3) 11 (3) (259)(4) (407) 952
+Net Income 5,461 (504) (147) 38 2 59 (354) 5,815
+Net Income Attributable to Merck & Co., Inc., Rahway, N.J., USA 5,455 (504) (147) 38 2 59 (354) 5,809
+Earnings per Common Share Assuming Dilution $ 2.14 (0.20) (0.06) 0 .02 0 .10 (0.14) $ 2.28
+Tax Rate 9.1% 14.1%
+June YTD
+Cost of sales $ 7 ,285 1,069 182 1 ,251 $ 6 ,034
+Selling, general and administrative 5,221 45 36 81 5,140
+Research and development 7,492 36 2 38 7,454
+Restructuring costs 202 202 2 02 –
+Other (income) expense, net 12 (21) (165) (186) 198
+Income Before Taxes 1 1,675 (1,129) (422) 165 (1,386) 1 3,061
+Income Tax Provision (Benefit) 1,447 (221)(3) (72)(3) 36 (3) (259)(4) (516) 1,963
+Net Income 1 0,228 (908) (350) 129 2 59 (870) 1 1,098
+Net Income Attributable to Merck & Co., Inc., Rahway, N.J., USA 1 0,217 (908) (350) 129 2 59 (870) 1 1,087
+Earnings per Common Share Assuming Dilution $ 4.02 (0.35) (0.14) 0.05 0.10 (0.34) $ 4.36
+Tax Rate 12.4% 15.0%
+Only the line items that are affected by non-GAAP adjustments are shown.
+The Company is providing certain non-GAAP information that excludes certain items because of the nature of these items and the impact they have on the analysis of underlying business performance and trends. Management believes that providing non-
+GAAP information enhances investors’ understanding of the Company’s results because management uses non-GAAP measures to assess performance. Management uses non-GAAP measures internally for planning and forecasting purposes and to
+measure the performance of the Company along with other metrics. In addition, annual employee compensation, including senior management’s compensation, is derived in part using a non-GAAP pretax income metric. The non-GAAP information
+presented should be considered in addition to, but not as a substitute for or superior to, information prepared in accordance with GAAP.
+(1) Amounts included in cost of sales primarily reflect expenses for the amortization of intangible assets. Amounts included in selling, general and administrative expenses reflect integration, transaction and certain other costs related to acquisitions and
+divestitures. Amounts included in research and development expenses primarily reflect the amortization of intangible assets. Amounts included in other (income) expense, net, primarily reflect royalty income related to the prior termination of the Sanofi-
+Pasteur MSD joint venture.
+(2) Amounts primarily include employee separation costs and accelerated depreciation associated with facilities to be closed or divested related to activities under the Company's formal restructuring programs.
+(3) Represents the estimated tax impacts on the reconciling items based on applying the statutory rate of the originating territory of the non-GAAP adjustments.
+(4) Represents a benefit due to a reduction in reserves for unrecognized income tax benefits resulting from the expiration of the statute of limitations for assessments related to the 2019 federal tax return year.

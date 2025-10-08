@@ -1,0 +1,45 @@
+BOARD PROPOSALS
+Incentive Stock Options. Incentive stock options are generally not taxable to the participant at grant or exercise if
+the participant has continuously been an employee from the time of the grant until at least three months before
+exercise. However, the spread at exercise is an “adjustment” item for alternative minimum tax purposes. Any gain
+realized on the sale or other disposition of stock acquired on exercise of an incentive stock option is considered as
+long-term capital gain for tax purposes if the participant disposes of the stock more than two years after the date
+the option was granted and more than one year after the date of exercise of the option. If the stock is disposed of
+within two years after grant or one year after exercise, the lesser of any gain on such disposition or the spread at
+exercise (i.e., the excess of the fair market value of the stock on the date of exercise over the exercise price) is
+treated as ordinary income, and any appreciation after the date of exercise is considered long-term or short-term
+capital gain depending on the holding period prior to sale. The Company is generally not entitled to a deduction
+with respect to an incentive stock option, except to the extent of any ordinary income recognized upon
+disposition of stock.
+Stock Appreciation Rights. Like nonstatutory stock options, SARs are not taxable to the recipient at grant but will
+result in taxable ordinary income on the date of exercise equal to the amount paid to the recipient, i.e., the
+difference between the value of the shares on the date of exercise and the exercise price. Similarly, the Company
+will be entitled to a deduction when the SARs are exercised.
+Additional Equity Compensation Plan Information
+The following table gives information about the Company’s common stock that may be issued upon the exercise
+of options, warrants and rights under all of the Company’s equity compensation plans as of June 30, 2025. The
+table includes the following plans: The Procter & Gamble 1992 Stock Plan; The Procter & Gamble 2001 Stock and
+Incentive Compensation Plan; The Procter & Gamble 2003 Non-Employee Directors’ Stock Plan; The Procter &
+Gamble 2009 Stock and Incentive Compensation Plan; The Procter & Gamble 2014 Stock and Incentive
+Compensation Plan; and The Procter & Gamble 2019 Stock and Incentive Compensation Plan. There are no
+outstanding awards under equity compensation plans not approved by security holders.
+(b)
+Weighted (c)
+(a) average exercise Number of securities
+Number of securities to price of remaining available for
+be issued upon outstanding future issuance under
+exercise of options, equity compensation plans
+outstanding options, warrants and (excluding securities
+Plan Category warrants and rights rights reflected in column (a))
+Equity compensation plans approved by
+security holders
+Stock Options/Stock Appreciation Rights 96,633,659 $ 120.9524 (1)
+Restricted Stock Units (RSUs)/Performance
+Stock Units (PSUs) 6,677,267 N/A (1)
+TOTAL 103,310,926 $120.9524(2)
+(1) Of the plans listed above, only The Procter & Gamble 2019 Stock and Incentive Compensation Plan (the “2019 Plan”) allows for future grants of
+securities. The maximum number of shares that may be granted under this plan is 187 million shares. Stock options and stock appreciation
+rights are counted on a one-for-one basis while full value awards (such as RSUs and PSUs) are counted as five shares for each share awarded.
+Total shares available for future issuance under the 2019 Plan is 58 million.
+(2) Weighted average exercise price of outstanding options and stock appreciation rights only.
+93 The Procter & Gamble Company

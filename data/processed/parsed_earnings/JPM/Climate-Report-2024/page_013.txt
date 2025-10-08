@@ -1,0 +1,57 @@
+Our Carbon Assessment Framework Key Aspects of Our Carbon Assessment Framework
+We developed our Carbon Assessment Framework (“CAF”) with the aim of
+QUANTITATIVE ASSESSMENT QUALITATIVE ASSESSMENT
+providing a consistent, comprehensive and data-driven approach to assess our
+clients’ emissions and decarbonization plans. For each new proposed in-scope
+Current Client is scored relative to carbon intensity performance within the
+Holistic view of the client's plans and actions to achieve its decarbonization plans including:
+transaction, our CAF provides decision-makers at the Firm with insights into Carbon Intensity same sector portfolio
+how the transaction may impact a portfolio’s carbon intensity. Client’s Board oversight and corporate governance of climate-related matters
+Forecasted
+Client is scored relative to the applicable net zero aligned target
+The framework relies on two key scores that are assessed for each client: a Carbon Intensity Client’s integration of climate risk and opportunities in corporate strategy
+quantitative score and a qualitative score (collectively known as the CAF scores).
+Historical Carbon
+Client is scored based on the 2-year change in its carbon intensity Client’s investments toward decarbonization
+Intensity Reduction
+The quantitative score for each client comprises three pillars:
+i. Current Carbon Intensity: we compare each client’s most recently available CAF QUANTITATIVE SCORE (1–5) CAF QUALITATIVE SCORE (1–5)
+carbon intensity to that of other clients within the same sector, which allows
+us to benchmark their performance within each respective sector portfolio.
+ii. Forecasted Carbon Intensity: we use our clients’ decarbonization targets
+to forecast their carbon intensity for our target year (2030). This gives us
+insight into each client’s decarbonization goals and pathway.
+iii. Historical Carbon Intensity Reduction: we measure the change in each
+HOW WE ARE USING CAF We recognize that different factors beyond both our and our clients’ control — such as
+client’s carbon intensity to gauge their progress and continued focus on
+technology development and scalability — will pose challenges in the low-carbon journey.
+reducing carbon intensity over time. We aim to align our capabilities and efforts to make progress toward our net zero-
+The table on the following page gives a few examples of areas where we are engaging
+aligned targets. Our goal is to develop our knowledge and understanding of the
+The qualitative score, which considers a variety of factors, enables us to take with our clients to provide additional support by delivering strategic advice, as well
+complexities of navigating the low-carbon transition to support our clients in thinking
+a holistic view — beyond just carbon intensity — of how each client plans to as providing capital and structured financing solutions to help them in achieving their
+through and acting on their decarbonization plans, while also aiming to achieve
+advance their decarbonization strategy. Some of the factors we consider include decarbonization goals. We see these as levers that may help advance decarbonization
+emissions reductions across our financing portfolio.
+governance and oversight of climate matters, climate risk integration into of the different sectors where our clients operate and contribute to our progress toward
+corporate strategy, investments (e.g., mergers and acquisitions, joint ventures, Decision-making and Portfolio Management: We consider the CAF as one element our net zero-aligned targets.
+venture funding) to support transition and climate objectives, and supplier of our decision-making for new in-scope transactions in our targeted sectors. The
+Risk Management: We also consider CAF scores in our risk assessments. The quantitative
+sustainability programs. Where applicable, we also consider specific factors; CAF process, and corresponding governance, have been integrated into the various
+and qualitative CAF scores are used in our Wholesale Credit Risk stress framework along
+for example, in the Oil & Gas sector, we evaluate client’s flaring and fugitive deal execution processes for each sector across credit and capital markets financing
+with other climate-related factors, such as transition scenario outputs, to estimate the
+methane emissions management plans. for all in-scope transactions. While all transactions are assessed on an individual
+impact of different transition pathways on client financials and credit ratings. For more
+basis with a holistic view of many factors, the CAF allows us to assess how each new
+information on how we use CAF in our risk assessments, please refer to page 29.
+transaction may impact our portfolio carbon intensity. Our CAF facilitates visibility
+and monitoring of progress toward targets by senior leaders of relevant banking
+teams at regional- and sector-specific levels.
+Client Engagement: Assessing our clients’ decarbonization plans through our CAF
+creates an opportunity for us to engage with our clients, understand their views,
+plans and constraints, as well as their capital needs. The CCT, together with other
+banking teams, works closely with clients to offer financial solutions to advance
+clients’ decarbonization initiatives and goals.
+9

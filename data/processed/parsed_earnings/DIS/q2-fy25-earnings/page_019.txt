@@ -1,0 +1,34 @@
+The following table reconciles reported diluted EPS to diluted EPS excluding certain items for the six-
+month period:
+Pre-Tax Tax After-Tax
+Income/ Benefit/ Income/ Diluted Change vs.
+($ in millions except EPS) Loss Expense(1) Loss(2) EPS(3) prior year
+Six Months Ended March 29, 2025:
+As reported $ 6,747 $ (702) $ 6,045 $ 3.21 >100 %
+Exclude:
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(4) 793 (184) 609 0.32
+Restructuring and impairment charges(5) 252 188 440 0.25
+Resolution of a prior-year tax matter — (1,016) (1,016) (0.56)
+Excluding certain items $ 7,792 $ (1,714) $ 6,078 $ 3.22 32 %
+Six Months Ended March 30, 2024:
+As reported $ 3,528 $ (1,161) $ 2,367 $ 1.03
+Exclude:
+Restructuring and impairment charges(5) 2,052 (121) 1,931 1.06
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(4) 885 (206) 679 0.36
+Excluding certain items $ 6,465 $ (1,488) $ 4,977 $ 2.44
+(1) Tax benefit/expense is determined using the tax rate applicable to the individual item.
+(2) Before noncontrolling interest share.
+(3) Net of noncontrolling interest share, where applicable. Total may not equal the sum of the column due to rounding.
+(4) For the current period, intangible asset amortization was $654 million, step-up amortization was $133 million and
+amortization of intangible assets related to a TFCF equity investee was $6 million. For the prior-year period,
+intangible asset amortization was $742 million, step-up amortization was $137 million and amortization of intangible
+assets related to a TFCF equity investee was $6 million.
+(5) Amounts for the current period include impairment charges related to the Star India Transaction ($143 million) and
+content ($109 million). Tax expense in the current period includes the estimated tax impact of these charges and a
+non-cash tax charge of $244 million related to the Star India Transaction. Amounts for the prior-year period include
+impairments of goodwill ($2,038 million).
+19

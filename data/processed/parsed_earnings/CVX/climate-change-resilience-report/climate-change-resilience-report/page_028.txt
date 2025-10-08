@@ -1,0 +1,63 @@
+3.1.2 Policy trends Removals: The IPCC 1.5° C report points out that many pathways
+Policies, like those that support the Paris Agreement, can change to achieving the <2° C goal will require “negative emissions”
+the amount of energy consumed, the rate of energy-demand approaches. Negative emissions, or CO₂ removals, are often
+growth, the mix of energy sources and the relative economics of classified as natural climate solutions and technology removals,
+one fuel versus another. Tracking and anticipating policy trends like carbon capture. Both can be essential tools in mitigating
+helps us identify potential changes in energy mix and supply- GHG emissions and meeting the goals of the Paris Agreement
+and-demand scenarios and adjust our outlooks accordingly. We (Exhibit 10).14 In its Sixth Assessment Report, the IPCC continues to
+discuss our policy framework and impact analysis in Section 5, recognize the importance of “deploying carbon dioxide removal
+“Performance and Policy” (see pages 54–64). (CDR) methods to counterbalance residual GHG emissions.”15 CCUS
+can play a dual role in climate change mitigation: It can be used for
+The Paris Agreement specifies a goal of “holding the increase in the technology to remove carbon from the atmosphere with direct air
+global average temperature to well below 2° C above pre-industrial capture (DAC) and reduce emissions from point sources in energy-
+levels and pursuing efforts to limit the temperature increase to intensive industries and power generation.16 According to the IEA
+1.5° C above pre-industrial levels.”10 Under the agreement, each Announced Pledges Scenario (APS), CCUS may grow over 100-fold
+country may pursue its own strategies for achieving its Nationally by 2050. To unlock the full potential of natural climate solutions
+Determined Contributions (NDCs). According to the IEA, the and CCUS, advancement of supportive policy as well as legal and
+current NDCs do not appear likely to achieve the goals of the carbon accounting frameworks are needed. For example, if CO₂
+agreement,11 although new, updated or reconfirmed NDCs are is shipped internationally or natural climate solutions are used to
+intended to be submitted. create an environmental attribute that is sold to a party in another
+country, corporate and national GHG inventory accounting could
+According to the IPCC, achieving the Paris Agreement’s goals be impacted.17
+will require peaking emissions as soon as possible and global
+net zero emissions by around 2070 (2065–2080). The IPCC finds
+that achieving a 1.5° C scenario with high confidence and without
+Exhibit 10. CCUS and natural climate solutions could make a
+any temporary overshoot would require net zero by around
+long-term contribution toward reducing GHG emissions
+2050 (2045–2055). Other IPCC scenarios reach net zero later
+this century, but they achieve 1.5° C outcomes through greater (Gigatonnes CO₂e per year)
+adoption of CO₂ removal opportunities. Achieving a 1.5° C goal
+will require countries to reduce emissions across all sectors of the 12
+economy. It will also require increasing removals by sinks, such as
+nature-based solutions (e.g., forestry), which absorb more carbon
+than they release, and through technology solutions (e.g., CCUS).12
+8
+The IPCC notes numerous potential pathways to achieving the
+goals of the Paris Agreement. All pathways include the continued
+use of oil and gas, even in rapid decarbonization scenarios. To
+achieve net zero emissions by 2050, direct air carbon dioxide
+capture and storage and carbon capture and storage (CCS) must 4
+be scaled up and globally deployed. Without this technology, the
+IPCC climate models cannot achieve theoretical solutions to reach
+net zero in the desired time frame.13
+0
+2021 2030 2050
+3.1.3 Technology trends
+Improvements in technology can reduce energy costs, lower CCUS Natural climate solutions
+emissions and influence the energy mix by changing the relative
+Sources: Griscom, Bronson et al., “Natural Climate Solutions,” Proceeding of the National Academy
+competitiveness of different energy types. Four prominent areas of Sciences of the United States of America, October 2017, pnas.org/content/114/44/11645; University
+College London, Future Demand, Supply and Prices for Voluntary Carbon Credits—Keeping the
+of investment include CO₂ removals, hydrogen, renewable fuels
+Balance, June 2021, trove-research.com/report/carbon-credit-demand-supply-and-prices; IEA,
+and battery storage. Removals, hydrogen and renewable fuels in World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report),
+CC BY NC SA 4.0 (Annex A).
+particular are important technologies to assist in carbon intensity
+reduction of hard-to-abate sectors. A lifecycle approach to carbon
+accounting can help assess the relative carbon efficiencies of
+different technologies. We discuss assessing performance on
+a lifecycle basis in Section 5, “Performance and Policy”
+(see pages 51–52).
+Chevron Corporation 2023 Climate Change Resilience Report
+26

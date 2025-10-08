@@ -1,0 +1,47 @@
+citations
+section 1
+1 Chevron Corp., 2022 annual report on form 10-K, chevron.com/investors/financial-information#secfilings.
+section 2
+2 Richters, O. et al., NGFS climate scenarios data set, phase 3 scenario explorer, 2022, data.ene.iiasa.ac.at/ngfs//#/workspace.
+3 International Energy Agency (IEA), World energy outlook 2022, p. 21, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+4 Ibid., p. 338.
+section 3
+5 IEA, Defining energy access: 2020 methodology, October 2020, iea.org/articles/defining-energy-access-2020-methodology; The World Bank and the World Health
+Organization, Measuring energy access: a guide to collecting data using the core questions on household energy use, October 2021, LSMS Guidebook Washington, D.C.:
+World Bank Group.
+6 U.S. Energy Information Administration (EIA), International energy outlook 2021 with projections to 2050 (narrative), October 2021, p. 12, eia.gov/outlooks/ieo/pdf/
+IEO2021_Narrative.pdf; IEA, World energy outlook 2022, p. 239, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+7 EIA, Natural gas explained, eia.gov/energyexplained/natural-gas/use-of-natural-gas.php.
+8 Ibid.
+9 IEA, World energy outlook 2022, p. 59, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+10 UN Intergovernmental Panel on Climate Change (IPCC), Paris Agreement, 2015, p. 3, unfccc.int/sites/default/files/english_paris_agreement.pdf.
+11 IEA, World energy outlook 2022, p. 107, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+12 IPCC, Summary for policymakers in: Global warming of 1.5 °C, an IPCC special report on the impacts of global warming of 1.5 °C above pre-industrial levels and related
+global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to
+eradicate poverty, 2018, p. 17, ipcc.ch/site/assets/uploads/sites/2/2022/06/SPM_version_report_LR.pdf.
+13 Ibid.
+14 IEA, Energy technology perspectives 2020, iea.org/reports/energy-technology-perspectives-2020; IPCC, Special report: global warming of 1.5 °C, 2018, ipcc.ch/sr15/.
+15 IPCC, Summary for policymakers in: Climate change 2022: mitigation of climate change, 2022, p. 28, ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_SPM.pdf.
+16 Global CCS Institute, Carbon removal with CCS technologies, January 2021, p. 4, globalccsinstitute.com/wp-content/uploads/2021/02/Carbon-Removal-with-CCS-
+Technologies.pdf.
+17 Global CCS Institute, Global status of CCS 2022, March 2023, status22.globalccsinstitute.com/2022-status-report/global-status-of-ccs/; Greenhouse Gas Protocol,
+Land sector and removals guidance, ghgprotocol.org/land-sector-and-removals-guidance; United Nations Framework Convention on Climate Change (UNFCC),
+Article 6.4 mechanism supervisory body on carbon markets achieves important progress, September 2022, unfccc.int/news/article-64-mechanism-supervisory-body-
+on-carbon-markets-achieves-important-progress.
+18 U.S. Office of Energy & Renewable Energy, Hydrogen shot, energy.gov/eere/fuelcells/hydrogen-shot; IEA, World energy outlook 2022, pp. 164, 369, 384, iea.org/
+reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+19 IEA, Towards hydrogen definitions based on their emissions intensity, April 2023, iea.org/reports/towards-hydrogen-definitions-based-on-their-emissions-intensity,
+License: CC BY 4.0.
+20 BloombergNEF (BNEF), Lithium-ion battery pack prices rise for first time to an average of $151/kWh, December 2022, about.bnef.com/blog/
+lithium-ion-battery-pack-prices-rise-for-first-time-to-an-average-of-151-kwh.
+21 McKinsey & Company, The race to decarbonize electric-vehicle batteries, February 2023, mckinsey.com/industries/automotive-and-assembly/our-insights/
+the-race-to-decarbonize-electric-vehicle-batteries.
+22 Argonne National Laboratory, GREET model fuel specifications, 2022, greet.anl.gov; Advanced automotive battery conference (AABC) for Li-ion battery performance,
+2018, with Chevron internal compilations.
+23 IEA, World energy outlook 2022, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A); BNEF scenarios (2022);
+Wood Mackenzie scenarios (2022); S&P Global Commodity Insights scenarios (2022).
+24 IEA, World energy outlook 2022, pp. 51, 149–150, iea.org/reports/world-energy-outlook-2022, License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+25 IEA, Oil market report – December 2022, iea.org/reports/oil-market-report-december-2022.
+26 IEA, Oil market report – March 2023, iea.org/reports/oil-market-report-march-2023.
+Chevron Corporation 2023 Climate Change Resilience Report
+78

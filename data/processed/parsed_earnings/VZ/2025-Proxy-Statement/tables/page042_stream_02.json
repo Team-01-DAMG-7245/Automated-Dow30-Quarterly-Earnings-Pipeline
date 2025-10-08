@@ -1,0 +1,38 @@
+{
+  "page": 42,
+  "table_number": 2,
+  "method": "stream",
+  "rows": 7,
+  "columns": 2,
+  "accuracy": 99.63,
+  "data": [
+    {
+      "0": "$336.7",
+      "1": "50%"
+    },
+    {
+      "0": "Less than $336.7",
+      "1": "0%"
+    },
+    {
+      "0": "1 \nService and other revenue (SOR) is defined as Verizon\u2019s cumulative revenue generated from Verizon\u2019s wireless and wireline",
+      "1": ""
+    },
+    {
+      "0": "businesses, excluding revenue related to wireless equipment, on a consolidated basis over the performance cycle, subject to",
+      "1": ""
+    },
+    {
+      "0": "adjustment to eliminate the financial impact of significant transactions, changes in legal or regulatory policy and other extraordinary",
+      "1": ""
+    },
+    {
+      "0": "items.",
+      "1": ""
+    },
+    {
+      "0": "2 \nFor achievement between the stated levels, vesting is determined by linear interpolation.",
+      "1": ""
+    }
+  ]
+}
