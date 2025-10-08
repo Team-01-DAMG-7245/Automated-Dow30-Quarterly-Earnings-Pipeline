@@ -1,0 +1,11 @@
+# params.yaml
+# Project LANTERN Part 2 - Pipeline Parameters
+
+# Generate Company Reference
+generate_company_reference:
+  source_url: "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
+  output_dir: "data/raw/scraped"  
+  backup_enabled: true
+  date_format: "%Y%m%d"
+  request_timeout: 15
+  source_name: "Wikipedia"

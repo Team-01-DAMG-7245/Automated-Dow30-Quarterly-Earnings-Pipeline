@@ -1,142 +1,17 @@
 # dvc.yaml
 # Project LANTERN Part 2 - Automated Dow 30 Earnings Pipeline
-# Maps to assignment requirements 1-4 and 6
 
 stages:
   # Find Dow 30 tickers and websites
   generate_company_reference:
-    cmd: python src/dow30_reference.py
+    cmd: python src/scrape_dow30_wikipedia.py
     deps:
-      - src/dow30_reference.py
-    outs:
-      - data/reference/dow30_companies.csv
-      - data/reference/dow30_companies.json
-    desc: "Requirement 1: Build reference list of Dow 30 companies"
-
-  # Programmatically identify IR pages
-  discover_ir_pages:
-    cmd: python src/ir_page_finder.py --input data/reference/dow30_companies.json --output data/reference/companies_with_ir.json
-    deps:
-      - src/ir_page_finder.py
-      - data/reference/dow30_companies.json
-    outs:
-      - data/reference/companies_with_ir.json
-    desc: "Requirement 2: Automatically discover IR pages (no hard-coding)"
-
-  # Programmatically locate latest quarterly earnings
-  locate_earnings_reports:
-    cmd: python src/earnings_report_locator.py --input data/reference/companies_with_ir.json --output data/metadata/report_locations.json
-    deps:
-      - src/earnings_report_locator.py
-      - data/reference/companies_with_ir.json
-    outs:
-      - data/metadata/report_locations.json
+      - src/scrape_dow30_wikipedia.py
     params:
-      - locator.keywords
-      - locator.date_patterns
-    desc: "Requirement 3: Scan IR pages to find most recent earnings reports"
-
-  # Download reports
-  download_earnings_reports:
-    cmd: python src/earnings_report_downloader.py --input data/metadata/report_locations.json --output data/raw/earnings
-    deps:
-      - src/earnings_report_downloader.py
-      - data/metadata/report_locations.json
+      - generate_company_reference
     outs:
-      - data/raw/earnings:
-          persist: true
-      - data/metadata/download_log.json
-    params:
-      - download.timeout
-      - download.max_retries
-    desc: "Requirement 4: Download earnings reports"
-
-  # Parse - Extract text
-  extract_text:
-    cmd: python src/extract_pdf_text.py --input-dir data/raw/earnings --output-dir data/parsed/earnings/text
-    deps:
-      - src/extract_pdf_text.py
-      - data/raw/earnings
-    outs:
-      - data/parsed/earnings/text
-    desc: "Requirement 4: Parse text from earnings reports"
-
-  # Parse - Extract tables
-  extract_tables:
-    cmd: python src/hybrid_tables.py --input-dir data/raw/earnings --output-dir data/parsed/earnings/tables
-    deps:
-      - src/hybrid_tables.py
-      - data/raw/earnings
-    outs:
-      - data/parsed/earnings/tables
-    desc: "Requirement 4: Parse tables from earnings reports"
-
-  # Parse - Detect layout and extract images/charts
-  detect_layout:
-    cmd: python src/layout_detection.py --raw-dir data/raw/earnings --parsed-dir data/parsed/earnings/layout
-    deps:
-      - src/layout_detection.py
-      - data/raw/earnings
-      - publaynet-model
-    outs:
-      - data/parsed/earnings/layout
-    desc: "Requirement 4: Extract images/charts and detect document structure"
-
-  # Consolidate all parsed outputs
-  consolidate_parsing:
-    cmd: python src/consolidate_results.py
-    deps:
-      - src/consolidate_results.py
-      - data/parsed/earnings/text
-      - data/parsed/earnings/tables
-      - data/parsed/earnings/layout
-      - data/metadata/download_log.json
-    outs:
-      - data/processed/consolidated_metrics.csv
-      - data/processed/all_companies_data.json
-      - reports/parsing_summary.json
-    desc: "Consolidate all parsed outputs into unified format"
-
-  # Store in cloud storage (S3/GCS)
-  upload_to_cloud:
-    cmd: python src/cloud_upload.py --raw-dir data/raw/earnings --parsed-dir data/parsed/earnings --manifest data/metadata/cloud_manifest.json
-    deps:
-      - src/cloud_upload.py
-      - data/raw/earnings
-      - data/parsed/earnings
-    outs:
-      - data/metadata/cloud_manifest.json
-    params:
-      - cloud.provider
-      - cloud.bucket
-      - cloud.region
-    always_changed: true
-    desc: "Requirement 6: Upload raw and parsed data to cloud storage"
-
-  # Quality validation (for demo/reflection)
-  validate_pipeline:
-    cmd: python src/validate_quality.py --input data/processed/consolidated_metrics.csv --output evaluation_results
-    deps:
-      - src/validate_quality.py
-      - data/processed/consolidated_metrics.csv
-      - data/metadata/download_log.json
-    outs:
-      - evaluation_results/quality_report.json
-      - evaluation_results/coverage_report.html
-    metrics:
-      - evaluation_results/metrics.json:
-          cache: false
-    desc: "Validate pipeline quality and generate reports for demo"
-
-  # Generate demo artifacts (for video)
-  generate_demo_outputs:
-    cmd: python src/generate_demo_artifacts.py
-    deps:
-      - src/generate_demo_artifacts.py
-      - data/processed/all_companies_data.json
-      - evaluation_results/quality_report.json
-    outs:
-      - reports/demo_summary.pdf
-      - reports/company_comparison.html
-      - examples/sample_outputs
-    desc: "Generate demo artifacts for video presentation"
+      - data/raw/scraped/dow30_companies.csv
+      - data/raw/scraped/dow30_companies.json
+      - data/raw/scraped/dow30_websites.json
+      - data/raw/scraped/dow30_metadata.json
+    desc: "Build reference list of Dow 30 companies and their websites"
