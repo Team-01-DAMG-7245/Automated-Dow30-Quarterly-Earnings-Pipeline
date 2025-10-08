@@ -1,0 +1,392 @@
+[
+  {
+    "ticker": "AAPL",
+    "company": "Apple",
+    "earnings_report": {
+      "url": "https://www.q4inc.com/Powered-by-Q4/",
+      "title": "Powered By Q4 Inc. 5.167.2.1 (opens in new window)",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "AMGN",
+    "company": "Amgen",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "earnings_report": {
+      "url": "https://ir.aboutamazon.com/quarterly-results/default.aspx",
+      "title": "Quarterly results",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "AXP",
+    "company": "American Express",
+    "earnings_report": {
+      "url": "https://www.q4inc.com/Powered-by-Q4/",
+      "title": "Powered By Q4 Inc. 5.167.2.1 (opens in new window)",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "BA",
+    "company": "Boeing",
+    "earnings_report": {
+      "url": "http://q4inc.com/Powered-by-Q4/",
+      "title": "Powered By Q4 Inc. 5.167.2.1",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar",
+    "earnings_report": {
+      "url": "https://investors.caterpillar.com/financials/quarterly-results/default.aspx",
+      "title": "Quarterly Results",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "CRM",
+    "company": "Salesforce",
+    "earnings_report": {
+      "url": "https://investor.salesforce.com/financials/quarterly-results/default.aspx",
+      "title": "Quarterly Results",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "earnings_report": {
+      "url": "https://investor.cisco.com/financial-information/financial-results/default.aspx",
+      "title": "Financial Results",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "CVX",
+    "company": "Chevron",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "DIS",
+    "company": "Disney",
+    "earnings_report": {
+      "url": "https://thewaltdisneycompany.com/the-walt-disney-company-executives-to-discuss-fiscal-full-year-and-fourth-quarter-2025-financial-results-via-webcast/",
+      "title": "The Walt Disney Company Executives To Discuss Fiscal Full Year And Fourth Quarter 2025 Financial Results Via Webcast",
+      "fiscal_period": "Q4 2025",
+      "fiscal_year_end": null,
+      "publication_date": "2025-10-01",
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "GS",
+    "company": "Goldman Sachs",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "HON",
+    "company": "Honeywell",
+    "earnings_report": {
+      "url": "https://investor.honeywell.com/static-files/59c8d559-a4db-47b5-bcc5-0dd7c70b70fb",
+      "title": "Press Release",
+      "fiscal_period": "Q3 2025",
+      "fiscal_year_end": null,
+      "publication_date": "2025-10-23",
+      "report_type": "press_release",
+      "confidence": "high"
+    }
+  },
+  {
+    "ticker": "IBM",
+    "company": "IBM",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase",
+    "earnings_report": {
+      "url": "https://www.jpmorganchase.com/ir/news/2024/jpmc-announces-conference-calls-to-review-first-quarter-second-quarter-third-quarter-and-fourth-quarter-2025-earnings",
+      "title": "Press release",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": "2026-01-13",
+      "report_type": "press_release",
+      "confidence": "high"
+    }
+  },
+  {
+    "ticker": "KO",
+    "company": "Coca-Cola",
+    "earnings_report": {
+      "url": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1141/the-coca-cola-company-announces-timing-of-third-quarter-2025-earnings-release",
+      "title": "The Coca-Cola Company Announces Timing of Third Quarter 2025 Earnings Release » View Press Release",
+      "fiscal_period": "Q3 2025",
+      "fiscal_year_end": null,
+      "publication_date": "2025-09-29",
+      "report_type": "press_release",
+      "confidence": "high"
+    }
+  },
+  {
+    "ticker": "MCD",
+    "company": "McDonald's",
+    "earnings_report": {
+      "url": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/2025%20Q2%20Earnings%20Release.pdf",
+      "title": "Q2 2025 Earnings Release - PDF 162 KB",
+      "fiscal_period": "Q2 2025",
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "MMM",
+    "company": "3M",
+    "earnings_report": {
+      "url": "https://investors.3m.com/news-events/events-presentations/detail/20251021-q3-2025-earnings-conference-call",
+      "title": "Q3 2025 Earnings Conference Call",
+      "fiscal_period": "Q3 2025",
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "presentation",
+      "confidence": "medium"
+    }
+  },
+  {
+    "ticker": "MRK",
+    "company": "Merck",
+    "earnings_report": {
+      "url": "https://www.merck.com/events/q2-2026-earnings-call/",
+      "title": "Q2 2026 Earnings Call",
+      "fiscal_period": "Q2 2026",
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "earnings_report": {
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2025-q4/press-release-webcast",
+      "title": "VIEW DETAILS >",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": "2025-07-30",
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "NKE",
+    "company": "Nike",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "company": "Nvidia",
+    "earnings_report": {
+      "url": "https://investor.nvidia.com/financial-info/quarterly-results/default.aspx",
+      "title": "Quarterly Results",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "earnings_report": {
+      "url": "https://www.pginvestor.com/news/default.aspx",
+      "title": "Press Releases opens in new window",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "press_release",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "SHW",
+    "company": "Sherwin-Williams",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "TRV",
+    "company": "Travelers Companies, Inc.",
+    "earnings_report": {
+      "url": "https://investor.travelers.com/financial-information/quarterly-results/default.aspx",
+      "title": "Quarterly Results",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "other",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "UNH",
+    "company": "UnitedHealth Group",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "V",
+    "company": "Visa",
+    "earnings_report": {
+      "url": null,
+      "title": null,
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": null,
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "VZ",
+    "company": "Verizon",
+    "earnings_report": {
+      "url": "https://quotes.quotemedia.com/data/downloadFiling?webmasterId=104600&type=HTML&ref=319320781",
+      "title": "Download latest 10-Q",
+      "fiscal_period": null,
+      "fiscal_year_end": null,
+      "publication_date": null,
+      "report_type": "10-q",
+      "confidence": "low"
+    }
+  },
+  {
+    "ticker": "WMT",
+    "company": "Walmart",
+    "earnings_report": {
+      "url": "https://corporate.walmart.com/news/2025/08/14/walmart-to-host-second-quarter-earnings-conference-call-aug-21-2025",
+      "title": "Walmart To Host Second Quarter Earnings Conference Call Aug. 21, 2025 View Press Release",
+      "fiscal_period": "Q2 2025",
+      "fiscal_year_end": null,
+      "publication_date": "2025-08-14",
+      "report_type": "press_release",
+      "confidence": "high"
+    }
+  }
+]
