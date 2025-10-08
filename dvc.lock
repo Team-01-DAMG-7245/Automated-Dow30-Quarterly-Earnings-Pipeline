@@ -1,35 +1,18 @@
 schema: '2.0'
 stages:
   generate_company_reference:
-    cmd: python src/scrape_dow30_wikipedia.py
+    cmd: python src/dow30_reference.py
     deps:
-    - path: src/scrape_dow30_wikipedia.py
+    - path: src/dow30_reference.py
       hash: md5
-      md5: 1ee862e26439fafdb1c2b6de395b1f27
-      size: 9218
-    params:
-      params.yaml:
-        generate_company_reference:
-          source_url: https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
-          output_dir: data/raw/scraped
-          backup_enabled: true
-          date_format: '%Y%m%d'
-          request_timeout: 15
-          source_name: Wikipedia
+      md5: 822dc2b0f0c02545f4e4361cf3f6133f
+      size: 3404
     outs:
-    - path: data/raw/scraped/dow30_companies.csv
+    - path: data/reference/dow30_companies.csv
       hash: md5
-      md5: d87b8998e04cbae40151ab9da32c29fe
-      size: 3239
-    - path: data/raw/scraped/dow30_companies.json
+      md5: 9a89771360b46ebb20b89510b0ac77ab
+      size: 3094
+    - path: data/reference/dow30_companies.json
       hash: md5
-      md5: a02f1685c2bf77f25f61137ea4386233
-      size: 9392
-    - path: data/raw/scraped/dow30_metadata.json
-      hash: md5
-      md5: 4788ce67e500e06dae32fd715b0c51a9
-      size: 593
-    - path: data/raw/scraped/dow30_websites.json
-      hash: md5
-      md5: e56604a83ddb798dee30f1e1c36eb450
-      size: 1005
+      md5: 10054eeeac1061ed967db474697e2790
+      size: 6276
