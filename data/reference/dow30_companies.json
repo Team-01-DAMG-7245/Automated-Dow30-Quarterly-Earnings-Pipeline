@@ -1,0 +1,212 @@
+[
+  {
+    "ticker":"AAPL",
+    "company":"Apple",
+    "website":"https:\/\/apple.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Apple_Inc.",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"AMGN",
+    "company":"Amgen",
+    "website":"https:\/\/amgen.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Amgen",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"AMZN",
+    "company":"Amazon",
+    "website":"https:\/\/www.amazon.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Amazon_(company)",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"AXP",
+    "company":"American Express",
+    "website":"https:\/\/americanexpress.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/American_Express",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"BA",
+    "company":"Boeing",
+    "website":"https:\/\/boeing.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Boeing",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"CAT",
+    "company":"Caterpillar",
+    "website":"https:\/\/www.caterpillar.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Caterpillar_Inc.",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"CRM",
+    "company":"Salesforce",
+    "website":"https:\/\/www.salesforce.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Salesforce",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"CSCO",
+    "company":"Cisco",
+    "website":"http:\/\/cisco.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Cisco",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"CVX",
+    "company":"Chevron",
+    "website":"https:\/\/www.chevron.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Chevron_Corporation",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"DIS",
+    "company":"Disney",
+    "website":"http:\/\/thewaltdisneycompany.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/The_Walt_Disney_Company",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"GS",
+    "company":"Goldman Sachs",
+    "website":"https:\/\/www.goldmansachs.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Goldman_Sachs",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"HD",
+    "company":"Home Depot",
+    "website":"https:\/\/homedepot.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Home_Depot",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"HON",
+    "company":"Honeywell",
+    "website":"https:\/\/www.honeywell.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Honeywell",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"IBM",
+    "company":"IBM",
+    "website":"https:\/\/www.ibm.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/IBM",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"JNJ",
+    "company":"Johnson & Johnson",
+    "website":"https:\/\/www.jnj.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Johnson_%26_Johnson",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"JPM",
+    "company":"JPMorgan Chase",
+    "website":"https:\/\/www.jpmorganchase.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/JPMorgan_Chase",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"KO",
+    "company":"Coca-Cola",
+    "website":"https:\/\/www.coca-colacompany.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/The_Coca-Cola_Company",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"MCD",
+    "company":"McDonald's",
+    "website":"https:\/\/www.mcdonalds.com\/us\/en-us.html",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/McDonald%27s",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"MMM",
+    "company":"3M",
+    "website":"http:\/\/3m.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/3M",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"MRK",
+    "company":"Merck",
+    "website":"http:\/\/merck.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Merck_%26_Co.",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"MSFT",
+    "company":"Microsoft",
+    "website":"https:\/\/www.microsoft.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Microsoft",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"NKE",
+    "company":"Nike",
+    "website":"http:\/\/nike.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Nike,_Inc.",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"NVDA",
+    "company":"Nvidia",
+    "website":"https:\/\/www.nvidia.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Nvidia",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"PG",
+    "company":"Procter & Gamble",
+    "website":"https:\/\/us.pg.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Procter_%26_Gamble",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"SHW",
+    "company":"Sherwin-Williams",
+    "website":"http:\/\/sherwin-williams.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Sherwin-Williams",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"TRV",
+    "company":"Travelers Companies, Inc.",
+    "website":"http:\/\/travelers.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/The_Travelers_Companies",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"UNH",
+    "company":"UnitedHealth Group",
+    "website":"https:\/\/unitedhealthgroup.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/UnitedHealth_Group",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"V",
+    "company":"Visa",
+    "website":"https:\/\/visa.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Visa_Inc.",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"VZ",
+    "company":"Verizon",
+    "website":"https:\/\/www.verizon.com",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Verizon",
+    "source":"Wikipedia infobox"
+  },
+  {
+    "ticker":"WMT",
+    "company":"Walmart",
+    "website":"https:\/\/www.walmart.com\/",
+    "company_wikipedia":"https:\/\/en.wikipedia.org\/wiki\/Walmart",
+    "source":"Wikipedia infobox"
+  }
+]
