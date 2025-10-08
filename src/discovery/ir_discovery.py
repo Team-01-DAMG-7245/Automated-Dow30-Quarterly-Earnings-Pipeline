@@ -40,12 +40,3 @@ def discover_ir_url(homepage: str) -> str | None:
     return None
 
 
-if __name__ == "__main__":
-    test_sites = [
-        "https://www.apple.com",
-        "https://www.microsoft.com",
-        "https://www.nike.com"
-    ]
-    for site in test_sites:
-        result = discover_ir_url(site)
-        print(site, "→", result)
