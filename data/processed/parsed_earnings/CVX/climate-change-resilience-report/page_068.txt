@@ -1,0 +1,56 @@
+section 6: metrics
+increasing transparency by To promote comparability, we map our reporting data to the
+relevant SASB and Ipieca frameworks to help provide information
+annually reporting metrics and
+for investors and other stakeholders. Please note that the
+performance data*
+references in the index columns are based solely on Chevron’s
+interpretation and judgment and do not indicate the application
+of definitions, metrics, measurements, standards or approaches
+The following data tables compile our greenhouse gas (GHG)
+set forth by third-party groups, including the SASB and
+emissions and other metrics for environmental performance in
+Ipieca frameworks.
+alignment with several reporting standards. Due to the overlapping
+reporting of GHG emissions across scopes between different
+Chevron is also working with peers, stakeholders and voluntary
+entities within the same value chain, Chevron’s reporting on
+framework developers to foster increasingly consistent and
+metrics, targets, aspirations and projections does not preclude
+comparable information for investors and other stakeholders.
+other entities in the value chain from calculating or reporting
+emissions performance associated with Chevron-sold products
+We were among the first oil and gas companies to publish a
+or services.
+report aligned with the TCFD framework in 2018, and this report
+constitutes our sixth climate change resilience report. We will
+We consider reporting guidelines, indicators and terminology
+strive to advance our performance and transparently communicate
+in the frameworks of the Sustainability Accounting Standards
+progress. As an example of this, see the table below, which tracks
+Board (SASB), Task Force for Climate-related Financial Disclosures
+annual progress toward our 2028 GHG emissions intensity targets.
+(TCFD), the Sustainability Reporting Guidance for the Oil & Gas
+Industry (2020) by Ipieca, the International Association of Oil and
+Gas Producers (IOGP) and the American Petroleum Institute (API),
+as well as other reporting frameworks, to determine which data
+to include in our tables.
+GHG reporting equity metrics and targets
+2018 2019 2020 2021 2022 2028 target
+Portfolio carbon intensity (grams CO₂e/megajoule) 1 73.4 72.7 71.4 71.3 71.0 71.0
+Upstream carbon intensity 2
+Oil intensity (kilograms CO₂e/boe) 37.0 33.3 28.2 28.6 25.2 24.0
+Gas intensity (kilograms CO₂e/boe) 34.7 30.4 26.8 28.6 27.5 24.0
+Methane intensity (kilograms CO₂e/boe) 2.8 2.4 2.0 2.1 1.9 2.0
+Flaring intensity (kilograms CO₂e/boe) 6.3 4.7 3.8 4.3 3.5 3.0
+Refining carbon intensity (kilograms CO₂e/boe) 3 34.9 35.9 38.6 37.9 37.0 36.0
+* Unless otherwise noted, this section reflects 2022 data collected as of April 11, 2023. All data are reported on an operated basis unless otherwise noted. Data from Renewable Energy Group, Inc. are included
+in this section unless otherwise noted. Operated GHG emissions and environmental performance tables include data from Tengizchevroil LLP (TCO) and the Partitioned Zone between Saudi Arabia and Kuwait
+(SAPZ). Traditionally in this report, Chevron has included TCO data as if TCO were operated by Chevron; however, Chevron does not own a controlling interest in, does not operate and does not have the
+authority to force implementation of Chevron management systems within TCO. TCO is a separate legal entity operated under the direction of a partnership council that Chevron does not control. Inclusion of
+SAPZ data within the operational data is a reflection of alignment to OE reporting and not reflective of the underlying legal structure or governance practices. All restatements are restated against the May 2022
+release of the Corporate Sustainability Report (2021). Variations year-on-year or across multiple years of performance data may result from a variety of causes such as methodology updates, portfolio changes,
+economic conditions, and business performance and initiatives. Performance data are not a guarantee of future performance nor intended to be a demonstration of linear progress against aspirations, targets or
+objectives. See Forward-Looking Statements Warning on page 84 of this report. Numbers in the table may not sum due to rounding.
+Chevron Corporation 2023 Climate Change Resilience Report
+66

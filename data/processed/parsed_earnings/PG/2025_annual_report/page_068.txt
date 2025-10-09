@@ -1,0 +1,49 @@
+56 The Procter & Gamble Company
+Net Periodic Benefit Cost. Components of the net periodic benefit cost were as follows:
+Pension Benefits Other Retiree Benefits
+Fiscal years ended June 30 2025 2024 2023 2025 2024 2023
+AMOUNTS RECOGNIZED IN NET PERIODIC BENEFIT COST/(CREDIT)
+Service cost $ 173 $ 164 $ 173 $ 61 $ 68 $ 71
+Interest cost 498 527 430 147 157 142
+Expected return on plan assets (657) (610) (591) (745) (687) (611)
+Amortization of net actuarial loss/(gain) 63 95 133 (59) (38) (7)
+Amortization of prior service cost/(credit) 40 37 26 (128) (127) (125)
+Amortization of net actuarial loss/(gain) due to settlements 5 (13) — — — —
+Special termination benefits 3 4 5 2 3 4
+NET PERIODIC BENEFIT COST/(CREDIT) $ 126 $ 203 $ 176 $ (721) $ (623) $ (526)
+CHANGE IN PLAN ASSETS AND BENEFIT OBLIGATIONS RECOGNIZED IN AOCI
+Net actuarial loss/(gain) - current year $ 68 $ (458) $ 1,592 $ (366)
+Prior service cost/(credit) - current year 12 21 (4) 2
+Amortization of net actuarial (loss)/gain (63) (95) 59 38
+Amortization of prior service (cost)/credit (40) (37) 128 127
+Amortization of net actuarial (loss)/gain due to settlements (5) 13 — —
+Currency translation and other 74 (21) (14) (2)
+TOTAL CHANGE IN AOCI 46 (576) 1,761 (201)
+NET AMOUNTS RECOGNIZED IN PERIODIC
+BENEFIT COST/(CREDIT) AND AOCI $ 171 $ (373) $ 1,040 $ (824)
+The service cost component of the net periodic benefit cost is included in the Consolidated Statements of Earnings in Cost of
+products sold and SG&A. All other components are included in the Consolidated Statements of Earnings in Other non-
+operating income, net, unless otherwise noted.
+Assumptions. We determine our actuarial assumptions on an annual basis. These assumptions are weighted to reflect each
+country that may have an impact on the cost of providing retirement benefits. The weighted average assumptions used to
+determine benefit obligations recorded on the Consolidated Balance Sheets as of June 30, 2025 and 2024, were as follows: (1)
+Pension Benefits Other Retiree Benefits
+As of June 30 2025 2024 2025 2024
+Discount rate 4.2 % 4.2 % 5.9 % 5.8 %
+Rate of compensation increase 2.7 % 2.8 % N/A N/A
+Interest crediting rate for cash balance plans 4.6 % 4.7 % N/A N/A
+Health care cost trend rates assumed for next year N/A N/A 6.9 % 6.3 %
+Rate to which the health care cost trend rate is assumed to
+decline (ultimate trend rate) N/A N/A 5.4 % 4.9 %
+Year that the rate reaches the ultimate trend rate N/A N/A 2030 2029
+(1) Determined as of end of fiscal year.
+The weighted average assumptions used to determine net benefit cost recorded on the Consolidated Statements of Earnings for
+the fiscal years ended June 30 were as follows: (1)
+Pension Benefits Other Retiree Benefits
+Fiscal years ended June 30 2025 2024 2023 2025 2024 2023
+Discount rate 4.2 % 4.2 % 3.7 % 5.8 % 5.6 % 5.0 %
+Expected return on plan assets 6.0 % 6.0 % 5.9 % 8.5 % 8.5 % 8.4 %
+Rate of compensation increase 2.8 % 2.9 % 2.8 % N/A N/A N/A
+Interest crediting rate for cash balance plans 4.7 % 4.3 % 4.3 % N/A N/A N/A
+(1) Determined as of beginning of fiscal year.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

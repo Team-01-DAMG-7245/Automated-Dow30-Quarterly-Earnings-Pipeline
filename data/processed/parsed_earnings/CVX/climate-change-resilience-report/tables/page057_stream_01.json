@@ -1,0 +1,46 @@
+{
+  "page": 57,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 9,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "This typically achieves less emissions reduction, at any given cost.",
+      "1": "Quantity, tonnes CO2e"
+    },
+    {
+      "0": "",
+      "1": "Efficiency, maintenance\nForestry, agriculture,"
+    },
+    {
+      "0": "",
+      "1": "waste management, industry"
+    },
+    {
+      "0": "*\u200aConstruction of a MACC requires detailed understanding of a wide range of technologies and",
+      "1": "Renewable power"
+    },
+    {
+      "0": "mitigation options across the various sectors of the economy. Numerous decisions are also",
+      "1": "Other technologies"
+    },
+    {
+      "0": "necessary, such as the grouping of technologies and the choice of discount rate, which can affect",
+      "1": "CCUS"
+    },
+    {
+      "0": "both the volume and the cost calculations. MACCs should be taken as qualitative, rather than",
+      "1": ""
+    },
+    {
+      "0": "quantitative, representations of the costs and potential magnitudes of mitigation options unless",
+      "1": "\u2020\u200aFor illustration only. Not drawn to scale. Example of a marginal abatement cost curve;"
+    },
+    {
+      "0": "done with facility- and project-specific information.",
+      "1": "project ranking represents average prices, but specific projects within categories vary."
+    }
+  ]
+}

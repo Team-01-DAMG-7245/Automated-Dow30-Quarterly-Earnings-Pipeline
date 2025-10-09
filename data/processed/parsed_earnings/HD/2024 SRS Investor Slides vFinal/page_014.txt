@@ -1,0 +1,21 @@
+Adjusted Debt Calculation
+Adjusted Debt Calculation
+Pro Forma Pro Forma
+(USD millions) The Home Depot(1) SRS(2)
+Adjustments Combined
+Long-term debt (including current installments of long-term debt) $ 44,111 $ 5,812 n/a $ 49,923
+Repayment of SRS debt at close(3) n/a n/a $ (5,537) $ (5,537)
+Pro forma acquisition debt (commercial paper & senior notes)(4) n/a n/a $ 12,500 $ 12,500
+Total Debt $44,111 $5,812 $6,963 $56,886
+Eight times operating rents(5) 10,872 1,240 n/a 12,112
+Adjusted Debt $54,983 $7,052 $6,963 $68,998
+1) Actual balances as of the fiscal period ended January 28, 2024
+2) Actual balances based on unaudited, preliminary financial statements as of the fiscal period ended December 31, 2023
+3) Assumes outstanding SRS indebtedness other than finance lease liabilities and related financing obligations are repaid at closing
+4) Reflects the estimated amount of indebtedness expected to be incurred by The Home Depot to fund the acquisition. This is a preliminary estimate
+and is subject to change
+5) We continue to use the eight times operating rents methodology to calculate adjusted debt post Topic 842 implementation as it typically results in a
+more conservative estimate and is still used by a primary U.S. rating agency. As of the end of the respective fiscal period, the operating lease
+liabilities included on the consolidated balance sheets were $8,132 million and $538 million, respectively
+14
+CONFIDENTIAL

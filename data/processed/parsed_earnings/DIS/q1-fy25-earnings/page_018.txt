@@ -1,0 +1,29 @@
+The following table reconciles reported diluted EPS to diluted EPS excluding certain items for the
+first quarter:
+Pre-Tax Tax After-Tax Change vs.
+Income/ Benefit/ Income/ Diluted prior-year
+($ in millions except EPS) Loss Expense(1) Loss(2) EPS(3) period
+Quarter Ended December 28, 2024
+As reported $ 3,660 $ (1,016) $ 2,644 $ 1.40 35 %
+Exclude:
+Restructuring and impairment charges(4) 143 213 356 0.20
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(5) 397 (93) 304 0.16
+Excluding certain items $ 4,200 $ (896) $ 3,304 $ 1.76 44 %
+Quarter Ended December 30, 2023
+As reported $ 2,871 $ (720) $ 2,151 $ 1.04
+Exclude:
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(5) 451 (106) 345 0.18
+Excluding certain items $ 3,322 $ (826) $ 2,496 $ 1.22
+(1) Tax benefit/expense is determined using the tax rate applicable to the individual item.
+(2) Before noncontrolling interest share.
+(3) Net of noncontrolling interest share, where applicable. Total may not equal the sum of the column due to rounding.
+(4) Amounts relate to the Star India Transaction.
+(5) For the current quarter, intangible asset amortization was $327 million, step-up amortization was $67 million and
+amortization of intangible assets related to a TFCF equity investee was $3 million. For the prior-year quarter,
+intangible asset amortization was $380 million, step-up amortization was $68 million and amortization of intangible
+assets related to a TFCF equity investee was $3 million.
+18

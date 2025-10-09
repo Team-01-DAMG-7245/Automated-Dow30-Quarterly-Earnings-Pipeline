@@ -1,0 +1,49 @@
+EXHIBIT C
+17.2 Assumed Awards Defined. For purposes of this Article 17, an Award shall be considered
+assumed (“Assumed”) if each of the following conditions are met:
+(a) Options and SARs are converted into a replacement Award in a manner that complies
+with Code Section 409A;
+(b) RSUs and Restricted Stock are converted into a replacement Award covering a
+number of shares of the entity effecting the Change in Control (or a successor or parent corporation),
+as determined in a manner substantially similar to the treatment of an equal number of Shares
+covered by the Award; provided that, to the extent that any portion of the consideration received by
+holders of Shares in the Change in Control transaction is not in the form of the common stock of
+such entity (or a successor or parent corporation), the number of shares covered by the replacement
+Award shall be based on the average of the high and low selling prices of the common stock of such
+entity (or a successor or parent corporation) on the established stock exchange on the trading day
+immediately preceding the date of the Change in Control;
+(c) the replacement Award contains provisions for scheduled vesting, treatment on
+Termination of Employment or Termination of Directorship (including the definitions of “Cause” and
+“Good Reason”), and, if applicable, performance measures and associated target levels and payout
+factors that are no less favorable to the Participant than the underlying Award being replaced, and
+all other terms of the replacement Award (other than the security and number of shares represented
+by the replacement Award) are substantially similar to the underlying Award; and
+(d) the security represented by the replacement Award is of a class that is publicly held
+and widely traded on an established stock exchange.
+17.3 Awards not Assumed by Successor
+(a) Upon the occurrence of a Change in Control, Awards under the Plan that are not
+Assumed by the person(s) or entity(s) effecting the Change in Control shall become fully vested and
+exercisable on the date of the Change in Control, any restrictions that apply to such Awards shall
+lapse, and any performance-based Award shall be deemed to be satisfied based on actual
+performance through the date of the Change in Control if such performance is determinable in the
+judgement of the Committee and based on target level performance if actual performance is not
+determinable. Payment with respect to such Awards shall be made as follows:
+(i) For each Option and SAR, the Participant shall receive a payment equal to the
+difference between the consideration (consisting of cash or other property, including securities
+of a successor or parent corporation) received by holders of Shares in the Change in Control
+transaction and the exercise price of the applicable Option or SAR, if such difference is positive.
+Such payment shall be made in the same form as the consideration received by holders of
+Shares. Any Options or SARs with an exercise price that is higher than the per share
+consideration received by holders of Shares in connection with the Change in Control shall be
+cancelled for no additional consideration.
+(ii) For each Share of Restricted Stock, RSU, or Performance Stock Unit, the
+Participant shall receive the consideration (consisting of cash or other property, including
+securities of a successor or parent corporation) that such Participant would have received in the
+Change in Control transaction had he or she been, immediately prior to such transaction, a holder
+of the number of Shares equal to the number of Shares covered by the Restricted Stock, RSUs, or
+Performance Stock Units (based on actual performance through the date of the Change in
+Control if such performance is determinable in the judgement of the Committee and based on
+target level performance if actual performance is not determinable).
+(b) The payments contemplated by clauses (a) (i) and (ii) of this Section 17.3 shall be made
+upon or as soon as practicable following the Change in Control, provided, however, that with respect
+2025 Proxy Statement C-15

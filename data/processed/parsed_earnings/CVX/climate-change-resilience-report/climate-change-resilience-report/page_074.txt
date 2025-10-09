@@ -1,0 +1,36 @@
+equity emissions, cont.
+2018 2019 2020 2021 2022 SASB ipieca
+emissions associated with exported electricity and
+steam – all GHGs (million tonnes CO₂e) 15 1 1 1 1 < 1 CCE4: C3/A6
+Upstream – all GHGs (million tonnes CO₂e) 8 < 1 < 1 < 1 < 1 < 1
+Midstream – all GHGs (million tonnes CO₂e) 0 0 0 0 0
+Downstream – all GHGs (million tonnes CO₂e) 11 < 1 < 1 < 1 < 1 < 1
+LNG – all GHGs (million tonnes CO₂e) 0 0 0 0 0
+Chemicals – all GHGs (million tonnes CO₂e) 12, 13 0 0 0 0 0
+Other – all GHGs (million tonnes CO₂e) 14 1 1 < 1 1 < 1
+indirect GHG emissions from imported energy
+(scope 2) 4, 6, 7, 16
+indirect GHG emissions from imported energy
+3 2 4 4 4 CCE4: C2/C3
+(scope 2) – all GHGs (million tonnes CO₂e)
+Upstream – all GHGs (million tonnes CO₂e) 8 1 1 1 1 1
+Midstream – all GHGs (million tonnes CO₂e) < 1 < 1 < 1 < 1 < 1
+Downstream – all GHGs (million tonnes CO₂e) 11 1 1 1 1 1
+LNG – all GHGs (million tonnes CO₂e) 0 0 0 0 0
+Chemicals – all GHGs (million tonnes CO₂e) 12, 13 < 1 < 1 1 1 1
+Other – all GHGs (million tonnes CO₂e) 14 < 1 < 1 < 1 < 1 < 1
+indirect GHG emissions (scope 3) 17 CCE4: A2
+Category 11 use of sold products – production method –
+396 412 412 408 391
+all GHGs (million tonnes CO₂e)
+Category 11 use of sold products – throughput method –
+380 382 372 389 391
+all GHGs (million tonnes CO₂e)
+Category 11 use of sold products – sales
+628 639 583 611 668
+method – all GHGs (million tonnes CO₂e)
+third-party verification 18
+Assurance level Limited Limited Limited Limited Reasonable
+Assurance provider ERM CVS ERM CVS ERM CVS DNV DNV
+Chevron Corporation 2023 Climate Change Resilience Report
+72

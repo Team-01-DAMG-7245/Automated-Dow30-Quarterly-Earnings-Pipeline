@@ -43,7 +43,7 @@
     "ticker": "CAT",
     "company": "Caterpillar",
     "website": "https://www.caterpillar.com",
-    "ir_url": "https://investors.caterpillar.com/financials/retail-statistics/default.aspx",
+    "ir_url": "https://investors.caterpillar.com/overview/default.aspx",
     "method": "subdomain_anchor(https://investors.caterpillar.com)",
     "http_status": 200
   },
@@ -147,7 +147,7 @@
     "ticker": "MMM",
     "company": "3M",
     "website": "http://3m.com",
-    "ir_url": "https://investors.3m.com/",
+    "ir_url": "https://investors.3m.com/news-events/events-presentations/detail/20250226-3m-2025-investor-day",
     "method": "subdomain_anchor(https://investors.3m.com)",
     "http_status": 200
   },

@@ -1,0 +1,38 @@
+{
+  "page": 14,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 7,
+  "columns": 2,
+  "accuracy": 97.87,
+  "data": [
+    {
+      "0": "",
+      "1": "Roxanne Austin"
+    },
+    {
+      "0": "Independent Director since: 2013",
+      "1": "Independent Director since: 2020"
+    },
+    {
+      "0": "Age: 62",
+      "1": "Age: 64"
+    },
+    {
+      "0": "Committees:",
+      "1": "Committees:"
+    },
+    {
+      "0": "Audit",
+      "1": "Audit (Chair)"
+    },
+    {
+      "0": "Corporate Governance and",
+      "1": "Finance"
+    },
+    {
+      "0": "Policy (Chair)",
+      "1": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+ticker,company,ir_url,latest_title,latest_url,latest_date,latest_doc_type,latest_quarter,source
+AAPL,Apple,https://investor.apple.com/,Powered By Q4 Inc. 5.167.2.1 (opens in new window),https://www.q4inc.com/Powered-by-Q4/,,other,,ir_page_or_child
+AMGN,Amgen,http://investors.amgen.com/,,,,,,fetch_failed:None
+AMZN,Amazon,https://investors.amazon.com,,,,,,fetch_failed:None
+AXP,American Express,https://ir.americanexpress.com/investor-relations/default.aspx,Powered By Q4 Inc. 5.167.2.1 (opens in new window),https://www.q4inc.com/Powered-by-Q4/,,other,,ir_page_or_child
+BA,Boeing,http://investors.boeing.com/,Powered By Q4 Inc. 5.167.2.1,http://q4inc.com/Powered-by-Q4/,,other,,ir_page_or_child
+CAT,Caterpillar,https://investors.caterpillar.com/overview/default.aspx,Quarterly Results,https://investors.caterpillar.com/financials/quarterly-results/default.aspx,,other,,ir_page_or_child
+CRM,Salesforce,https://investor.salesforce.com/overview/default.aspx,Quarterly Results,https://investor.salesforce.com/financials/quarterly-results/default.aspx,,other,,ir_page_or_child
+CSCO,Cisco,https://investor.cisco.com/home/default.aspx,Financial Results,https://investor.cisco.com/financial-information/financial-results/default.aspx,,other,,ir_page_or_child
+CVX,Chevron,https://investors.chevron.com,,,,,,fetch_failed:None
+DIS,Disney,https://thewaltdisneycompany.com/investor-relations/,The Walt Disney Company Executives To Discuss Fiscal Full Year And Fourth Quarter 2025 Financial Results Via Webcast,https://thewaltdisneycompany.com/the-walt-disney-company-executives-to-discuss-fiscal-full-year-and-fourth-quarter-2025-financial-results-via-webcast/,2025-10-01,other,Q4 2025,ir_page_or_child
+GS,Goldman Sachs,https://investors.goldmansachs.com,,,,,,fetch_failed:None
+HD,Home Depot,https://ir.homedepot.com/,,,,,,no_match
+HON,Honeywell,https://investor.honeywell.com,Press Release,https://investor.honeywell.com/static-files/59c8d559-a4db-47b5-bcc5-0dd7c70b70fb,2025-10-23,press_release,Q3 2025,ir_page_early_exit
+IBM,IBM,https://www.ibm.com/us-en,,,,,,no_match
+JNJ,Johnson & Johnson,https://www.investor.jnj.com/overview/default.aspx,,,,,,no_match
+JPM,JPMorgan Chase,https://www.jpmorganchase.com/ir/annual-report/2024/ar-ceo-letters,Press releases,https://www.jpmorganchase.com/ir/news,,press_release,,ir_page_or_child
+KO,Coca-Cola,https://investors.coca-colacompany.com/,The Coca-Cola Company Announces Timing of Third Quarter 2025 Earnings Release » View Press Release,https://investors.coca-colacompany.com/news-events/press-releases/detail/1141/the-coca-cola-company-announces-timing-of-third-quarter-2025-earnings-release,2025-09-29,press_release,Q3 2025,ir_page_early_exit
+MCD,McDonald's,https://corporate.mcdonalds.com/corpmcd/investors.html,Q2 2025 Earnings Release - PDF 162 KB,https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/2025%20Q2%20Earnings%20Release.pdf,,other,Q2 2025,ir_page_or_child
+MMM,3M,https://investors.3m.com/news-events/events-presentations/detail/20250226-3m-2025-investor-day,Q3 2025 Earnings Conference Call,https://investors.3m.com/news-events/events-presentations/detail/20251021-q3-2025-earnings-conference-call,,presentation,Q3 2025,ir_page_or_child
+MRK,Merck,https://www.merck.com/investor-relations/,Q2 2026 Earnings Call,https://www.merck.com/events/q2-2026-earnings-call/,,other,Q2 2026,ir_page_or_child
+MSFT,Microsoft,https://www.microsoft.com/investor/default.aspx,Financial Statements,https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/income-statements,,other,,ir_page_or_child
+NKE,Nike,http://investors.nike.com/,,,,,,no_match
+NVDA,Nvidia,https://investor.nvidia.com/home/default.aspx,Quarterly Results,https://investor.nvidia.com/financial-info/quarterly-results/default.aspx,,other,,ir_page_or_child
+PG,Procter & Gamble,https://www.pginvestor.com/corporate-profile/default.aspx,Press Releases opens in new window,https://www.pginvestor.com/news/default.aspx,,press_release,,ir_page_or_child
+SHW,Sherwin-Williams,https://investors.sherwin-williams.com/investor-resources/contact-us/default.aspx,,,,,,no_match
+TRV,"Travelers Companies, Inc.",https://investor.travelers.com/home/default.aspx,Quarterly Results,https://investor.travelers.com/financial-information/quarterly-results/default.aspx,,other,,ir_page_or_child
+UNH,UnitedHealth Group,https://www.unitedhealthgroup.com/investors.html,Add to calendar,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/united-health-group-q3-2025-earnings-teleconference-call.ics,,other,Q3 2025,ir_page_or_child
+V,Visa,https://investor.visa.com/investor-relations/default.aspx,,,,,,no_match
+VZ,Verizon,https://investors.verizon.com,,,,,,fetch_failed:None
+WMT,Walmart,https://corporate.walmart.com/investors,"Walmart To Host Second Quarter Earnings Conference Call Aug. 21, 2025 View Press Release",https://corporate.walmart.com/news/2025/08/14/walmart-to-host-second-quarter-earnings-conference-call-aug-21-2025,2025-08-14,press_release,Q2 2025,ir_page_early_exit

@@ -1,0 +1,54 @@
+Proxy Executive Audit Stock Shareholder Additional
+summary Governance compensation matters ownership proposals information
+Option awards Stock awards
+Equity
+Equity Equity incentive
+incentive incentive plan awards:
+plan awards: plan awards: Market or
+Number of Number of Number of Number of payout value
+securities securities securities Number of Market value unearned of unearned
+underlying underlying underlying shares or of shares or shares, units shares, units
+unexercised unexercised unexercised Option Option units of stock units of stock or other rights or other rights
+options (#) options (#) unearned exercise expiration that have not that have not that have not that have not
+Name exercisable unexercisable options (#) price ($) date vested1,2 (#) vested3 ($) vested4,5 (#) vested6 ($) Grant
+(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) date
+Mr. Silliman 0 0 0 0 0 16,374 654,796 0 0 3/1/2022
+58,843 2,353,132 142,987 5,718,050 3/1/2023
+81,005 3,239,390 128,798 5,150,632 3/1/2024
+1 The amounts listed in this column represent the number of RSUs outstanding on December 31, 2024 with respect to the following
+awards:
+(1) for all of the named executive officers: (a) the third tranche of their 2022 annual RSU award granted on March 1, 2022 which vested on
+March 1, 2025; (b) the second and third tranches of their annual 2023 RSU award granted on March 1, 2023, one of which vested on
+March 1, 2025 and one of which is scheduled to vest on March 1, 2026; and (c) all three tranches of their annual 2024 RSU award granted
+on March 1, 2024, one of which vested on March 1, 2025 and two of which are scheduled to vest on March 1, 2026 and March 1, 2027,
+respectively.
+(2) for Mr. Skiadas, the second and third tranches of his incremental 2023 RSU award granted on May 1, 2023, one of which vested on March 1,
+2025 and one of which is scheduled to vest on March 1, 2026.
+(3) for Mr. Sampath, the third tranche of his incremental 2022 RSU award granted on July 1, 2022, which vested on March 1, 2025, and the
+second and third tranches of his incremental 2023 RSU award granted on March 2, 2023, one of which vested on March 1, 2025 and one of
+which is scheduled to vest on March 1, 2026.
+(4) for Ms. Venkatesh, the third tranche of her incremental 2022 RSU award granted on November 1, 2022, which vested on March 1, 2025.
+2 When dividends are distributed to shareholders, dividend equivalents are credited on the RSU awards in an amount equal to the dollar
+amount of dividends that would be payable on the total number of RSUs credited as of the dividend distribution date and divided by the
+closing price of the Company’s common stock on that date and are subject to the same vesting requirements that apply to the
+underlying RSU award. These dividend equivalents are only distributed to the award holder if and when the underlying RSU award vests.
+This column includes dividend equivalent units that have accrued through December 31, 2024.
+3 The amounts in this column represent the value of the RSUs listed in column (g) based on a share price of $39.99, the closing price of
+Verizon’s common stock on December 31, 2024.
+4 The amounts listed in this column represent the number of PSUs outstanding on December 31, 2024 with respect to the following awards:
+(1) for all of the named executive officers, their 2023 annual PSU awards granted on March 1, 2023 which are scheduled to vest on
+December 31, 2025.
+(2) for all of the named executive officers, their 2024 annual PSU awards granted on March 1, 2024 which are scheduled to vest on
+December 31, 2026.
+(3) for Mr. Skiadas, his incremental 2023 PSU award granted on May 1, 2023 which is scheduled to vest on December 31, 2025.
+(4) for Mr. Sampath, his incremental 2023 PSU award granted on March 2, 2023 which is scheduled to vest on December 31, 2025.
+5 When dividends are distributed to shareholders, dividend equivalents are credited on the PSU awards in an amount equal to the dollar
+amount of dividends that would be payable on the total number of PSUs credited as of the dividend distribution date and divided by the
+closing price of the Company’s common stock on that date and are subject to the same vesting requirements that apply to the
+underlying PSU award. The PSUs, and the applicable dividend equivalents, are paid if and to the extent that the applicable award vests.
+As required by SEC rules, the number of units in this column represent the 2023 annual PSU awards at a 108% vesting percentage and
+the 2024 annual PSU awards at a 106% vesting percentage, in each case including accrued dividend equivalents through December 31,
+2024 that will be paid if the awards vest at the indicated levels.
+6 The amounts in this column represent the value of the PSUs listed in column (i) based on a share price of $39.99, the closing price of
+Verizon’s common stock on December 31, 2024.
+Verizon 2025 Proxy Statement 41

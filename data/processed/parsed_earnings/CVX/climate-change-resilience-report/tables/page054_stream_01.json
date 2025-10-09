@@ -1,0 +1,50 @@
+{
+  "page": 54,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 8,
+  "columns": 3,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "term",
+      "1": "definition",
+      "2": "uses"
+    },
+    {
+      "0": "absolute emissions",
+      "1": "Total emissions emitted",
+      "2": "\u2022 \nIndicates relative size of business"
+    },
+    {
+      "0": "reporting",
+      "1": "over a period of time, usually",
+      "2": "\u2022  Drives absolute emissions reductions through operational and design changes"
+    },
+    {
+      "0": "",
+      "1": "associated with an activity,",
+      "2": "\u2022 \nIncentivizes divestment, shutdowns and reporting methodology arbitrage"
+    },
+    {
+      "0": "",
+      "1": "product or area",
+      "2": ""
+    },
+    {
+      "0": "intensity- or performance-",
+      "1": "Emissions divided by",
+      "2": "\u2022  Establishes a normalized performance measure"
+    },
+    {
+      "0": "based reporting",
+      "1": "production or energy units",
+      "2": "\u2022  Provides insight on carbon efficiency"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "\u2022  Drives absolute reductions through operational and design changes"
+    }
+  ]
+}

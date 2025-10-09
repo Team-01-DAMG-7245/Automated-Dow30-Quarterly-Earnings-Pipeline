@@ -1,0 +1,46 @@
+chevron supports
+chevron supports a lifecycle
+policy to advance innovation
+approach to carbon accounting
+and lower carbon solutions
+The best decisions are made with reliable data. Pursuing a lower carbon future is no different. The world is not on track
+to meet the goals of the Paris Agreement* and needs better data to enable better decisions to advance these goals.
+Chevron believes lifecycle analysis (LCA) is a powerful tool to enable data-driven decisions.
+A lifecycle approach to carbon accounting facilitates informed decision making throughout the value chain. Also known as
+“carbon footprinting,” this accounting approach can be used to quantify the carbon intensity associated with a good or service,
+inclusive of both direct and indirect emissions. Such an approach could enable policymakers to drive the most pragmatic policy,
+incentivize producers to abate more, inform buyers on making lower carbon choices in a standardized manner and identify more
+cost-efficient emissions reduction options.
+A lifecycle assessment is a comprehensive method for assessing principles
+a range of environmental impacts across the full lifecycle of a
+• Relevant: Actual data compared on a common basis enables
+product system, from materials acquisition to manufacturing, use
+day-to-day decision making.
+and final disposition. When focused on carbon emissions, this
+approach enables product differentiation by enabling a holistic
+• Consistent: Data enable performance comparisons across
+comparison of product carbon performance.
+suppliers and over time.
+Chevron is working within and beyond our sector to help develop
+• Accurate: Common set of assurance standards promotes
+global standards and guidance to advance carbon accounting as
+the reliability of information.
+we seek to lead in carbon transparency. Actual data, a standardized
+approach to allocating emissions, and single-attribution to avoid
+• Complete: Lifecycle summation, inclusive of all relevant
+double counting are all needed as the foundation for consistent
+emissions, and annual global reconciliation of emissions
+carbon accounting.
+are achieved.
+It is important to assess carbon performance for comparable stages in the lifecycle
+Lifecycle emissions are the sum of GHG emissions and removals in a product system expressed as CO₂-equivalents.
+lifecycle
+production transport manufacturing transport use emissions
++ + + + =
+25 5 37 5 420 492†
+kg CO2e/boe kg CO2e/boe kg CO2e/boe kg CO2e/boe kg CO2e/boe kg CO2e/boe
+* The UN Environment Programme’s Emissions Gap Report 2022, unep.org, shows that the world is not on track to meet the Paris Agreement goal of limiting global warming to well below 2° C, preferably 1.5° C.
+† Illustrative values are based on production and manufacturing values from Chevron’s oil and refining carbon intensities, respectively, as stated on page 66 in Chevron’s GHG reporting equity metrics and targets
+table; transport value based on Chevron internal analysis of IEA, World Energy Outlook 2018, iea.org/reports/world-energy-outlook-2018; end-use value from API, GHG Compendium (2021), api.org.
+Chevron Corporation 2023 Climate Change Resilience Report
+62

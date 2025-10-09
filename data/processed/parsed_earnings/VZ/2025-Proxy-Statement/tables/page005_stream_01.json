@@ -1,0 +1,34 @@
+{
+  "page": 5,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 8,
+  "columns": 1,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Meeting information"
+    },
+    {
+      "0": "Date and time\u00a0May 22, 2025 at 10:00 AM, Eastern Daylight Time"
+    },
+    {
+      "0": "Online virtual meeting\u00a0The meeting will be held virtually via the internet at"
+    },
+    {
+      "0": "meetnow.global/VZ2025, where you will be able to vote electronically and"
+    },
+    {
+      "0": "submit questions during the meeting."
+    },
+    {
+      "0": "Record date\u00a0March 24, 2025"
+    },
+    {
+      "0": "Meeting access, submission of questions and voting information\u00a0can be"
+    },
+    {
+      "0": "found beginning on page\u00a069."
+    }
+  ]
+}

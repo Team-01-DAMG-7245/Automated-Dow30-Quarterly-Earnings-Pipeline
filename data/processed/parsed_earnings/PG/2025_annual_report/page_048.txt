@@ -1,0 +1,37 @@
+36 The Procter & Gamble Company
+Consolidated Statements of Earnings
+Amounts in millions except per share amounts; fiscal years ended June 30 2025 2024 2023
+NET SALES $ 84,284 $ 84,039 $ 82,006
+Cost of products sold 41,164 40,848 42,760
+Selling, general and administrative expense 22,669 23,305 21,112
+Indefinite-lived intangible asset impairment charge — 1,341 —
+OPERATING INCOME 20,451 18,545 18,134
+Interest expense (907) (925) (756)
+Interest income 469 473 307
+Other non-operating income, net 154 668 668
+EARNINGS BEFORE INCOME TAXES 20,167 18,761 18,353
+Income taxes 4,102 3,787 3,615
+NET EARNINGS 16,065 14,974 14,738
+Less: Net earnings attributable to noncontrolling interests 91 95 85
+NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE $ 15,974 $ 14,879 $ 14,653
+NET EARNINGS PER COMMON SHARE (1)
+Basic $ 6.67 $ 6.18 $ 6.07
+Diluted $ 6.51 $ 6.02 $ 5.90
+(1) Basic net earnings per common share and Diluted net earnings per common share are calculated on Net earnings attributable to Procter &
+Gamble.
+Consolidated Statements of Comprehensive Income
+Amounts in millions; fiscal years ended June 30 2025 2024 2023
+NET EARNINGS $ 16,065 $ 14,974 $ 14,738
+OTHER COMPREHENSIVE INCOME/(LOSS), NET OF TAX
+Foreign currency translation (net of tax (benefit)/expense of $(442), $66 and
+$(197), respectively) 1,143 (226) (71)
+Unrealized gains/(losses) on investment securities
+(net of tax (benefit)/expense of $(1), $(1) and $(2), respectively) — (3) (7)
+Unrealized gains/(losses) on defined benefit postretirement plans
+(net of tax (benefit)/expense of $(407), $230 and $9, respectively) (1,390) 546 40
+TOTAL OTHER COMPREHENSIVE INCOME/(LOSS), NET OF TAX (248) 317 (38)
+TOTAL COMPREHENSIVE INCOME 15,817 15,291 14,700
+Less: Comprehensive income attributable to noncontrolling interests 87 92 78
+TOTAL COMPREHENSIVE INCOME ATTRIBUTABLE TO
+PROCTER & GAMBLE $ 15,730 $ 15,199 $ 14,622
+S ee accompanying Notes to Consolidated Financial Statements.

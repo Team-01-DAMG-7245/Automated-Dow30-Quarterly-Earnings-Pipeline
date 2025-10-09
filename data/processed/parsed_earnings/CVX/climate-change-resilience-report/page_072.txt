@@ -1,0 +1,23 @@
+refining carbon intensity
+kilograms CO₂e/boe
+The refining carbon intensity (RCI) metric provides a measure of GHG released during the transformation
+of raw materials into refined products. RCI is throughput-based and includes GHG emissions from
+Chevron’s own refining operations and estimates of emissions associated with third-party processing of
+imported feedstocks such as hydrogen.*† Throughput includes net crude and other feedstocks (including
+bio-based feedstocks). Scope includes crude refineries, biorefineries and co-processing facilities.‡
+The metric is on an equity basis.
+( )
+Refinery direct Refinery indirect GHG emissions Third-party processing emissions Emissions associated
+GHG emissions + associated with imported + associated with imported – with exported electricity
+(Scope 1) electricity and steam (Scope 2) feedstocks* (a type of Scope 3) and steam
+Crude + Other feedstocks, including bio-based feedstocks
+* Emissions from third-party processing of imported feedstocks are estimated using infor mation including supplier data, industry segment averages and engineering estimates. Emissions included in the
+calculation represent refinery processing only and do not include terminals or chemical, additive, base oil and lubricant facilities not integrated into a refinery. Feedstocks include hydrogen and intermediate
+products that will be further refined or used in conversion units. Feedstocks do not include natural gas used as fuel or products intended solely for blend ing into finished products. Feedstocks are assessed
+on a net basis (imports minus exports).
+† Emissions associated with the production of hydrogen can account for 25% of total refinery emissions, and more than half of the hydrogen used in U.S. refining is imported from a third party. (“Available
+and Emerging Technologies for Reducing Greenhouse Gas Emissions from the Petroleum Refinery Industry,” US EPA Office of Air and Radiation 2010 and U.S. Energy Information Administration, EIA-820
+Annual Refinery Report and EIA-810 Refinery and Blender Net Input).
+‡ Chevron’s 2022 RCI metric excludes biorefineries acquired from Renewable Energy Group, Inc. in June 2022. The 2023 RCI metric is expected to include these biorefineries.
+Chevron Corporation 2023 Climate Change Resilience Report
+70

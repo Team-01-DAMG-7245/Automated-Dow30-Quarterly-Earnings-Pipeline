@@ -1,0 +1,450 @@
+{
+  "page": 71,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 55,
+  "columns": 6,
+  "accuracy": 86.7,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "Executive",
+      "2": "Audit",
+      "3": "Stock",
+      "4": "Shareholder",
+      "5": "Additional"
+    },
+    {
+      "0": "Governance \nsummary",
+      "1": "compensation",
+      "2": "matters",
+      "3": "ownership",
+      "4": "proposals",
+      "5": "information"
+    },
+    {
+      "0": "Directors and executive officers",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "What are \u201ctotal",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "The following table shows the number of shares of Verizon common stock",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "stock\u2011\u2011based",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "beneficially owned by, as well as the total stock\u2011based holdings of, each of the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "holdings\u201d?",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "named executive officers, each Director, and all executive officers and Directors",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "as a group as of March 4, 2025. The aggregate number of shares beneficially",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "The \u201cTotal stock\u2011based",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "owned by executive officers and Directors represents less than one percent of",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "holdings\u201d column shows",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "the total number of outstanding shares of Verizon common stock. Unless we",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "the total economic",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "indicate otherwise, each individual has sole voting and/or investment power with",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "exposure that the",
+      "5": ""
+    },
+    {
+      "0": "respect to the shares.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "Directors and executive",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "officers have to Verizon",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Total\u00a0stock-",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "common stock. In addition",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "based",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "to shares of common",
+      "5": ""
+    },
+    {
+      "0": "Named executive officers",
+      "1": "",
+      "2": "Stock1",
+      "3": "holdings2",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "stock beneficially held,",
+      "5": ""
+    },
+    {
+      "0": "Hans Vestberg*",
+      "1": "",
+      "2": "564,793",
+      "3": "1,468,815",
+      "4": "which are included in the",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "\u201cStock\u201d column, our",
+      "5": ""
+    },
+    {
+      "0": "Anthony Skiadas",
+      "1": "",
+      "2": "120,235",
+      "3": "488,418",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "Directors and executive",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "officers have interests in",
+      "5": ""
+    },
+    {
+      "0": "Sowmyanarayan Sampath",
+      "1": "",
+      "2": "141,150",
+      "3": "593,535",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "other stock\u2011based units",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "under Verizon deferred",
+      "5": ""
+    },
+    {
+      "0": "Kyle Malady",
+      "1": "",
+      "2": "59,915",
+      "3": "555,447",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "compensation plans and",
+      "5": ""
+    },
+    {
+      "0": "Vandana Venkatesh",
+      "1": "",
+      "2": "37,269",
+      "3": "230,100",
+      "4": "stock\u2011based long\u2011term",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "incentive awards. We",
+      "5": ""
+    },
+    {
+      "0": "Craig Silliman**",
+      "1": "",
+      "2": "89,142",
+      "3": "451,931",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "include these interests in",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "the \u201cTotal stock\u2011based",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "holdings\u201d column because",
+      "5": ""
+    },
+    {
+      "0": "Directors",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "they create the same",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "exposure for Directors",
+      "5": ""
+    },
+    {
+      "0": "Shellye Archambeau",
+      "1": "",
+      "2": "0",
+      "3": "59,848",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "and executive officers to",
+      "5": ""
+    },
+    {
+      "0": "Roxanne Austin",
+      "1": "",
+      "2": "0",
+      "3": "24,737",
+      "4": "Verizon, the same",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "alignment with",
+      "5": ""
+    },
+    {
+      "0": "Mark Bertolini",
+      "1": "",
+      "2": "225",
+      "3": "53,357",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "shareholders\u2019 interests,",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "and the same incentives to",
+      "5": ""
+    },
+    {
+      "0": "Vittorio Colao",
+      "1": "",
+      "2": "0",
+      "3": "12,775",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "drive the Company\u2019s",
+      "5": ""
+    },
+    {
+      "0": "Caroline Litchfield",
+      "1": "",
+      "2": "0",
+      "3": "1,200",
+      "4": "success.",
+      "5": ""
+    }
+  ]
+}

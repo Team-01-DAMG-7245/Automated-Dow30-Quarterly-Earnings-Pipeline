@@ -1,0 +1,56 @@
+climate-related disclosure
+Chevron recognizes climate change is a growing area of interest and where the relevant information can be found in this report.
+for our stakeholders, including investors. The table below shows Further information can be found in Chevron’s Methane Report
+how the disclosures in this report align with the recommendations (2022), Climate Change Resilience reports and Corporate
+of the Financial Stability Board’s Task Force on Climate-related Sustainability reports. For Chevron’s latest reports, see our
+Financial Disclosures, as the TCFD has described the categories, reports and publications center.
+report
+TCFD recommendation* disclosure
+section
+governance
+Disclose the organization’s (a) Describe the board’s governance around potential Board oversight 1.1
+governance around potential climate-related risks and opportunities. Public Policy and Sustainability Committee 1.1.1
+climate-related risks and Other Board-level committees 1.1.2–1.1.4
+opportunities. Director qualifications and nominating process 1.1.4
+(b) D escribe management’s role in assessing and Executive management of climate risks 1.2
+managing potential climate-related risks
+Organizational capability on energy transition 1.3
+and opportunities.
+strategy
+Disclose the actual and (a) D escribe the potential climate-related risks and Chevron’s strategic and business planning 3
+potential impacts of opportunities the organization has identified processes
+over the short, medium and long terms.
+climate-related risks and
+opportunities on the (b) D escribe the impact of potential climate-related risks Chevron’s strategic and business planning processes 3
+organization’s businesses, and opportunities on the organization’s businesses,
+Portfolio 4
+strategy and financial strategy and financial planning.
+planning where such (c) Describe the resilience of the organization’s strategy, Stress-testing our portfolio under 2.2.6
+information is material. taking into consideration different climate-related the IEA NZE Scenario
+scenarios, including a 2° C or lower scenario.
+risk management
+Disclose how the (a) Describe the organization’s processes for identifying Physical risks 2.1
+organization identifies, and assessing potential climate-related risks. Transition risks 2.2
+assesses and manages
+(b) D escribe the organization’s processes for Physical risks 2.1
+potential climate- managing potential climate-related risks.
+Transition risks 2.2
+related risks.
+(c) Describe how processes for identifying, assessing and Risk management 2
+managing potential climate-related risks are integrated
+into the organization’s overall risk management.
+metrics and targets
+Disclose the metrics and (a) D isclose the metrics used by the organization to assess Advancing energy progress page 4
+targets used to assess potential climate-related risks and opportunities in
+line with its strategy and risk management process. Assessing performance on a lifecycle basis 5.1
+and manage potential
+climate-related risks and
+(b) D isclose Scope 1, Scope 2 and, if appropriate, Metrics 6
+opportunities where such Scope 3 GHG emissions estimates and the potential
+information is material. related risks.
+(c) D escribe the targets used by the organization Advancing energy progress page 4
+to manage potential climate-related risks and
+opportunities and performance against targets.
+* See Section 7: About This Report.
+Chevron Corporation 2023 Climate Change Resilience Report
+77

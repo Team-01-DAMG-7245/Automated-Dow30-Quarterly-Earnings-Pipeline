@@ -1,0 +1,59 @@
+3.3 demand and supply
+How we approach demand: Our views on short- and long-term demand How we approach supply: Every year, we develop a range of long-
+are based on analysis of macroeconomic and demographic trends, term supply scenarios for oil, gas and refined products to inform our
+technological pathways, consumers’ behavioral patterns, and policy views on prices, test our strategies and assess business risks. The process
+impacts, among other factors. Growing populations, rising incomes and involves our proprietary view of the principal drivers of supply growth,
+urbanization are the principal forces behind energy-demand growth, including resource supply curves, production constraints, capacities
+as they typically lead to greater use of transportation, heating, cooling, at secondary processing facilities, fiscal and financial requirements,
+lighting and refrigeration. Policies will continue to play a large role in and geopolitical trends and shifts. Given the complex set of variables
+aggregate energy demand and fuel mix. Given the range of uncertainty and uncertainties associated with forecasting long-term supply, we
+across key demand drivers, we analyze multiple demand scenarios as part routinely examine multiple scenarios and assess our forecasts against
+of our annual planning cycle. third-party perspectives.
+3.3.1 View on oil demand uncertainty about the nature of demand recovery from the
+In 2022, global liquid fuel demand rose to approximately pandemic, limited price recovery, and a more constrained capital
+100 mmbd and nearly recovered to pre-COVID-19 levels.25 market could lead to inadequate investment, future supply
+The IEA projects global oil demand to grow to approximately shortages and price volatility.
+102 mmbd in 2023, supported by the world’s growing demand
+for mobility.26 The 102 mmbd level would represent a new record Although oil markets are well supplied in the short term, in
+high for annual oil consumption. Although global oil demand has the medium term more investment would be required to meet
+grown at a rate of approximately 1 mmbd, or 1% per year, over the increased demand – often referred to as the “supply gap.” We
+past several decades, the IEA Stated Policies Scenario (STEPS) analyze this gap in order to forecast which types of resources will
+projects that global oil demand will plateau at approximately be needed in the future. Typically, the most economical barrels
+102 mmbd through 2050. Future projected growth in China, India are produced from reinvesting in existing production to minimize
+and Southeast Asia is offset by projected demand declines in natural decline.
+advanced economies. Other third-party scenarios project global
+oil demand between a low of approximately 70 mmbd and a high
+of 112 mmbd in the 2040–2050 horizon, highlighting the range of
+Exhibit 17. Realized decline rates determine the size of the
+future uncertainty on oil’s forward trajectory.
+supply gap and opportunities for new investment
+(mmboe/d)
+3.3.2 View on oil supply
+At a macro level, oil supply is significantly impacted by
+110
+producers’ strategies to manage near- and long-term uncertainties.
+For example, producers respond to demand expectations by
+adjusting investment levels. The IEA estimates that upstream oil
+and gas investments have risen by 18% since 2020, when they 100
+bottomed out due to COVID-related demand shocks.27 Further,
+geopolitical factors can drive production levels, evidenced
+by fluctuations in OPEC+ (OPEC plus 11 non-OPEC members)
+90
+production since 2021.
+Capital spending on oil and gas is also impacted by the continued
+need for maintenance and investment in existing assets to manage 80
+decline rates (Exhibit 17). The production profile for a well, a field
+or a geography depends on geological circumstances, engineering
+practices and government policies, among other factors.
+70
+2015 2020 2025 2030
+Although non-OPEC decline rates have been estimated to be
+Supply with no new investment Additional new fields needed
+approximately 3% 28 over the past decade, the increasing share of in IEA STEPS
+Supply with additional investment
+shale and tight oil has led to higher decline rates. Price declines in existing fields IEA NZE demand
+stemming from COVID-19 demand shocks and OPEC+ tensions, Supply from already approved projects
+Source: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022,
+License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+Chevron Corporation 2023 Climate Change Resilience Report
+31

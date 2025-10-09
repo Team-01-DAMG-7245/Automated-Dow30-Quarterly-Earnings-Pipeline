@@ -1,0 +1,67 @@
+Exhibit 26. Upstream net zero 2050 aspiration
+Scope 1 and 2 emissions (kilograms CO₂e/boe)
+Potential Scope 1 and 2 reduction opportunities
+2016
+Emissions 2016
+intensity Achieved Emissions Source type Reduction strategies Supporting policy
+40 intensity
+Direct Energy management, e.g., Carbon pricing, carbon-
+Portfolio GHG Future Innovation Net zero energy use: efficiency improvements, related reporting,* support
+reductions GHG and combustion lower carbon fuels, for innovation like CCUS
+30 reductions offsets electrification with lower and offsets, support for
+carbon power, CCUS carbon markets†
+Flaring Gas market development, Infrastructure support for
+operational best practices, e.g., gas market development
+(Divestments) flow assurance for gas, facility
+20 reliability improvements
+Fugitives Methane management, e.g., Flexibility to use advanced
+and venting operational best practices technologies for methane
+and facility design detection
+10
+Indirect energy Energy management, e.g., Carbon pricing, carbon-
+use: imported efficiency improvements, related reporting,* support for
+electricity and sourcing lower carbon power innovation like CCUS, support
+steam for grid infrastructure
+0
+Projected Projected Projected
+2016 2016–2022 * See page 62 on carbon-related reporting.
+2023–2028 2029–2050 2050 † See page 61 on carbon markets.
+We aspire to reach net zero upstream emissions (Scope 1 and 2) Most of our direct emissions (Scope 1) and indirect emissions
+by 2050 (Exhibit 26). Accomplishing this depends on continuing from imported energy (Scope 2) are related to energy use, which
+progress on commercially viable technology, government policy, can be reduced by energy management, for example, efficiency
+successful negotiations for carbon capture and storage and improvements or fuel switching to lower carbon sources (e.g., from
+nature-based projects, availability of cost-effective, verifiable diesel to gas).
+offsets in the global market, and granting of necessary permits by
+governing authorities. The next-largest source category of our direct emissions
+(Scope 1) is from activities related to methane, including flaring,
+We are taking actions to reduce carbon intensity by high-grading fugitive emissions and venting. Flaring can be reduced by
+the portfolio, improving operations and using the MACC process to development of gas markets to enable gas takeaway capacity.
+drive emissions reductions on existing facilities. For new facilities, We believe fugitive emissions can be addressed with reduction
+we have identified opportunities to adjust our standards and pilot strategies like leak detection and repair (LDAR) programs
+new technologies with the aim of lower-emission facility design for and satellite monitoring and can be supported by policies for
+future production. equipment performance standards. Venting can be reduced by
+pressure-management systems.
+Active portfolio management is key to achieving our objectives.
+Growth or decline in production from different assets or We have identified over 120 GHG abatement projects to advance
+acquisitions and divestitures or from changes in operations and to execution and plan to spend more than $350 million on these
+accounting guidelines may result in emissions performance projects in 2023. In 2022, we made progress on 90 projects and
+changes (Exhibit 26). Contrary to what some may believe, completed 13. We expect to spend approximately $2 billion on
+divestments represent a very small portion of achieved reductions. similar projects through 2028. When completed, the opportunities
+are expected to deliver approximately 4 million tonnes of
+We assess reduction opportunities in the key areas of energy emissions reductions per year.
+management; methane management, consisting of venting,
+fugitives and flaring reductions; CCUS; and offsets. Any source of Based on the IEA’s weighted global average of gas production used
+emissions can be offset with natural or technological removals, in electricity, we estimate 37 that the potential avoided emissions*
+like nature-based solutions and CCUS. These GHG reduction associated with natural gas sold by Chevron, relative to coal, may
+approaches can be supported by policy on carbon pricing, well- enable 100 million tonnes of CO₂e reductions per annum by 2030.
+designed carbon-related reporting, support for technologies like
+CCUS, and offsets.
+* Chevron estimated avoided emissions associated with the share of its global natural gas sales
+utilized for electricity generation using an attributional lifecycle approach (World Resources Institute
+[WRI], 2019). The avoided emissions were calculated as the difference between lifecycle GHG
+emissions associated with the reference product (i.e., coal-based electricity generation) and the
+assessed product (i.e., natural gas-based electricity generation). The WRI working paper on avoided
+emissions can be accessed at ghgprotocol.org/sites/default/files/2023-03/18_WP_Comparative-
+Emissions_final.pdf.
+Chevron Corporation 2023 Climate Change Resilience Report
+39

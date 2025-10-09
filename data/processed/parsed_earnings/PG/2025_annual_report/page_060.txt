@@ -1,0 +1,34 @@
+48 The Procter & Gamble Company
+Identifiable intangible assets were comprised of:
+2025 2024
+Gross Carrying Accumulated Gross Carrying Accumulated
+As of June 30 Amount Amortization Amount Amortization
+INTANGIBLE ASSETS WITH DETERMINABLE LIVES
+Brands $ 4,449 $ (3,019) $ 4,318 $ (2,725)
+Patents and technology 2,803 (2,722) 2,794 (2,683)
+Customer relationships 1,879 (1,236) 1,834 (1,121)
+Other 73 (31) 72 (29)
+TOTAL $ 9,204 $ (7,008) $ 9,019 $ (6,558)
+INTANGIBLE ASSETS WITH INDEFINITE LIVES
+Brands 19,714 — 19,587 —
+TOTAL INTANGIBLE ASSETS $ 28,918 $ (7,008) $ 28,605 $ (6,558)
+Amortization expense of intangible assets was as follows:
+Fiscal years ended June 30 2025 2024 2023
+Intangible asset amortization $ 320 $ 338 $ 327
+Estimated amortization expense over the next five fiscal years is as follows:
+Fiscal years ending June 30 2026 2027 2028 2029 2030
+Estimated amortization expense $ 308 $ 298 $ 255 $ 205 $ 179
+NOTE 5
+INCOME TAXES
+Income taxes are recognized for the amount of taxes payable for the current year and for the impact of deferred tax assets and
+liabilities, which represent future tax consequences of events that have been recognized differently in the financial statements
+than for tax purposes. Deferred tax assets and liabilities are established using the enacted statutory tax rates and are adjusted for
+any changes in such rates in the period of change.
+We have elected to account for the tax effects of Global Intangible Low-Taxed Income (GILTI) as a current period expense
+when incurred.
+Earnings before income taxes consisted of the following:
+Fiscal years ended June 30 2025 2024 2023
+United States $ 13,911 $ 12,246 $ 12,107
+International 6,256 6,515 6,246
+TOTAL $ 20,167 $ 18,761 $ 18,353
+A mounts in millions of dollars except per share amounts or as otherwise specified.

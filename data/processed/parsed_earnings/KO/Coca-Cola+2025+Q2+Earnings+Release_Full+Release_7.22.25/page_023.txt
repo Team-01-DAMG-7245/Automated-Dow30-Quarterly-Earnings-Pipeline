@@ -1,0 +1,43 @@
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+Reconciliation of GAAP and Non-GAAP Financial Measures
+(In millions except per share data)
+Six Months Ended June 27, 2025
+Equity Other Income Diluted
+income income before net
+Interest (loss) (loss) income Income Effective Net income
+expense — net — net taxes taxes1 tax rate income3 per share
+Reported (GAAP) $ 832 $ 912 $ 466 $ 8,853 $ 1,715 19.4% $ 7,140 $ 1.65
+Items Impacting Comparability:
+Asset Impairments — — 65 96 8 88 0.02
+Equity Investees — 28 — 28 2 26 0.01
+Transaction Gains/Losses — — (405) (351) (92) (259) (0.06)
+Restructuring — — — 39 10 29 0.01
+Other Items 12 — (51) 42 13 29 0.01
+Certain Tax Matters — — — — 155 (155) (0.04)
+Comparable (Non-GAAP) $ 844 $ 940 $ 75 $ 8,707 $ 1,811 20.8% 2 $ 6,898 $ 1.60
+Six Months Ended June 28, 2024
+Equity Other Income Diluted
+income income before net
+Interest (loss) (loss) income Income Effective Net income
+expense — net — net taxes taxes1 tax rate income3 per share
+Reported (GAAP) $ 800 $ 891 $ 1,515 $ 6,900 $ 1,314 19.0% $ 5,588 $ 1.29
+Items Impacting Comparability:
+Asset Impairments — — 34 794 190 604 0.14
+Equity Investees — 49 — 49 2 47 0.01
+Transaction Gains/Losses — — (1,404) 705 169 536 0.12
+Restructuring — — — 68 17 51 0.01
+Other Items 12 — (161) (225) (52) (173) (0.04)
+Certain Tax Matters — — — 22 (60) 82 0.02
+Comparable (Non-GAAP) $ 812 $ 940 $ (16) $ 8,313 $ 1,580 19.0% $ 6,735 $ 1.56
+Equity Other Income Diluted
+income income before net
+Interest (loss) (loss) income Income Net income
+expense — net — net taxes taxes1 income3 per share
+% Change — Reported (GAAP) 4 2 (69) 28 31 28 28
+% Change — Comparable (Non-GAAP) 4 0 — 5 15 2 3
+Note: Certain columns may not add due to rounding. Certain growth rates may not recalculate using the rounded dollar amounts provided.
+1 The income tax adjustments are the calculated income tax benefits (charges) at the applicable tax rate for each of the items impacting comparability
+with the exception of certain tax matters discussed above.
+2 This does not include the impact of the ongoing tax litigation with the U.S. Internal Revenue Service, if the company were not to prevail.
+3 This represents net income attributable to shareowners of The Coca-Cola Company.
+23

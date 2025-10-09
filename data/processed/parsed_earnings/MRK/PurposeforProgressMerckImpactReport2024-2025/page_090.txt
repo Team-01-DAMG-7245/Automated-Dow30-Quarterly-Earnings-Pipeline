@@ -1,0 +1,58 @@
+Overview Access to Health Employees Environmental Sustainability Ethics & Values Reporting indices Merck Impact Report 2024/2025 90
+Climate, energy and air emissions | Water | Nature and biodiversity | Waste | Materials | Performance summary
+Climate, energy
+From 2023 to 2024, our combined year-over-year Scope 1 and market-based Scope 2 GHG emissions
+reduced by 2 percent. The decrease was due to reductions in market-based Scope 2 electric emissions
+and Scope 1 fugitive and fleet emissions. In 2024, our Scope 3 GHG emissions increased as compared
+and air emissions to 2023. While performance was mixed across our reported categories, an increase in GHG emission in
+our largest category, Purchased Goods and Services, led to an overall increase in GHG emissions from
+2023. Our analysis shows that our Scope 3 GHG emissions impacts are more than six times greater
+than our combined Scopes 1 and 2 emissions.
+Goals 2022 2023 2024 Total energy use
+(GJ) 2019 2020 2021 2022 2023 2024
+Reduce our operational GHG
+9% below 14% below 16% below
+Total energy use 17,261,000 16,784,000 16,791,000 17,197,000 17,186,000 16,965,000
+emissions (i.e., Scopes 1 & 2) 46%
+baseline baseline baseline
+by 2030, from a 2019 baseline¹
+Breakdown (by type) of
+Reduce our value chain (Scope 3)
+7% below 9% below 6% below
+total energy used (Scope 1
+GHG emissions by 30% by 2030,
+baseline baseline baseline
+and location-based Scope 2
+from a 2019 baseline²
+energy use)* 2019 2020 2021 2022 2023 2024
+Source 100% of our purchased
+Natural gas (Scope 1) 64% 66% 64% 65% 64% 65%
+electricity from renewable 45% 57% 61%
+sources by 2025³
+Renewable energy generated and used
+0.003% 0.010% 0.010% 0.010% 0.33% 0.37%
+on site (Scope 1)4
+In 2024, we committed to a net-zero target for
+Fleet fuel (Scope 1) 10% 8% 8% 9% 9% 9%
+Achieve net-zero greenhouse gas our greenhouse gas (GHG) emissions across our
+(GHG) emissions (Scopes 1, 2 & 3) global operations (Scopes 1, 2, and 3) by 2045,
+Fuel oil (Scope 1) 2% 2% 2% 2% 2% 1%
+by 2045 aligned with the guidelines of the Science Based
+Targets initiative (SBTi).
+Biofuel (Scope 1) 0.0008% 0.0009% 0.0009% 0.0010% 0.0008% 0.0008%
+¹ Scope 1 GHG emissions are direct emissions from owned or controlled sources such as on-site fuel combustion and fleet
+Spent solvents (Scope 1) 0% 0% 0% 0% 0% 0%
+vehicles. Scope 2 GHG emissions are indirect emissions from the generation of purchased energy consumed by the
+reporting company.
+² (a) Scope 3 GHG emissions include all other indirect emissions in a company’s value chain. Coal (Scope 1) 0% 0% 0% 0% 0% 0%
+(b) In 2024, we initiated a work process with our suppliers to collect and report their activity data related to our Scope 3
+emissions in place of our input/output spend modeled data, when available. Our 2019-2024 Scope 3 performance data Purchased electricity (Scope 2)5 22% 22% 24% 22% 22% 22%
+and goals were updated to include this data.
+³ We have defined “purchased electricity” as electricity sourced from external suppliers as well as renewable electricity
+Purchased steam (Scope 2) 3% 3% 3% 3% 3% 3%
+that was generated and utilized on site where we retained the renewable attributes or where we have obtained
+renewable attributes through contract.
+* Annual energy breakdown may not add up to 100 percent due to rounding.
+4 Includes solar, wind and other renewable energy generated on site where renewable energy credits or guarantees of origin have been
+retained or retired.
+5 Includes electricity sourced from external suppliers. Reported using Scope 2 location-based value in accordance with the GHG Protocol.

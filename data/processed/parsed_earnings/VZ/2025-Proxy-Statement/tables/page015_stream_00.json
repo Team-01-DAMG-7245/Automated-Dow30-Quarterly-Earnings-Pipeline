@@ -1,0 +1,34 @@
+{
+  "page": 15,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 6,
+  "columns": 2,
+  "accuracy": 97.39,
+  "data": [
+    {
+      "0": "",
+      "1": "Vittorio Colao"
+    },
+    {
+      "0": "Independent Director since: 2015",
+      "1": "Independent Director since: 2022"
+    },
+    {
+      "0": "Age: 68",
+      "1": "Age: 63"
+    },
+    {
+      "0": "Committees:",
+      "1": "Committees:"
+    },
+    {
+      "0": "Finance (Chair)",
+      "1": "Corporate Governance and Policy"
+    },
+    {
+      "0": "Human Resources",
+      "1": "Finance"
+    }
+  ]
+}

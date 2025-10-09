@@ -1,0 +1,49 @@
+60 The Procter & Gamble Company
+• Level 3: Unobservable inputs reflecting the reporting entity's own assumptions or external inputs from inactive markets.
+The Company had no significant activity with Level 3 assets and liabilities during the periods presented. Except for the
+impairment of the Gillette indefinite-lived intangible asset discussed in Note 4, there were no significant assets or liabilities that
+were re-measured at fair value on a non-recurring basis for the periods presented. When applying fair value principles in the
+valuation of assets and liabilities, we are required to maximize the use of quoted market prices and minimize the use of
+unobservable inputs. The Company has not changed its valuation techniques used in measuring the fair value of any financial
+assets or liabilities during the year.
+When active market quotes are not available for financial assets and liabilities, we use industry standard valuation models.
+Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based
+observable inputs including credit risk, interest rate curves and forward and spot prices for currencies. In circumstances where
+market-based observable inputs are not available, management judgment is used to develop assumptions to estimate fair value.
+Assets and Liabilities Measured at Fair Value
+Cash equivalents were $8.3 billion and $8.0 billion as of June 30, 2025 and 2024, respectively, and are classified as Level 1
+within the fair value hierarchy. The Company had no other material investments in debt or equity securities during the periods
+presented.
+The fair value of long-term debt was $29.5 billion and $27.7 billion as of June 30, 2025 and 2024, respectively. This includes
+the current portion of long-term debt instruments ($5.3 billion as of June 30, 2025, and $3.8 billion as of June 30, 2024).
+Certain long-term debt (debt designated as a fair value hedge) is recorded at fair value. All other long-term debt is recorded at
+amortized cost but is measured at fair value for disclosure purposes. We consider our debt to be Level 2 in the fair value
+hierarchy. Fair values are generally estimated based on quoted market prices for identical or similar instruments.
+Disclosures about Financial Instruments
+The notional amounts and fair values of financial instruments used in hedging transactions as of June 30, 2025 and 2024, are as
+follows:
+Notional Amount Fair Value Asset Fair Value (Liability)
+As of June 30 2025 2024 2025 2024 2025 2024
+DERIVATIVES IN FAIR VALUE HEDGING RELATIONSHIPS
+Interest rate contracts $ 3,280 $ 2,993 $ — $ — $ (201) $ (325)
+DERIVATIVES IN NET INVESTMENT HEDGING RELATIONSHIPS
+Foreign currency interest rate contracts $ 11,874 $ 10,140 $ — $ 119 $ (860) $ (31)
+TOTAL DERIVATIVES DESIGNATED AS
+HEDGING INSTRUMENTS $ 15,154 $ 13,133 $ — $ 119 $ (1,061) $ (356)
+DERIVATIVES NOT DESIGNATED AS HEDGING INSTRUMENTS
+Foreign currency contracts $ 3,576 $ 3,192 $ 19 $ 1 $ — $ (23)
+TOTAL DERIVATIVES AT FAIR VALUE $ 18,730 $ 16,325 $ 19 $ 120 $ (1,062) $ (379)
+The fair value of the interest rate derivative asset/(liability) directly offsets the cumulative amount of the fair value hedging
+adjustment included in the carrying amount of the underlying debt obligation. The carrying amount of the underlying debt
+obligation, which includes the unamortized discount or premium and the fair value adjustment, was $3.1 billion and $2.7 billion
+as of June 30, 2025 and 2024, respectively. In addition to the foreign currency derivative contracts designated as net investment
+hedges, certain of our foreign currency denominated debt instruments are designated as net investment hedges. The carrying
+value of those debt instruments designated as net investment hedges, which includes the adjustment for the foreign currency
+transaction gain or loss on those instruments, was $11.2 billion and $11.9 billion as of June 30, 2025 and 2024, respectively.
+The increase in notional balance of the derivative instruments designated as net investment hedges is primarily driven by the
+Company's decision to leverage favorable interest rate spreads in the foreign currency swap market.
+Derivative assets are presented in Prepaid expenses and other current assets or Other noncurrent assets. Derivative liabilities are
+presented in Accrued and other liabilities or Other noncurrent liabilities. Changes in the fair value of net investment hedges are
+recognized in the Foreign currency translation component of OCI. All of the Company's derivative assets and liabilities
+measured at fair value are classified as Level 2 within the fair value hierarchy.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

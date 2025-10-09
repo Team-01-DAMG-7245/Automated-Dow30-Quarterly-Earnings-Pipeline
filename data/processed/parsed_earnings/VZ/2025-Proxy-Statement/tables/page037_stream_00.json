@@ -1,0 +1,91 @@
+{
+  "page": 37,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 9,
+  "columns": 7,
+  "accuracy": 71.93,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "2024 Adjusted company results1",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "The Short\u2011Term Plan provides for performance measures to be adjusted to exclude the impact of certain types of",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "events not contemplated at the time the performance measures were set, such as significant transactions, changes",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "in legal or regulatory policy and other special items. In determining Verizon\u2019s performance against the performance",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "measures, the Committee made adjustments to cash flow from operations for impacts associated with the 2024",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "tower transaction with Vertical Bridge and separation payments in connection with the Voluntary Separation",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Program and adjustments to workforce diversity related to the Voluntary Separation Program.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

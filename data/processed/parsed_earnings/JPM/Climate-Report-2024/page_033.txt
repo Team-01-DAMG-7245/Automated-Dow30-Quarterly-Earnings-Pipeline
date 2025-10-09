@@ -1,0 +1,46 @@
+Risk Types
+We are using our resources to better understand how physical and transition risks may manifest and their potential impacts on the existing risk types the Firm manages.
+Credit and Investment Risk
+As an example, credit and investment risk is one of the four risk types we manage and is the risk associated with the default or change in the credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments
+including consumer credit risk, wholesale credit risk and investment portfolio risk.
+We use our risk identification process and scenario analysis capabilities to measure the potential adverse impacts the baseline and stress climate risk scenarios may have on our credit portfolios, both today and in the future. We are analyzing the direct impacts of physical
+and transition risk — including property damage and financial loss due to severe weather events or the potential reduction in profitability of a client, counterparty or customer as a result of a societal transition from a high-carbon to a lower carbon-intensive footprint. We
+are also considering indirect and longer-term risk drivers, including the potential for reduced availability or increased cost of insurance for clients of JPMorgan Chase in a given geography, adoption of new technologies and shifts in consumer preferences.
+CONSUMER CREDIT RISK WHOLESALE CREDIT RISK
+As of December 31, 2023, the Firm had $1.6 trillion of consumer credit exposure, including residential real estate, auto loans and As of December 31, 2023, the Firm had $1.3 trillion of wholesale credit exposure. In its wholesale businesses, the Firm is
+credit cards. We use catastrophe models to estimate the potential impact of hypothetical severe weather events, including flooding exposed to credit risk primarily through its underwriting, lending, market-making, and hedging activities with and for clients
+and tropical cyclones, on our real estate portfolios. Catastrophe models provide estimates of event frequency and severity, as well and counterparties, as well as through various operating services (such as cash management and clearing activities), securities
+as resultant property damage under different emissions scenarios. Such metrics contribute to analyses of potential future climate- financing activities and cash placed with banks.
+related credit risk by informing estimates of risk drivers, such as insurance costs and asset values. However, such modelling has
+We have built a stress framework to estimate potential impacts from a range of climate transition pathways on client financials
+limitations, such as only considering current building codes and flood defenses and not future ones that may be built in response to
+and credit ratings. Financial impacts from the transition to a low-carbon economy could manifest in a variety of ways, including
+storms. For example, retained residential real estate loans, predominantly in the U.S., made up $326 billion of the total consumer
+weaker demand for carbon-intensive products, resulting in lower revenue or higher operating costs for carbon-emitting companies,
+credit portfolio. Today, the risks of severe weather events for this portfolio are substantially mitigated through geographic
+if a carbon tax is implemented. Additionally, companies may need to increase their capital expenditures through investments that
+diversification of the properties, the prevalence of hazard insurance and the effective average life of the underlying loans, among
+improve resilience to the low-carbon transition (e.g., power companies investing in renewables).
+other factors. As a result, financial losses due to severe weather events have not been material to the Firm. As we evaluate the
+potential for future impacts, we are considering outcomes in which these mitigants are less effective — for example, if insurance For clients operating in carbon-intensive sectors (e.g., Oil & Gas, Automotive Manufacturing, Power Generation, Aviation, Steel
+costs become prohibitively expensive or availability of insurance is limited in geographic scope or coverage. and Cement Manufacturing), we estimate the potential impact of a climate transition scenario on their credit rating by projecting
+detailed cashflows within the context of a transition scenario (refer to Scenario Analysis on page 26). This estimation takes into
+The cumulative effect of physical climate risk may impact our residential real estate portfolio in several ways, including the following:
+account the client-level CAF quantitative and qualitative scores, which, as described on pages 9–11, assess a client’s historical
+• Greater physical damages: increased likelihood or severity of severe weather events may increase consumer credit losses. emissions reductions, current and forecasted carbon intensity, as well as actions taken to advance their decarbonization.
+• Higher insurance premiums: higher insurance premiums may increase living expenses and financial burden for consumers. To assess the impact of climate transition risk on sectors with relatively lower carbon intensity, we conduct a separate client-specific
+internal stress analysis24. The potential effect on a client’s credit rating is estimated by stressing client financials consistent with
+• Reduced coverage or availability of insurance: insurers may further limit types of damage they cover or withdraw coverage from
+industry projected performance in the transition scenario and factoring in the additional costs incurred due to a carbon tax on
+specific geographies.
+the company’s emissions.
+• House price impacts: cumulative effect of climate-driven events may adversely impact house prices and local economies in
+We have also developed risk measurement capabilities, including catastrophe modelling — which as noted in the Consumer Credit
+certain geographies, potentially disproportionately impacting lower-income households and communities.
+Risk section, has limitations such as only considering current building codes and flood defenses and not future ones that may be
+We continue to examine how the transition to a low-carbon economy may create financial burden on consumers from potentially built in response to storms — to estimate the potential impact of severe weather events exacerbated by climate change on our
+higher energy prices, pass-through of carbon taxes on goods and services, or result in declines in the value of other assets (e.g., Commercial Real Estate portfolio. Damages from hurricanes and floods could cause potential physical damage to the underlying
+gas-burning vehicles), which could impact consumers’ ability to repay credit obligations and may result in additional credit losses properties, leading to expenses for repairs and disruptions in revenue, as well as changes in overall property values that could
+to the Firm. impact the credit quality of the portfolio. The impact of severe weather events on the Commercial Real Estate portfolio is currently
+estimated to be limited given relatively low exposure to areas most impacted by severe weather events.
+24 Climate transition stress analysis for clients in lower carbon intensity sectors is used for internal climate analysis and not used in client decisioning. 29

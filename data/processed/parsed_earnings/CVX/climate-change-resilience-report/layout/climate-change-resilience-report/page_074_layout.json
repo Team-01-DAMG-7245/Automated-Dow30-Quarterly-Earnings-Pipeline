@@ -1,0 +1,38 @@
+{
+  "pdf_name": "climate-change-resilience-report.pdf",
+  "page_number": 74,
+  "total_blocks": 2,
+  "blocks": [
+    {
+      "block_id": 0,
+      "type": "Figure",
+      "confidence": 0.9526164531707764,
+      "bbox": {
+        "x1": 102.46334838867188,
+        "y1": 196.6591033935547,
+        "x2": 1622.7799072265625,
+        "y2": 1684.80859375
+      },
+      "width": 1520.3165588378906,
+      "height": 1488.1494903564453
+    },
+    {
+      "block_id": 1,
+      "type": "Text",
+      "confidence": 0.3950536847114563,
+      "bbox": {
+        "x1": 167.2339324951172,
+        "y1": 1626.5626220703125,
+        "x2": 366.90771484375,
+        "y2": 1652.833251953125
+      },
+      "width": 199.6737823486328,
+      "height": 26.2706298828125
+    }
+  ],
+  "block_types": {
+    "Figure": 1,
+    "Text": 1
+  },
+  "model_used": "Detectron2LayoutModel"
+}

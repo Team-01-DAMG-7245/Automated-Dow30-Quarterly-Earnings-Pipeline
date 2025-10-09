@@ -1,0 +1,415 @@
+{
+  "page": 56,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 45,
+  "columns": 7,
+  "accuracy": 37.71,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "",
+      "1": "Potential payments upon qualifying separation or involuntary",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "termination without cause",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Mr.\u00a0Vestberg. As CEO, Mr.\u00a0Vestberg is not eligible to participate in the Senior Manager Severance Plan described below.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Mr.\u00a0Vestberg is also not a party to an employment agreement with Verizon or\u00a0any other agreement that would provide him",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "with cash severance benefits in the event his employment is involuntarily terminated by Verizon without cause.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Senior Manager Severance Plan. Verizon provides severance benefits to certain employees, including all of the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "named executive officers other than the CEO, under the Senior Manager Severance Plan. Under the plan, a named",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "executive officer is eligible to receive severance benefits if he or she experiences a \u201cqualifying separation\u201d from",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Verizon, which is generally defined as an involuntary termination by Verizon without cause, a voluntary termination by",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "the executive solely due to the executive\u2019s refusal to accept a qualifying reclassification or relocation (as those terms",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "are defined in the plan) or a determination by the independent members of the Board that the named executive",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "officer has incurred a qualifying separation. A severance benefit, if triggered, is payable to an executive only if the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "executive executes a release of claims against Verizon in the form satisfactory to Verizon and agrees not to compete",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "or interfere with any Verizon business for\u00a0a period of one year after termination from employment and to always",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "protect Verizon\u2019s trade secrets and proprietary information.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "If a named executive officer incurs a qualifying separation under the plan, he or she is eligible to receive the\u00a0following",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "benefits: (i)\u00a0a lump\u2011sum cash separation payment equal to two times the sum of his or her base salary\u00a0and target",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Short\u2011Term Plan award opportunity; and (ii)\u00a0continued medical, dental and vision coverage for\u00a0two\u00a0years.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "In addition, if the executive\u2019s qualifying separation occurs prior to the last day of the year, the executive will receive a",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "prorated Short\u2011Term Plan award for the year in which the separation occurs, determined based on the actual level of",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "achievement of the performance criteria under the Short\u2011Term Plan for the applicable year and payable at the time that",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "awards are payable to participating employees generally under the plan. To the extent that an executive also becomes",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "eligible for severance benefits under any outstanding agreement, plan or any other arrangement, the executive\u2019s cash",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "severance payment under the Senior Manager Severance Plan will be reduced on a dollar\u2011for\u2011dollar basis by the amount",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "of the severance benefits payable to the executive under such other agreement, plan or arrangement.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Other benefits. Upon an involuntary termination of employment without cause, a named executive officer would also",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "be eligible to receive financial planning and outplacement services for one year following termination on the same",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "basis as provided to other senior executives. However, executives would only be entitled to receive financial planning",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "services if they participate in the program in the year in which their employment terminates. In addition, under the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "terms of the executive life insurance plan, each named executive officer who is retirement eligible upon termination",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "and who continues to pay the annual premiums on the life insurance policy owned by the executive would be eligible",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "to receive an annual cash payment from Verizon to defray a portion of the annual premiums until the latest of the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "executive\u2019s attainment of age 60 or the completion of 5 years of plan participation. Retirement eligibility is generally",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "defined as having attained 75\u00a0points (age plus years of service) with at least 15 years of service, having attained age",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "65 and 5 years of service or having attained age 55 and 10 years of service. If the named executive officer is not",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "retirement eligible upon termination and has not reached plan maturity (age 60 and 5 years of plan participation)",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "upon termination, the executive would be eligible to receive one additional annual cash payment to defray a portion",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "of the annual premiums for the two years following the year in which the executive\u2019s termination occurs. If the named",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "executive officer is retirement eligible upon termination and has achieved plan maturity upon his or her termination,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "the executive would not be entitled to any additional cash payment from Verizon.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Estimated payments. The following table shows Verizon\u2019s estimate of the amount of benefits the named executive",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "officers would have been entitled to receive had their employment been involuntarily terminated without cause on the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "last business day of 2024 or had they incurred a qualifying separation under the Senior Manager Severance Plan.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

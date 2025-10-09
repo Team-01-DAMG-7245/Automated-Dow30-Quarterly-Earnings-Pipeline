@@ -29,12 +29,12 @@
     "ticker": "AMZN",
     "company": "Amazon",
     "earnings_report": {
-      "url": "https://ir.aboutamazon.com/quarterly-results/default.aspx",
-      "title": "Quarterly results",
+      "url": null,
+      "title": null,
       "fiscal_period": null,
       "fiscal_year_end": null,
       "publication_date": null,
-      "report_type": "other",
+      "report_type": null,
       "confidence": "low"
     }
   },
@@ -198,13 +198,13 @@
     "ticker": "JPM",
     "company": "JPMorgan Chase",
     "earnings_report": {
-      "url": "https://www.jpmorganchase.com/ir/news/2024/jpmc-announces-conference-calls-to-review-first-quarter-second-quarter-third-quarter-and-fourth-quarter-2025-earnings",
-      "title": "Press release",
+      "url": "https://www.jpmorganchase.com/ir/news",
+      "title": "Press releases",
       "fiscal_period": null,
       "fiscal_year_end": null,
-      "publication_date": "2026-01-13",
+      "publication_date": null,
       "report_type": "press_release",
-      "confidence": "high"
+      "confidence": "low"
     }
   },
   {
@@ -263,11 +263,11 @@
     "ticker": "MSFT",
     "company": "Microsoft",
     "earnings_report": {
-      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2025-q4/press-release-webcast",
-      "title": "VIEW DETAILS >",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/income-statements",
+      "title": "Financial Statements",
       "fiscal_period": null,
       "fiscal_year_end": null,
-      "publication_date": "2025-07-30",
+      "publication_date": null,
       "report_type": "other",
       "confidence": "low"
     }
@@ -341,12 +341,12 @@
     "ticker": "UNH",
     "company": "UnitedHealth Group",
     "earnings_report": {
-      "url": null,
-      "title": null,
-      "fiscal_period": null,
+      "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/united-health-group-q3-2025-earnings-teleconference-call.ics",
+      "title": "Add to calendar",
+      "fiscal_period": "Q3 2025",
       "fiscal_year_end": null,
       "publication_date": null,
-      "report_type": null,
+      "report_type": "other",
       "confidence": "low"
     }
   },
@@ -367,12 +367,12 @@
     "ticker": "VZ",
     "company": "Verizon",
     "earnings_report": {
-      "url": "https://quotes.quotemedia.com/data/downloadFiling?webmasterId=104600&type=HTML&ref=319320781",
-      "title": "Download latest 10-Q",
+      "url": null,
+      "title": null,
       "fiscal_period": null,
       "fiscal_year_end": null,
       "publication_date": null,
-      "report_type": "10-q",
+      "report_type": null,
       "confidence": "low"
     }
   },

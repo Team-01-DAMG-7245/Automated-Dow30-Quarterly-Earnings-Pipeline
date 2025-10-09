@@ -1,0 +1,54 @@
+The Procter & Gamble Company 57
+For plans that make up the majority of our obligation, the Company calculates the benefit obligation and the related impacts on
+service and interest costs using specific spot rates along the corporate bond yield curve. For the remaining plans, the Company
+determines these amounts utilizing a single weighted average discount rate derived from the corporate bond yield curve used to
+measure the plan obligations.
+Several factors are considered in developing the estimate for the long-term expected rate of return on plan assets. For the
+defined benefit retirement plans, these factors include historical rates of return of broad equity and bond indices and projected
+long-term rates of return obtained from pension investment consultants. The expected long-term rates of return for plan assets
+are 8 - 9% for equities and 3 - 5% for bonds. For other retiree benefit plans, the expected long-term rate of return reflects that
+the assets are comprised primarily of Company stock. The expected rate of return on Company stock is based on the long-term
+projected return of 8.5% and reflects the historical pattern of returns.
+Plan Assets. Our investment objective for defined benefit retirement plan assets is to meet the plans' benefit obligations and to
+improve plan self-sufficiency for future benefit obligations. The investment strategies focus on asset class diversification,
+liquidity to meet benefit payments and an appropriate balance of long-term investment return and risk. Target ranges for asset
+allocations are determined by assessing different investment risks and matching the actuarial projections of the plans' future
+liabilities and benefit payments with current as well as expected long-term rates of return on the assets, taking into account
+investment return volatility and correlations across asset classes. Plan assets are diversified across several investment managers
+and are generally invested in liquid funds that are selected to track broad market equity and bond indices. Investment risk is
+carefully controlled with plan assets rebalanced to target allocations on a periodic basis and with continual monitoring of
+investment managers' performance relative to the investment guidelines established with each investment manager.
+Our target asset allocation for the fiscal year ended June 30, 2025, was as follows:
+Target Asset Allocation (1)
+Other Retiree
+Asset Category Pension Benefits Benefits
+Cash 1 % 2 %
+Debt securities 64 % 1 %
+Equity securities 35 % 97 %
+TOTAL 100 % 100 %
+(1) Actual allocations approximated the targets.
+The following table sets forth the fair value of the Company's plan assets as of June 30, 2025 and 2024, segregated by level
+within the fair value hierarchy (see Note 9 for further discussion on the fair value hierarchy and fair value principles).
+Investments valued using net asset value as a practical expedient are not valued using the fair value hierarchy, but rather valued
+using the net asset value reported by the managers of the funds and as supported by the unit prices of actual purchase and sale
+transactions.
+Pension Benefits Other Retiree Benefits
+Fair Value Fair Value
+As of June 30 Hierarchy Level 2025 2024 Hierarchy Level 2025 2024
+ASSETS AT FAIR VALUE
+Cash and cash equivalents 1 $ 55 $ 267 1 $ 135 $ 135
+Company common stock — — 1 496 451
+Company preferred stock (1) — — 2 7,087 7,380
+Fixed income securities (2) 2 1,050 1,076 — —
+Insurance contracts (3) 3 207 165 — —
+TOTAL ASSETS IN THE FAIR
+VALUE HIERARCHY 1,312 1,508 7,718 7,966
+Investments valued at net asset value (4) 10,361 9,349 68 77
+TOTAL ASSETS AT FAIR VALUE $ 11,672 $ 10,857 $ 7,787 $ 8,043
+(1) Company preferred stock is valued based on the value of Company common stock and is presented net of ESOP debt discussed below.
+(2) Fixed income securities are estimated by using pricing models or quoted prices of securities with similar characteristics.
+(3) Fair values of insurance contracts are valued based on either their cash equivalent value or models that project future cash flows and
+discount the future amounts to a present value using market-based observable inputs, including credit risk and interest rate curves. The
+activity for Level 3 assets is not significant for all years presented.
+(4) Investments valued using net asset value as a practical expedient are primarily equity and fixed income collective funds.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

@@ -1,0 +1,52 @@
+Overview Access to Health Employees Environmental Sustainability Ethics & Values Reporting indices Merck Impact Report 2024/2025 92
+Climate, energy and air emissions | Water | Nature and biodiversity | Waste | Materials | Performance summary
+8 All values are rounded. As a result, the total values shown may not equal the sum of the individual GHG totals.
+Scope 3 GHG details (Mt CO e) 2019 2020 2021 2022 2023 2024 Total Carbon Offsets (Mt) 2022 2023 2024
+2
+Purchased goods and services1 4,749,800 4,818,700 4,866,400 4,565,200 4,447,300 4,743,200 Total Carbon Offsets - South San
+1,895.12 3,968.80 2,931.56
+Francisco12
+Capital goods1 328,300 444,900 418,800 383,000 319,500 281,700
+12 Certified carbon offsets are used to meet the requirement of Leadership in Energy
+and Environmental Design (LEED) Zero carbon certification. The carbon offsets are
+Fuel and energy-related activities not included in from Schneider Electric's Ecomix Offsets and are Green-e Climate Certified. Visit our
+202,300 181,100 183,000 185,100 176,000 170,400
+Scopes 1 & 22,10 Sustainability Resources page for more information on our Carbon Offset Portfolio.
+Upstream transportation and distribution1 385,600 279,700 395,600 520,100 459,900 423,700
+Air pollutant emissions
+by type (Mt)* 2020 2021 2022 2023 2024
+Waste generated in operations (excluding
+18,800 21,900 23,800 24,900 19,500 20,800
+recycled and composted waste)3,4
+Nitrogen oxides (NOx) 388 347 377 388 379
+Employee business travel5,10 286,300 101,400 36,200 64,200 203,600 197,200
+Sulfur oxides (SOx) 22 24 31 31 24
+Employee commuting6 293,900 137,900 141,300 143,400 196,800 178,700
+Volatile organic compounds
+394 357 338 301 283
+(VOCs)
+Downstream transportation and distribution7 124,800 136,000 134,800 87,100 16,200 11,800
+Ozone-depleting substances
+Use of sold products8 900 900 900 2,500 1,300 1,500 0.3 0.3 0.7 0.2 0.5
+(ODS)
+End-of-life treatment of sold products9 48,300 43,000 47,600 11,900 7,600 5,500
+*Data are estimated using conservative assumptions and factors, not measured
+or weighed.
+Franchises 3,500 4,800 7,000 12,200 15,800 23,400 Note: Previously reported data have been restated per our methodology, which includes
+adding facilities that have been acquired and removing facilities that have been sold or
+Total11 6,442,500 6,170,300 6,255,400 5,999,600 5,863,500 6,057,900 spun-off.
+1 Emissions are based on primary vendor data where available and economic input-output modeling performed by Climate Earth, Inc., using spend data.
+² Emission factors from 2024 UK Defra and 2024 IEA were used in conjunction with primary fuel and energy-use data. Does not include purchased cooling water.
+³ Primary-waste data were used with the U.S. EPA’s WARM Model.
+⁴ Including recycled and composted waste in these calculations would result in negative emissions in 2019 (-62,400 Mt CO₂e), 2020 (-48,900 Mt CO₂e), 2021 (-46,300 Mt CO₂e), 2022
+(-57,900 Mt CO₂e), 2023 (-51,500 Mt CO2e) and 2024 (-53,300 Mt CO₂e).
+⁵ Based on primary travel vendor data, employee-reimbursable mileage and Thrust Carbon Calculations. Business travel has returned to pre-pandemic levels.
+6 2020-2024 reductions caused by shifts to remote and hybrid working models.
+7 Calculated using primary vendor data for the products shipped via our wholesalers at the country level through different modes of transportation and 2024 UK Defra factors for tonne.km
+8 Due to recent acquisitions, we are currently evaluating the applicability of additional products to this category. This category currently includes the impacts of our Animal Health products
+ENGEMYCIN® (oxytetracycline), NEO SPRAY CAF® (oxytetracyclinum), OXYTETRIN® LA (oxytetracycline). We have also included the energy use impacts of the U.S.A 2019-2024 sales
+of our Biomark and Falcon products.
+9 Calculated assuming that all primary, secondary and tertiary packaging purchased was disposed of by our customers. Packaging material data was used with the U.S. EPA’s WARM Model.
+10 Our 2024 Scope 3 GHG emissions comprised of World Resources Institute’s GHG Protocol Scope 3 Category 3 (Fuel and energy-related activities not included in Scopes 1 & 2) and
+Category 6 (Employee business travel), which include primary vendor and employee reimbursable data, were externally assured by a third-party.
+11 All values are rounded. As a result, the total values shown may not equal the sum of the individual GHG totals.

@@ -1,0 +1,82 @@
+100
+80
+60
+40
+20
+eob/e2OC
+smargoliK
+0 500 1,000 1,500 2,000 2,500 3,000 3,500 4,000
+75th percentile 39 kg CO2e/boe
+Chevron, 2022
+37 kg CO2e/boe
+50th percentile
+25th percentile 27 kg CO2e/boe 23 kg CO2e/boe
+0
+0 10 20 30 40 50 60 70 80 90
+mmboe/d
+eob/e2OC
+smargoliK
+4,440 800
+300 300
+250 250
+200 200 75th percentile
+53 kg CO2e/boe
+50th percentile
+150 150 34 kg CO2e/boe
+25th percentile
+33 kg CO2e/boe
+100 100 Chevron, 2022
+28 kg CO2e/boe
+50 50
+0 0
+0 10 20 30 40 50 60 70 80 90
+bcm/y
+Production Venting Pipeline LNG Methane
+eob/e2OC
+smargoliK
+Exhibit 21. The 2022 global average oil production carbon Exhibit 22. The 2022 global average gas production carbon
+intensity was 59 kg CO₂e/boe intensity was 45 kg CO₂e/boe
+Higher-cost production is often correlated with more energy- LNG is generally more carbon-intensive than gas supplied via
+and emissions-intensive production. For example, some heavy pipeline. Decisions about electrification, recovering waste heat,
+oil may require steam for production, which can impact both avoiding fugitive and vented emissions and flaring, and deploying
+cost and emissions. CCUS technology can all impact the carbon intensity of gas.
+75th percentile
+50th percentile 63 kg CO2e/boe
+54 kg CO2e/boe
+25th percentile
+30 kg CO2e/boe
+Chevron, 2022
+25 kg CO2e/boe
+mmboe/d
+Production Flaring Methane
+Note: Based on field-level data. Note: Based on field-level data.
+Source: IEA, The Oil and Gas Industry in Net Zero Transitions, iea.org/reports/the-oil-and-gas- Source: IEA, The Oil and Gas Industry in Net Zero Transitions, iea.org/reports/the-oil-and-gas-
+industry-in-net-zero-transitions, License: CC BY 4.0. industry-in-net-zero-transitions, License: CC BY 4.0.
+Carbon intensity of upstream production: Carbon intensity, Exhibit 23. The 2022 global average refining carbon intensity
+or CO₂e per unit of production, of each resource type is loosely was 33 kg CO₂e/boe
+correlated to the resource’s position, or cost of production, on
+the supply curve. Like the wide distribution of supply cost for each
+resource type, carbon intensity for each resource type is widely
+distributed and can be influenced by the producer. The charts
+from the IEA’s The Oil and Gas Industry in Net Zero Transitions
+presented in Exhibits 21 and 22 above represent IEA estimates
+for global carbon intensity supply stacks for oil and gas, with the
+methane global warming potential (GWP) converted to the IPCC
+AR4 values. Per Ipieca, the preferred source for GWP factors is
+the IPCC’s AR4.36*
+Carbon intensity of refining: Generally, more-complex refineries
+are more carbon-intensive per unit of throughput than simpler
+refineries. More-complex refineries also have the ability to produce
+more higher-value products like gasoline, diesel and jet fuel. The
+IEA estimates global carbon intensity supply stacks for refining on
+a throughput basis (Exhibit 23).
+Source: IEA, The Oil and Gas Industry in Net Zero Transitions, iea.org/reports/the-oil-and-gas-
+industry-in-net-zero-transitions, License: CC BY 4.0.
+* As part of the IPCC review process, climate change scientists regularly review the GWP of different
+greenhouse gases and update their perspective on the current scientific consensus of the GWPs.
+Governments and industry then often use these GWPs in the development of their greenhouse
+gas inventories. The AR4 100-year Global Warming Potential (GWP 100) assigns a GWP of 25 to
+convert the mass of methane to its CO₂e value. AR5, released in 2014, assigns a GWP 100 of 28.
+AR6, released in 2021, assumes a GWP 100 of 29.8 for fossil fuel sources of methane.
+Chevron Corporation 2023 Climate Change Resilience Report
+35

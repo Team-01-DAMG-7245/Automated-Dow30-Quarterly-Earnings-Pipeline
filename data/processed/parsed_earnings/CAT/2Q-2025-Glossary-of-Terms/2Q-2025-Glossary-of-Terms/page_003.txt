@@ -1,0 +1,38 @@
+17. Manufacturing Costs – Manufacturing costs exclude the impacts of currency and represent the volume-
+adjusted change for variable costs and the absolute dollar change for period manufacturing costs. Variable
+manufacturing costs are defined as having a direct relationship with the volume of production. This includes
+material costs, direct labor and other costs that vary directly with production volume, such as freight, power to
+operate machines and supplies that are consumed in the manufacturing process. Period manufacturing costs
+support production but are defined as generally not having a direct relationship to short-term changes in
+volume. Examples include machinery and equipment repair, depreciation on manufacturing assets, facility
+support, procurement, factory scheduling, manufacturing planning and operations management.
+18. Mark-to-market gains/losses – Represents the net gain or loss of actual results differing from the company’s
+assumptions and the effects of changing assumptions for our defined benefit pension and OPEB plans. These
+gains and losses are immediately recognized through earnings upon the annual remeasurement in the fourth
+quarter, or on an interim basis as triggering events warrant remeasurement.
+19. Pension and Other Postemployment Benefits (OPEB) – The company’s defined-benefit pension and
+postretirement benefit plans.
+20. Price Realization – The impact of net price changes excluding currency and new product introductions. Price
+realization includes geographic mix of sales, which is the impact of changes in the relative weighting of sales
+prices between geographic regions.
+21. Resource Industries – A segment primarily responsible for supporting customers using machinery in mining,
+heavy construction and quarry and aggregates. Responsibilities include business strategy, product design,
+product management and development, manufacturing, marketing and sales and product support. The product
+portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; electric rope shovels;
+draglines; hydraulic shovels; rotary drills; large wheel loaders; off-highway trucks; articulated trucks; wheel
+tractor scrapers; wheel dozers; landfill compactors; soil compactors; wide-body trucks; select work tools;
+machinery components; electronics and control systems and related parts. In addition to equipment, Resource
+Industries also develops and sells technology products and services to provide customers fleet management,
+equipment management analytics, autonomous machine capabilities, safety services and mining performance
+solutions. Resource Industries also manages areas that provide services to other parts of the company,
+including strategic procurement, lean center of excellence, integrated manufacturing, research and
+development for hydraulic systems, automation, electronics and software for Caterpillar machines and engines.
+22. Restructuring income/costs – May include costs for employee separation, long-lived asset impairments,
+contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income)
+expenses except for defined-benefit plan curtailment losses and special termination benefits, which are
+included in Other income (expense). Restructuring costs also include other exit-related costs, which may
+consist of accelerated depreciation, inventory write-downs, building demolition, equipment relocation and
+project management costs and LIFO inventory decrement benefits from inventory liquidations at closed
+facilities, all of which are primarily included in Cost of goods sold.
+23. Sales Volume – With respect to sales and revenues, sales volume represents the impact of changes in the
+quantities sold for Machinery, Energy & Transportation as well as the incremental sales impact of new product

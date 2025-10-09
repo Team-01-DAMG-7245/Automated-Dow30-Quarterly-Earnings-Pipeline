@@ -1,0 +1,50 @@
+{
+  "page": 42,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 10,
+  "columns": 2,
+  "accuracy": 94.84,
+  "data": [
+    {
+      "0": "by the Committee at the beginning of the three\u2011year cycle. The following table shows the percentage of SOR PSUs",
+      "1": ""
+    },
+    {
+      "0": "awarded that would vest based on Verizon\u2019s cumulative adjusted SOR over the 2022\u20112024 performance cycle at",
+      "1": ""
+    },
+    {
+      "0": "different performance levels.",
+      "1": ""
+    },
+    {
+      "0": "1",
+      "1": "2"
+    },
+    {
+      "0": "Verizon\u2019s cumulative SOR  (in billions)",
+      "1": "SOR\u00a0vested\u00a0percentage"
+    },
+    {
+      "0": "Greater than or equal to $355.2",
+      "1": "200%"
+    },
+    {
+      "0": "$353.6",
+      "1": "150%"
+    },
+    {
+      "0": "$348.1",
+      "1": "100%"
+    },
+    {
+      "0": "$336.7",
+      "1": "50%"
+    },
+    {
+      "0": "Less than $336.7",
+      "1": "0%"
+    }
+  ]
+}

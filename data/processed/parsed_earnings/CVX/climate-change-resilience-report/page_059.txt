@@ -1,0 +1,65 @@
+Equilibrium Equilibrium
+demand 3 demand 1
+Equilibrium
+price 3
+Margin Equilibrium
+price 1
+Policy cost
+Supply
+ecirP
+Equilibrium Equilibrium
+demand 3 demand 1
+Demand Demand
+Equilibrium
+price 3
+Margin Equilibrium
+price 1
+Policy cost
+Supply
+Quantity
+ecirP
+Equilibrium
+demand
+Demand
+Equilibrium
+Margin
+price
+Policy cost
+Supply
+Previous low-cost producer is
+displaced by new low-cost producer
+Quantity
+ecirP
+Equilibrium Equilibrium
+demand 2 demand 1
+Equilibrium
+price 2
+Equilibrium
+Margin
+price 1
+Policy cost
+Supply
+Quantity
+ecirP
+direct policy cost impact analysis
+The extent to which a policy can affect commodity prices and margins depends on the ability to
+recover the costs in the marketplace (Exhibits 38–41). Many jurisdictions take this into consideration
+in the context of local production and refining trade competitiveness.
+Exhibit 38. Policy applied to producer below the marginal Exhibit 39. Policy applied to the marginal producer leads to
+producer leads to the least ability to recover costs* some ability to recover costs*
+If a policy is applied to a single producer or jurisdiction, If a policy is applied to the marginal producer, the commodity price
+the cost can erode margins and may make the supply, can rise to recover a portion of the cost or to the level at which the
+refining or sale uncompetitive. next producer becomes the marginal producer, whichever is less.
+Demand
+Quantity
+Exhibit 40. Policy applied to all producers leads to the greatest Exhibit 41. Policy applied to all producers; production efficiency
+ability to recover costs* incentivized and leads to the ability to recover more than costs*
+If a policy is applied to all producers by the same amount per unit If a policy cost is applied to all producers by the same amount per
+of production, the cost of supply rises, thus enabling the greatest tonne of emissions, such as via a performance benchmark, those
+cost-recovery potential; however, less total supply is needed. producers with more-efficient production have a greater ability to
+recover costs, which may increase margins even though less total
+supply is needed. Conversely, less-efficient producers may incur
+higher costs and be priced out of the market.
+* For illustration only. Not drawn to scale.
+Chevron Corporation 2023 Climate Change Resilience Report
+57

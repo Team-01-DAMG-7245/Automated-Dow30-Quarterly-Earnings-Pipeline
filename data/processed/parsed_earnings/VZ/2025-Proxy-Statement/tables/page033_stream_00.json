@@ -1,0 +1,64 @@
+{
+  "page": 33,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 6,
+  "columns": 7,
+  "accuracy": 83.25,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "",
+      "1": "Elements and mix of compensation to emphasize long\u2011\u2011term performance",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "The Committee determines the appropriate balance between fixed and variable pay elements, short- and long\u2011term",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "pay elements, and cash and equity\u2011based pay elements when setting total compensation opportunities at",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "competitive levels.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

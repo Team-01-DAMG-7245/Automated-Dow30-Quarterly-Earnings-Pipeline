@@ -1,0 +1,222 @@
+{
+  "page": 29,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 53,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Hydrogen: Hydrogen is a versatile energy carrier, with potential as",
+      "1": "Renewable fuels: Renewable fuels can be produced from"
+    },
+    {
+      "0": "a lower carbon fuel, particularly in sectors where carbon intensity",
+      "1": "bio-based feedstocks through conventional refining process"
+    },
+    {
+      "0": "is harder to abate, including heavy-duty transportation, marine",
+      "1": "technologies and include biodiesel, renewable diesel, sustainable"
+    },
+    {
+      "0": "transportation and heat-intensive manufacturing. Hydrogen",
+      "1": "aviation fuel (SAF) and advanced gasoline. The IEA notes that"
+    },
+    {
+      "0": "may also play a role in the power generation sector as a fuel",
+      "1": "renewable fuels will be central to reducing emissions from long-"
+    },
+    {
+      "0": "source and as a storage medium to balance intermittency of",
+      "1": "distance transportation, aviation and high-temperature heat"
+    },
+    {
+      "0": "renewables. Lower carbon intensity hydrogen demand could",
+      "1": "industries. Renewable fuels are particularly important in lowering"
+    },
+    {
+      "0": "significantly increase if infrastructure is built and hydrogen costs",
+      "1": "the carbon intensity of transportation, serving as low-carbon"
+    },
+    {
+      "0": "come down (Exhibit 11).18 The emergence of hydrogen value",
+      "1": "solutions for existing technologies, such as light-duty vehicles"
+    },
+    {
+      "0": "chains connecting producers with consumers is also critical to",
+      "1": "in the near term and heavy-duty trucks, ships and aircraft with"
+    },
+    {
+      "0": "enabling scale. Government policies can help reduce costs and",
+      "1": "few alternative solutions in the long term. Many renewable"
+    },
+    {
+      "0": "lower the risk of investment for early entrants. Transparent and",
+      "1": "fuels are compatible with existing infrastructure and can be used"
+    },
+    {
+      "0": "standard quantification of carbon intensity of hydrogen and",
+      "1": "with existing technologies, making them an attractive lower-"
+    },
+    {
+      "0": "hydrogen-derived fuels is needed to inform decision making and",
+      "1": "emissions substitute for conventional fuels. Use of renewable"
+    },
+    {
+      "0": "accelerate effective reductions. More than 15 different standards",
+      "1": "fuels can result in lower emissions than conventional fuels on"
+    },
+    {
+      "0": "exist or are under development to calculate hydrogen carbon",
+      "1": "a lifecycle basis, depending on feedstocks, production pathways,"
+    },
+    {
+      "0": "intensity. Each\u00a0varies on key approaches, such as temporal and",
+      "1": "and carbon accounting treatment of emissions associated"
+    },
+    {
+      "0": "geographical location of renewable energy used for hydrogen",
+      "1": "with cropland cultivation and avoided emissions. Differences"
+    },
+    {
+      "0": "production\u200a19 and chain of custody requirements. The same activity",
+      "1": "in accounting treatment can result in the same biofuel appearing"
+    },
+    {
+      "0": "or product having a different emissions performance assessment",
+      "1": "to have different carbon performance."
+    },
+    {
+      "0": "can lead to methodology arbitrage, market fragmentation",
+      "1": ""
+    },
+    {
+      "0": "and\u00a0suboptimal\u00a0investment.",
+      "1": "Battery storage: Over the past decade, there has been notable"
+    },
+    {
+      "0": "",
+      "1": "cost reduction and performance improvement in lithium-ion"
+    },
+    {
+      "0": "",
+      "1": "(Li-ion) batteries and other storage technologies. However, in"
+    },
+    {
+      "0": "",
+      "1": "recent years, cost declines have slowed, and in 2022, costs actually"
+    },
+    {
+      "0": "Exhibit 11. Under the IEA APS, hydrogen demand could",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "increased due to higher raw material prices and supply chain"
+    },
+    {
+      "0": "significantly increase by midcentury",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "constraints.20 Renewable energy production and technology"
+    },
+    {
+      "0": "(bcm/y)",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "advancements such as smart-grid and demand-management,"
+    },
+    {
+      "0": "",
+      "1": "coupled with battery storage, have the potential to increase"
+    },
+    {
+      "0": "800",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "electrification and reduce carbon emissions. These advances"
+    },
+    {
+      "0": "",
+      "1": "facilitate increased use of renewable energy in electricity"
+    },
+    {
+      "0": "",
+      "1": "generation and help mitigate the problem of intermittency."
+    },
+    {
+      "0": "600",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "Assessing the carbon efficiency of technologies enabled by"
+    },
+    {
+      "0": "",
+      "1": "batteries can be enhanced using a lifecycle approach to carbon"
+    },
+    {
+      "0": "",
+      "1": "accounting. For example, batteries can account for up to 60% of"
+    },
+    {
+      "0": "400",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "GHG emissions in electric vehicle (EV) production.21 Including"
+    },
+    {
+      "0": "",
+      "1": "emissions associated with battery production in a lifecycle"
+    },
+    {
+      "0": "",
+      "1": "assessment of carbon accounting can provide a more complete"
+    },
+    {
+      "0": "200",
+      "1": "assessment of relative GHG performance."
+    },
+    {
+      "0": "",
+      "1": "Even with improvements in energy storage, many leading energy"
+    },
+    {
+      "0": "",
+      "1": "experts agree that additional technology breakthroughs are"
+    },
+    {
+      "0": "0",
+      "1": ""
+    },
+    {
+      "0": "2021\n2030\n2050",
+      "1": "needed to enable wider scaling of renewables and decarbonization"
+    },
+    {
+      "0": "",
+      "1": "in other hard-to-abate sectors. We believe CCUS and hydrogen are"
+    },
+    {
+      "0": "Industry\nBuildings\nPower",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "among the most promising of these other\u00a0technologies."
+    },
+    {
+      "0": "Transport\nInput for H2-based fuels\nOther",
+      "1": ""
+    }
+  ]
+}

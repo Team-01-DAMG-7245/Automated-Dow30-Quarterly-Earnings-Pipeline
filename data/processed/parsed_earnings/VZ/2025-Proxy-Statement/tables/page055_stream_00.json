@@ -1,0 +1,108 @@
+{
+  "page": 55,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 14,
+  "columns": 5,
+  "accuracy": 98.08,
+  "data": [
+    {
+      "0": "Nonqualified deferred compensation",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Executive",
+      "2": "Registrant",
+      "3": "Aggregate",
+      "4": "Aggregate \nAggregate"
+    },
+    {
+      "0": "",
+      "1": "contributions",
+      "2": "contributions",
+      "3": "earnings in",
+      "4": "withdrawals/ \nbalance at"
+    },
+    {
+      "0": "",
+      "1": "1",
+      "2": "2",
+      "3": "",
+      "4": "3 \n3"
+    },
+    {
+      "0": "Name",
+      "1": "in last FY",
+      "2": "in last FY",
+      "3": "last FY",
+      "4": "distributions\nlast FYE"
+    },
+    {
+      "0": "(a)",
+      "1": "($) (b)",
+      "2": "($) (c)",
+      "3": "($) (d)",
+      "4": "($) (e) \n($) (f)"
+    },
+    {
+      "0": "Verizon Executive Deferral Plan \nMr.\u00a0Vestberg",
+      "1": "314,550",
+      "2": "314,550",
+      "3": "294,501",
+      "4": "0 \n3,991,144"
+    },
+    {
+      "0": "Verizon Executive Deferral Plan \nMr.\u00a0Skiadas",
+      "1": "159,730",
+      "2": "103,652",
+      "3": "213,423",
+      "4": "(114,039)  3,048,090"
+    },
+    {
+      "0": "Verizon Wireless Executive Savings Plan",
+      "1": "0",
+      "2": "0",
+      "3": "26,314",
+      "4": "0 \n253,955"
+    },
+    {
+      "0": "Verizon Executive Deferral Plan \nMr.\u00a0Sampath",
+      "1": "154,132",
+      "2": "154,132",
+      "3": "224,176",
+      "4": "0  3,078,977"
+    },
+    {
+      "0": "Verizon Executive Deferral Plan \nMr.\u00a0Malady",
+      "1": "877,746",
+      "2": "",
+      "3": "143,285  734,206",
+      "4": "0  9,292,095"
+    },
+    {
+      "0": "Verizon Wireless Executive Savings Plan",
+      "1": "0",
+      "2": "0",
+      "3": "23",
+      "4": "0 \n438"
+    },
+    {
+      "0": "Ms. Venkatesh Verizon Executive Deferral Plan",
+      "1": "85,007",
+      "2": "85,007",
+      "3": "96,091",
+      "4": "0 \n965,038"
+    },
+    {
+      "0": "Verizon Executive Deferral Plan \nMr. Silliman",
+      "1": "123,061",
+      "2": "",
+      "3": "123,061  603,560",
+      "4": "(101,014)  5,766,389"
+    }
+  ]
+}

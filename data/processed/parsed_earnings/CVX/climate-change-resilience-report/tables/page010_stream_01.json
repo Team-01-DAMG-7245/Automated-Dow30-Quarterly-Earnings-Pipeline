@@ -1,0 +1,58 @@
+{
+  "page": 10,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 12,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Manages the composition, resource",
+      "1": "Oversees management of sustainability"
+    },
+    {
+      "0": "allocation and strategic direction of",
+      "1": "issues and practices, including:"
+    },
+    {
+      "0": "Chevron\u2019s portfolio in the following areas:",
+      "1": "\u2022  Energy transition"
+    },
+    {
+      "0": "\u2022  Operational Excellence",
+      "1": "\u2022  Lobbying and trade association activity"
+    },
+    {
+      "0": "\u2022  Performance improvement",
+      "1": "\u2022  ESG reporting"
+    },
+    {
+      "0": "\u2022  Energy transition",
+      "1": "\u2022 Revenue and tax transparency"
+    },
+    {
+      "0": "\u2022  Enterprise Risk Management process",
+      "1": "\u2022  Human capital management"
+    },
+    {
+      "0": "\u2022  Market and price forecasts",
+      "1": "\u2022  Human rights"
+    },
+    {
+      "0": "Receives briefings on these topics from",
+      "1": "Receives regular updates on these issues"
+    },
+    {
+      "0": "internal subject matter experts and consults",
+      "1": "from internal subject matter experts in"
+    },
+    {
+      "0": "with outside experts to discuss energy",
+      "1": "advance of quarterly meetings."
+    },
+    {
+      "0": "transition and climate change issues.",
+      "1": ""
+    }
+  ]
+}

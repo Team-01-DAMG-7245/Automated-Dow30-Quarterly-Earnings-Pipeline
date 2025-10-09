@@ -1,0 +1,22 @@
+{
+  "page": 4,
+  "table_number": 0,
+  "method": "lattice",
+  "rows": 3,
+  "columns": 2,
+  "accuracy": 64.19,
+  "data": [
+    {
+      "0": "Overview\nFamily  \nof Brands",
+      "1": "Caterpillar  \nCaterpillar"
+    },
+    {
+      "0": "",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": ""
+    }
+  ]
+}

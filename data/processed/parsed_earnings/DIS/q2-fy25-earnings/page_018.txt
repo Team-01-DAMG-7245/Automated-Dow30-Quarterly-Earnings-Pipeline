@@ -1,0 +1,32 @@
+The following table reconciles reported diluted EPS to diluted EPS excluding certain items for the
+second quarter:
+Pre-Tax Tax After-Tax Change vs.
+Income/ Benefit/ Income/ Diluted prior-year
+($ in millions except EPS) Loss Expense(1) Loss(2) EPS(3) period
+Quarter Ended March 29, 2025
+As reported $ 3,087 $ 314 $ 3,401 $ 1.81 nm
+Exclude:
+Resolution of a prior-year tax matter — (1,016) (1,016) (0.56)
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(4) 396 (92) 304 0.16
+Restructuring and impairment charges(5) 109 (25) 84 0.05
+Excluding certain items $ 3,592 $ (819) $ 2,773 $ 1.45 20 %
+Quarter Ended March 30, 2024
+As reported $ 657 $ (441) $ 216 $ (0.01)
+Exclude:
+Restructuring and impairment charges(5) 2,052 (121) 1,931 1.06
+Amortization of TFCF and Hulu intangible
+assets and fair value step-up on film and
+television costs(4) 434 (101) 333 0.17
+Excluding certain items $ 3,143 $ (663) $ 2,480 $ 1.21
+(1) Tax benefit/expense is determined using the tax rate applicable to the individual item.
+(2) Before noncontrolling interest share.
+(3) Net of noncontrolling interest share, where applicable. Total may not equal the sum of the column due to rounding.
+(4) For the current quarter, intangible asset amortization was $327 million, step-up amortization was $66 million and
+amortization of intangible assets related to a TFCF equity investee was $3 million. For the prior-year quarter,
+intangible asset amortization was $362 million, step-up amortization was $69 million and amortization of intangible
+assets related to a TFCF equity investee was $3 million.
+(5) Amounts for the current quarter reflect content impairments ($109 million). Amounts for the prior-year quarter
+include impairments of goodwill ($2,038 million).
+18

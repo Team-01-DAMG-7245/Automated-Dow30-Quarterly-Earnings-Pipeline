@@ -1,0 +1,47 @@
+50 The Procter & Gamble Company
+uncertain tax positions that may be challenged by local authorities and may not be fully sustained, despite our belief that the
+underlying tax positions are fully supportable. Uncertain tax positions are reviewed on an ongoing basis and are adjusted in
+light of changing facts and circumstances, including progress of tax audits, developments in case law and the closing of statutes
+of limitation. Such adjustments are reflected in the tax provision as appropriate. We have tax years open ranging from 2010 and
+forward. We are generally not able to reliably estimate the timing and ultimate settlement amounts until the close of an audit.
+Based on information currently available, we anticipate that over the next 12-month period, audit activity could be completed
+related to uncertain tax positions in multiple jurisdictions for which we have accrued liabilities of approximately $114,
+including interest and penalties.
+We recognize the additional accrual of any possible related interest and penalties relating to the underlying uncertain tax
+position in income tax expense. As of June 30, 2025 and 2024, we had accrued interest of $141 and $111 and accrued penalties
+of $45 and $15, respectively, which are not included in the above table.
+Deferred income tax assets and liabilities were comprised of the following:
+As of June 30 2025 2024
+DEFERRED TAX ASSETS
+Capitalized research & development $ 1,251 $ 1,140
+Loss and other carryforwards 857 892
+Pension and other retiree benefits 601 592
+Accrued marketing and promotion 497 460
+Stock-based compensation 445 433
+Unrealized loss on financial and foreign exchange transactions 358 107
+Fixed assets 230 206
+Lease liabilities 212 199
+Other 758 843
+Valuation allowances (293) (290)
+TOTAL $ 4,915 $ 4,582
+DEFERRED TAX LIABILITIES
+Goodwill and other intangible assets $ 5,475 $ 5,459
+Fixed assets 1,547 1,573
+Other retiree benefits 1,102 1,319
+Lease right-of-use assets 209 196
+Foreign withholding tax on earnings to be repatriated 131 104
+Unrealized gain on financial and foreign exchange transactions 96 263
+Other 492 441
+TOTAL $ 9,052 $ 9,355
+Net operating loss carryforwards were $2.0 billion at June 30, 2025, and $2.3 billion at June 30, 2024. If unused, approximately
+$100 will expire between 2025 and 2045. The remainder, totaling $1.9 billion at June 30, 2025, may be carried forward
+indefinitely.
+NOTE 6
+EARNINGS PER SHARE
+Basic net earnings per common share are calculated by dividing Net earnings attributable to Procter & Gamble less preferred
+dividends by the weighted average number of common shares outstanding during the period. Diluted net earnings per common
+share are calculated by dividing Net earnings attributable to Procter & Gamble by the diluted weighted average number of
+common shares outstanding during the period. The diluted shares include the dilutive effect of stock options and other unvested
+stock-based awards based on the treasury stock method (see Note 7) and the assumed conversion of preferred stock (see Note
+8).
+A mounts in millions of dollars except per share amounts or as otherwise specified.

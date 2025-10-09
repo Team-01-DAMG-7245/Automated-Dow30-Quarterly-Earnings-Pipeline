@@ -1,0 +1,58 @@
+The Procter & Gamble Company 41
+Currency Translation
+Financial statements of operating subsidiaries outside the U.S. generally are measured using the local currency as the functional
+currency. Adjustments to translate those statements into U.S. dollars are recorded in Other comprehensive income (OCI). For
+subsidiaries operating in highly inflationary economies, the U.S. dollar is the functional currency. Re-measurement adjustments
+for financial statements in highly inflationary economies and other transactional exchange gains and losses are reflected in
+earnings.
+Cash Flow Presentation
+The Consolidated Statements of Cash Flows are prepared using the indirect method, which reconciles net earnings to cash flows
+from operating activities. Cash flows from foreign currency transactions and operations are translated at monthly exchange rates
+for each period. Cash flows from hedging activities are included in the same category as the items being hedged. Cash flows
+from derivative instruments designated as net investment hedges are classified as investing activities. Realized gains and losses
+from non-qualifying derivative instruments used to hedge currency exposures resulting from intercompany financing
+transactions are classified as financing activities. Cash flows from other derivative instruments used to manage interest rates,
+commodity or other currency exposures are classified as operating activities. Cash payments related to income taxes are
+classified as operating activities.
+Investments
+The Company holds minor equity investments in certain companies over which we exert significant influence, but do not
+control the financial and operating decisions. These are accounted for as equity method investments. Other equity investments
+that are not controlled, over which we do not have the ability to exercise significant influence, and for which there is a readily
+determinable market value, are recorded at fair value, with gains and losses recorded through net earnings. Equity investments
+without readily determinable fair values are measured at cost, less impairments, plus or minus observable price changes. Equity
+investments are included as Other noncurrent assets in the Consolidated Balance Sheets.
+The Company also holds highly liquid investments, primarily money market funds and time deposits. Such investments are
+considered cash equivalents and are included within Cash and cash equivalents in the Consolidated Balance Sheets.
+Inventory Valuation
+Inventories are valued at the lower of cost or net realizable value. Product-related inventories are maintained on the first-in,
+first-out method. The cost of spare part inventories is maintained using the average-cost method.
+Property, Plant and Equipment
+Property, plant and equipment is recorded at cost reduced by accumulated depreciation. Depreciation expense is recognized
+over the assets' estimated useful lives using the straight-line method. Machinery and equipment includes office furniture and
+fixtures (15-year life), computer equipment and capitalized software (3- to 5-year lives) and manufacturing equipment (3- to 20-
+year lives). Buildings are depreciated over an estimated useful life of 40 years. Estimated useful lives are periodically reviewed
+and, when appropriate, changes are made prospectively. When certain events or changes in operating conditions occur, asset
+lives may be adjusted and an impairment assessment may be performed on the recoverability of the carrying amounts.
+Goodwill and Other Intangible Assets
+Goodwill and indefinite-lived intangible assets are not amortized but are evaluated for impairment annually or more often if
+indicators of a potential impairment are present. Our annual impairment testing of goodwill is performed separately from our
+impairment testing of indefinite-lived intangible assets.
+We have acquired brands that have been determined to have indefinite lives. We evaluate several factors to determine whether
+an indefinite life is appropriate, including the competitive environment, market share, brand history, underlying product life
+cycles, operating plans and the macroeconomic environment of the countries in which the brands are sold. In addition, when
+certain events or changes in operating conditions occur, an additional impairment assessment is performed and indefinite-lived
+assets may be adjusted to a determinable life.
+The cost of intangible assets with determinable useful lives is amortized to reflect the pattern of economic benefits consumed,
+either on a straight-line or accelerated basis over the estimated periods benefited. Patents, technology and other intangible assets
+with contractual terms are generally amortized over their respective legal or contractual lives. Customer relationships, brands
+and other non-contractual intangible assets with determinable lives are amortized over periods generally ranging from 5 to 30
+years. When certain events or changes in operating conditions occur, an impairment assessment is performed and remaining
+lives of intangible assets with determinable lives may be adjusted.
+For additional details on goodwill and intangible assets see Note 4.
+Fair Values of Financial Instruments
+Certain financial instruments are required to be recorded at fair value. Changes in assumptions or estimation methods could
+affect the fair value estimates; however, we do not believe any such changes would have a material impact on our financial
+condition, results of operations or cash flows. Other financial instruments, including cash equivalents, certain investments and
+certain short-term debt, are recorded at cost, which approximates fair value. The fair values of long-term debt and financial
+instruments are disclosed in Note 9.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

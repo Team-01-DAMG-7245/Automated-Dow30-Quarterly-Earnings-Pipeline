@@ -1,0 +1,49 @@
+SASB/TCFD INFORMATION
+Table A: Examples of climate-related risks with mitigation strategies
+Time horizon
+Risk type Potential financial impact (-) Short Medium Long Mitigation strategy
+Honeywell has a comprehensive energy efficiency program and has implemented more than 6,500 sustainability
+projects since 2010 with an estimated annualized savings of more than $100 million. Honeywell has committed to be
+Transition: Increased pricing of greenhouse gas
+X carbon neutral in facilities and operations1 by 2035 and has a science-based target approved by the Science Based
+Policy and Legal emissions due to regulations
+Targets initiative (SBTi) that includes scope 3 emissions. Additionally, we evaluate the potential impact from changes in
+climate-related regulations and litigation on a quarterly basis.
+Honeywell continuously innovates to expand sustainable opportunities with our products and services. Approximately
+Reduced demand for goods and
+60% of our new product research and development investment is directed toward sustainability-oriented outcomes¹
+Transition: services due to shift in consumer
+X including offerings related to reducing GHG emissions. In addition, each of our new products is subject to an eco-
+Market preferences or changes in
+efficiency assessment considering opportunities to improve energy efficiency, and each quarter we assess whether
+purchasing power
+changes in our product mixes may impact GHG emissions.
+Climate change data is incorporated into the emergency response plans for every one of our facilities, which specify
+programs to mitigate the potential risks of physical damage. In addition, we evaluate on a quarterly basis the potential
+Reduced revenue from business
+Physical: Acute X for impact to our supply chain from physical damage due to climate-related events. Our Business Continuity
+disruption
+Management Program also creates plans to help ensure the company can continue critical operations in the event of
+a disaster and promptly recover essential systems and technology.
+Climate change data is incorporated into the emergency response plans for every one of our facilities, which specify
+programs to mitigate the potential risks of physical damage. In addition, we evaluate on a regular basis the potential
+Increased costs from repairing or
+X for impact to our supply chain from physical damage due to climate-related events. Our Business Continuity
+restoring damaged locations
+Management Program also creates plans to help ensure the company can continue critical operations in the event of
+a disaster and promptly recover essential systems and technology.
+Increased cost related to relocation Honeywell’s Global Real Estate group incorporates physical risk considerations as part of due diligence for any new
+Physical: Chronic X
+due to sea level rise locations.
+Honeywell’s Global Real Estate group incorporates energy efficiency and energy procurement as part of due diligence
+for any new location to help manage costs related to energy use, heating and cooling. In addition, Honeywell has a
+Increased cost related to increased
+comprehensive program to audit, identify, execute and track completion of energy efficiency projects in all our facilities.
+Physical: Chronic need for cooling and heating due to X
+Since project tracking began in 2010, more than 6,500 sustainability projects have been implemented at our facilities
+changing temperatures
+and have resulted in more than $100M in annualized savings. These include building automation and controls, lighting,
+compressed air and gas systems, mechanical upgrades and renewable energy projects.
+1 Sustainability-oriented offerings are solutions that help improve safety, environmental impact, health, security, resilience and accountability. Methodology for identifying
+Honeywell | 2024 IMPACT REPORT | 65
+sustainability-oriented offerings is available at investor.honeywell.com (see “ESG/ESG Information/Identification of Sustainability-Oriented Offerings”).

@@ -1,0 +1,55 @@
+74 • The Procter & Gamble Company
+Core EPS and currency-neutral Core EPS. Core net earnings per share, or Core EPS, is a measure of the Company’s
+diluted net earnings per common share excluding items that are not judged by management to be part of the Company’s
+sustainable results or trends. Currency-neutral EPS is a measure of the Company’s Core EPS excluding the incremental
+current year impact of foreign exchange. Management views these non-GAAP measures as useful supplemental measures
+of Company performance over time. The Core earnings measures included in the following reconciliation tables refer to the
+equivalent GAAP measures adjusted as applicable for the following items:
+Incremental Restructuring: The Company has historically had an ongoing restructuring program with annual spending in
+the range of $250 to $500 million before tax. In the fiscal year ended June 30, 2024, the Company started a limited market
+portfolio restructuring of its business operations, primarily in certain Enterprise Markets, including Argentina and Nigeria,
+to address challenging macroeconomic and fiscal conditions. During the period ended September 30, 2024, the Company
+completed this limited market portfolio restructuring with the substantial liquidation of its operations in Argentina.
+Beginning fiscal 2012, the Company had a strategic productivity and cost savings initiative that resulted in incremental
+restructuring charges through fiscal 2020. The adjustment to Core earnings includes the restructuring charges that
+exceed the normal, recurring level of restructuring charges.
+Intangible asset impairment: During fiscal 2024, the Company recognized a non-cash, after-tax impairment charge of
+$1.0 billion ($1.3 billion before tax) to adjust the carrying value of the Gillette indefinite-lived intangible asset acquired as part
+of the Company’s 2005 acquisition of The Gillette Company. In fiscal 2019, the Company recognized a one-time, non-cash,
+after-tax charge of $8.0 billion to adjust the carrying values of the Shave Care reporting unit. This was comprised of a before
+and after-tax impairment charge of $6.8 billion related to goodwill and an after-tax impairment charge of $1.2 billion to
+reduce the carrying value of the Gillette indefinite-lived intangible assets.
+Early debt extinguishment charge: In fiscal 2021, 2018 and 2017, the Company recorded after-tax charges due to the early
+extinguishment of certain long-term debt. These charges represent the difference between the reacquisition price and
+the par value of the debt extinguished.
+Transitional impact of the 2017 U.S. Tax Act: The U.S. government enacted comprehensive tax legislation commonly
+referred to as the Tax Cuts and Jobs Act (the “U.S. Tax Act”) in December 2017. This resulted in a net charge for fiscal year
+2018. The adjustment to core earnings includes only this transitional impact. It does not include the ongoing impacts
+of the lower U.S. statutory rate on pre-tax earnings.
+Gain on Dissolution of PGT Partnership: The Company dissolved our PGT Healthcare partnership, a venture between
+the Company and Teva Pharmaceuticals Industries, Ltd (Teva) in the OTC consumer healthcare business, in fiscal 2019.
+The transaction was accounted for as a sale of the Teva portion of the PGT business and the Company recognized an
+after-tax gain on the dissolution.
+Anti-dilutive Impacts: The Shave Care impairment charges in fiscal 2019 caused certain equity instruments that are
+normally dilutive (and hence normally assumed converted or exercised for the purposes of determining diluted net earnings
+per share) to be anti-dilutive. Accordingly, for U.S. GAAP diluted earnings per share, these instruments were not assumed
+to be converted or exercised. Specifically, certain of our preferred shares and share-based equity awards were not included
+in the diluted weighted average common shares outstanding. As a result of the non-GAAP Shave Care impairment
+adjustment, these instruments are dilutive for non-GAAP earnings per share.
+We do not view these items to be part of our sustainable results and their exclusion from Core earnings per share provides
+a more comparable measure of year-on-year results.
+Years ended June 30 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Diluted Net Earnings Per Common Share from
+$6.51 $6.02 $5.90 $5.81 $5.50 $4.96 $1.43 $3.67 $3.69 $3.49
+Continuing Operations, attributable to P&G
+Incremental restructuring charges $0.33 $0.15 – – – $0.16 $0.13 $0.23 $0.10 $0.18
+Intangible asset impairment – $0.42 – – – – $3.03 – – –
+Early debt extinguishment charge – – – – $0.16 – – $0.09 $0.13 –
+Transitional Impacts of the 2017 U.S. Tax Act – – – – – – – $0.23 – –
+Gain on Dissolution of PGT Partnership – – – – – – $(0.13) – – –
+Anti-Dilutive Impacts – – – – – – $0.06 – – –
+Core EPS $6.83 $6.59 $5.90 $5.81 $5.66 $5.12 $4.52 $4.22 $3.92 $3.67
+Core EPS growth vs. prior year 4% 12% 2% 3% 11% 13% 7% 8% 7%
+Currency Impact to Earnings $0.02
+Currency-neutral Core EPS $6.85
+Currency neutral Core EPS growth 4%

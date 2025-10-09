@@ -1,0 +1,51 @@
+Methodology and data sources Inputs are collected from financial disclosures and public GHG reporting,
+with the exception of the biofuels component. Biofuel volumes are
+Traditional hydrocarbon products: The intent of the framework is to based on purchase data and production volumes for ethanol, renewable
+capture value chain emissions associated with the largest hydrocarbon diesel, sustainable aviation fuel, and biodiesel and production volumes
+product volume for a company among its production, manufacturing for renewable natural gas in the United States, Hong Kong, Malaysia,
+and marketing activities. For all products that a company produces or Philippines, Thailand and Australia. Volumes from international GS
+manufactures, the PCI methodology uses the company’s equity GHG Caltex operations in South Korea are assumed to be zero. For 2016–2022,
+emissions and corresponding GHG intensity. To estimate the emissions for aggregate biofuel volumes used in the PCI calculation are 60,000, 61,000,
+marketed products that the company does not produce or manufacture, 62,000, 68,000, 61,000, 70,000 and 105,000 barrels of oil-equivalent
+the PCI methodology uses industry-average segment factors from per day, by respective year. Biofuel carbon intensity values are based on
+the International Energy Agency’s World Energy Outlook. Hydrocarbon CARB LCFS default pathway values. For 2016–2022, the weighted-average
+transporta tion emissions are estimated in the PCI using IEA World Energy biofuel carbon intensity values used in the PCI calculation were 52, 52, 51,
+Outlook estimates for transportation emissions from oil and gas. Emissions 50, 48, 47 and 38 grams carbon dioxide-equivalent GHG emissions per
+associated with end use of marketed products are based on industry- megajoule, respectively.
+standard combustion factors and assume all sold energy products are
+combusted, although this is not the case (e.g., plastics and lubricants). CCUS: Net GHG removal emissions associated with CCUS represent
+Exhibit 44 is a depic tion of the value chain approach for the refined- the emissions that would be permanently sequestered underground or
+product value chain. utilized in other products with a deduction for supply chain emissions
+associated with capture, transport or storage. CCUS projects that reduce
+Biofuels, hydrogen and lower carbon power: GHG emissions are direct emissions (Scope 1) and indirect emissions from imported energy
+calculated based on lifecycle assessment data and the energy provided (Scope 2) would reduce the production, manufacturing or other sectoral
+by Chevron in the most recent year. Lifecycle assessment data sources intensity and would not be double-counted as removals; for example,
+include California Air Resources Board (CARB) Low Carbon Fuel Standard CO₂ captured by an integrated CCS plant would already be accounted for
+(LCFS) Pathway Certified Carbon Intensities for similar feedstocks and in the facility’s direct emissions (Scope 1) intensity.
+pathways, a Hydrogen Council report on a lifecycle assessment for
+hydrogen pathways, and harmonized lifecycle assessments of electricity Offsets: Offsets that are retired by the company or on behalf of customers
+generation from the (U.S.) National Renewable Energy Laboratory and for use of product provided by the company.
+the Intergovernmental Panel on Climate Change Working Group 1.
+Improvements over time: Methodologies and emissions factors may
+The model does not adjust for the energy efficiency gains associated be updated in future years to reflect additional information or data that
+with some applications of electricity and hydrogen relative to existing become available. For example, updates may include updated industry
+hydrocarbon infrastructure. For example, CARB estimates that energy averages, primary data from third-party producers and refiners, and
+provided as electricity to an electric vehicle is 3.4 times more efficient adjustments to energy efficiency assumptions, if warranted, based on the
+than energy provided by gasoline to an internal combustion engine. end-use applications for volumes of energy marketed by the company.
+Model updates could be made in the future, if supported by the end use
+of electricity or hydrogen products. A PCI calculator is available on our website and can be used by
+integrated energy providers and specialized value chain participants
+to compare energy companies’ carbon intensities. To access the PCI
+calculator, visit chevron.co/chart-generator.
+Exhibit 44. PCI approach for the refined-product value chain
+Activity Production Transportation Refining Transportation End use
+% of total 15% < 1% 10% < 1% 75%
+Company
+data
+Industry-
+average
+data
+Illustrative percentages are based on data from Chevron’s PCI calculator; Rocky Mountain Institute (RMI)’s Oil Climate Index plus Gas, “Profiling Supply Chain Emissions,” April 2023,
+ociplus.rmi.org/supply-chain; and IEA, World Energy Outlook 2018, iea.org/reports/world-energy-outlook-2018.
+Chevron Corporation 2023 Climate Change Resilience Report
+68

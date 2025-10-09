@@ -1,0 +1,55 @@
+Other Risk Types
+Market Risk
+Market risk is the risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity may impact clients, customers, employees, capital providers and other stakeholders. In many cases we recognize that a position we
+and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short- and long- take will be favored by some and disapproved of by others, and where all positions including neutrality can be controversial.
+term. Climate risk drivers may lead to sharp volatility or persistent changes in the prices of commodities and financial assets; for
+Companies remain under scrutiny for their approach to managing climate transition risks as well as environmental and social risks,
+example, companies in carbon intensive sectors without credible transition plans may have assets that are viewed as stranded,
+which could lead to reputation risk from the real or perceived lack of progress and transparency. The Firm may face reputation risk
+resulting in materially depressed equity prices. The Firm has established a stress framework to quantify the impact of the transition
+relating to its climate risk framework and environmental sustainability strategy.
+risk stress scenarios on vulnerable asset classes. We have also analyzed a series of physical drivers to estimate the potential
+impacts of various acute physical risk events to markets exposures.
+LIQUIDITY RISK
+Operational Risk Liquidity risk is the risk that the Firm will be unable to meet its cash and collateral needs as they arise or that it will not have the
+appropriate amount, composition and tenor of funding and liquidity to support its assets and liabilities. The Firm’s liquidity could be
+Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems, human factors
+impaired by factors such as market-wide illiquidity or disruption, unanticipated outflows of cash or collateral and lack of market or
+or external events impacting the Firm’s processes or systems. We have integrated climate risk drivers into our operational risk
+customer confidence in JPMorgan Chase or financial institutions in general. We use a transition risk scenario to assess the potential
+framework and associated firmwide resiliency processes. Increasingly volatile and severe weather events, including more severe
+impact of climate on the Firm’s liquidity.
+storms, flooding, heat and related impacts, such as drought and wildfires, may impact the likelihood and severity of a variety of
+existing operational risks.
+We evaluate potential climate driven impacts through ongoing assessments of operational risks to employees and customers, our
+facilities, property and service providers, and our business activities. Evaluations are documented and may also inform the firmwide Climate-related Country Risk
+risk identification framework, which centrally captures risks across all risk types. As an example, we use these risks to develop
+The Firm may be exposed to country risk resulting from financial, economic, political or other significant developments,
+business disruption threat scenarios that inform business resiliency planning, testing and simulation exercises. This, in turn, allows
+which adversely affect the value of the Firm’s exposures related to a particular country or set of countries. Country risk may
+us to assess the adequacy of our resiliency capabilities and identify potential vulnerabilities and opportunities for enhancement.
+be a driver of risk or an aggregation of exposures that could give rise to multiple risk types such as credit or market risk.
+These activities, along with other factors, help further our management and mitigation of climate-driven impacts.
+Negative impacts of climate change may affect a country’s economic, fiscal, monetary or political frameworks in numerous
+We have also developed the global Climate Location Site Assessment (“CLSA”) process, which considers the risks to, and resiliency
+ways, which, in turn, may adversely affect its sovereign credit ratings. We have incorporated climate risk considerations, as
+of, the Firm’s infrastructure to the impacts of climate change. This process is completed by metro area and is prioritized by key
+appropriate, into existing sovereign ratings. In addition, we developed a score to help us evaluate the potential sensitivity of
+operational locations and the projected severity of impacts of physical climate change. The CLSAs provide resiliency-related
+sovereign ratings to climate risks beyond the standard rating horizon or specific stress scenarios.
+information to support firmwide processes, including risk identification and business resiliency planning exercises.
+Strategic Risk
+Managing Nature and Social Risks
+Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly designed or failed business plans
+or inadequate response to changes in the operating environment. In response to climate change, and in support of our clients
+We have frameworks in place to identify certain client business models with high concentrations of particular nature and social
+transitioning to a lower-carbon economy, we may make changes to our business strategy, product offerings and risk profile.
+(“N&S”) risk that have the highest potential reputational impact to the Firm. These frameworks also include restricted activities
+related to the environment and human rights. For example, we will not provide financial services to clients deriving the majority
+REPUTATION RISK
+of their revenues from the extraction of coal. For more information on our framework for managing N&S risks, including the Firm’s
+Reputation risk is the risk that an action or inaction may negatively impact perception of the Firm’s integrity and reduce confidence in
+other restricted activities and sensitive business activities and locations, please refer to pages 82 and 83 of our 2023 ESG Report.
+the Firm’s competence by various stakeholders, including clients, counterparties, customers, communities, investors, regulators, or
+employees. Reputational risk assessment is designed to take into account the commercial consequences of actions or inactions that
+31

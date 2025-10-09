@@ -1,0 +1,56 @@
+26 The Procter & Gamble Company
+to these credit facilities, we have an automatically effective registration statement on Form S-3 filed with the SEC that is
+available for registered offerings of short- or long-term debt securities. For additional details on debt, see Note 10 to the
+Consolidated Financial Statements.
+Guarantees and Other Off-Balance Sheet Arrangements
+We do not have guarantees or other off-balance sheet financing arrangements, including variable interest entities, which we
+believe could have a material impact on our financial condition or liquidity.
+Contractual Commitments
+The following table provides information on the amount and payable date of our contractual commitments as of June 30, 2025.
+($ millions) Total Less Than 1 Year 1-3 Years 3-5 Years After 5 Years
+RECORDED LIABILITIES
+Total debt $ 34,852 $ 9,553 $ 6,801 $ 6,150 $ 12,348
+Leases 1,079 255 386 240 198
+2017 U.S. Tax Act transitional charge (1) 688 688 — — —
+OTHER
+Interest payments relating to long-term debt 5,605 878 1,370 936 2,421
+Minimum pension funding (2) 617 200 417 — —
+Purchase obligations (3) 2,618 893 950 378 397
+TOTAL CONTRACTUAL COMMITMENTS $ 45,459 $ 12,467 $ 9,924 $ 7,704 $ 15,364
+(1) Represents the U.S. federal tax liability associated with the repatriation provisions of the 2017 U.S. Tax Act.
+(2) Represents future pension payments to comply with local funding requirements. These future pension payments assume the Company
+continues to meet its future statutory funding requirements. Considering the current economic environment in which the Company
+operates, the Company believes its cash flows are adequate to meet the future statutory funding requirements. The projected payments
+beyond fiscal year 2028 are not currently determinable.
+(3) Primarily reflects future contractual payments under various take-or-pay arrangements entered into as part of the normal course of
+business. Commitments made under take-or-pay obligations represent minimum commitments with suppliers and are in line with
+expected usage. This includes service contracts for information technology, human resources management and facilities management
+activities that have been outsourced. While the amounts listed represent contractual obligations, we do not believe it is likely that the full
+contractual amount would be paid if the underlying contracts were canceled prior to maturity. In such cases, we generally are able to
+negotiate new contracts or cancellation penalties, resulting in a reduced payment. The amounts do not include other contractual purchase
+obligations that are not take-or-pay arrangements. Such contractual purchase obligations are primarily purchase orders at fair value that
+are part of normal operations and are reflected in historical operating cash flow trends. We do not believe such purchase obligations will
+adversely affect our liquidity position.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+In preparing our financial statements in accordance with U.S. GAAP, there are certain accounting policies that may require a
+choice between acceptable accounting methods or may require substantial judgment or estimation in their application. These
+include revenue recognition, income taxes, certain employee benefits and goodwill and intangible assets. We believe these
+accounting policies, and others set forth in Note 1 to the Consolidated Financial Statements, should be reviewed as they are
+integral to understanding the results of operations and financial condition of the Company.
+The Company has discussed the selection of critical accounting policies and the effect of estimates with the Audit Committee of
+the Company's Board of Directors.
+Revenue Recognition
+Our revenue is primarily generated from the sale of finished product to customers. Those sales predominantly contain a single
+performance obligation and revenue is recognized at a single point in time when ownership, risks and rewards transfer, which
+can be on the date of shipment or the date of receipt by the customer. Trade promotions, consisting primarily of customer
+pricing allowances, in-store merchandising funds, advertising and other promotional activities and consumer coupons, are
+offered through various programs to customers and consumers. Sales are recorded net of trade promotion spending, which is
+recognized as incurred at the time of the sale. Amounts accrued for trade promotions at the end of a period require estimation,
+based on contractual terms, sales volumes and historical utilization and redemption rates. The actual amounts paid may be
+different from such estimates. These differences, which have historically not been significant, are recognized as a change in
+management estimate in a subsequent period.
+Income Taxes
+Our annual tax rate is determined based on our income, statutory tax rates and the tax impacts of items treated differently for tax
+purposes than for financial reporting purposes. Also inherent in determining our annual tax rate are judgments and assumptions
+regarding the recoverability of certain deferred tax balances, primarily net operating loss and other carryforwards, and our
+ability to uphold certain tax positions.

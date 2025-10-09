@@ -1,0 +1,57 @@
+The Procter & Gamble Company 7
+business or stakeholder information, including personal information, due to any number of causes, including catastrophic
+events, natural disasters, power outages, computer and telecommunications failures, improper data handling, viruses, phishing
+attempts, cyber-attacks, malware and ransomware attacks, security incidents, misuse or malicious use of artificial intelligence or
+employee error or malfeasance, and our business continuity plans do not effectively address these failures on a timely basis, we
+may suffer interruptions in our ability to manage operations and be exposed to reputational, competitive, operational, financial
+and business harm as well as litigation and regulatory action. If our critical IT systems or back-up systems or those of our third-
+party vendors are damaged or cease to function properly, we may have to make a significant investment to repair or replace
+them.
+In addition, if a ransomware attack, other cybersecurity incident or operational disruption occurs, either internally or at our
+third-party providers, we could be prevented from accessing our data or systems, which may cause interruptions or delays in
+our business operations, cause us to incur remediation costs, subject us to demands to pay a ransom or damage our reputation.
+In addition, such events could result in unauthorized disclosure or loss of confidential information or stakeholder information,
+including personal data from customers, consumers, employees, vendors, investors and other stakeholders, and we may suffer
+financial and reputational damage as a result. Additionally, we could be exposed to potential liability, litigation, governmental
+inquiries, reporting requirements, investigations or regulatory enforcement actions; and we could be subject to payment of fines
+or other penalties, legal claims by our suppliers, customers or employees and significant remediation costs.
+Periodically, we and/or our suppliers also upgrade IT/OT systems or adopt new technologies, including those enabled by
+machine learning or artificial intelligence. If such a new system or technology does not function properly, provides flawed or
+inaccurate outputs or exposes us to increased cybersecurity incidents and failures, it could affect our ability to order materials,
+make and ship orders and process payments in addition to other operational and information integrity and loss issues. The costs
+and operational consequences of responding to the above items and implementing remediation measures could be significant
+and could adversely impact our results of operations and cash flows and generate negative publicity affecting Company
+reputation and relationships among consumers, customers and other business partners.
+We must successfully manage the demand, supply and operational challenges associated with the effects of any future
+disease outbreak, including epidemics, pandemics or similar widespread public health concerns.
+Our business may be negatively impacted by the fear of exposure to or actual effects of a disease outbreak, epidemic, pandemic
+or similar widespread public health concern. These impacts may include, but are not limited to:
+• Significant reductions in demand or significant volatility in demand for one or more of our products, which may be caused
+by, among other things: the temporary inability of consumers to purchase our products due to illness, quarantine or other
+travel restrictions or financial hardship, shifts in demand away from one or more of our more discretionary or higher priced
+products to lower priced products or stockpiling or similar pantry-loading activity. If prolonged, such impacts can further
+increase the difficulty of business or operations planning and may adversely impact our results of operations and cash
+flows; or
+• Significant changes in the political conditions in markets in which we manufacture, sell or distribute our products,
+including quarantines, import/export restrictions, tariffs, price controls, or governmental or regulatory actions, closures or
+other restrictions that limit or close our operating and manufacturing facilities, restrict our employees’ ability to travel or
+perform necessary business functions or otherwise prevent our third-party partners, suppliers or customers from sufficiently
+staffing operations.
+Despite efforts to manage and remedy these impacts, their ultimate impact also depends on factors beyond our knowledge or
+control, including the duration and severity of any such outbreak as well as third-party actions taken to contain its spread and
+mitigate its public health effects.
+BUSINESS STRATEGY & ORGANIZATIONAL RISKS
+Our ability to meet our growth targets depends on successful product, marketing and operations innovation and
+successful responses to competitive innovation, evolving digital marketing and selling platforms and changing consumer
+habits.
+We are a consumer products company that relies on continued global demand for our brands and products. Achieving our
+business results depends, in part, on successfully developing, introducing and marketing new products and on making
+significant improvements to our equipment and manufacturing processes. The success of such innovation depends on our ability
+to correctly anticipate customer and consumer acceptance and trends, to obtain, maintain and enforce necessary intellectual
+property protections and to avoid infringing upon the intellectual property rights of others and to continue to deliver efficient
+and effective marketing across evolving media and mobile platforms with dynamic and increasingly more restrictive privacy
+requirements. We must also successfully respond to technological advances made by, and intellectual property rights granted to,
+competitors, customers and vendors. Failure to continually innovate, improve and respond to competitive moves, changing
+consumer habits and platform evolution, including the timely, responsible and effective adoption of emerging technologies such
+as artificial intelligence, could compromise our competitive position and adversely impact our financial condition, results of
+operations or cash flows.

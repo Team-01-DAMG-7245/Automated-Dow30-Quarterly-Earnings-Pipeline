@@ -1,0 +1,460 @@
+{
+  "page": 59,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 50,
+  "columns": 7,
+  "accuracy": 38.45,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "",
+      "1": "Potential payments upon change in control",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Verizon does not maintain any plans or arrangements that provide for any named executive officer to receive cash",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "severance or any other cash payments in connection with a change in control of Verizon. If the named executive",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "officer\u2019s employment terminates in connection with or following a change in control, he or she would be eligible for",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "the same benefits, if any, that would become payable to the executive upon his or her termination under the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "circumstances as described above. Under the Short\u2011Term Plan, if a change in control occurs, all outstanding awards",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "will vest and become payable on the regularly scheduled payment date.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Treatment of equity awards",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "As is the case for all participants under the terms of the Long\u2011Term Plan and the applicable award agreements, upon death,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "disability or qualifying retirement, each named executive officer\u2019s then unvested RSUs will vest and be payable on the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "regularly scheduled payment dates and each named executive officer\u2019s then unvested PSUs will vest and be payable on the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "regularly scheduled payment date after the end of the applicable award cycle, but only if and to the extent that the applicable",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "performance criteria for the award are achieved at the end of the applicable award cycle. A qualifying retirement for",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "purposes of the Long\u2011Term Plan generally means to retire after having attained at least 15 years of vesting service (as",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "defined under the applicable Verizon tax\u2011qualified savings plan) and a combination of age and years of vesting service that",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "equals or exceeds 75, 65 years of age and 5 years of vesting service, or starting with the 2022 awards, 55 years of age and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "10 years of vesting service. Commencing with the 2022 awards, participants, including named executive officers, who",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "voluntarily retire having attained age 55 and 5 years of service but do not meet the eligibility requirements for a qualifying",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "retirement (referred to as an early retirement) will vest in a prorated portion of the number of RSUs and PSUs awarded (and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "accrued dividends) based on the number of days worked during the performance period, and the remainder of the RSUs and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "PSUs will be forfeited. Any such prorated portion of the PSUs (and accrued dividends) will be payable only if and to the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "extent that the applicable performance criteria for the award are achieved at the end of the applicable award cycle, and will",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "be payable on the regularly scheduled payment date after the end of the applicable award cycle. As of December\u00a031, 2024,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Messrs.\u00a0Skiadas and \u00a0Malady and Ms. Venkatesh were eligible for a qualifying retirement under the Long\u2011Term Plan,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Mr.\u00a0Vestberg was eligible for early retirement vesting under the terms of his 2022, 2023 and 2024 PSU and RSU awards,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "and Mr. Sampath\u00a0was not eligible for a qualifying retirement or early retirement under the Long\u2011Term Plan.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "If a named executive officer\u2019s employment is involuntarily terminated by the Company without cause, the named executive",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "officer\u2019s then unvested RSUs and PSUs will vest only as to a prorated portion of the number of RSUs and PSUs awarded",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "(and accrued dividends) based on the number of days worked during the performance period, and the remainder of the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "RSUs and PSUs will be forfeited. Any such prorated portion of the PSUs (and accrued dividends) will be payable only if and",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "to the extent that the applicable performance criteria for the award are achieved at the end of the applicable award cycle,",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "and will be payable on the regularly scheduled payment date after the end of the applicable award cycle.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "The payment of PSU and RSU awards under the Long\u2011Term Plan following an involuntary termination of employment without",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "cause, death, disability or qualifying or early retirement is conditioned on the participant executing a release of claims against",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Verizon in the form satisfactory to Verizon. The grant of each award is conditioned on the participant\u2019s agreement to certain",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "restrictive covenants including an agreement not to compete or interfere with any Verizon business for a period of one year",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "after termination from employment (two years for the CEO) and to always protect Verizon\u2019s trade secrets and proprietary",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "information.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "In addition, under the terms of the Long\u2011Term Plan and the applicable award agreements, if, in the 12 months following a",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "change in control of Verizon, a participant\u2019s employment is involuntarily terminated without cause, all then\u2011unvested RSUs will",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "vest and be payable on the regularly scheduled payment dates and all then\u2011unvested PSUs will vest at target level",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "performance and be payable on the regularly scheduled payment date after the end of the applicable award cycle.",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "Under the Long\u2011Term Plan, a change in control of Verizon is generally defined as the occurrence of any\u00a0of\u00a0the\u00a0following:",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Any person becomes a beneficial owner of shares representing 20% or more of Verizon\u2019s outstanding",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "voting stock;",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  Verizon consummates a merger, consolidation, reorganization or any other business combination; or",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "",
+      "1": "\u2022  The Board adopts resolutions authorizing the liquidation or dissolution, or sale of all or substantially all of the",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "assets, of Verizon.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

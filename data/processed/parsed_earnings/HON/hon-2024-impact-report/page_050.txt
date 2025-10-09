@@ -1,0 +1,66 @@
+PRINCIPLES
+DATA PRIVACY AND SECURITY BY DESIGN ISO 27001 certification for certain businesses and complies INCIDENT RESPONSE
+with the IASME standard. Further, we have completed the
+Honeywell applies data privacy and security-by-design Honeywell maintains robust data privacy and cybersecurity
+Saudi Aramco CyberSecurity Compliance Cerificate (CCC),
+principles from the beginning stages of the development of incident response policies and procedures that allow us to
+CyberVadis and Cyber GRX Tier 3 assessments and maintain a
+products, processes, systems and services involving personal respond responsibly and promptly to potential data security
+cybersecurity insurance policy. Honeywell leverages a defensive
+data, leveraging a robust Privacy Impact Assessment program incidents. Our incident response standards, processes
+in-depth model for cybersecurity, enabling multiple levels of
+and data lifecycle design practices. Our processes incorporate and procedures include incident identification, response
+protection against threats. Our integration of protective and
+data privacy and cybersecurity starting at the beginning of any management, root cause analysis and reporting, including
+detective controls helps us prevent, defend and rapidly respond
+new product development process, in-depth security testing appropriate disclosures to regulators, law enforcement, affected
+to security risks for both our internal systems and customer-
+throughout the development process and review before those individuals, customers and other stakeholders in accordance
+facing products and services. Our program is built on industry
+products or services are released, updated or offered for sale to with law, contract and relevant standards.
+standards and constantly evolves to meet the ever-changing
+Honeywell customers. Our approach to product cybersecurity
+threat landscape.
+also includes vulnerability management, incident response and
+security bulletins. With Honeywell’s strong data privacy and
+AUDIT
+security-by-design program, customers know they can rely on
+Honeywell’s Corporate Audit department provides independent
+Honeywell to supply products and services that respect data
+assurance in accordance with Institute of Internal Auditors
+privacy and security principles while helping them comply with
+standards (IIA). Corporate Audit is directly responsible to
+applicable law. To strengthen the confidence our customers
+Honeywell’s Audit Committee on behalf of the Board of
+place in us, in 2024 we created a new Data Privacy Trust
+Directors and is not constrained by management in the
+Center available on our internet site to demonstrate our strong
+performance of its duties.
+commitment to data privacy.
+Corporate Audit periodically evaluates Honeywell’s
+CYBERSECURITY
+governance and operations related to cybersecurity and
+Honeywell’s cybersecurity framework safeguards the privacy to determine that risks are appropriately identified and
+confidentiality, integrity and availability of information assets managed, and ensure compliance to the Company’s policies
+and ensures that all regulatory, operational and contractual and procedures, and adherence to all applicable laws and
+requirements are fulfilled. Our policies and practices include regulations.
+regular internal and external audits; vulnerability assessments
+SUPPLIER RISK MANAGEMENT
+and penetration testing of the company’s systems, products
+and practices; and robust measures to monitor and respond
+Honeywell’s Supplier Risk Management standard establishes
+to data breach and cybersecurity incidents. The framework
+requirements for engaging and managing suppliers who
+is aligned to industry standards including: NIST SP 800-171,
+process, store, produce, communicate with or otherwise access
+International Organization for Standardizations (ISO) 27001,
+Honeywell information, assets or services. Our Supplier Code
+27702 and 22301, Payment Card Industry Data Security
+of Business Conduct and contracts require suppliers to comply
+Standard (PCI DSS), Sarbanes Oxley (SOX) and the Cloud
+with privacy and cybersecurity requirements, and suppliers that
+Security Alliance (CSA) program. In addition, the company
+process personal data on behalf of Honeywell or our customers
+has received Cyber Essential Scheme (CES+) certification and
+are required to comply with stringent data processing standards.
+Honeywell | 2024 IMPACT REPORT | 50

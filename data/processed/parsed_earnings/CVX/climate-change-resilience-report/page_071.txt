@@ -1,0 +1,37 @@
+upstream carbon intensity
+kilograms CO₂e/boe
+Upstream carbon intensity (UCI) includes emissions intensity metrics for oil production, gas production,
+flaring and methane. Chevron’s UCI metrics are equity-based, which means that they include our pro rata
+share of emissions both from the assets that Chevron operates and from our nonoperated joint ventures.
+The metrics reflect commodity basis to align with end use and enable value chain reporting.
+upstream oil intensity
+( )
+Indirect emissions associated Emissions associated Allocated to liquids
+Direct emissions
++ with imported electricity – with exported electricity on a production
+(Scope 1)
+and steam (Scope 2) and steam basis (boe)
+Net production of liquids
+upstream gas intensity
+( )
+Indirect emissions associated Emissions associated Allocated to gas
+Direct emissions
++ with imported electricity – with exported electricity on a production
+(Scope 1) and steam (Scope 2) and steam basis (boe)
+Net production of gas (including LNG and GTL)
+upstream flaring intensity
+Direct flaring emissions as CO₂e (Scope 1)
+Net production of gas and liquids (including LNG and GTL)
+upstream methane intensity
+Direct methane emissions as CO₂e (Scope 1)
+Net production of gas and liquids (including LNG and GTL)
+Emissions reported are net (Scope 1 and 2). The emissions included in the metrics generally represent Chevron’s equity share of emissions from upstream, including LNG and GTL facilities, which are emissions
+from operated and nonoperated joint venture assets based on Chevron’s financial interest. For reporting, Chevron includes certain indirect sources of GHG emissions within direct emissions that are outside of
+the traditional Scope 1 definition, such as GHG emissions from processes like drilling and completions, and tolling agreements up to the point of third-party custody transfer of the oil or gas product. For oil and
+gas production intensity metrics, production is aligned with net production values reported in the Chevron Corporation Supplement to the Annual Report, which represent the company’s equity share of total
+production after deducting both royalties paid to landowners and a government’s agreed-upon share of production under a production sharing agreement. Chevron’s equity-share emissions include emissions
+associated with these excluded royalty barrels in accordance with the Ipieca Guidance. Also in accordance with the Ipieca Guidance, Chevron’s equity-share emissions do not include emissions associated with
+royalty payments received by the company. Allocation of emissions between oil and gas is based on the fraction of production represented by liquids or gas. Flaring and methane intensities use the total of liquids
+and gas production. Oil and gas production intensities use liquids production and natural gas production, respectively.
+Chevron Corporation 2023 Climate Change Resilience Report
+69

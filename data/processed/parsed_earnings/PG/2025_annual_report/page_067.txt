@@ -1,0 +1,27 @@
+The Procter & Gamble Company 55
+Pension Benefits Other Retiree Benefits
+As of June 30 2025 2024 2025 2024
+CLASSIFICATION OF NET AMOUNT RECOGNIZED
+Noncurrent assets $ 1,621 $ 1,458 $ 5,123 $ 6,047
+Current liabilities (78) (73) (41) (38)
+Noncurrent liabilities (3,026) (2,884) (691) (653)
+NET AMOUNT RECOGNIZED $ (1,484) $ (1,498) $ 4,391 $ 5,356
+AMOUNTS RECOGNIZED IN ACCUMULATED OTHER COMPREHENSIVE (INCOME)/LOSS (AOCI)
+Net actuarial loss/(gain) $ 1,322 $ 1,258 $ 166 $ (1,493)
+Prior service cost/(credit) 122 140 (553) (655)
+NET AMOUNTS RECOGNIZED IN AOCI $ 1,444 $ 1,398 $ (387) $ (2,148)
+The accumulated benefit obligation for all defined benefit pension plans, which differs from the projected obligation in that it
+excludes the assumption of future salary increases, was $12.5 billion and $11.6 billion as of June 30, 2025 and 2024,
+respectively. Information related to the funded status of selected pension and other retiree benefits at June 30 is as follows:
+As of June 30 2025 2024
+PENSION PLANS WITH A PROJECTED BENEFIT OBLIGATION IN EXCESS OF PLAN ASSETS
+Projected benefit obligation $ 8,175 $ 7,613
+Fair value of plan assets 5,070 4,656
+PENSION PLANS WITH AN ACCUMULATED BENEFIT OBLIGATION IN EXCESS OF PLAN ASSETS
+Accumulated benefit obligation $ 7,653 $ 7,103
+Fair value of plan assets 5,018 4,624
+OTHER RETIREE BENEFIT PLANS WITH AN ACCUMULATED BENEFIT OBLIGATION IN EXCESS OF
+PLAN ASSETS
+Accumulated benefit obligation $ 802 $ 770
+Fair value of plan assets 70 79
+Amounts in millions of dollars except per share amounts or as otherwise specified.
