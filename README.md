@@ -33,171 +33,164 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 
 ### Prerequisites
 
-- Docker and Docker Compose
+- Docker Desktop installed and running
 - Python 3.11+
 - 8GB+ RAM (for AI models)
+- 5GB+ free disk space (for Docker images)
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone and navigate**
    ```bash
    git clone <repository-url>
    cd project-lantern-dow30
    ```
 
-2. **Start the services**
+2. **Start Docker Desktop** - Wait for whale icon in menu bar
+
+3. **Start services** (first time: 5-15 minutes)
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
-3. **Access Airflow UI**
+4. **Monitor initialization**
+   ```bash
+   docker compose logs -f airflow-init
+   docker compose ps
+   ```
+
+5. **Access Airflow UI**
    - Open http://localhost:8080
    - Login: `airflow` / `airflow`
 
-4. **Run the pipeline**
-   - Navigate to the `lantern_quarterly_pipeline` DAG
-   - Click "Trigger DAG" to start processing
+6. **Configure Variables** (Admin → Variables)
+   - `lantern_project_root` → `/opt/airflow`
+   - `lantern_python_bin` → `python`
+   - `lantern_data_root` → `/opt/airflow/data`
 
-### Manual Execution
+7. **Run Pipeline**
+   - Find `lantern_quarterly_pipeline` DAG
+   - Toggle ON
+   - Click "Trigger DAG"
 
-You can also run the pipeline manually:
+## 🐳 Docker Commands
 
 ```bash
-# Step 1: Generate company data
-python src/scrape_dow30_wikipedia.py
+# Start services
+docker compose up -d
 
-# Step 2: Find IR pages  
-python src/find_ir_pages.py
+# Stop services
+docker compose down
 
-# Step 3: Find earnings reports
-python src/find_earnings_reports.py
+# View logs
+docker compose logs -f
 
-# Step 4: Download reports
-python src/download_reports.py
+# Check status
+docker compose ps
 
-# Step 5: Parse reports
-python src/parse_reports.py
+# Restart
+docker compose restart
+
+# Complete reset
+docker compose down -v
 ```
 
 ## 📊 Pipeline Results
 
-### Coverage Statistics
-- **Companies Processed**: 30 (100% of Dow 30)
-- **IR Pages Found**: 24/30 companies (80% success rate)
-- **Earnings Reports**: 301 total reports discovered
-- **Downloads Successful**: 43 files downloaded
-- **Parsing Complete**: Full text, table, and image extraction
+### Coverage
+- **Companies**: 30/30 (100%)
+- **IR Pages**: 24/30 (80%)
+- **Reports Found**: 301
+- **Downloads**: 43 files
+- **Parsing**: Complete
 
 ### Output Structure
 ```
 data/
 ├── raw/
-│   ├── scraped/           # Company reference data
-│   └── earnings_reports/  # Downloaded PDF files
+│   ├── scraped/           # Company reference
+│   └── earnings_reports/  # PDFs
 ├── processed/
-│   ├── ir_pages/          # Discovered IR URLs
-│   ├── earnings_reports/  # Earnings report links
-│   └── parsed_earnings/   # Parsed content by company
+│   ├── ir_pages/          # IR URLs
+│   ├── earnings_reports/  # Report links
+│   └── parsed_earnings/   # Parsed content
 └── parsed/
-    └── converted/         # Multi-format outputs
-        ├── markdown/      # Human-readable format
-        ├── json/          # Structured data
+    └── converted/
+        ├── markdown/      # Human-readable
+        ├── json/          # Structured
         └── txt/           # Plain text
 ```
 
 ## 🛠️ Technical Stack
 
-### Core Technologies
-- **Apache Airflow**: Workflow orchestration
-- **Python 3.11**: Primary language
-- **Docker**: Containerization
-- **PostgreSQL**: Airflow metadata
+### Core
+- Apache Airflow 2.7.3
+- Python 3.11
+- Docker & PostgreSQL 13
 
-### AI/ML Libraries
-- **PyMuPDF**: PDF processing
-- **pdfplumber**: Text extraction
-- **camelot-py**: Table extraction
-- **pytesseract**: OCR processing
-- **layoutparser**: Document layout analysis
-- **torch**: Deep learning models
+### AI/ML
+- PyMuPDF, pdfplumber, camelot-py
+- pytesseract, layoutparser
+- torch
 
-### Data Processing
-- **pandas**: Data manipulation
-- **requests**: Web scraping
-- **BeautifulSoup**: HTML parsing
-- **tldextract**: Domain processing
+### Data
+- pandas, numpy
+- requests, BeautifulSoup
+- tldextract
 
 ## 📁 Project Structure
 
 ```
 project-lantern-dow30/
-├── dags/                          # Airflow DAG definitions
-│   └── lantern_quarterly_pipeline.py
-├── src/                          # Core scripts
-│   ├── scrape_dow30_wikipedia.py # Company data scraping
-│   ├── find_ir_pages.py          # IR page discovery
-│   ├── find_earnings_reports.py  # Earnings report search
-│   ├── download_reports.py       # Report downloading
-│   ├── parse_reports.py          # AI-powered parsing
-│   └── [processing modules]
-├── data/                         # Data storage
-│   ├── raw/                      # Raw downloads
-│   ├── processed/                # Processed data
-│   └── parsed/                   # Final outputs
-├── reports/                      # Analysis reports
-├── docker-compose.yml            # Service orchestration
-├── requirements.txt              # Python dependencies
-└── README.md                     # This file
-```
-
-## 🔧 Configuration
-
-### Airflow Variables
-Set these in Airflow UI → Admin → Variables:
-
-- `lantern_project_root`: `/opt/airflow` (Docker) or your local path
-- `lantern_python_bin`: `python`
-- `lantern_data_root`: `${PROJECT_ROOT}/data`
-
-### Environment Variables
-```bash
-AIRFLOW_UID=50000
-AIRFLOW_GID=0
+├── dags/                          # Airflow DAGs
+├── src/                           # Core scripts
+├── data/                          # Data storage
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
 ```
 
 ## 📈 Pipeline Stages
 
-### Stage 1: Company Discovery
-- Scrapes Dow 30 components from Wikipedia
-- Extracts company names, tickers, and websites
-- **Output**: 30 companies with 27 having websites
+1. **Company Discovery** - Scrape Dow 30 from Wikipedia (30 companies)
+2. **IR Page Discovery** - Find investor relations pages (24/30 found)
+3. **Earnings Search** - Locate quarterly reports (301 reports)
+4. **Download** - Retrieve PDF files (43 downloaded)
+5. **AI Parsing** - Extract text, tables, images (multi-format output)
 
-### Stage 2: IR Page Discovery  
-- Searches company websites for investor relations pages
-- Uses pattern matching and homepage link analysis
-- Falls back to SEC EDGAR when needed
-- **Output**: 24/30 companies with IR pages found
+## 🔍 Monitoring
 
-### Stage 3: Earnings Report Search
-- Crawls IR pages for quarterly earnings reports
-- Identifies latest reports using scoring algorithms
-- **Output**: 301 potential reports from 17 companies
+### Airflow UI
+- Dashboard: http://localhost:8080
+- DAG/Graph views for task monitoring
+- Detailed task logs
 
-### Stage 4: Report Download
-- Downloads PDF files with retry logic
-- Handles various URL formats and redirects
-- **Output**: 43 successfully downloaded files
+### Container Logs
+```bash
+docker compose logs -f airflow-scheduler
+docker compose logs -f airflow-webserver
+```
 
-### Stage 5: AI-Powered Parsing
-- **Text Extraction**: pdfplumber + OCR fallback
-- **Table Extraction**: Hybrid lattice/stream detection
-- **Image Extraction**: PyMuPDF + layout analysis
-- **Format Conversion**: Markdown, JSON, plain text
-- **Output**: Multi-format structured data
+## 🔄 Development
 
-### Logs and Monitoring
+### Making Changes
+- Edit locally in `src/` and `dags/`
+- Changes auto-sync to containers
+- Restart if needed: `docker compose restart`
 
-- **Airflow UI**: http://localhost:8080
-- **Task Logs**: Available in Airflow UI under each task
-- **Container Logs**: `docker-compose logs <service>`
+### Adding Dependencies
+```bash
+# Add to requirements.txt
+echo "package-name>=1.0.0" >> requirements.txt
+docker compose down
+docker compose up -d --build
+```
 
+### Manual Execution
+```bash
+python src/scrape_dow30_wikipedia.py
+python src/find_ir_pages.py
+python src/find_earnings_reports.py
+python src/download_reports.py
+python src/parse_reports.py
+```
