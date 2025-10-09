@@ -1,0 +1,46 @@
+{
+  "page": 41,
+  "table_number": 1,
+  "method": "stream",
+  "rows": 9,
+  "columns": 2,
+  "accuracy": 91.54,
+  "data": [
+    {
+      "0": "EPS over the 2022\u20112024 performance cycle compared to the performance targets set by the Committee at the",
+      "1": ""
+    },
+    {
+      "0": "beginning of the three\u2011year cycle. The following table shows the percentage of EPS PSUs awarded that would vest",
+      "1": ""
+    },
+    {
+      "0": "based on Verizon\u2019s cumulative adjusted EPS over the 2022\u20112024 performance cycle at different performance levels.",
+      "1": ""
+    },
+    {
+      "0": "Verizon\u2019s cumulative adjusted EPS1",
+      "1": "EPS\u00a0vested\u00a0percentage2"
+    },
+    {
+      "0": "Greater than or equal to $18.09",
+      "1": "200%"
+    },
+    {
+      "0": "$17.78",
+      "1": "150%"
+    },
+    {
+      "0": "$16.92",
+      "1": "100%"
+    },
+    {
+      "0": "$15.21",
+      "1": "50%"
+    },
+    {
+      "0": "Less than $15.21",
+      "1": "0%"
+    }
+  ]
+}

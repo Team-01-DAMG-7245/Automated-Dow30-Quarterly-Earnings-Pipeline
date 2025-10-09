@@ -1,0 +1,44 @@
+52 The Procter & Gamble Company
+Total expense and related recognized tax benefit were as follows:
+Fiscal years ended June 30 2025 2024 2023
+Stock options $ 219 $ 270 $ 303
+RSUs and PSUs 257 292 242
+Total share-based expense $ 476 $ 562 $ 545
+Income tax benefit $ 85 $ 103 $ 103
+We utilize an industry standard lattice-based valuation model to calculate the fair value for stock options granted. Assumptions
+utilized in the model, which are evaluated and revised to reflect market conditions and experience, were as follows:
+Fiscal years ended June 30 2025 2024 2023
+Interest rate 3.5 - 4.4 % 4.6 - 5.5 % 3.7 - 4.1 %
+Weighted average interest rate 3.7 % 4.6 % 3.7 %
+Dividend yield 2.4 % 2.5 % 2.6 %
+Expected volatility 18 % 18 % 21 %
+Expected life in years 8.9 8.8 8.8
+Lattice-based option valuation models incorporate ranges of assumptions for inputs and those ranges are disclosed in the
+preceding table. Expected volatilities are based on a combination of historical volatility of our stock and implied volatilities of
+call options on our stock. We use historical data to estimate option exercise and employee termination patterns within the
+valuation model. The expected life of options granted is derived from the output of the option valuation model and represents
+the average period of time that options granted are expected to be outstanding. The interest rate for periods within the
+contractual life of the options is based on the U.S. Treasury yield curve in effect at the time of grant.
+We utilize a Monte-Carlo simulation model to estimate the fair value of performance stock units granted. Assumptions utilized
+in the model are not substantially different from those used for stock options.
+A summary of options outstanding under the plans as of June 30, 2025, and activity during the year then ended is presented
+below:
+Weighted Weighted Average
+Options Average Contractual Life Aggregate
+Options (in thousands) Exercise Price in Years Intrinsic Value
+OUTSTANDING AT JULY 1, 2024 107,362 $ 111.59
+Granted 8,347 173.33
+Exercised (18,806) 90.05
+Forfeited/expired (282) 150.86
+OUTSTANDING AT JUNE 30, 2025 96,621 $ 120.96 5.0 $ 3,822
+Exercisable 70,717 $ 110.32 3.9 $ 3,466
+The following table provides additional information on stock options:
+Fiscal years ended June 30 2025 2024 2023
+Weighted average grant-date fair value of options granted $ 36.23 $ 34.25 $ 29.58
+Intrinsic value of options exercised 1,546 1,621 979
+Grant-date fair value of options that vested 299 244 219
+Cash received from options exercised 1,693 1,888 1,189
+Actual tax benefit from options exercised 321 330 207
+At June 30, 2025, $180 of compensation cost had not yet been recognized related to stock option grants. That cost is expected
+to be recognized over a remaining weighted average period of 1.6 years.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

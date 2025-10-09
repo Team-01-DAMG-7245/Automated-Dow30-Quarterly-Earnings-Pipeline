@@ -1,0 +1,61 @@
+updates result in very little change in overall energy demand or IEA NZE Scenario assumptions
+price. Natural gas demand is the notable exception. Based on the
+IEA’s projection of how present-day energy security concerns over The NZE Scenario results in approximately 15% lower global
+international gas supply could cause a shift away from gas demand primary energy demand in 2050 than in 2021 (Exhibit 3) while
+in the coming decade, gas demand is down markedly in favor of supporting 2 billion more people and a doubling of the global
+coal and biomass, followed by nuclear and renewable power. The economy. A selection of the scenario’s assumptions are as follows:
+IEA also specifically calls out the need for policymakers to “do
+much more to provide signals on the demand side” to develop • Global energy investment doubles, increasing from an average
+clean energy supply chains and emphasizes that the NZE Scenario of 2% of annual GDP from 2017 to 2021 to nearly 4% by 2030.
+pathway “cannot be achieved without the rapid and large-scale
+adoption of measures that limit growth in energy demand.” • Universal energy access is achieved globally by 2030.
+The scenario’s assumptions are limited to the energy sector and do • Electricity use increases from approximately 20% of final
+not address natural climate solutions, such as offsets, or impacts to energy consumption today to over 50% by 2050.
+land-use change that occur in non-energy sectors. The framework
+also assumes less use of negative emissions technologies, like • Renewables and bioenergy account for over 80% of the
+CCUS, than IPCC scenarios. global energy mix by 2050.
+The IEA describes the pathway as “narrow but still achievable,” in • The oil and gas sector’s share of total primary energy demand
+that it “entails very ambitious policies and measures to improve declines from over 50% today to approximately 15% by 2050.
+energy efficiency and reduce energy demand, including through
+behavioral change,” and acknowledges that “[t]here are … many • The power generation sector reaches net zero emissions
+areas where progress is well short of what is envisaged in the across all advanced economies by 2035 and net zero emissions
+NZE Scenario.” We agree – the scenario and its assumptions are globally by 2040.
+challenging. The NZE Scenario requires globally coordinated
+policy design, strong international cooperation, vast capital
+redeployment, nearly quadrupling of renewables and nuclear
+Exhibit 3. Total primary energy demand in IEA NZE Scenario
+capacity additions, accelerated technology deployment, and an
+(Exajoules)
+improvement in energy intensity that is two-and-a-half times
+higher than the observed trend of the past decade. We see
+10 billion
+the NZE Scenario as remote and highly unlikely due to the 800
+immediate and unprecedented action required to transform
+the global energy system. 8 billion
+600
+“there is still a large gap between today’s
+ambitions and a 1.5° C stabilization”3
+400
+Modeling of long-term scenarios is inherently speculative, given the
+wide range of unpredictable variables and externalities that could
+200
+affect outcomes through 2050. We do not rely on the NZE Scenario
+for our business planning. Nonetheless, we have conducted a
+scenario test of the NZE Scenario demand projections, as well as
+0
+its oil and gas projections, to stress-test our portfolio. 2021 2030 2040 2050
+Population Oil Nuclear Bioenergy
+The IEA does not directly provide all the necessary market details
+Coal Natural gas Hydropower Other renewables
+required to run an NZE Scenario analysis (e.g., regional pricing or
+product consumption). Where necessary, we developed additional Source: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022,
+License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+assumptions consistent with the NZE Scenario narrative to
+estimate the performance of our portfolio.
+Our Corporate Audit department, which performs the internal
+audit function at Chevron, conducted a nonrated assurance review
+of the NZE Scenario analysis. The Corporate Audit department
+found that the analysis was conducted in accordance with
+established internal process and emerging external guidance.
+Chevron Corporation 2023 Climate Change Resilience Report
+17

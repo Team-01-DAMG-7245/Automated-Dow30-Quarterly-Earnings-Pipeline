@@ -1,0 +1,42 @@
+Appendices
+Absolute Financed and Facilitated Emissions: PCAF-aligned Metrics25
+We recognize the benefit of comparable industry-specific PCAF-aligned Absolute Financed and Facilitated Emissions26
+methodologies for measurement and disclosure of absolute
+financed and facilitated emissions. Although the methodologies AABBSSOOLLUUTTEE FFIINNAANNCCEEDD AANNDD FFAACCIILLIITTAATTEEDD EEMMIISSSSIIOONNSS EECCOONNOOMMIICC IINNTTEENNSSIITTYY
+DATA
+are still evolving, we are disclosing in the table to the right ((mmiilllliioonn tt CCOOee))iiiiii ((ppeerr UUSS $$11 mmiilllliioonn ooff lleennddiinngg))vviiiiii
+22 QUALITY
+SECTORi SCOPE(S) INCLUDEDii
+PCAF-aligned absolute financed and facilitated emissions. SCORES
+For Committed Lending For Capital Markets For Committed Lending For Capital Markets
+(Financed Emissions)iv, v (Facilitated Emissions)vi, vii (Financed Emissions) (Facilitated Emissions) (1–5)ix
+We provide disclosure on absolute financed and facilitated
+emissions for eight sectors of our financing portfolio in the
+Energy Mix Scope 3 (end use) 23.4 12.0 3,667.6 887.5 3.2
+Metrics and Targets chapter (refer to page 21). We have
+calculated these metrics using our own methodology (Carbon Oil & Gas Operational Scopes 1 and 2 0.9 0.7 222.1 101.9 3.4
+Compass® methodology), which we believe calculates absolute
+Electric Power Scope 1 2.0 1.9 528.4 148.5 3.1
+financed and facilitated emission figures that correlate with
+real-world emissions performance of clients in our applicable
+Auto Manufacturing Scopes 1, 2 and 3 (tank-to-wheel) 0.2 0.2 575.6 87.7 3.3
+sector portfolios. We continue to monitor evolving best
+practices for the financial sector to inform our own approach Aviation Scope 1 (tank-to-wake) 0.1 0.1 654.0 138.6 3.0
+and to provide information of interest to our stakeholders.
+Shipping Scope 1 (tank-to-wake) 0.01 0.05 252.8 163.7 1.5
+Iron & Steel Scopes 1 and 2 0.2 0.7 907.1 579.2 1.4
+Cement Scopes 1 and 2 0.6 0.1 1,523.9 610.2 1.3
+Aluminum Scopes 1 and 2 0.1 0.3 704.0 653.5 3.0
+i. The sectors included in this table align with the sectors covered by iv. “Absolute financed emissions” are defined as the total GHG emissions vi. “Absolute facilitated emissions” are defined as the total GHG viii. Economic intensity is calculated as absolute financed or facilitated
+our Carbon Compass® methodology for our net zero-aligned targets. of an asset class or portfolio. For public companies, this is calculated emissions associated with capital markets activity facilitated by emissions in metric tons of carbon dioxide equivalents per million
+ii. The scopes included in this table align with the scopes included in as outstanding exposure divided by enterprise value including cash a financial institution. For public companies, this is calculated as dollars loaned or facilitated.
+our Carbon Compass® methodology and represent scopes for which (“EVIC”) multiplied by company emissions. For private companies, it is total amount raised in the capital market transaction multiplied ix. Data quality scores are assigned depending on the quality of data
+appropriate emissions data is available. calculated as outstanding exposure divided by total equity plus debt by the volume attributed to the financial institution (based on its available for each client, with 1 representing highest quality and
+iii. The absolute financed and facilitated emissions in this table times company emissions. If equity value is negative, it is treated as participation), divided by enterprise value including cash (“EVIC”). 5 representing lowest quality. We calculate and report a weighted
+utilized the proxy methodology described in our Carbon Compass® zero. Per the PCAF standard, outstanding exposure represents the This figure is then multiplied by a weighing factor (33%) and by average data quality score for each sector based on the financing
+methodology when emissions data is not readily available. These amount of the loan the borrower has drawn as of the year-end date. company emissions. provided to each client relative to our total financing to the sector.
+proxy calculations are derived based on in-scope clients with v. The absolute financed emissions in this table include wholesale credit vii. The absolute facilitated emissions in this table include securitized Refer to section 4.5 of our Carbon Compass® methodology to
+committed exposure for lending, as well as capital markets exposure. (excluding overdrafts) to clients within the sectors listed. products and green bonds and exclude syndicated loans within the learn more.
+sectors listed.
+25 This section presents disclosure of absolute financed and facilitated emissions intended to align with PCAF, with the exception of the deviations as footnoted throughout the table.
+26 The figures in the table only consider the in-scope clients per our Carbon Compass® methodology. 32

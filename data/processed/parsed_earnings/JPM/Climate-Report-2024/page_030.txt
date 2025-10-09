@@ -1,0 +1,40 @@
+Risk Governance
+We maintain a framework and strategy for identifying, monitoring and managing climate risk which is integrated into our risk governance process. This framework allows for the escalation of significant climate risk-related issues to LOB Risk Committees. The Board Risk
+Committee also receives information on significant climate risks and climate-related initiatives, as appropriate.
+Scenario Analysis
+Scenario Analysis is a key component of our climate risk framework. To assess the range of potential climate-driven paths and outcomes, we apply an array of scenarios to our internal risk processes, as appropriate. We use internationally recognized scenarios from the
+Network for Greening the Financial System (“NGFS”) and the Intergovernmental Panel on Climate Change (“IPCC”) to inform our measurement of potential financial and economic impacts to the Firm from climate risks.
+The NGFS and IPCC scenarios represent widely-accepted, plausible pathways for society’s future GHG emissions and consider the complex interactions between global socioeconomic systems and natural Earth systems over time.
+Scenario Analysis is not a prediction of the future, but rather a tool to understand potential future outcomes. It helps us identify potential vulnerabilities impacting our clients, customers, operations and business strategy across a range of plausible future states
+of the world.
+Physical Risk Scenario Analysis Transition Risk Scenario Analysis Integrated Climate Scenario
+To evaluate the potential impacts of more frequent and severe weather events on our To gauge the potential impacts of transition risk to the Firm, we use macroeconomic We continue to examine alternative climate scenarios, including internally designed
+business operations, credit exposures and collateral locations, we use physical risk and industry-specific factors, like Oil & Gas demand and steel production, from NGFS scenarios, with a goal of improving the integration of both physical and transition
+scenario inputs derived from the IPCC. We use both a “baseline” physical risk scenario scenarios. Consistent with the physical risk approach, we use a “baseline” transition risks, taking into account their potential combined impacts on the broader economy,
+and a “stress” physical risk scenario to understand possible outcomes. risk scenario and a “stress” transition risk scenario, both from the NGFS. and considering the Firm’s specific concentrations and exposures. These alternatives
+may also decrease our dependence on third-party scenarios. Taken together, these
+BASELINE SCENARIO BASELINE SCENARIO and other efforts are intended to enhance our ability to identify, measure, monitor
+and manage climate-related financial risks.
+The IPCC Representative Concentration Pathway (“RCP”) 4.5 scenario represents a The NGFS Current Policies (“CP”) scenario represents a low-transition risk scenario
+middle-of-the-road scenario where societal, economic and technological trends do based on the current state of global climate policy. The scenario assumes that no
+Time Horizons
+not shift markedly from historical patterns: global and national institutions make additional emissions reduction policies are implemented by governments, leading to
+slow progress toward sustainable development goals and the intensity of resource high physical risks. In this scenario, 3°C or more of warming could occur by 210022. Because of the varying pace and cumulative effects of climate change, we assess
+and energy use declines. The scenario assumes that global mean temperature scenario outputs and manage climate risks across a range of time horizons. We
+reaches 2.7°C warming above pre-industrial levels by 2100. STRESS SCENARIO categorize a timeframe of less than five years as short-term. This categorization aligns
+In 2023, the NGFS discontinued the Divergent Net Zero (“DNZE”) scenario. While the with our loss and capital adequacy assessments. It is also consistent with our risk
+STRESS SCENARIO
+Firm continues to leverage the DNZE scenario as an extreme transition risk NGFS identification framework and the short-term climate scenario assumptions we use.
+The IPCC RCP 8.5 scenario represents the highest emissions IPCC scenario. The scenario, we are developing an internal, integrated climate scenario (discussed in
+Furthermore, we classify a medium-term time horizon as 5 to 10 years and a long-
+scenario assumes that global mean temperature reaches 4.4°C warming above more detail in the following paragraph). The DNZE scenario assumes that global net
+term time horizon as 10+ years, understanding that the effects of climate change may
+pre-industrial levels by 2100 due to the continued heavy use of fossil fuel resources zero emissions are reached by 2050 through a rapid increase in carbon prices with
+unfold over longer time horizons. In this way, our strategic approach to climate risk
+and a continued rise in resource- and energy-intensive activities around the world. an accelerated phase-out of fossil fuels, despite divergence in policies introduced
+management seeks to cover both potential current and future risks, immediate and
+Under this scenario, there is no transition to a low-carbon economy and GHG by governments across the world. The scenario assumes that global warming is
+far-sighted, seeking sustainability and resilience in the face of evolving
+emissions continue to rise throughout the 21st century. successfully limited to 1.5°C by 2100, which limits physical risk impacts.
+climate scenarios.
+22 Temperature increases are relative to global mean temperatures at pre-industrial levels (1850–1900). 26

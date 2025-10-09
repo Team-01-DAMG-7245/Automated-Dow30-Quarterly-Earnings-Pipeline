@@ -1,0 +1,48 @@
+CORPORATE GOVERNANCE
+In reaching its conclusion, the C&LD Committee noted that the Company’s compensation programs include a mix
+of cash and equity, as well as annual, medium-term, and long-term incentives. This mix of compensation, the
+design features of these programs, and the Company’s respective oversight and control requirements mitigate
+the potential of any individual inclination toward taking unnecessary risks. The C&LD Committee also
+acknowledged various other features of the Company’s compensation programs, policies, and practices designed
+to mitigate unwarranted risk. For example, the Company’s annual cash bonus program, the Short-Term
+Achievement Reward (“STAR”), provides the C&LD Committee with discretion to reduce or eliminate any award
+that would otherwise be payable. In addition, the performance metrics under STAR include both quantitative
+measures (e.g., topline growth, bottom-line profits, free cash flow) and qualitative measures (e.g., relative
+performance, internal controls). These non-metric features mitigate the risk of an executive focusing too much on
+the specific financial metrics under STAR. Moreover, the performance metrics associated with the STAR Company
+Factor (core earnings per share growth and organic sales growth) are aligned with the Company’s business plans
+and strategic objectives.
+Further, the C&LD Committee recognized that the Company’s longer-term incentives include a balanced portfolio
+of stock options, restricted stock units, and performance stock units. These longer-term incentives incorporate a
+variety of payout horizons that focus executives on long-term performance: 10-year terms with three-year cliff-
+vesting for stock options, three-year cliff-vesting for restricted stock units, and a three-year performance period for
+performance stock units granted under the Performance Stock Program (“PSP”). The C&LD Committee also noted
+that the design of the PSP reduces the likelihood that an executive will focus too much on a single performance
+measure by including four different performance categories with weightings of 20% or 30% each that provide for a
+balanced risk profile. The categories are: organic sales growth relative to competitive peers, constant currency core
+before-tax operating profit growth, core EPS growth, and free cash flow productivity. In addition, actual
+performance against goals with respect to each of these performance measures will yield a payout from a
+minimum of 0% to a maximum of 200% of a senior executive’s target incentive opportunity. We believe that using
+this sliding scale approach, versus an all-or-nothing approach, discourages participants from taking unnecessary
+risks. Furthermore, the PSP also includes a relative Total Shareholder Return Multiplier to ensure further
+alignment with shareholder interests. Each of the financial measures is defined and further explained in the CD&A
+section of this proxy statement.
+Finally, the C&LD Committee acknowledged that the Company maintains several policies intended to mitigate
+inappropriate risk-taking, including stock ownership guidelines for senior executives and an insider trading policy
+that prohibits margin and hedging transactions by senior executives. Furthermore, in addition to the mandatory
+Dodd-Frank Recoupment Policy, the Company maintains an additional recoupment policy for all other senior
+executives who are not covered by the Dodd-Frank policy. These policies provide for recoupment of compensation
+in the event of a financial restatement.
+CYBERSECURITY AND INFORMATION SYSTEMS
+The Audit Committee has specific responsibility for reviewing the status of the security of the Company’s
+electronic data processing information systems and the general security, including cybersecurity, of the
+Company’s people, assets, and information systems. In fulfilling its duties, the Audit Committee receives regular
+updates from the Company’s Chief Information Officer and Chief Information Security Officer about the
+Company’s information security and systems security programs and plans, including emerging trends and
+progress on overall enterprise cybersecurity programs and priorities. These updates occur at least three times a
+year, with interim updates as needed. In addition, our ERM process is designed to capture any significant
+enterprise risks, including cybersecurity and other risks related to our information systems. Further, potential and
+actual cybersecurity incidents are communicated to the Chief Information Security Officer, the Ethics &
+Compliance Committee, and the Audit Committee of the Board, based on documented escalation criteria, to
+identify emerging trends and new learnings as well as ensure sufficient risk mitigation.
+2025 Proxy Statement 32

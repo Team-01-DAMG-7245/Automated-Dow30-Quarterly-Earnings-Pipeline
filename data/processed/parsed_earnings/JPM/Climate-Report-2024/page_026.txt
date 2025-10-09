@@ -1,0 +1,54 @@
+Energy Supply Financing Ratio Data Challenges
+We have developed our own methodology to calculate our Energy Supply Financing Ratio (“ESFR”). The ESFR metric Improving the quality, timeliness and availability of data is important for properly measuring emissions and monitoring progress over
+compares the amount of financing supporting low-carbon intensive and zero-carbon (referred to as “Low-Carbon”) energy time. This section summarizes the key points on data considerations and ongoing challenges that we face.
+supply versus that supporting high-carbon intensive and unabated fossil-based (referred to as “High-Carbon”) energy
+supply. While this disclosure metric can provide more insight into the capital that we are providing, we are not aligning our MEASUREMENT VS. ESTIMATION
+financing to meet a specific target for this ratio. The decision to disclose this ratio was made following engagement with our
+There are well-known challenges with the quality and reliability of emissions data in many sectors. This means we sometimes
+shareholders including the New York City Comptroller, which serves as the Trustee for each of the New York City
+rely on estimated versus directly measured emissions data. For example, in the Oil & Gas sector, there are inconsistencies in the
+Public Pension Funds.
+measurement, management and reporting of data across companies, as well as lack of reliable and standardized techniques for
+measurement in certain areas, such as methane emissions. As a result, reported methane emissions rely on estimation methods
+For the year ended December 31, 2023, our ESFR of 1.29x shows that for each dollar supporting High-Carbon energy supply,
+that are less accurate than direct measurement methods. We are working with industry partners and NGOs to help make direct
+1.29 dollars supported Low-Carbon energy supply.
+measurement technologies the preferred method of tracking and reporting methane emissions. More generally, emerging best
+The ESFR disclosure can provide insight into capital formation in the real economy, but it also has limitations. First, it is a
+practices, including companies reporting to organizations that provide data aggregation services and soliciting assurance for
+disclosure metric, not a mechanism to drive energy transition. Banks operate in competitive markets and do not control
+reported GHG emissions data, will help improve emission-related data quality and reliability. To know more about our efforts toward
+the absolute or relative level of financing opportunities available for energy supply. Rather, the energy transition is driven
+helping improve availability and accuracy of methane emissions data, refer to page 11.
+by a range of factors largely outside of an individual bank’s control, including the implementation of policy mechanisms,
+technological advancements and changing consumer preferences. Second, while this metric can provide further insight
+DATA LAG
+into the financing we are providing, it is not a direct proxy for decarbonization activity happening in the economy, or for
+Another challenge we face is with the timely availability of data inputs to calculate carbon intensity. In the Auto Manufacturing sector,
+total energy supply investment dollars. Financing provided by banks only reflects a portion of the total capital deployed by
+for example, availability of certain data from regulatory sources can be significantly delayed — sometimes up to two to three years.
+companies engaged in the supply of energy to power the global economy. Capital provided through companies’ retained
+In such cases, we seek to address gaps using a defined data waterfall approach that may include company-disclosed figures, provided
+earnings, state and federal governments, venture capitalists and private equity firms also plays a key role in supporting the
+they are verified and prepared in line with recommended protocols. Failing that, we use proxy values. As climate- and sustainability-
+investments needs of energy supply sectors.
+focused disclosure becomes more standardized, we expect lags — especially on company-reported data — to reduce gradually.
+We aim to support the energy transition while recognizing the need to continue supporting traditional energy sectors
+to help their decarbonization efforts and promote global energy security, availability, affordability and accessibility. We COMPARABLE METHODOLOGIES
+are focused on helping our clients achieve their business objectives, including their efforts to responsibly reduce their
+While we seek to design and implement robust proxies that minimize the impact on our estimates when preferred data becomes
+emissions today, while diversifying their use of different energy sources over time.
+available, there are cases where this may not be achievable. For example, in our Electric Power portfolio, a small proportion of
+For more information on our approach, details on our methodology and resulting metric, refer to our ESFR methodology. companies for which no data is available receive a default carbon intensity based on a relatively conservative proxy. Unless the
+company’s North America Industry Classification System codes or project financing use of proceeds indicate it to be a zero-emitting
+power producer, in which case it is assigned a carbon intensity of zero, the company is assigned a fuel mix that is equal parts coal
+and natural gas. However, due to the large differences between the emissions intensities of the different fuel types, there could be
+significant differences between estimates and actual data. To mitigate this, we are continuing to work with our clients and other
+stakeholders to improve overall quality and availability of data. We review our data sourcing choices to assess whether better
+alternatives have become available.
+LACK OF DATA ON EMERGING DECARBONIZATION TECHNOLOGIES
+Emerging technologies such as hydrogen, biofuels, and carbon capture, use and storage — will play a key role in helping clients
+decarbonize. However, data availability in these areas remains a significant challenge. Innovative solutions continue to emerge but
+lack the scale today that is necessary to meaningfully impact our portfolio-level emissions intensity. We recognize that data in this
+space is evolving, and we plan to consider viable data solutions as they become available.
+22

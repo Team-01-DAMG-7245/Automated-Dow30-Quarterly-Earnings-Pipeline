@@ -1,0 +1,41 @@
+equity emissions
+2018 2019 2020 2021 2022 SASB ipieca
+direct GHG emissions (scope 1) 4, 5, 6, 7
+direct GHG emissions (scope 1) – all GHGs
+66 62 54 57 53 CCE4: C1/A1
+(million tonnes CO₂e)
+Upstream – all GHGs (million tonnes CO₂e) 8 28 27 23 23 18 EM-EP-110a.1 CCE4: C3
+CO₂ (million tonnes) 25 24 21 20 16
+CH₄ (million tonnes CH₄) 9 0.10 0.10 0.08 0.08 0.07
+CH₄ (million tonnes CO₂e) 9 2.5 2.4 2.1 2.1 1.8
+Other GHGs (million tonnes CO₂e) 0.1 0.1 0.1 0.1 0.1
+Upstream flaring (subset of Scope 1) – all GHGs
+5 5 4 4 3 EM-EP-110a.2 CCE7: C4
+(million tonnes CO₂e)
+CO₂ (million tonnes) 5 4 3 4 3
+CH₄ (million tonnes CH₄) 9 0.02 0.01 0.01 0.01 0.01
+CH₄ (million tonnes CO₂e) 9 0.5 0.4 0.3 0.3 0.2
+Other GHGs (million tonnes CO₂e) < 0.1 < 0.1 < 0.1 < 0.1 < 0.1
+Volume of flares (mmscf) 10 70,000 60,000 50,000 50,000 40,000 CCE7: A1
+Midstream – all GHGs (million tonnes CO₂e) 2 1 1 1 1 EM-MD-110a.1 CCE4: C3
+CO₂ (million tonnes) 2 1 1 1 1
+CH₄ (million tonnes CH₄) 9 < 0.01 < 0.01 < 0.01 < 0.01 < 0.01
+CH₄ (million tonnes CO₂e) 9 < 0.1 < 0.1 < 0.1 < 0.1 < 0.1
+Other GHGs (million tonnes CO₂e) < 0.1 < 0.1 < 0.1 < 0.1 < 0.1
+Downstream – all GHGs (million tonnes CO₂e) 11 20 19 18 20 20 EM-RM-110a.1 CCE4: C3
+CO₂ (million tonnes) 20 19 18 19 19
+CH₄ and other GHGs (million tonnes CO₂e) 0.1 0.1 0.1 0.2 0.2
+Liquefied Natural Gas (LNG) – all GHGs
+9 8 7 8 9 EM-EP-110a.2 CCE4: C3
+(million tonnes CO₂e)
+CO₂ (million tonnes) 9 8 7 8 8
+CH₄ and other GHGs (million tonnes CO₂e) 0.5 0.3 0.2 0.3 0.3
+Chemicals – all GHGs (million tonnes CO₂e) 12, 13 5 5 4 4 4 CCE4: C3
+CO₂ (million tonnes) 5 5 4 4 4
+CH₄ and other GHGs (million tonnes CO₂e) < 0.1 < 0.1 < 0.1 < 0.1 < 0.1
+Other – all GHGs (million tonnes CO₂e) 14 2 1 1 1 1 CCE4: C3
+CO₂ (million tonnes) 2 1 1 1 1
+CH₄ and other GHGs (million tonnes CO₂e) < 0.1 < 0.1 < 0.1 < 0.1 < 0.1
+equity emissions table continues on page 72
+Chevron Corporation 2023 Climate Change Resilience Report
+71

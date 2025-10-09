@@ -1,0 +1,130 @@
+{
+  "page": 64,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 12,
+  "columns": 8,
+  "accuracy": 97.06,
+  "data": [
+    {
+      "0": "a  \u00a0 The amounts deducted or added in calculating the total average equity award adjustments are as follows:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "Average year",
+      "2": "Average",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "Average value",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "end fair value",
+      "2": "change in fair",
+      "3": "",
+      "4": "",
+      "5": "Average",
+      "6": "of dividends or",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "of equity",
+      "2": "value of equity",
+      "3": "",
+      "4": "",
+      "5": "fair value at",
+      "6": "other earnings",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "awards",
+      "2": "awards",
+      "3": "Average fair",
+      "4": "Average",
+      "5": "the end of the",
+      "6": "paid on stock",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "granted in",
+      "2": "granted in",
+      "3": "value as of",
+      "4": "change in fair",
+      "5": "prior year of",
+      "6": "or option",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "the year and",
+      "2": "prior years and",
+      "3": "vesting date of",
+      "4": "value of equity",
+      "5": "equity awards",
+      "6": "awards not",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "outstanding",
+      "2": "outstanding",
+      "3": "equity awards",
+      "4": "awards granted",
+      "5": "that failed",
+      "6": "otherwise",
+      "7": ""
+    },
+    {
+      "0": "",
+      "1": "and unvested",
+      "2": "and unvested",
+      "3": "granted and",
+      "4": "in prior years",
+      "5": "to meet vesting",
+      "6": "reflected in fair",
+      "7": "Total average"
+    },
+    {
+      "0": "",
+      "1": "as of the end",
+      "2": "as of the end",
+      "3": "vested",
+      "4": "that vested in",
+      "5": "conditions",
+      "6": "value or total",
+      "7": "equity award"
+    },
+    {
+      "0": "",
+      "1": "of the year",
+      "2": "of the year",
+      "3": "in the year",
+      "4": "the year",
+      "5": "in the year",
+      "6": "compensation",
+      "7": "adjustments"
+    },
+    {
+      "0": "Year",
+      "1": "($)",
+      "2": "($)",
+      "3": "($)",
+      "4": "($)",
+      "5": "($)",
+      "6": "($)",
+      "7": "($)"
+    }
+  ]
+}

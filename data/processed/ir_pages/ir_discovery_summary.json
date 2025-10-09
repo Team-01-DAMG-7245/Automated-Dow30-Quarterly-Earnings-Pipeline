@@ -1,0 +1,11 @@
+{
+  "discovery_date": "2025-10-09T07:56:35.134080",
+  "total_companies": 30,
+  "successful": 24,
+  "failed": 6,
+  "methods": {
+    "homepage_link": 8,
+    "common_pattern": 16,
+    "edgar_failed": 6
+  }
+}

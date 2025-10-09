@@ -1,0 +1,56 @@
+The Procter & Gamble Company 29
+New Accounting Pronouncements
+Refer to Note 1 to the Consolidated Financial Statements for recently adopted accounting pronouncements and recently issued
+accounting pronouncements not yet adopted as of June 30, 2025.
+OTHER INFORMATION
+Hedging and Derivative Financial Instruments
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates,
+currency exchange rates and commodity prices. We evaluate exposures on a centralized basis to take advantage of natural
+exposure correlation and netting. We leverage the Company's diversified portfolio of exposures as a natural hedge and prioritize
+these operational hedging activities over financial market instruments. To the extent we choose to further manage volatility
+within our financing operations, as discussed below, we enter into various financial transactions which we account for using the
+applicable accounting guidance for derivative instruments and hedging activities. These financial transactions are governed by
+our policies covering acceptable counterparty exposure, instrument types and other hedging practices. See Note 9 to the
+Consolidated Financial Statements for a discussion of our accounting policies for derivative instruments.
+Derivative positions are monitored using techniques including market valuation, sensitivity analysis and value-at-risk modeling.
+The tests for interest rate, currency rate and commodity derivative positions discussed below are based on the RiskManager™
+value-at-risk model using a one-year horizon and a 95% confidence level. The model incorporates the impact of correlation (the
+degree to which exposures move together over time) and diversification (from holding multiple currency, commodity and
+interest rate instruments) and assumes that financial returns are normally distributed. Estimates of volatility and correlations of
+market factors are drawn from the RiskMetrics™ dataset as of June 30, 2025. In cases where data is unavailable in
+RiskMetrics™, a reasonable proxy is included.
+Our market risk exposures relative to interest rates, currency rates and commodity prices, as discussed below, have not changed
+materially versus the previous reporting period. In addition, we are not aware of any facts or circumstances that would
+significantly impact such exposures in the near term.
+Interest Rate Exposure. We are exposed to interest rate movements due to our long and short-term borrowing program. Interest
+rate swaps are used to manage exposures to interest rates on underlying debt obligations. Certain interest rate swaps
+denominated in foreign currencies are designated to hedge exposures to currency exchange rate movements on our investments
+in foreign operations. These currency interest rate swaps are designated as hedges of the Company's foreign net investments.
+Based on our interest rate exposure as of and during the fiscal year ended June 30, 2025, including derivative and other
+instruments sensitive to interest rates, we believe a near-term change in interest rates, at a 95% confidence level based on
+historical interest rate movements, would not materially affect our financial statements.
+Currency Rate Exposure. Because we manufacture and sell products and finance operations in a number of countries
+throughout the world, we are exposed to movements in currency exchange rates. We leverage the Company’s diversified
+portfolio of exposures as a natural hedge. Corporate policy prescribes the range of allowable hedging activity. To manage the
+exchange rate risk associated with the financing of our operations, we primarily use forward contracts and currency swaps with
+maturities of less than 18 months.
+Based on our currency rate exposure on derivative and other instruments as of and during the fiscal year ended June 30, 2025,
+we believe, at a 95% confidence level based on historical currency rate movements, the impact on such instruments of a near-
+term change in currency rates would not materially affect our financial statements.
+Commodity Price Exposure. We use raw materials that are subject to price volatility caused by weather, supply conditions,
+political and economic variables and other unpredictable factors. We may use futures, options and swap contracts to manage the
+volatility related to the above exposures. During the fiscal years ended June 30, 2025 and 2024, we did not have any financial
+commodity hedging activity.
+Measures Not Defined By U.S. GAAP
+In accordance with the SEC's Regulation S-K Item 10(e), the following provides definitions of non-GAAP measures and a
+reconciliation to the most closely related GAAP measure. We believe that these measures provide useful perspective on
+underlying business trends (i.e., trends excluding non-recurring or unusual items) and results and provide a supplemental
+measure of year-on-year results. The non-GAAP measures described below are used by management in making operating
+decisions, allocating financial resources and for business strategy purposes. These measures may be useful to investors, as they
+provide supplemental information about business performance and provide investors with a view of our business results through
+the eyes of management. These measures are also used to evaluate senior management and are a factor in determining their at-
+risk compensation. These non-GAAP measures are not intended to be considered by the user in place of the related GAAP
+measures but rather as supplemental information to our business results. These non-GAAP measures may not be the same as
+similar measures used by other companies due to possible differences in method and in the items or events being adjusted.
+Organic Sales Growth. Organic sales growth is a non-GAAP measure of sales growth excluding the impacts of acquisitions,
+divestitures and foreign exchange from year-over-year comparisons. We believe this measure provides investors with a

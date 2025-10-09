@@ -1,0 +1,40 @@
+Proxy Executive Audit Stock Shareholder Additional
+summary Governance compensation matters ownership proposals information
+Wireless service revenue metric
+One‑third of the 2024 PSUs will vest based on Verizon’s cumulative wireless service revenue (WSR PSUs). The
+percentage of the WSR PSUs awarded for the 2024‑2026 performance cycle that will vest is based on the extent to
+which Verizon’s cumulative wireless service revenue over the performance cycle meets or exceeds the cumulative
+wireless service revenue performance levels set by the Committee at the beginning of the performance cycle.
+Wireless service revenue is defined as Verizon’s cumulative revenue generated from access to and usage of
+Verizon’s wireless network, excluding revenue related to wireless equipment, on a consolidated basis over the
+performance cycle, subject to adjustment to eliminate the financial impact of significant transactions, changes in
+legal or regulatory policy and other extraordinary items.
+The cumulative wireless service revenue target for the 2024‑2026 performance cycle was set at a level reflective of
+our three‑year strategic plan, which the Committee believes is attainable, but challenging in light of the business
+environment. The number of WSR PSUs that will vest ranges from 0%, if actual performance is below the threshold
+level, to 200%, if actual performance is at or above the maximum cumulative wireless service revenue level. The
+number of WSR PSUs that will vest in‑between identified performance levels is determined by linear interpolation
+between vesting percentage levels.
+Total shareholder return modifier
+After the Committee determines the extent to which the EPS PSU, FCF PSU and WSR PSU performance measures
+have been achieved, the overall PSU vesting percentage may be increased or decreased by up to 25% depending on
+Verizon’s TSR position compared with the companies in the S&P 100 as constituted on the date the awards were
+granted. If Verizon ranks at or above the 75th percentile, 25% will be added to the PSU vesting percentage (up to a
+maximum payout of 200%). If Verizon ranks at or below the 25th percentile, 25% will be subtracted from the PSU
+vesting percentage. If Verizon ranks at the median, there will be no change to the PSU vesting percentage, and for
+ranks in between the 25th and 75th percentile, the modifier will be determined by linear interpolation between
+the levels.
+Why these performance measures?
+The Committee selected adjusted EPS, free cash flow and wireless service revenue to focus our executives
+on our long‑term operational goals, with cumulative adjusted EPS focusing on our profitability, cumulative
+free cash flow focusing on our ability to generate cash from operations and cumulative wireless service
+revenue focusing on our ability to be successful in attracting and retaining customers, penetrating key
+markets with our products and services and creating high‑quality growth. The TSR modifier is a valuable
+indicator of our success because it measures our performance in returning value to our shareholders in
+comparison to alternative investments our shareholders could have made. For purposes of measuring our
+TSR positioning, the Committee utilizes the companies in the S&P 100 index because the Committee
+believes that it balances having companies comparable to Verizon’s size in the comparator group with
+having a large enough number of companies to ensure that no one company overly impacts the outcomes
+in a given year and, further, that the S&P 100 is a recognized index, which is easy for shareholders and
+employees to track and understand.
+30 Verizon 2025 Proxy Statement

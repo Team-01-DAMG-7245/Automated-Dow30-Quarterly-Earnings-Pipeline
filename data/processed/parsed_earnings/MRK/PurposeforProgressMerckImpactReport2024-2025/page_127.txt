@@ -1,0 +1,31 @@
+Overview Access to Health Employees Environmental Sustainability Ethics & Values Reporting indices Merck Impact Report 2024/2025 127
+GRI | SASB | UNGC | SDGs | WEF
+GRI # Description Response
+GRI 207 Tax (2019)
+For information on our tax strategy, the responsible party within our Company and our approach to
+207-1 Approach to tax
+compliance, please see our Global Tax Strategy on our corporate website.
+Environmental
+GRI # Description Response
+GRI 301 Materials (2016)
+Management Explanation of the material topic, its boundary, how the topic is managed and mechanisms for
+Pages 85-89
+Approach evaluating the effectiveness of the company's strategy
+GRI 302 Energy (2016)
+Management Explanation of the material topic, its boundary, how the topic is managed and mechanisms for
+Approach evaluating the effectiveness of the company's strategy
+Pages 70-75, 90-91
+302-1 Energy consumption within the organization
+302-4 Reduction of energy consumption
+GRI 303 Water and effluents (2018)
+Management Explanation of the material topic, its boundary, how the topic is managed and mechanisms for
+Approach evaluating the effectiveness of the company's strategy
+303-1 Interactions with water as a shared resource
+Pages 77-79, 93
+303-2 Management of water discharge-related impacts
+303-3 Water withdrawal
+303-4 Water discharge
+GRI 304 Biodiversity (2016)
+304-2 Significant impacts of activities, products and services on biodiversity
+Pages 80-81
+304-3 Habitats protected or restored

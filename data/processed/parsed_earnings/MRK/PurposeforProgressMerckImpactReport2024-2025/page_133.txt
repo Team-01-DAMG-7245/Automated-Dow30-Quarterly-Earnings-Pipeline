@@ -1,0 +1,34 @@
+Overview Access to Health Employees Environmental Sustainability Ethics & Values Reporting indices Merck Impact Report 2024/2025 133
+GRI | SASB | UNGC | SDGs | WEF
+SASB # Description Response
+Drug safety
+250a.1 Products listed in public medical product safety or adverse event alert databases
+FAERS MedWatch
+250a.2 Number of fatalities associated with products
+250a.3 (1) Number of recalls issued, (2) total units recalled FAERS MedWatch, and page 104
+250a.4 Total amount of product accepted for take-back, reuse, or disposal We do not collect data on the amount of product accepted for takeback, reuse or disposal.
+Number of enforcement actions taken in response to violations of good manufacturing practices
+250a.5 Please visit the FDA website for more information.
+(GMP) or equivalent standards, by type
+Counterfeit drugs
+Description of methods and technologies used to maintain traceability of products throughout
+260a.1
+the supply chain and prevent counterfeiting
+Discussion of process for alerting customers and business partners to potential or known risks
+260a.2 Pages 105-106
+associated with counterfeit products
+Number of actions that led to raids, seizure, arrests, or filing of criminal charges related
+260a.3
+to counterfeit products
+Ethical marketing
+Total amount of monetary losses as a result of legal proceedings associated with false
+270a.1 Not reported
+marketing claims
+270a.2 Description of code of ethics governing promotion of off-label use of products Pages 102-103
+Employee recruitment, development and retention
+Discussion of talent recruitment and retention efforts for scientists and research
+330a.1 Pages 47-48
+and development staff
+(1) Voluntary and (2) involuntary turnover rate for: (a) executives/senior managers, (b) mid-level
+330a.2 Page 48
+managers, (c) professionals, and (d) all others

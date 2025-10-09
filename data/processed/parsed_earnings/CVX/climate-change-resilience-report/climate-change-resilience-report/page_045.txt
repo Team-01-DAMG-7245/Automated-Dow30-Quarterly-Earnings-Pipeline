@@ -1,0 +1,83 @@
+Exhibit 27: Methane detection technology in our operations
+technology type* capability benefits current challenges example operations
+satellites • Detection thresholds • Potential to be the • Detection thresholds are Block 0/14, Angola
+range from lowest-cost option by site high and restrict detection
+Eastern Mediterranean, Israel
+25,000 kg/hr to to very large sources
+• Helpful in identifying
+100 kg/hr super-emitters • Limited in producing El Trapial, Argentina
+• Monthly to daily global facility-scale resolution
+Gorgon and Wheatstone LNG, AU
+coverage
+• Does not work on cloudy days
+Tengizchevroil, Kazakhstan
+• Struggles with detection
+over water and identifying Permian Basin, U.S.
+the emitter with multiple
+operators nearby
+• Needs accurate local wind
+data for quantification
+aircraft • Detection thresholds • Leading service providers • Not all technologies Denver-Julesburg Basin, U.S.
+range from 50 kg/hr can likely capture most provide specific source or
+Permian Basin, U.S.
+to less than 3 kg/hr facility emissions emission size information,
+• Scale of hundreds of meaning additional Gorgon and Wheatstone LNG, AU
+detection is needed to
+sites per day
+identify the source Vaca Muerta, Argentina
+Gulf of Mexico, U.S.
+facility-scale periodic • Detection limits of • Ability to scan an entire • Field application requires Agbami/Delta, Nigeria
+monitoring less than 1 kg/hr are site, including areas individual site visits and
+Block 0/14, Angola
+(drone or mobile lab) possible with the right that would otherwise be travel time between sites
+wind conditions and difficult to reach with or platforms Denver-Julesburg Basin, U.S.
+site access handheld devices
+• Challenges near electrical
+Gorgon and Wheatstone LNG, AU
+• Scale of tens of sites power lines and near
+per day in onshore airports for drones Gulf of Mexico, U.S.
+applications
+• Weight of the emissions
+Permian Basin, U.S.
+sensors can reduce battery
+life and limit flight time
+for drones
+facility-scale near- • Detection limits • Potential for 24/7 site • Research and development Denver-Julesburg Basin, U.S.
+continuous monitoring vary with the sensor coverage is needed to scale this
+Permian Basin, U.S.
+(fixed cameras, sensors, etc.) placement and wind approach
+• Could have uses beyond
+conditions and range methane detection • Generally need precise Tengizchevroil, Kazakhstan
+from 25 kg/hr to less
+wind data to interpret
+than 1 kg/hr • May provide information on Wheatstone LNG, AU
+detection results
+the duration of intermittent
+• Equipment is fixed at
+sources
+one site or location
+manual leak detection • Detection limits • Ability to identify • Labor-intensive Block 0/14, Angola
+(handheld screening like OGI vary based on exact location of a source
+• Travel time between sites Denver-Julesburg Basin, U.S.
+and EPA Method 21) environmental of emissions
+and human factors • Third-party services • Human and site factors Eastern Mediterranean, Israel
+but are generally impact results
+available in locations with
+characterized at less regulatory programs • Does not quantify Gorgon and Wheatstone LNG, AU
+than 1 kg/hr emissions
+• Potential to incorporate Gulf of Mexico, U.S.
+• Scale of a few sites into emissions reporting • Can be difficult to reach
+per day for fugitive components elevated sources with Permian Basin, U.S.
+handheld detection tools
+• Current industry and San Joaquin Valley, U.S.
+regulatory approach
+Tengizchevroil, Kazakhstan
+El Trapial, Argentina
+* Since 2016, Chevron has trialed 14 advanced methane detection technologies. Trials have included multiple projects with seven continuous monitoring Commercial use
+devices: Project Canary (Canary X), Scientific Aviation (ChampionX) SOOFIE®, Honeywell Gas Cloud Imaging (GCI and Mini GCI), Aeris MIRA Ultra Mobile LDS,
+Completed or ongoing pilot
+Quanta3 and Qube (Axon). Trials have also involved four aerial survey vendors, Bridger Photonics, Kairos Aerospace, NASA JPL (AVIRIS-NG) and GHGSat; two
+drone-based solutions from SeekOps and DJI (U10); and a satellite provider, GHGSat. Planning stages
+AU = Australia
+Chevron Corporation 2023 Climate Change Resilience Report
+43

@@ -1,0 +1,39 @@
+PRINCIPLES
+AI
+GOVERNANCE
+RESPONSIBLE USE OF AI • Fair and Equitable. We strive to treat people fairly and
+equitably from the design to implementation of AI, including
+As an innovative industrial leader, new technologies like AI
+seeking to identify and mitigate algorithmic bias.
+provide Honeywell tremendous opportunity as we design and
+develop pioneering solutions that address the world’s most • Privacy-Enabled. We strive to safeguard individual
+critical needs. In 2024, Honeywell implemented a Responsible confidentiality, autonomy and control over the use and
+AI Governance Framework to support our deployment of disclosure of Personal Data as feasible, appropriate and legally
+AI responsibly and in compliance with applicable law and required and to protect Honeywell and third-party intellectual
+Company policy. Under the direction of Honeywell’s Data & AI property and data rights.
+Steering Committee comprised of Honeywell senior leaders,
+• Transparent and Explainable. We promote transparency in
+Honeywell’s Responsible AI Governance Framework provides
+our design, function, description and use of AI and endeavor
+appropriate oversight, record keeping and monitoring of AI uses
+to maximize explainability of AI decision-making when feasible
+at the Company. At the core of the Company’s Responsible
+and appropriate.
+AI Governance Framework is a Responsible AI Policy based
+• Sustainable. We are committed to reducing our
+on a set of principles that inform decision making across the
+environmental footprint, including supporting the
+Company’s AI uses. The following are Honeywell’s Responsible
+environmentally and socially conscious use of AI.
+AI Principles:
+• Accountable. We strive to hold ourselves accountable
+through robust AI governance, clear lines of responsibility,
+and monitoring to help ensure continuous improvement. We
+expect our partners to do the same.
+• Safe and Secure. We seek to protect against unintended
+applications, access, or harm associated with our use or
+provision of AI.
+• Valid and Reliable. We aim to employ technology that
+produces appropriately consistent and accurate results and
+incorporates controls designed to help minimize disruptions.
+Honeywell | 2024 IMPACT REPORT | 51

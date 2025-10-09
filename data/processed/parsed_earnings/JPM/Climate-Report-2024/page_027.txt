@@ -1,0 +1,59 @@
+2023i 2017
+Managing Our Operational
+(Baseline year)ii
+3
+GHG EMISSIONS (mtCOe)
+Footprint 2
+Scope 1 GHG Emissions 115,294iii 84,463
+Natural gas 48,232 44,628
+We measure and report our Scope 1, Scope 2 and Scope 3 Category 6 - business travel emissions, as well as
+Propane 50 235
+our progress toward our current operational decarbonization targets.
+Fuel oil 420 1,387
+Operational GHG Emissions Jet fuel 13,059 9,116
+Fugitive emissions 48,658 27,130
+JPMorgan Chase’s reported 2023 operational GHG emissions were driven by two primary activities: powering
+Diesel 2,855 1,648
+our buildings (e.g., electricity, heating and cooling) and business travel. Scope 1 GHG emissions were driven
+Fleet 1,892 51iv
+by our building operations and company-owned aircraft and vehicles. Scope 2 emissions, from purchased
+Other energy usev 128 268
+electricity, remain the largest driver of our building-related emissions and overall operational GHG footprint.
+Scope 2 GHG Emissions (Location-Based) 792,479iii 944,641
+Our Scope 3 business travel-related emissions are largely from commercially operated air travel.
+Purchased electricity 788,837 937,012
+The table on the right summarizes our 2023 operational GHG emissions against our 2017 baseline.
+Purchased steam, district heat and chilled water 3,642 7,629
+As a result of continued improvements in data quality and availability, we updated our emissions calculation Scope 1 GHG Emissions + Scope 2 GHG Emissions (Location-Based) 907,773 1,029,104
+methodology to more accurately measure our operational GHG emissions. Enhancements include expanding Percentage reduction in Scope 1 and Scope 2 (Location-Based) from 2017 baseline -12% —
+our operational boundary definitions, using energy intensity and GHG emissions factors with broader
+GHG emissions intensityvi 5.7 10.3
+geographical coverage, and improved data sources to more accurately reflect our business travel emissions21.
+Scope 2 GHG Emissions (Market-Based) 3,642iii 858,769
+Consequently, we have restated our 2017 baseline using this updated methodology — where possible — and
+Purchased electricity — 851,140
+have calculated our 2023 metrics using the same approach.
+Purchased steam, district heat and chilled water 3,642 7,629
+Scope 1 GHG Emissions + Scope 2 GHG Emissions (Market-Based) 118,936 943,232
+Scope 3 GHG Emissions (Category 6 - business travel)vii 255,481iii 187,713
+Scope 1 GHG Emissions + Scope 2 GHG Emissions (Market-Based) + Scope 3 GHG Emissions (Category 6) 374,417iii 1,130,945
+Verified carbon offsetsviii 374,417iii 175,155
+Net emissions: Scope 1 GHG Emissions + Scope 2 GHG Emissions (Market-Based) + Scope 3 GHG Emissions — 955,790
+(Category 6)
+i. For 2023, we have updated the methodology we use to estimate our v. Includes heavy fuel oils, anthracite coal, biofuels and waste.
+operational GHG emissions. vi. Includes Scope 1 and Scope 2 (location-based) GHG emissions; mtCOe/
+2
+ii. Data for 2017 has not been subject to external verification and may be revised. million USD revenue.
+Restatement of our 2017 baseline using our updated methodology resulted in vii. For 2023, Scope 3 GHG Emissions (Category 6 - business travel) includes:
+a 1.2% increase in the combined total of our Scope 1, Scope 2 (Location-Based) air and rail travel, car rental, ride share, expensed mileage and hotel
+and Scope 3 (Category 6 -business travel) GHG Emissions compared to the stays. For 2017, Scope 3 GHG Emissions (Category 6 - business travel)
+previously reported baseline. includes only air travel data. Due to data limitations, and to align with our
+iii. We engaged an external third-party to perform a limited assurance updated emissions methodology, we applied the percentage breakdown
+engagement over these metrics presented for 2023. Find our Management of haul distances and cabin classes from 2023 air travel data as a proxy to
+Assertion and the Report of Independent Accountants here. calculate 2017 air travel emissions.
+iv. For 2017, emissions from fleet were not updated to the current methodology viii. Carbon offsets, also referred to as "carbon credits" and the market for
+due to data limitations. Total emissions from fleet accounted for them are evolving rapidly. Although we endeavor to source high-quality
+approximately 0.06% of the overall Scope 1 GHG emissions and 0.005% of the carbon credits verified by independent third parties, the ability to use
+overall Scope 1 and Scope 2 (location-based) GHG emissions for 2017. carbon credits to fully and permanently address unabated emissions
+relies on certain assumptions and is subject to debate among experts.
+21 Find our Management Assertion and the Report of Independent Accountants here. 23

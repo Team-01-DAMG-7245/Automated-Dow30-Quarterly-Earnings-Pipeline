@@ -1,0 +1,50 @@
+{
+  "page": 28,
+  "table_number": 2,
+  "method": "stream",
+  "rows": 10,
+  "columns": 2,
+  "accuracy": 73.38,
+  "data": [
+    {
+      "0": "* \u00a0 \u00a0Denotes a chair of a standing committee during 2024.",
+      "1": ""
+    },
+    {
+      "0": "+  \u00a0 Ms. Healey and Mr. Weaver each served on the Board until the beginning of May 2024.",
+      "1": ""
+    },
+    {
+      "0": "^  \u00a0 \u00a0Mr.\u00a0Otis served as Lead Director until December 5, 2024, when Mr. Schulman succeeded him in this role.",
+      "1": ""
+    },
+    {
+      "0": "1",
+      "1": "This column includes all fees earned in 2024, whether the fee was paid in 2024 or deferred."
+    },
+    {
+      "0": "",
+      "1": ""
+    },
+    {
+      "0": "2",
+      "1": "For each non\u2011employee Director, this column reflects the grant date fair value of the non\u2011employee Director\u2019s 2024 annual stock award,"
+    },
+    {
+      "0": "",
+      "1": "computed in accordance with FASB ASC Topic 718. The following reflects the aggregate number of share equivalents held as of"
+    },
+    {
+      "0": "",
+      "1": "December\u00a031, 2024 by each person who served as a non\u2011employee Director during 2024: Ms.\u00a0Archambeau, 58,851; Ms.\u00a0Austin, 24,325;"
+    },
+    {
+      "0": "",
+      "1": "Mr.\u00a0Bertolini, 52,246; Mr.\u00a0Colao, 12,562; Ms.\u00a0Healey, 72,304; Ms. Litchfield, 1,180; Mr.\u00a0Narasimhan, 21,219; Mr.\u00a0Otis, 131,276;"
+    },
+    {
+      "0": "",
+      "1": "Mr.\u00a0Schulman, 33,445; Mr.\u00a0Slater, 88,135; Ms.\u00a0Tom\u00e9, 16,875; and Mr.\u00a0Weaver, 49,218."
+    }
+  ]
+}

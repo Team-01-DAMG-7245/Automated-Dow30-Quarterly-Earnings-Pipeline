@@ -1,0 +1,23 @@
+Non-GAAP Measures
+The Company’s presentation includes the pro forma adjusted debt/EBITDAR ratio at the anticipated closing date of the transaction and the pro forma adjusted
+debt/EBITDAR ratio that the Company expects to achieve over a 24-month period following closing of the transaction. This supplemental information includes non-
+GAAP measures that should not be considered in isolation or as a substitute for the related U.S. GAAP measures. Set forth below is a reconciliation of the pro forma
+adjusted debt/EBITDAR ratio at the anticipated closing date to the most comparable U.S. GAAP measures. Additionally, the Company cannot reconcile the forward-
+looking adjusted debt/EBTIDAR ratio that it expects to achieve over a 24-month period following closing of the transaction to the corresponding U.S. GAAP measures,
+due to variability and difficulty in making accurate forecasts and projections and/or certain information not being ascertainable or accessible, and because not all of the
+information, such as Net Earnings, EBITDAR, and Adjusted Debt, necessary for a quantitative reconciliation of such forward-looking non-GAAP financial measures to
+the most directly comparable U.S. GAAP financial measures is available to the Company without unreasonable efforts.
+Adjusted Debt/EBITDAR
+We believe that our adjusted debt/EBITDAR ratio better enables management and investors to understand and analyze our level of indebtedness in relation to our
+capital structure. We define adjusted debt/EBITDAR as follows:
+Adjusted Debt (Page 14)
+We define adjusted debt as long-term debt (including current installments of long-term debt), plus short-term debt, plus eight times operating rents for the
+trailing twelve months. We continue to use the eight times operating rents methodology to calculate adjusted debt post implementation of Accounting Standards
+Codification Topic 842, Leases, ("Topic 842") as it typically results in a more conservative estimate and is still used by a primary U.S. rating agency.
+EBITDAR (Page 15)
+We define EBITDAR as net earnings before interest and other, net, income taxes, depreciation and amortization, and operating rents calculated on a trailing
+twelve-month basis.
+Adjusted Debt/EBITDAR (Page 15)
+We define adjusted debt/EBITDAR as adjusted debt divided by EBITDAR.
+13
+CONFIDENTIAL

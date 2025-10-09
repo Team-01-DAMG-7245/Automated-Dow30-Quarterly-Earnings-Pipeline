@@ -1,0 +1,45 @@
+Total segment operating income
+The Company evaluates the performance of its operating segments based on segment operating
+income, and management uses total segment operating income (the sum of segment operating income
+from all of the Company’s segments) as a measure of the performance of operating businesses separate
+from non-operating factors. The Company believes that information about total segment operating
+income assists investors by allowing them to evaluate changes in the operating results of the Company’s
+portfolio of businesses separate from non-operational factors that affect net income, thus providing
+separate insight into both operations and other factors that affect reported results.
+The following table reconciles income before income taxes to total segment operating income:
+Quarter Ended Nine Months Ended
+June 28, June 29, June 28, June 29,
+($ in millions) 2025 2024 Change 2025 2024 Change
+Income before income taxes $ 3,211 $ 3,093 4 % $ 9,958 $ 6,621 50 %
+Add (subtract):
+Corporate and unallocated
+shared expenses 410 328 (25) % 1,265 1,027 (23) %
+Equity in the loss of India joint
+venture 50 — nm 186 — nm
+Restructuring and impairment
+charges 185 — nm 437 2,052 79 %
+Other expense — 65 100 % — 65 100 %
+Interest expense, net 324 342 5 % 1,037 899 (15) %
+Amortization of TFCF and Hulu
+intangible assets and fair value
+step-up on film and television
+costs 395 397 1 % 1,188 1,282 7 %
+Total segment operating income $ 4,575 $ 4,225 8 % $ 14,071 $ 11,946 18 %
+Free cash flow
+The Company uses free cash flow (cash provided by operations less investments in parks, resorts
+and other property), among other measures, to evaluate the ability of its operations to generate cash
+that is available for purposes other than capital expenditures. Management believes that information
+about free cash flow provides investors with an important perspective on the cash available to service
+debt obligations, make strategic acquisitions and investments and pay dividends or repurchase shares.
+The following table presents a summary of the Company’s consolidated cash flows:
+Quarter Ended Nine Months Ended
+June 28, June 29, June 28, June 29,
+($ in millions) 2025 2024 2025 2024
+Cash provided by operations $ 3,669 $ 2,602 $ 13,627 $ 8,453
+Cash used in investing activities (1,720) (2,350) (6,193) (4,903)
+Cash used in financing activities (2,537) (898) (8,090) (11,722)
+Impact of exchange rates on cash, cash equivalents and restricted cash 107 (31) 31 (14)
+Change in cash, cash equivalents and restricted cash (481) (677) (625) (8,186)
+Cash, cash equivalents and restricted cash, beginning of period 5,958 6,726 6,102 14,235
+Cash, cash equivalents and restricted cash, end of period $ 5,477 $ 6,049 $ 5,477 $ 6,049
+20

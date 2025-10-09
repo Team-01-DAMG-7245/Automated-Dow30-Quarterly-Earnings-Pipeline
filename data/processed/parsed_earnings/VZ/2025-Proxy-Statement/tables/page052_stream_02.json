@@ -1,0 +1,50 @@
+{
+  "page": 52,
+  "table_number": 2,
+  "method": "stream",
+  "rows": 10,
+  "columns": 2,
+  "accuracy": 91.23,
+  "data": [
+    {
+      "0": "Ms.\u00a0Venkatesh",
+      "1": "0 \n0 \n19,937 \n801,468"
+    },
+    {
+      "0": "Mr.\u00a0Silliman",
+      "1": "0 \n0 \n79,140 \n3,222,303"
+    },
+    {
+      "0": "1",
+      "1": "The amounts include dividend equivalents that were credited on the RSU awards that vested on March\u00a01, 2024, as well as the RSU"
+    },
+    {
+      "0": "",
+      "1": "award for Mr.\u00a0Silliman that vested on February 2, 2024,\u00a0in each case in accordance with the terms of the award. The 2022 PSUs had a"
+    },
+    {
+      "0": "",
+      "1": "vesting percentage of 0% resulting in no payout for this award."
+    },
+    {
+      "0": "2",
+      "1": "For all named executive officers, the amounts in this column include the number of shares acquired on vesting of the third tranche of"
+    },
+    {
+      "0": "",
+      "1": "their 2021 annual RSU award, the second tranche of their 2022 annual RSU award and the first tranche of their 2023 annual RSU"
+    },
+    {
+      "0": "",
+      "1": "award, all of which vested on March\u00a01, 2024, multiplied by $40.20, the closing price of Verizon\u2019s common stock on March\u00a01, 2024. For"
+    },
+    {
+      "0": "",
+      "1": "Mr.\u00a0Silliman, the amount also includes the number of shares acquired on vesting of his special 2022 retention RSU award multiplied by"
+    },
+    {
+      "0": "",
+      "1": "$42.13, the closing price of Verizon\u2019s common stock on the February 2, 2024 vesting date."
+    }
+  ]
+}

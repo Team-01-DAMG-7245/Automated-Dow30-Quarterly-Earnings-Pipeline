@@ -1,0 +1,86 @@
+{
+  "ticker": "CAT",
+  "file_name": "2Q-2025-Glossary-of-Terms.pdf",
+  "parsed_date": "2025-10-08T13:05:51.628129",
+  "text": {
+    "pages": 4,
+    "total_characters": 11728,
+    "page_files": [
+      "page_004.txt",
+      "page_003.txt",
+      "page_002.txt",
+      "page_001.txt"
+    ]
+  },
+  "tables": {
+    "count": 4,
+    "extraction_method": "hybrid (lattice + stream)",
+    "tables": [
+      {
+        "page": 1,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 36,
+        "columns": 1,
+        "csv_file": "page001_stream_00.csv",
+        "json_file": "page001_stream_00.json"
+      },
+      {
+        "page": 2,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 32,
+        "columns": 1,
+        "csv_file": "page002_stream_00.csv",
+        "json_file": "page002_stream_00.json"
+      },
+      {
+        "page": 3,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 38,
+        "columns": 1,
+        "csv_file": "page003_stream_00.csv",
+        "json_file": "page003_stream_00.json"
+      },
+      {
+        "page": 4,
+        "table_number": 0,
+        "method": "stream",
+        "rows": 9,
+        "columns": 1,
+        "csv_file": "page004_stream_00.csv",
+        "json_file": "page004_stream_00.json"
+      }
+    ]
+  },
+  "images": {
+    "count": 4,
+    "images": [
+      {
+        "page": 1,
+        "type": "full_page",
+        "filename": "page001_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 2,
+        "type": "full_page",
+        "filename": "page002_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 3,
+        "type": "full_page",
+        "filename": "page003_full.png",
+        "resolution": 150
+      },
+      {
+        "page": 4,
+        "type": "full_page",
+        "filename": "page004_full.png",
+        "resolution": 150
+      }
+    ]
+  }
+}

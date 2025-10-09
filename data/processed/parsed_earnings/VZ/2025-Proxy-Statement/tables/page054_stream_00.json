@@ -1,0 +1,101 @@
+{
+  "page": 54,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 13,
+  "columns": 5,
+  "accuracy": 95.29,
+  "data": [
+    {
+      "0": "Pension benefits",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "Present\u00a0value\u00a0of",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "Number\u00a0of\u00a0years",
+      "3": "accumulated",
+      "4": "Payments\u00a0during"
+    },
+    {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "1",
+      "4": ""
+    },
+    {
+      "0": "Name",
+      "1": "Plan name",
+      "2": "credited\u00a0service\u00a0(#)",
+      "3": "benefit  ($)",
+      "4": "last fiscal year ($)"
+    },
+    {
+      "0": "(a)",
+      "1": "(b)",
+      "2": "(c)",
+      "3": "(d)",
+      "4": "(e)"
+    },
+    {
+      "0": "Mr.\u00a0Malady",
+      "1": "Verizon Wireless Retirement",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Plan\u00a0\u2013\u00a0Qualified",
+      "2": "24",
+      "3": "26,597",
+      "4": "0"
+    },
+    {
+      "0": "Ms.\u00a0Venkatesh",
+      "1": "Verizon Management Pension",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Plan\u00a0\u2013\u00a0Qualified",
+      "2": "24",
+      "3": "68,564",
+      "4": "0"
+    },
+    {
+      "0": "",
+      "1": "Verizon Excess Pension",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    {
+      "0": "",
+      "1": "Plan\u00a0\u2013\u00a0Nonqualified",
+      "2": "20",
+      "3": "5,096",
+      "4": "0"
+    },
+    {
+      "0": "Mr.\u00a0Silliman",
+      "1": "MCI\u00a0\u2013\u00a0Qualified",
+      "2": "27",
+      "3": "9,780",
+      "4": "0"
+    }
+  ]
+}

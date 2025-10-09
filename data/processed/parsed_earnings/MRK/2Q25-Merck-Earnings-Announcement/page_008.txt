@@ -1,0 +1,40 @@
+- 8 -
+is the first perioperative anti-PD-1 treatment regimen for adults with resectable locally advanced
+HNSCC whose tumors express PD-L1 (CPS ≥1). In addition, the Ministry of Health, Labor and
+Welfare (MHLW) in Japan approved WELIREG as monotherapy for the treatment of adults with
+von Hippel-Lindau (VHL) disease-associated tumors, and for adults with unresectable or
+metastatic RCC that has progressed after chemotherapy.
+At the 2025 American Society of Clinical Oncology Annual Meeting, the Company
+announced new research across more than 25 types of cancer in multiple treatment settings.
+Data were presented for several candidates, including MK-1084, an investigational oral
+selective KRAS G12C inhibitor, and from the Company’s pipeline of antibody-drug conjugates
+(ADCs). The Company also presented data from Phase 3 trials evaluating new combination
+regimens with KEYTRUDA, and longer-term data for studies of KEYTRUDA and WELIREG,
+with the KEYTRUDA studies including people with earlier stages of cancer.
+The Company announced results from the Phase 3 KEYNOTE-B96 trial (also known as
+ENGOT-ov65) evaluating KEYTRUDA plus chemotherapy, which met its primary endpoint of
+progression-free survival (PFS) for the treatment of patients with platinum-resistant recurrent
+ovarian cancer whose tumors express PD-L1 and in all comers, as well as a secondary
+endpoint of overall survival (OS) in patients whose tumors express PD-L1. In addition, a pre-
+specified interim analysis of the Phase 3 KEYNOTE-937 study found that compared to placebo,
+KEYTRUDA did not show a statistically significant improvement in the primary endpoint of
+recurrence-free survival for certain patients with hepatocellular carcinoma. Also, a pre-specified
+interim analysis of the Phase 3 LEAP-014 trial found that KEYTRUDA plus Lenvima, in
+combination with platinum-based chemotherapy, did not show a statistically significant
+improvement in its primary endpoint of OS compared to KEYTRUDA plus chemotherapy for the
+first-line treatment of patients with metastatic esophageal squamous cell carcinoma (ESCC).
+In vaccines and infectious diseases, the Company received FDA approval of
+ENFLONSIA for the prevention of respiratory syncytial virus (RSV) lower respiratory tract
+disease in newborns and infants who are born during or entering their first RSV season.
+ENFLONSIA is the first and only RSV preventive option administered to infants using the same
+dose regardless of weight. The CDC’s Advisory Committee on Immunization Practices (ACIP)
+also recommended ENFLONSIA for the prevention of RSV in infants younger than 8 months of
+age born during or entering their first RSV season. In addition, the Company announced
+initiation of the MOBILIZE-1 Phase 3 trial evaluating V181, an investigational single-dose
+quadrivalent vaccine for the prevention of dengue disease.
+In addition, the FDA accepted a New Drug Application (NDA) for doravirine/islatravir, an
+investigational, once-daily, oral, two-drug regimen for the treatment of adults with virologically
+suppressed HIV-1 based on the Phase 3 MK-8591A-051 and MK-8591A-052 trials. The FDA set
+a Prescription Drug User Fee Act (PDUFA) date of April 28, 2026. The Company also
+announced the initiation of the EXPrESSIVE Phase 3 trials for MK-8527, its investigational
+once-monthly oral candidate for HIV pre-exposure prophylaxis (PrEP).

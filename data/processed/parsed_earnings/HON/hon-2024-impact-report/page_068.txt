@@ -1,0 +1,29 @@
+ESG DATA
+ESG Data Sheet
+Category Metric 2022 2023
+Total energy consumed, gigajoules 16,462,506 16,198,587
+% grid electricity 37% 36%
+Energy Management
+% renewable 1% 1%
+Energy intensity, billion British thermal units/$M revenue 0.440 0.420
+Hazardous Waste Total hazardous waste generated, metric tons 13,414 13,595
+Total water withdrawal, thousand cubic meters 20,986 21,401
+% water withdrawal in water-stressed locations, as defined by SASB 23% 20%
+Water Management
+Projects completed in water-stressed locations since 2013 185 195
+Water saved from projects in water-stressed regions since 2013, thousand cubic meters 625 662
+Sustainability Projects5 Number of sustainability projects completed since 2010 6,300 6,500
+Total recordable incident rate (TRIR) for direct employees 0.20 0.18
+TRIR weighted industry average 1.73 1.81
+Workforce Health and Safety6 Total lost workday case incident rate (LWCIR) 0.1 0.1
+LWCIR weighted industry average 0.66 0.67
+Fatality rate for direct employees⁷ 0.000 0.001
+% revenue >60% >60%
+Sustainability-Oriented Solutions8
+% new product research and development ~ 60% ~60%
+% manufacturing sites with ISO 9001 / AS 9001 93% 92%
+% manufacturing sites with ISO 14001 / RC 14001 37% 37%
+Certification
+% manufacturing sites with ISO 45001 / OHSAS 18001 / VPP 38% 39%
+Number of sites with ISO 50001 26 28
+Honeywell | 2024 IMPACT REPORT | 68

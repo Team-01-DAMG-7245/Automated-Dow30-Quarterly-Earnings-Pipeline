@@ -1,0 +1,52 @@
+42 The Procter & Gamble Company
+New Accounting Pronouncements and Policies
+On July 1, 2024, we adopted the Accounting Standards Update (ASU) No. 2023-07, “Segment Reporting: Improvements to
+Reportable Segment Disclosures". This guidance requires disclosure of incremental segment information on an annual and
+interim basis. This amendment was effective for our fiscal year ended June 30, 2025, and will be effective for our interim
+periods within the fiscal year ending June 30, 2026. This standard was applied retrospectively to all periods presented in the
+financial statements and resulted in additional disclosures. See Note 2.
+In December 2023, the Financial Accounting Standards Board (FASB) issued ASU No. 2023-09, “Income Taxes:
+Improvements to Income Tax Disclosures". This guidance requires consistent categories and greater disaggregation of
+information in the rate reconciliation and disclosures of income taxes paid by jurisdiction. This amendment is effective for our
+fiscal year ending June 30, 2026. The guidance will require additional disclosures in the Income Taxes footnote but will not
+have a material impact on our Consolidated Financial Statements.
+In November 2024, the FASB issued ASU No. 2024-03, “Income Statement—Reporting Comprehensive Income—Expense
+Disaggregation Disclosures: Disaggregation of Income Statement Expenses”. This guidance requires disclosures about
+significant expense categories, including but not limited to, inventory purchases, employee compensation, depreciation,
+amortization and selling expenses. This amendment is effective for our fiscal year ending June 30, 2028 and our interim periods
+within the fiscal year ending June 30, 2029. We are currently assessing the impact of this guidance on our disclosures.
+No other new accounting pronouncement issued or effective during the fiscal year had, or is expected to have, a material impact
+on our Consolidated Financial Statements.
+NOTE 2
+SEGMENT INFORMATION
+Under U.S. GAAP, our operating segments are aggregated into five reportable segments: 1) Beauty, 2) Grooming, 3) Health
+Care, 4) Fabric & Home Care and 5) Baby, Feminine & Family Care. Our five reportable segments are comprised of:
+• Beauty: Hair Care (Conditioners, Shampoos, Styling Aids, Treatments); Personal Care (Antiperspirants and Deodorants,
+Personal Cleansing); Skin Care (Facial Moisturizers, Cleaners and Treatments);
+• Grooming: Grooming (Appliances, Female Blades & Razors, Male Blades & Razors, Pre- and Post-Shave Products, Other
+Grooming);
+• Health Care: Oral Care (Toothbrushes, Toothpastes, Other Oral Care); Personal Health Care (Gastrointestinal, Pain Relief,
+Rapid Diagnostics, Respiratory, Vitamins/Minerals/Supplements, Other Personal Health Care);
+• Fabric & Home Care: Fabric Care (Fabric Enhancers, Laundry Additives, Laundry Detergents); Home Care (Air Care,
+Dish Care, P&G Professional, Surface Care); and
+• Baby, Feminine & Family Care: Baby Care (Baby Wipes, Taped Diapers and Pants); Feminine Care (Adult Incontinence,
+Menstrual Care); Family Care (Paper Towels, Tissues, Toilet Paper).
+While none of our reportable segments are highly seasonal, components within certain reportable segments, such as Appliances
+(Grooming) and Personal Health Care (Health), are seasonal.
+The accounting policies of the segments are generally the same as those described in Note 1. Differences between these policies
+and U.S. GAAP primarily reflect income taxes, which are reflected in the segments using applicable blended statutory rates.
+Adjustments to arrive at our effective tax rate are included in Corporate. In addition, capital expenditures in the segments are on
+an accrual basis consistent with the balance sheet. Adjustments to move from an accrual to cash basis, for purposes of the cash
+flow statement, are reflected in Corporate.
+Corporate includes certain operating and non-operating activities that are not reflected in the operating results used internally to
+measure and evaluate the businesses, as well as items to adjust management reporting principles to U.S. GAAP. Operating
+activities in Corporate include the results of incidental businesses managed at the corporate level. Operating elements also
+include certain employee benefit costs, the costs of certain restructuring-type activities to maintain a competitive cost structure,
+including manufacturing and workforce optimization, asset impairment charges and other general Corporate items. The non-
+operating elements in Corporate primarily include interest expense, certain pension and other postretirement benefit costs,
+certain acquisition and divestiture gains, interest and investing income and other financing costs.
+The Company’s Chief Operating Decision Maker (CODM) is the Chief Executive Officer. As the Company allocates taxes to
+individual segments, the CODM uses Earnings before income taxes and Net earnings to assess segment performance and
+allocate resources in the budgeting and forecasting process. The CODM does not use assets by segment to evaluate
+performance or allocate resources. Therefore, we do not disclose assets by segment.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

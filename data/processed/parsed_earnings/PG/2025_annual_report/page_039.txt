@@ -1,0 +1,59 @@
+The Procter & Gamble Company 27
+Realization of net operating losses and other carryforwards is dependent upon generating sufficient taxable income in the
+appropriate jurisdiction prior to the expiration of the carryforward periods, which involves business plans, planning
+opportunities and expectations about future outcomes. Although realization is not assured, management believes it is more
+likely than not that our deferred tax assets, net of valuation allowances, will be realized.
+We operate in multiple jurisdictions with complex tax policy and regulatory environments. In certain of these jurisdictions, we
+may take tax positions that management believes are supportable but are potentially subject to successful challenge by the
+applicable taxing authority. These interpretational differences with the respective governmental taxing authorities can be
+impacted by the local economic and fiscal environment.
+A core operating principle is that our tax structure is based on our business operating model, such that profits are earned in line
+with the business substance and functions of the various legal entities in the jurisdictions where those functions are performed.
+However, because of the complexity of transfer pricing concepts, we may have income tax uncertainty related to the
+determination of intercompany transfer prices for our various cross-border transactions. We have obtained and continue to
+prioritize the strategy of seeking advance rulings with tax authorities to reduce this uncertainty. We estimate that our current
+portfolio of advance rulings reduces this uncertainty with respect to over 70% of our global earnings. We evaluate our tax
+positions and establish liabilities in accordance with the applicable accounting guidance on uncertainty in income taxes. We
+review these tax uncertainties considering changing facts and circumstances, such as the progress of tax audits, and adjust them
+accordingly. We have several audits in process in various jurisdictions. Although the resolution of these tax positions is
+uncertain, based on currently available information, we believe that the ultimate outcomes will not have a material adverse
+effect on our financial position, results of operations or cash flows.
+Because there are several estimates and assumptions inherent in calculating the various components of our tax provision, certain
+future events such as changes in tax legislation, geographic mix of earnings, completion of tax audits or earnings repatriation
+plans could have an impact on those estimates and our effective tax rate. See Note 5 to the Consolidated Financial Statements
+for additional details on the Company's income taxes.
+Employee Benefits
+We sponsor various postretirement benefits throughout the world. These include pension plans, both defined contribution plans
+and defined benefit plans, and other postretirement benefit (OPRB) plans consisting primarily of health care and life insurance
+for retirees. For accounting purposes, the defined benefit pension and OPRB plans require assumptions to estimate the net
+projected and accumulated benefit obligations, including the following variables: discount rate; expected salary increases;
+certain employee-related factors, such as turnover, retirement age and mortality; expected return on assets; and health care cost
+trend rates. These and other assumptions affect the annual expense and net obligations recognized for the underlying plans. Our
+assumptions reflect our historical experiences and management's best judgment regarding future expectations. As permitted by
+U.S. GAAP, the net amount by which actual results differ from our assumptions is deferred. If this net deferred amount exceeds
+10% of the greater of plan assets or liabilities, a portion of the deferred amount is included in expense for the following year.
+The cost or benefit of plan changes, such as increasing or decreasing benefits for prior employee service (prior service cost), is
+deferred and included in expense on a straight-line basis over the average remaining service period of the employees expected
+to receive benefits.
+The expected return on plan assets assumption impacts our defined benefit expense since many of our defined benefit pension
+plans and our primary OPRB plan are partially funded. The process for setting the expected rates of return is described in Note
+8 to the Consolidated Financial Statements. For 2025, the average return on assets assumptions for pension plan assets and
+OPRB assets was 6.0% and 8.5%, respectively. A change in the rate of return of 100 basis points for both pension and OPRB
+assets would impact annual after-tax benefit/expense by approximately $155 million.
+Since pension and OPRB liabilities are measured on a discounted basis, the discount rate impacts our plan obligations and
+expenses. Discount rates used for our U.S. defined benefit pension and OPRB plans are based on a yield curve constructed from
+a portfolio of high-quality bonds for which the timing and amount of cash outflows approximate the estimated payouts of the
+plan. For our international plans, the discount rates are set by benchmarking against investment grade corporate bonds rated AA
+or better. The average discount rate on the defined benefit pension plans of 4.2% represents a weighted average of local rates in
+countries where such plans exist. A 100 basis-point change in the discount rate would impact annual after-tax benefit expense
+by approximately $85 million. The average discount rate on the OPRB plan of 5.9% reflects the higher interest rates generally
+applicable in the U.S., which is where most of the plan participants receive benefits. A 100 basis-point change in the discount
+rate would impact annual after-tax OPRB expense by approximately $20 million. See Note 8 to the Consolidated Financial
+Statements for additional details on our defined benefit pension and OPRB plans.
+Goodwill and Intangible Assets
+Significant judgment is required to estimate the fair value of our goodwill reporting units and intangible assets. Accordingly, we
+typically obtain the assistance of third-party valuation specialists for those goodwill reporting units and intangible assets that do
+not have fair values that significantly exceed their underlying carrying values. Determining the useful life of an intangible asset
+also requires judgment. Certain brand intangible assets are expected to have indefinite lives based on their history and our plans
+to continue to support and build the acquired brands. Other acquired intangible assets (e.g., certain brands, customer
+relationships, patents and technologies) are expected to have determinable useful lives. Our assessment as to brands that have

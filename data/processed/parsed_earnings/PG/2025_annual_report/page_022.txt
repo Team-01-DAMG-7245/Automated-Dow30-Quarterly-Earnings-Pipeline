@@ -1,0 +1,47 @@
+10 The Procter & Gamble Company
+The CISO also leads the design and development of the Company’s cybersecurity program, relying on functional experts within
+the central Information Security organization as well as on information security experts within each of the Company’s
+Organizational Units. These embedded experts are responsible for the execution of the Company’s overall information security
+strategy and report security risks in their area of responsibility to their Organization Unit leader and to the CISO. Experts within
+the Company’s central Information Security organization help develop the Company’s cybersecurity strategies, policies and
+standards and similarly report security risks within the central enterprise to the CISO.
+A central team within the Company leads enterprise-wide incident investigations and response, assisting and consulting on
+cyber security incidents impacting individual Organizational Units. Alerts of potential incidents can arise from security tool
+alerts, employee reports, threat intelligence sources, threat hunting activities or external entities, among other sources. The
+Company's Security Operations Center initially responds to incident alerts and notifies central experts to any potentially
+significant cybersecurity incidents. Members of the Security Operations Center and relevant response teams work to contain
+and eradicate potential and identified threats and support the system’s recovery efforts, advised as needed by the Legal
+department and other Company experts. Incidents are communicated to the CISO and other members of management, including
+the Company’s Ethics & Compliance Committee, as well as the Audit Committee of the Board, based on documented
+escalation criteria. The central enterprise team also regularly reviews incident reports to update the CISO.
+As described above, both the CIO and CISO report information about the Company’s identification and management of
+cybersecurity risks to the Audit Committee.
+Item 2. Properties.
+In the U.S., we own and operate 24 manufacturing sites located in 18 different states. In addition, we own and operate 75
+manufacturing sites in 32 other countries. Many of the domestic and international sites manufacture products for multiple
+businesses. Beauty products are manufactured at 21 of these locations; Grooming products at 17; Health Care products at 20;
+Fabric & Home Care products at 34; and Baby, Feminine & Family Care products at 36. We own our Corporate headquarters in
+Cincinnati, Ohio. We own or lease our principal regional general offices in Switzerland, Panama, Singapore, China and the
+United Arab Emirates. We own or lease our principal regional shared service centers in Costa Rica, the United Kingdom and
+the Philippines. Management believes that the Company's sites are adequate to support the business and that the properties and
+equipment have been well maintained.
+Item 3. Legal Proceedings.
+The Company is subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a
+wide range of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental issues,
+patent and trademark matters, labor and employment matters and tax. In addition, SEC regulations require that we disclose
+certain environmental proceedings arising under Federal, State or local law when a governmental authority is a party and such
+proceeding involves potential monetary sanctions that the Company reasonably believes will exceed a certain threshold ($1
+million or more).
+On November 22, 2023, Procter & Gamble UK (“P&G UK”), a United Kingdom based wholly owned subsidiary of the
+Company, received notification from the U.K. Environment Agency of its intent to assess an unspecified civil penalty for P&G
+UK’s prior inadvertent failure to secure a required permit for its London-based manufacturing site under the European Union’s
+and United Kingdom’s Emission Trading Systems. Among other requirements, these Emissions Trading Systems require
+registration of the site and accounting of and payment for certain past greenhouse gas emissions. The site has been properly
+registered since March 2021, and P&G UK proactively notified the U.K. Environment Agency after learning of the prior issue.
+In July 2025, the U.K. Environmental Agency notified P&G UK of its intent to impose a civil penalty of less than $2 million.
+The matter is not yet resolved.
+There are no other relevant matters to disclose under this Item for this period. See Note 13 to our Consolidated Financial
+Statements for information on certain legal proceedings for which there are contingencies.
+This item should be read in conjunction with the Company's Risk Factors in Part I, Item 1A for additional information.
+Item 4. Mine Safety Disclosure.
+Not applicable.

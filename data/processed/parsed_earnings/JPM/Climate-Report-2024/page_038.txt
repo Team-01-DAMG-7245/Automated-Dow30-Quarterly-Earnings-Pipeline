@@ -1,0 +1,29 @@
+List of Acronyms
+AWM Asset & Wealth Management EV Electric vehicle mtCOe Metric ton of carbon dioxide equivalent
+2
+CAF Carbon Assessment Framework EVIC Enterprise value including cash MW Megawatt
+CASS Corporate Advisory and Sustainable Solutions FEC Firmwide Environmental Committee MWh Megawatt hour
+CCB Consumer & Community Banking gCO Grams of carbon dioxide NGFS Network for Greening the Financial System
+2
+CCT Center for Carbon Transition gCOe Grams of carbon dioxide equivalent OC Operating Committee
+2
+CCUS Carbon capture, utilization, and storage GEB Green Economy Banking PCAF Partnership for Carbon Accounting Financials
+CDR Carbon dioxide removal GHG Greenhouse gas PPAs Power Purchase Agreements
+CEO Chief Executive Officer GSSS Green, Social, Sustainability and Sustainability-linked RCP Representative Concentration Pathway
+CFO Chief Financial Officer ICE Internal combustion engine RECs Renewable Energy Certificates
+CIB Commercial & Investment Bank IEA International Energy Agency RTK Revenue tonne-kilometers
+CLSA Climate Location Site Assessment IEA NZE International Energy Agency Net Zero Emissions by 2050 Scenario SAF Sustainable aviation fuel
+CO Carbon dioxide IFM Improved Forest Management SBE SB Energy
+2
+CP The NGFS Current Policies scenario IPCC Intergovernmental Panel on Climate Change SDT Sustainable Development Target
+CRO Chief Risk Officer JPMAM J.P. Morgan Asset Management SEC Securities and Exchange Commission
+DNZE The NGFS Divergent Net Zero scenario kgCO Kilograms of carbon dioxide t Metric ton
+2
+E&P Exploration & Production km Kilometer tCO Metric ton of carbon dioxide
+2
+N&S Nature and Social LOBs Lines of Business tCOe Metric ton of carbon dioxide equivalent
+2
+EACs Energy Attribute Certificates M&A Merger and Acquisitions TCFD Task Force on Climate-Related Financial Disclosures
+ESFR Energy Supply Financing Ratio MJ Megajoule t-nm Metric ton nautical mile
+ESG Environmental, Social and Governance mt Metric ton U.S. United States
+34

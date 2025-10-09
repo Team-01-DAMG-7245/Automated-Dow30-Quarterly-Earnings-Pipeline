@@ -1,0 +1,43 @@
+The Procter & Gamble Company 37
+Consolidated Balance Sheets
+Amounts in millions except stated values; as of June 30 2025 2024
+Assets
+CURRENT ASSETS
+Cash and cash equivalents $ 9,556 $ 9,482
+Accounts receivable 6,185 6,118
+INVENTORIES
+Materials and supplies 2,022 1,617
+Work in process 1,012 929
+Finished goods 4,516 4,470
+Total inventories 7,551 7,016
+Prepaid expenses and other current assets 2,100 2,095
+TOTAL CURRENT ASSETS 25,392 24,709
+PROPERTY, PLANT AND EQUIPMENT, NET 23,897 22,152
+GOODWILL 41,650 40,303
+TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 21,910 22,047
+OTHER NONCURRENT ASSETS 12,381 13,158
+TOTAL ASSETS $ 125,231 $ 122,370
+Liabilities and Shareholders' Equity
+CURRENT LIABILITIES
+Accounts payable $ 15,227 $ 15,364
+Accrued and other liabilities 11,318 11,073
+Debt due within one year 9,513 7,191
+TOTAL CURRENT LIABILITIES 36,058 33,627
+LONG-TERM DEBT 24,995 25,269
+DEFERRED INCOME TAXES 5,774 6,516
+OTHER NONCURRENT LIABILITIES 6,120 6,398
+TOTAL LIABILITIES 72,946 71,811
+SHAREHOLDERS' EQUITY
+Convertible Class A preferred stock, stated value $1 per share (600 shares authorized) 777 798
+Non-Voting Class B preferred stock, stated value $1 per share (200 shares authorized) — —
+Common stock, stated value $1 per share (10,000 shares authorized; shares issued:
+2025 - 4,009.2, 2024 - 4,009.2) 4,009 4,009
+Additional paid-in capital 68,770 67,684
+Reserve for ESOP debt retirement (672) (737)
+Accumulated other comprehensive loss (12,143) (11,900)
+Treasury stock (shares held: 2025 - 1,667.3; 2024 - 1,652.2) (138,702) (133,379)
+Retained earnings 129,973 123,811
+Noncontrolling interest 272 272
+TOTAL SHAREHOLDERS' EQUITY 52,284 50,559
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY $ 125,231 $ 122,370
+See accompanying Notes to Consolidated Financial Statements.

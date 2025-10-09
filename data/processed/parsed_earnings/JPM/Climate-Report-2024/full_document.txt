@@ -1,0 +1,1619 @@
+2024
+Climate
+Report
+
+=== PAGE BREAK ===
+
+Notes
+A NOTE ON OUR BUSINESS
+JPMorgan Chase & Co. provides financial services for individuals and industries across geographies — regardless of political, social or religious viewpoints. We deal in facts and don’t describe our policies,
+A NOTE ON OUR TARGETS
+procedures or progress differently based on who’s asking. Our ambition is to work with shareholders, clients, customers and communities around the world to fulfill banking’s essential purpose of helping
+people, businesses of all sizes and vital institutions — like schools, hospitals and governments — achieve their goals. We set targets to do our part in seeking a
+sustainable and inclusive future using our
+We make independent business decisions for the Firm. We don’t “boycott.” We manage risk. own independent assessment of what we
+determine is reasonable, achievable and will
+We make business decisions to advance the long-term We support clients around the globe and in every state Managing risk is critical to the long-term success of our business
+serve the best interest of our business and our
+interests of the Firm and its shareholders, including serving in the U.S., across industries, religions and political and required by our regulators. We make risk-based assessments,
+clients. We note that our targets are subject to
+our clients, supporting our employees and helping our affiliations. We proudly serve more than 82 million including legal, credit, market, reputational and regulatory, to
+other prerequisites and critical considerations,
+communities. We work with a broad array of organizations consumer customers in the U.S., 6.4 million small drive decisions and advance the interests of our constituencies.
+both within and outside our control, that may
+that advance those interests, even if we don’t support businesses and hundreds of thousands of companies in
+affect our ability to meet them. These include
+every position taken. Firm decisions are always made critical economic sectors. We do not make decisions based
+the necessity of technological advancements;
+independently and based on business principles. on political or social agendas.
+data quality and availability; the evolution of
+consumer behavior and demand; the business
+decisions of our clients, who are responsive
+We want to compete. We believe in free enterprise. We value engagement.
+to their own stakeholders; the need for
+Our ability to compete, in both established and new Markets and economies of all sizes benefit when free and We believe the best answers reside in engagement and discourse. thoughtful public policies; the potential impact
+markets, is critical to the long-term success of our business. fair enterprise thrives — creating innovation, competition When policymakers seek input to tackle challenges, we want to of legal and regulatory obligations; market
+We decide where and how we choose to compete by and maximizing value for shareholders, clients, customers help. We know that our success requires working closely with conditions; climate science; commercial
+assessing risk and opportunity, not to further political or and communities. Government intervention of free market government and stakeholders on sound public policy that grows considerations; and the challenge of balancing
+social agendas. principles, or attempting to use businesses to advance a the economy and lifts up communities. Throughout our history, we short-term targets with the need to facilitate
+political or social agenda, sets a dangerous precedent. have engaged with officials from all parties to address the world’s an orderly transition and energy security and
+most pressing needs, and we look forward to continuing to do so. affordability. We plan to continue to evaluate
+our targets and our approach to them and may
+make any adjustments we deem necessary in
+light of the aforementioned considerations.
+
+=== PAGE BREAK ===
+
+DISCLAIMERS
+The information provided in this report reflects JPMorgan Chase & Co.’s approach to environmental-, climate- and governance-related matters as at the date of this report and is subject to change without notice. We do not undertake to update any of such information in
+this report. Any references to “sustainable investing”, “sustainable investments”, “ESG” or similar terms in this report are intended as references to the internally defined criteria of JPMorgan Chase or our businesses only, as applicable, and not to any jurisdiction-specific
+regulatory definition.
+Our approach to inclusion of disclosures in this report is informed by the Task Force on Climate-related Financial Disclosures (“TCFD”) recommendations and is different from disclosures included in mandatory regulatory reporting, including under Securities and Exchange
+Commission (“SEC”) regulations. While this report describes events, including potential future events, that may be significant, any significance does not necessarily equate to the level of materiality of disclosures required under law, including U.S. federal securities law.
+This report is not intended to, nor can it be relied on, to create legal relations, rights or obligations.
+This report is intended to highlight some of the work of JPMorgan Chase in environmental — including climate — and governance-related areas; it is not comprehensive or necessarily representative of all of our activities in those areas. As outlined in our public reporting,
+JPMorgan Chase continues to work with and has exposure to clients and organizations across industries, including Oil & Gas, Utilities, Metals & Mining, Transportation and Chemicals & Plastics.
+This report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements relate to, among other things, our goals, targets, aspirations, approaches and objectives, and are based on the current beliefs
+and expectations of JPMorgan Chase’s management and are subject to significant risks and uncertainties, many of which are beyond JPMorgan Chase’s control. Expected results or actions may differ from, and JPMorgan Chase makes no guarantee that it will meet or
+follow, the anticipated goals, targets and approaches set forth in the forward-looking statements. Factors that could cause JPMorgan Chase’s actual results to differ materially from those described in the forward-looking statements include the necessity of technological
+advancements; data quality and availability; the evolution of consumer behavior and demand; the business decisions of our clients, who are responsive to their own stakeholders; the need for thoughtful public policies; the potential impact of legal and regulatory
+obligations; market conditions; and the challenge of balancing short-term targets with the need to facilitate an orderly transition and energy security and affordability. Additional factors can be found in JPMorgan Chase’s Annual Reports on Form 10-K, Quarterly Reports on
+Form 10-Q and Current Reports on Form 8-K filed with the SEC. Those reports are available on JPMorgan Chase’s website (https://jpmorganchaseco.gcs-web.com/ir/sec-other-filings/overview) and on the Securities and Exchange Commission’s website (https://www.sec.gov/).
+JPMorgan Chase does not undertake to update any forward-looking statements.
+This report does not include all applicable terms or issues and is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction or a recommendation for any investment product or strategy. Any and
+all transactions (including potential transactions) presented herein are for illustration purposes only. This material does not and should not be deemed to constitute an advertisement or marketing of the Firm’s products and/or services or an advertisement to the public.
+No reports, documents or websites that are cited or referred to in this report shall be deemed to form part of this report. Information contained in this report that has been obtained from third-party sources, including those publicly available, is believed to be reliable,
+but no representation or warranty is made by JPMorgan Chase as to the quality, completeness, accuracy, fitness for a particular purpose or non-infringement of such information. Sources of third-party information referred to herein retain all rights with respect to such
+data and use of such data by JPMorgan Chase herein shall not be deemed to grant a license to any third party. The use of any third-party trademarks or brand names is for informational purposes only and does not imply an endorsement by JPMorgan Chase or that such
+trademark owner has authorized JPMorgan Chase to promote its products or services.
+
+=== PAGE BREAK ===
+
+Contents
+Introduction 1 Governance 4 Strategy 6
+Message from Our Chairman & CEO 1 Board of Directors 4 Our Environmental Sustainability Strategy 6
+Company at a Glance 2 Senior Management 4 Scaling Green Solutions 6
+Executive Overview 2 Balancing Environmental, Social and Economic Needs 8
+Managing Our Operational Footprint 12
+Accountability, Transparency and Engagement 14
+Metrics & Targets 16 Risk Management 25 Appendices 32
+Measuring Our Progress 16 Our Climate Risk Framework 25 Absolute Financed and Facilitated Emissions:
+PCAF-aligned Metrics 32
+Scaling Green Solutions 16 Risk Governance 26
+List of Acronyms 34
+Balancing Environmental, Social and Economic Needs 17 Scenario Analysis 26
+Managing Our Operational Footprint 23 Risk Identification 27
+Risk Types 29
+Other Risk Types 31
+
+=== PAGE BREAK ===
+
+Introduction
+Message from Our Chairman & CEO
+At JPMorgan Chase, our financing helps power the global economy, supporting We developed a data-driven and investment-focused methodology for calculating this Technology, data quality, consumer behavior, clients’ business decisions and market
+energy security and the ongoing transition to a low-carbon economy. As one of the ratio, to provide a forward-looking view on how our energy financing supports real conditions remain crucial prerequisites to making progress. Constructive government
+world’s largest financiers of both low-carbon and traditional energy, we understand economy investments in energy supply. leadership and policy is also necessary, particularly on taxes, permitting, energy
+that economic growth, energy security and affordability, and sustainability are grids, infrastructure and technological innovation. We will continue to do our part.
+As we continue to iterate this metric, we will engage investors, industry participants
+interconnected. We seek to enable inclusive, sustainable economic growth because it’s
+and other stakeholders about our approach.
+good for business; when our clients, customers and communities do well, we do too.
+This Climate Report highlights our work with clients to support their goals and Jamie Dimon
+As society seeks to avoid the worst impacts of climate change, it also requires
+the global transition to a low-carbon-economy, and details how we are working Chairman & CEO, JPMorgan Chase & Co.
+affordable and secure energy to thrive. Scaling zero-carbon energy is a critical path
+to address emissions from our financing and facilitation activities. This includes
+forward, but it will take time and it critically must include technological innovation
+reporting on our climate-related metrics, such as our goal to finance and facilitate
+and public policy done well — in addition to financial support — to make it possible to
+$1 trillion to support the development and scaling of climate initiatives by 2030;
+meet the growing energy demand.
+our nine net zero-aligned targets for key sectors of our portfolio; and our absolute
+This energy transition presents an enormous commercial opportunity. It’s estimated financed and facilitated emissions. While we’re proud of the progress we’ve made
+that over $5 trillion is needed each year to scale low- and zero-carbon technologies, deploying our capital, data and expertise to support our clients, we also make our
+and we want to be the bank of choice for companies seeking advice and financing for own decisions, use our judgment, make adjustments as needed and speak with our
+those investments. own voice. This includes continuing to evaluate our targets and our approach to them,
+considering the latest science and technology, macroeconomic trends, commercial
+Following extensive engagement with our shareholders, we are one of the first U.S.
+impacts and our clients’ business needs.
+banks to publish an Energy Supply Financing Ratio, which provides additional insight
+on our energy financing, specifically our financing of low-carbon energy supply We continue to strengthen our efforts across our businesses to support the climate-
+relative to high-carbon energy supply. Our investors are interested in more insight and sustainability-related banking and investment needs of clients and individuals,
+into finance we are providing to support client demand for real economy investment and to contribute to the growth of the sustainable and green financing markets.
+in both low-carbon and high-carbon energy supply and how that relative share of We believe supporting our clients, through capital and advice, in their low-carbon
+investment is shifting over time. transition objectives creates positive environmental benefits and generates long-term
+financial returns for our shareholders.
+1
+
+=== PAGE BREAK ===
+
+Executive Overview
+QUICK LINKS
+ESFR methodology
+Our Net Zero-Aligned Targets
+In this report, we provide details on our approach to climate-related efforts including:
+Our approach to setting net zero-aligned targets (Carbon Compass®
+methodology) and progress as of December 31, 2023 • How our corporate governance practices are designed to support the identification
+We continue our efforts to align key sectors of our financing portfolio1 with net zero
+and management of climate-related risks and opportunities;
+Our absolute financed and facilitated emissions emissions outcomes. To date, we have set nine net zero-aligned targets for eight
+sectors — Oil & Gas, Electric Power, Auto Manufacturing, Aviation, Shipping, Iron &
+• How our business is responding to climate risks and opportunities, including
+Our operational GHG emissions
+Steel, Cement and Aluminum — aligned with the International Energy Agency’s Net
+our evolving approach for supporting our clients’ climate goals and the global
+Our 2023 ESG Report Zero by 2050 scenario.
+transition to a low-carbon economy;
+Our Annual Sustainable Bond Report We developed our Carbon Assessment Framework (“CAF”) to help assess our clients’
+• How we are measuring our performance and how we are making progress toward
+decarbonization plans. CAF creates an opportunity for us to engage with our clients,
+our climate targets, including our actions to align key sectors of our lending and
+understand their views, plans and constraints, as well as their capital needs. We
+underwriting portfolio with net zero emissions; and
+use CAF as one element of our decision-making; for each new proposed in-scope
+• How we identify, assess and manage climate risks within our risk
+transaction, our CAF provides decision-makers at the Firm with insights into how the
+management framework.
+Company at a Glance transaction may impact a portfolio’s carbon intensity.
+We may adjust our efforts over time.
+At this time, we are not setting targets for additional sectors of our portfolio due
+JPMorgan Chase & Co. (“JPMorgan Chase”, the “Firm” or “we”) is a financial This report has been informed by the Task Force on Climate-related Financial to factors including data limitations, lack of available decarbonization pathways
+services company based in the United States of America (“U.S.”), with Disclosures (“TCFD”) recommendations. Our Climate Report Data Tables include a and commercial considerations. Our focus remains on helping our clients’
+U.S. branches in 48 states and Washington D.C., 309,926 employees in 65 TCFD Index that maps our disclosures to the TCFD recommendations. decarbonization efforts, understanding their regional and business characteristics,
+countries worldwide and $3.9 trillion in assets as of December 31, 2023. The and supporting today’s energy needs while creating long-term value for our business
+All data in this report is as of December 31, 2023, unless otherwise noted.
+Firm is a leader in investment banking, financial services for consumers and and shareholders. We plan to continue playing our part in the energy transition by
+small businesses, commercial banking, financial transaction processing and providing strategic advice to our clients, leveraging our balance sheet and connecting
+Energy Supply Financing Ratio
+asset management. Under the J.P. Morgan and Chase brands, the Firm serves capital seekers with providers. We also plan to continue engaging with the public
+millions of customers, predominantly in the U.S., and many of the world’s sector, governments, regulators and policymakers on climate-related matters and to
+We have developed our own methodology to calculate our Energy Supply Financing
+most prominent corporate, institutional and government clients globally. continue to report on details of our approach and progress.
+Ratio (“ESFR”). The ESFR metric compares the amount of financing supporting low-
+Effective in the second quarter of 2024, the Firm reorganized its reportable carbon intensive and zero-carbon (referred to as “Low-Carbon”) energy supply versus To learn more about our net zero-aligned targets and our CAF, please refer to
+business segments by combining the former Corporate & Investment Bank that supporting high-carbon intensive and unabated fossil-based (referred to as pages 9–11.
+and Commercial Banking business segments to form one reportable segment, “High-Carbon”) energy supply. While this disclosure metric can provide more insight
+the Commercial & Investment Bank (“CIB”). As a result of the reorganization, into the capital that we are providing, we are not aligning our financing to meet a
+the Firm now has three reportable business segments, as well as a Corporate specific target for this ratio. The decision to disclose this ratio was made following
+segment. The Firm’s consumer business is the Consumer & Community engagement with our shareholders including the New York City Comptroller, which
+Banking (“CCB”) segment. The Firm’s wholesale businesses are the CIB and serves as the Trustee for each of the New York City Public Pension Funds.
+Asset & Wealth Management (“AWM”) segments. For further information,
+For the year ended December 31, 2023, our ESFR of 1.29x shows that for each dollar
+refer to the Business Segment Results of our Form 10-Q for the six month
+supporting High-Carbon energy supply, 1.29 dollars supported Low-Carbon energy supply.
+period ending on June 30, 2024.
+For more information on our approach, details on our methodology and resulting
+metric, refer to page 22 and our ESFR methodology.
+1 Our financing portfolio is defined to include all lending, tax-oriented investments and capital markets activity with in-scope clients. 2
+
+=== PAGE BREAK ===
+
+The below table summarizes our performance against our net zero aligned targets, as of December 31, 2023. While we have Helping Grow the Market for Green and Sustainable Finance
+made progress toward some of our targets, our progress on others remains relatively flat as compared to their respective
+We use our capital and expertise to support our clients and customers, as well as the growth of the green and sustainable markets,
+baselines, and we recognize that year-on-year fluctuations will occur. Further detail on our performance is provided in
+with the aim of helping accelerate the global transition to a low-carbon economy while also contributing to socioeconomic
+pages 17–20.
+development and inclusive growth.
+JJPPMMOORRGGAANN CCHHAASSEE PPRROOGGRREESSSS
+PORTFOLIO Our $1 trillion Green objective — which we set in April 2021 as part of our broader $2.5 trillion Sustainable Development
+UNIT OF CARBON 2030 NET ZERO- Portfolio Carbon Change in Portfolio
+SECTOR Target (“SDT”) — is intended to support the development and scaling of climate initiatives and sustainable resource
+MEASUREMENT INTENSITY ALIGNED TARGETS Intensity as of Carbon Intensity
+BASELINE December 31, 2023 from Baseline management. Collectively, since setting our target in 2021 through December 31, 2023, we have financed and facilitated $242 billion
+toward our $1 trillion Green objective (refer to page 6). While we pursue our SDT, including the Green objective, we note that it is
+29.5 subject to other prerequisites and critical considerations, both within and outside our control.
+gCO / MJ 45.9 34.8 -24.1%
+2 -36% from baseline
+Energy Mix
+We continue to strengthen our efforts across our lines of business (“LOBs”) to support the climate- and sustainability-related
+banking and investment needs of clients and individuals. Refer to page 7 for more information on our efforts.
+-45% Our Own Operations and Supply Chain
+gCOe / MJ 4.9 4.7 -4.0%
+Oil & Gas 2 from baseline
+Operational
+We strive to manage the environmental impact of our own operations and supply chain. Our approach includes managing our
+energy and carbon footprint, constructing and operating more sustainable buildings and implementing leading practices in
+105.3 sustainable sourcing and resource management. Our strategy for energy and carbon footprint management is guided by the
+kgCO / MWh 342.6 268.8 -21.5%
+2 -69% from baseline
+Electric Power concept of the greenhouse gas (“GHG”) mitigation hierarchy, designed to prioritize actions with the largest potential impact on
+emissions reduction (refer to pages 12–13). We also aim to engage with suppliers who are working to improve their environmental
+sustainability (refer to page 15).
+86.1
+gCOe / km 164.8 126.4 -23.3%
+Auto 2 -48% from baseline
+Managing Climate Risks
+Manufacturing
+We aim to manage our business, and the associated risks, in service of the interests of our clients, customers and investors and to
+625.0
+gCO / RTK 972.6 808.0 -16.9% protect the safety and soundness of the Firm. Our climate risk framework outlines the capabilities we employ to identify, assess,
+2 -36% from baseline
+Aviation
+manage and quantify the potential impacts of physical and transition risk, which we view as drivers of each of our four risk types. To
+assess the range of potential climate-driven paths and outcomes, we apply an array of scenarios to our internal risk processes, as
+8.4 appropriate. Refer to pages 25–31 for additional information on how we are managing physical and transition risks through our
+gCO / t-nm 11.4 11.9 4.9%
+2 -26% from baseline
+Shipping existing risk types.
+tCOe / t 0.981
+2 1.412 1.390 -1.5%
+crude steel -30% from baseline
+Iron & Steel
+kgCOe / t
+2 460.0
+cementitious 639.3 634.6 -0.7%
+-28% from baseline
+Cement product
+tCO / t 6.5
+2 8.6 8.8 2.2%
+aluminum -24% from baseline
+Aluminum
+3
+
+=== PAGE BREAK ===
+
+Governance
+Our corporate governance practices are designed to help us serve the diverse interests of our stakeholders, including customers, clients, employees, shareholders and communities in which we operate. We believe that our continued success is rooted in our steadfast
+adherence to our Business Principles, which are centered around strengthening, safeguarding and growing our company over the long term. We assess and refine our governance structures, processes and controls, as appropriate.
+The illustration on the following page outlines how environmental sustainability and climate-related matters are overseen by the Board of Directors (“the Board”) and senior management within the Firm’s LOBs.
+Senior Management
+Board of Directors
+Our management structure is designed to encourage leadership that is consistent with our corporate standards. With respect to
+The Board is responsible for oversight of the business and affairs of the Firm on behalf of shareholders. Oversight of ESG
+climate-related matters, senior management’s responsibilities include consideration of climate-related risks in the Firm’s strategy
+matters, including those related to environmental sustainability and climate, is an important part of the Board’s work. In
+and operations, implementation of strategic climate-related business initiatives and review of progress against climate-related
+2023, some of the topics discussed during Board and Committee meetings included climate risk, climate and ESG-related
+public targets.
+disclosures, and laws and regulations regarding access to financial services.
+The Firm’s most senior management body is the Operating Committee (“OC”), which is composed of our Chief Executive Officer
+In addition, the principal standing Board committees — Public Responsibility Committee, Compensation & Management
+(“CEO”), Chief Risk Officer (“CRO”), Chief Financial Officer (“CFO”), General Counsel, CEOs of each of the LOBs and other senior
+Development Committee, Risk Committee, Audit Committee and Corporate Governance & Nominating Committee — operate
+executives, such as our Global Head of Corporate Responsibility. The OC and Board of Directors receive updates from the CRO, the
+pursuant to written charters and oversee ESG-related matters within their scope of responsibility. These charters and the
+Global Head of Sustainability, the Global Head of the Corporate Advisory2, LOB CEOs and other senior leaders on climate-related
+Firm’s Corporate Governance Principles guide the Board’s governance and oversight functions. Our annual Proxy Statement
+initiatives, as appropriate. For more information on the Corporate Advisory team, refer to page 7.
+includes additional information about the membership and responsibilities of each committee.
+Leveraging the Firm’s emerging expertise on environmental topics, various climate-related initiatives across LOBs are periodically
+Climate- and ESG-related matters are part of our director education program. In 2023, directors participated in programs
+managed through LOB-led business reviews. The Firmwide Environmental Committee (“FEC”) provides senior oversight and
+on a number of subjects, including sustainability updates, the Firm’s climate risk management framework and climate- and
+decision-making on the Firm's strategy, definitions, methodologies, standards and practices related to environmental (including
+ESG-related disclosures.
+climate) initiatives, products, targets and public messaging. Co-chaired by the CRO and the Global Head of Sustainability, the FEC’s
+membership includes senior leaders from across the Firm and the firmwide Climate, Nature and Social Risk Executive, among others.
+The co-chairs of the FEC are responsible for escalating information to the Board of Directors and its committees, as appropriate.
+2 In 2024, we renamed the Corporate Advisory & Sustainable Solutions (“CASS”) to Corporate Advisory. 4
+
+=== PAGE BREAK ===
+
+Organizational Illustration
+BOARD OF DIRECTORS
+RELEVANT OPERATING COMMITTEE MEMBERS
+Responsible for developing and implementing corporate strategy and managing operations, including ESG and climate-related matters
+FIRMWIDE SENIOR SUSTAINABILITY LEADERS
+FIRMWIDE
+Responsible for strategy and execution on ESG and climate-related matters
+ENVIRONMENTAL
+COMMITTEE
+Provides senior oversight
+and decision making on the
+Head of Climate, Global Head Chief Head of Global Head Head of Head of Global Head of Business J.P. Morgan Asset J.P. Morgan Global
+Firm’s strategy, definitions,
+Nature & Social of Sustainability Administrative ESG Investor of Corporate Green Economy Markets Sustainability Practices for Management Global Private Bank Head
+methodologies, standards
+Risk Officer Relations Advisory Banking Center Consumer Banking Head of Sustainable of Sustainable
+and practices related to
+Investing and Stewardship Investing
+environmental (including
+climate) initiatives,
+products, targets and
+BUSINESS AND FUNCTIONAL TEAMS
+public messaging
+e.g., J.P. Morgan Asset Management Sustainable Investing and Stewardship, Center for Carbon Transition, Green Economy Banking and Operational Sustainability
+5
+
+=== PAGE BREAK ===
+
+Strategy
+Our Environmental Sustainability Strategy Scaling Green Solutions
+1
+To meet energy demand and global long-term climate and sustainability goals, the world will need to
+We aim to help our clients navigate the challenges and realize the economic opportunities of the transition to a low-carbon economy. We believe
+develop and deploy a host of clean technologies, business models and other solutions. As a global financial
+supporting our clients, through capital and advice, in their low-carbon transition objectives creates positive environmental benefits and generates
+institution, we believe we can support these goals by providing financing and strategic advice to clients and
+long-term financial returns for our shareholders. We also strive to manage our own carbon footprint and the impact our corporate offices, bank
+by helping investors put their capital to work.
+branches and data centers have on the environment.
+These efforts are guided by the three pillars of our environmental sustainability strategy — scaling green solutions; balancing environmental, social Mobilizing Capital to Support Climate and
+and economic needs; and managing our operational footprint — all of which is underpinned by our ongoing focus on accountability, transparency Sustainable Solutions
+and engagement.
+Developing and implementing solutions to advance the transition to a sustainable, low-carbon economy will
+require significant capital, including capital to deploy and scale clean energy solutions to meet the world’s
+growing energy needs. At JPMorgan Chase, we aim to support the transition by putting our capital and
+Our Environmental Sustainability Strategy
+expertise to work.
+1 2 3 For example, our $1 trillion Green objective — which we set in April 2021 as part of our broader $2.5 trillion
+Sustainable Development Target (“SDT”) — is intended to support the development and scaling of climate
+SCALING GREEN BALANCING ENVIRONMENTAL, MANAGING OUR
+initiatives and sustainable resource management. Refer to page 16 for details of our progress toward our $1
+SOLUTIONS SOCIAL AND ECONOMIC NEEDS OPERATIONAL FOOTPRINT
+trillion Green objective. While we pursue our SDT, including the Green objective, we note that it is subject to other
+Focusing our efforts to meet client needs and Supporting global efforts toward net Managing the environmental footprint
+prerequisites and critical considerations, both within and outside our control. We plan to continue to evaluate
+on scaling solutions the world will need for zero GHG emissions by 2050 while of our own operations, including in our
+the SDT and make our own decisions on our approach to it. We may make any adjustments to our targets that we
+long-term environmental sustainability balancing energy access, reliability, buildings, branches and data centers
+deem necessary in light of considerations including the latest climate science and technology, macroeconomic
+security and affordability
+trends, commercial impacts and our clients’ business needs. To learn more on our SDT, including the activities
+it is designed to support and amplify across our business, refer to pages 9–13 of our 2023 ESG Report.
+We aim to support the green and sustainable markets through our own sustainable bond issuances. In 2023,
+the Firm issued one Green Bond (one benchmark issuance) for an aggregate total notional of $2 billion. For
+more information on our Sustainable Bond issuances, refer to our 2023 Annual Sustainable Bond Report and
+ACCOUNTABILITY, TRANSPARENCY AND ENGAGEMENT
+Sustainable Bond Framework.
+Reporting regularly and engaging with a diverse set of stakeholders to identify and
+advance best practices and new opportunities We also believe we can play a part in helping support a more robust and effective voluntary carbon market.
+Our Carbon Market Principles outlines our perspective on the role that the voluntary carbon market plays;
+current market challenges; and how we are working to support the integrity and functioning of the voluntary
+carbon market, including by purchasing high-quality carbon credits to address our residual operational GHG
+emissions (refer to page 23) and engaging with clients on carbon credit-related transactions.
+6
+
+=== PAGE BREAK ===
+
+Supporting Our Clients and Providing Climate-Related Solutions to Consumers and Investors
+We aim to provide clients with diverse and innovative solutions to support their business and climate goals, while helping to grow the market for green and sustainable financing. As such, we continue to strengthen our efforts across our LOBs to support the climate- and
+sustainability-related banking and investment needs of clients and individuals.
+COMMERCIAL & INVESTMENT BANK Our sustainable finance capital markets teams continue to expand our capabilities CONSUMER AND COMMUNITY BANK
+in the sustainability-themed debt and debt-like markets to support our clients’
+At JPMorgan Chase, we are focused on helping our clients meet their climate goals. We continue to support our customers’ transition to electric vehicles (“EVs”) by
+sustainability-related activities. With over $36.7 billion in green, social, sustainable
+We aim to do this by providing our clients with strategic advice, by deploying our helping them access financing to support their purchases. We provide financing
+and sustainability-linked bonds underwritten in 2023,3 we are one of the leaders in
+capital and expertise to help them in their efforts to reduce their operational for electric and hybrid vehicles, which consumers can find on our online auto
+the market for sustainability-themed debt issuances.
+emissions and, where appropriate, by advising them in their efforts in transitioning marketplace and through our private label relationships with EV manufacturers. We
+their business model toward a low-carbon future. also offer an online EV Education Center, which helps consumers learn about, find
+ASSET & WEALTH MANAGEMENT
+and purchase electric and hybrid vehicles.
+Our Corporate Advisory team helps clients achieve their long-term strategic goals
+Our global and diversified franchise allows us to offer climate-conscious financial
+through the delivery of holistic advice along with leading merger and acquisitions
+options to interested clients, including a growing range of climate- and sustainability-
+(“M&A”) and capital markets solutions. Comprised of six verticals — Corporate Finance
+related products and services through our AWM businesses. We aim to give
+Advisory, M&A Structuring, Ratings Advisory, Infrastructure Finance Advisory, the CASE STUDY SB ENERGY: HELPING BUILD A RENEWABLE ENERGY FUTURE
+individuals, families and institutions the tools they need to meet their goals.
+Center for Carbon Transition (“CCT”) and Sustainable Solutions — the Corporate We are providing financing to support SB Energy (“SBE”), a utility-scale solar,
+Our Global Sustainable Investing and Stewardship team at J.P. Morgan Asset
+Advisory team partners with coverage and product teams across the CIB, as well as energy storage and technology platform. SBE operates across the U.S., with more
+Management (“JPMAM”) provides cross-asset research and insights on thematic ESG
+Corporate Sustainability, to deliver differentiated climate-focused solutions to our than 25 GW of solar and storage projects in its pipeline. In 2024, JPMorgan Chase
+issues, including climate risk; works with clients to build and implement sustainable
+global client base. The team also works to develop and implement the Firm’s strategy closed a $75 million4 participation in a $700 million corporate credit facility to
+investing solutions; and helps lead JPMAM investment stewardship activities,
+to align, over time, our financing portfolio with net zero emissions and oversees the support SBE’s expansion. In addition to this financing, we also provide services to
+including proxy voting and investee company engagement. To learn more about
+implementation of our Carbon Assessment Framework (“CAF”). For more information SBE through our tax-oriented investments and investment banking teams.
+these efforts, refer to the JPMAM 2024 Global TCFD Report and the JPMAM 2023
+on our targets and the CAF, refer to pages 8–11 and pages 17–20.
+Investment Stewardship Report.
+Within CIB Markets, the Global Markets Sustainability Center works with product
+Through J.P. Morgan Global Private Bank, which provides high-net-worth clients,
+teams and aims to accelerate the development of tailored sustainability and
+climate solutions across asset classes by incorporating investors’ preferences and endowments and foundations with access to a breadth of strategies across equities, CASE STUDY ELECTRIC HYDROGEN: SUPPORTING DECARBONIZATION
+fixed income, alternatives and multi-asset portfolios, we continue to expand our THROUGH FINANCING GREEN HYDROGEN INNOVATION
+sustainability criteria into investment strategies. These efforts focus on helping
+Sustainable Investing offerings. To help clients achieve their sustainable investing
+clients gain exposure to distinct risk and reward profiles, while also helping to Green hydrogen is expected to serve as an alternative fuel in the energy
+goals, we have expanded our platform to include strategies focused on topics such as
+transition their portfolios to a low-carbon economy based on investors interests. transition, helping to decarbonize hard-to-abate industries including steel,
+clean energy transition, sustainable transportation and circular economy. In 2023, we
+fertilizer, shipping and aviation. With a gigafactory in Massachusetts and two
+Our Green Economy Banking team (“GEB”) provides subject matter expertise, banking
+introduced new values-based investment offerings through OpenInvest. These give
+operating plants in California, Electric Hydrogen manufactures, delivers and
+solutions and specialized credit underwriting to companies primarily focused on
+clients the enhanced ability to personalize their investment strategies based on their
+commissions electrolyzer plants that produce low-cost green hydrogen at scale.
+decarbonization technologies, products and services. GEB serves businesses in North
+values, including on topics such as deforestation, sustainable agriculture, greenhouse
+We are providing financing to help support the growth of Electric Hydrogen. In
+America and the Europe, Middle East and Africa regions across three coverage areas
+gas emissions and ocean-harming.
+2024, JPMorgan Chase participated in a $100 million5 credit facility to support
+— renewable energy, sustainable finance and climate tech.
+Electric Hydrogen’s growth and operations. In addition, we continue to provide
+the company with treasury and investment banking solutions.
+3 Dealogic Sustainable Finance Review, Syndicated Bonds, Loans and Equity — Full Year 2023. Note that third-party estimates of green, social, sustainable and sustainability-linked (“GSSS”) bond underwriting may be different from JPMC-produced data for GSSS bond underwriting in our
+Sustainable Development Target (“SDT”).
+4 This transaction is eligible to count toward our SDT. Per our SDT methodology, only JPMorgan Chase’s apportioned share of the transaction is counted toward our SDT progress.
+5 Reflects total credit facility value. This transaction is eligible to count toward our SDT. Per our SDT methodology, only JPMorgan Chase’s apportioned share of the transaction is counted toward our SDT progress. 7
+
+=== PAGE BREAK ===
+
+Balancing Environmental, Social and Economic Needs
+2
+Achieving long-term inclusive and sustainable growth globally requires balancing Addressing Our Financed and Facilitated Since setting our first portfolio-level decarbonization targets in 2021, we have
+environmental needs, societal advancement and economic stability. While the world continued assessing additional carbon-intensive sectors of our portfolio for potential
+Emissions Through Our Net Zero-Aligned
+needs to work toward environmental goals such as achieving net zero GHG emissions target setting, as well as enhanced our existing targets to reflect the changing world
+Targets
+by 2050, it needs to do so in a way that supports the world’s growing energy around us. At this time, we are not setting targets for additional sectors of our
+demand and fosters equitable energy access, reliability, security and affordability. portfolio due to factors including data limitations, lack of available decarbonization
+We are focused on doing our part to support the transition by helping our clients
+For us, recognizing the balance needed to achieve long-term sustainability informs pathways and commercial considerations. Instead, we believe we can more effectively
+achieve their net zero objectives. Leveraging our expertise and balance sheet, we aim
+our approach to environmental initiatives. Our initiatives are rooted in how we do contribute by continuing to engage with our clients, offering tailored, sector-specific
+to provide strategic advice and financing solutions to help our clients achieve their
+business: this means serving our customers, clients and communities while running a advice that reflects their unique needs and decarbonization goals. As market
+decarbonization goals.
+healthy and vibrant company. dynamics, climate science and technology, and public policy evolve, we may
+We continue our efforts to align key sectors of our financing portfolio6 with net zero
+revise our approach.
+Examples of this work include using our capital and expertise to support clients in
+emissions outcomes. To date, we have set nine net zero-aligned targets for eight
+advancing their low-carbon transition goals, and in turn, advancing progress toward We remain focused on supporting our clients’ decarbonization objectives and driving
+sectors — Oil & Gas, Electric Power, Auto Manufacturing, Aviation, Shipping, Iron &
+our own net zero-aligned targets (refer to pages 8–11 and 17–20); deploying our progress toward our nine net zero-aligned targets. We plan to continue to evaluate
+Steel, Cement and Aluminum — aligned with the International Energy Agency’s Net
+philanthropic capital to support initiatives that help vulnerable communities globally our targets and make our own decisions on our approach to them. We may make
+Zero by 2050 scenario.
+advance their resilience to climate change (refer to page 52 in our 2023 ESG Report); any adjustments to our targets that we deem necessary in light of considerations
+As a bank, we rely on global advancements in decarbonization technologies and
+and evaluating and managing potential risks — such as nature and social risks — including the latest climate science and technology, macroeconomic trends,
+strategies across various sectors to create opportunities to support our clients’
+within our business (refer to page 31). commercial impacts and our clients’ business needs. On the following page, we
+transition efforts. Without significant progress by both our clients and the wider
+summarize key elements of our approach and our strategy for progressing toward
+economy, our ability to support the transition, and in turn progress toward our
+our targets, while in pages 17–20 we provide baselines and performance to date
+targets, is constrained. Specifically, our progress toward our targets is reliant on the
+toward our net zero-aligned targets. We also include disclosure of our financed and
+diversification of energy supply and increased adoption of cleaner sources of energy
+facilitated absolute emissions for selected sectors of our portfolio, refer to page 21.
+by demand-side sectors.
+For more information on our approach to setting our net zero-aligned targets and
+Furthermore, the necessary shift in global energy supply and demand requires a
+calculating our absolute financed and facilitated emissions, refer to our Carbon
+multi-faceted approach that includes not only capital deployment but also policy
+Compass® methodology.
+incentives, broader societal behavior changes, and rapid advancement of low- and
+We are also disclosing our own Energy Supply Financing Ratio, for additional detail
+zero-carbon technologies to support energy security and affordability. As policy
+see our ESFR methodology and page 22.
+incentives and societal demand for climate and industrial solutions grow, more
+capital will begin to flow into these solutions.
+6 Our financing portfolio is defined to include all lending, tax-oriented investments and capital markets activity with in-scope clients. 8
+
+=== PAGE BREAK ===
+
+Our Carbon Assessment Framework Key Aspects of Our Carbon Assessment Framework
+We developed our Carbon Assessment Framework (“CAF”) with the aim of
+QUANTITATIVE ASSESSMENT QUALITATIVE ASSESSMENT
+providing a consistent, comprehensive and data-driven approach to assess our
+clients’ emissions and decarbonization plans. For each new proposed in-scope
+Current Client is scored relative to carbon intensity performance within the
+Holistic view of the client's plans and actions to achieve its decarbonization plans including:
+transaction, our CAF provides decision-makers at the Firm with insights into Carbon Intensity same sector portfolio
+how the transaction may impact a portfolio’s carbon intensity. Client’s Board oversight and corporate governance of climate-related matters
+Forecasted
+Client is scored relative to the applicable net zero aligned target
+The framework relies on two key scores that are assessed for each client: a Carbon Intensity Client’s integration of climate risk and opportunities in corporate strategy
+quantitative score and a qualitative score (collectively known as the CAF scores).
+Historical Carbon
+Client is scored based on the 2-year change in its carbon intensity Client’s investments toward decarbonization
+Intensity Reduction
+The quantitative score for each client comprises three pillars:
+i. Current Carbon Intensity: we compare each client’s most recently available CAF QUANTITATIVE SCORE (1–5) CAF QUALITATIVE SCORE (1–5)
+carbon intensity to that of other clients within the same sector, which allows
+us to benchmark their performance within each respective sector portfolio.
+ii. Forecasted Carbon Intensity: we use our clients’ decarbonization targets
+to forecast their carbon intensity for our target year (2030). This gives us
+insight into each client’s decarbonization goals and pathway.
+iii. Historical Carbon Intensity Reduction: we measure the change in each
+HOW WE ARE USING CAF We recognize that different factors beyond both our and our clients’ control — such as
+client’s carbon intensity to gauge their progress and continued focus on
+technology development and scalability — will pose challenges in the low-carbon journey.
+reducing carbon intensity over time. We aim to align our capabilities and efforts to make progress toward our net zero-
+The table on the following page gives a few examples of areas where we are engaging
+aligned targets. Our goal is to develop our knowledge and understanding of the
+The qualitative score, which considers a variety of factors, enables us to take with our clients to provide additional support by delivering strategic advice, as well
+complexities of navigating the low-carbon transition to support our clients in thinking
+a holistic view — beyond just carbon intensity — of how each client plans to as providing capital and structured financing solutions to help them in achieving their
+through and acting on their decarbonization plans, while also aiming to achieve
+advance their decarbonization strategy. Some of the factors we consider include decarbonization goals. We see these as levers that may help advance decarbonization
+emissions reductions across our financing portfolio.
+governance and oversight of climate matters, climate risk integration into of the different sectors where our clients operate and contribute to our progress toward
+corporate strategy, investments (e.g., mergers and acquisitions, joint ventures, Decision-making and Portfolio Management: We consider the CAF as one element our net zero-aligned targets.
+venture funding) to support transition and climate objectives, and supplier of our decision-making for new in-scope transactions in our targeted sectors. The
+Risk Management: We also consider CAF scores in our risk assessments. The quantitative
+sustainability programs. Where applicable, we also consider specific factors; CAF process, and corresponding governance, have been integrated into the various
+and qualitative CAF scores are used in our Wholesale Credit Risk stress framework along
+for example, in the Oil & Gas sector, we evaluate client’s flaring and fugitive deal execution processes for each sector across credit and capital markets financing
+with other climate-related factors, such as transition scenario outputs, to estimate the
+methane emissions management plans. for all in-scope transactions. While all transactions are assessed on an individual
+impact of different transition pathways on client financials and credit ratings. For more
+basis with a holistic view of many factors, the CAF allows us to assess how each new
+information on how we use CAF in our risk assessments, please refer to page 29.
+transaction may impact our portfolio carbon intensity. Our CAF facilitates visibility
+and monitoring of progress toward targets by senior leaders of relevant banking
+teams at regional- and sector-specific levels.
+Client Engagement: Assessing our clients’ decarbonization plans through our CAF
+creates an opportunity for us to engage with our clients, understand their views,
+plans and constraints, as well as their capital needs. The CCT, together with other
+banking teams, works closely with clients to offer financial solutions to advance
+clients’ decarbonization initiatives and goals.
+9
+
+=== PAGE BREAK ===
+
+Examples of decarbonization levers across sectors
+SECTOR EXAMPLE OF DECARBONIZATION LEVER
+• Methane abatement projects (e.g., venting and flaring) – refer to page 11 for more information on how we engage with our clients on • Production of alternative fuels (e.g., biofuels, synthetic fuels, etc.)
+methane emissions management • Production of hydrogen, especially green hydrogen
+• Use of alternative fuels and renewable energy in operations • Production of renewable energy
+Oil & Gas
+• Carbon capture, utilization, and storage (“CCUS”) for both operational and consumer carbon emissions
+• Renewable energy (solar, onshore / offshore wind farms geothermal, etc.) • Hydrogen, especially green hydrogen
+• Nuclear • CCUS
+Electric Power
+• Battery electric vehicles • Hydrogen fuel cell vehicles
+• Plug-in hybrid electric vehicles • Efficiency improvements in internal combustion engines
+Auto Manufacturing
+• Electric arc furnaces • Scrap recycling and direct re-use (without re-melting)
+• Hydrogen for direct reduced iron production • CCUS
+Iron & Steel • Use of renewable electricity • Extended lifetime of steel output
+• CCUS • Use of alternative fuels (non-renewable waste, biomass, renewable waste)
+• Decreasing clinker-to-cement ratio of sold cementitious products • Electrification of equipment
+• Producing clinker replacements
+Cement
+• Sustainable Aviation Fuels (“SAF”) - learn more about our work in advancing SAF development on page 7 of our 2023 Climate Report • Engine efficiency improvements and retrofits
+• Alternative propulsion systems (electric, hydrogen) • Load factor / demand management
+Aviation
+• Fleet replacement • Flight control and ground operations efficiency
+• Alternative fuels (biofuels, ammonia, hydrogen, methanol) • Engine efficiency improvements and retrofits
+• Fleet replacement • Load factor / demand management
+Shipping • Electrification
+• Use of renewable electricity • Recycling of aluminum
+• Electrification of refining • Use of inert anodes
+Aluminum
+10
+
+=== PAGE BREAK ===
+
+UPDATES TO OUR CAF METHODOLOGY
+Since launching CAF in 2021, we have broadened its scope to encompass new sectors. We have also refined our
+Supporting Methane Emissions Reduction
+CAF methodology with the aim of implementing it across all in-scope transactions and generating a sector-specific
+assessment of a company’s decarbonization plans. We aim to continue enhancing and maturing the CAF methodology over As discussed in our 2023 white paper ‘The Methane Emissions Opportunity’, reducing methane emissions and flaring in the
+time, including in line with additions and/or changes to our net zero-aligned targets. In 2023, we introduced key updates to Oil & Gas sector can produce positive outcomes for businesses, the climate and energy security and affordability. By curbing
+our CAF methodologies, including: methane emissions and flaring today, the Oil & Gas industry can make near-term contributions toward achieving global
+climate targets and, in certain cases, their own corporate-level emissions reduction targets.
+• Launching and implementing CAF for in scope-transactions for sector targets set in 2023 — Shipping and Aluminum, and
+An area of focus with our clients in the Oil & Gas sector is supporting their efforts to adopt direct methane emissions
+• Updating our CAF methodologies for assessing clients in relevant sectors to reflect changes to our Energy Mix, Oil & Gas
+measurement technologies and robust accounting protocols. Historically, methane emissions have been difficult to address
+Operational, Electric Power and Auto Manufacturing sector targets.
+in part due to a lack of reliable, real-world data. Most Oil & Gas companies use factor-based computer modeling to generate
+INTEGRATING CAF ACROSS OUR BUSINESS PROCESSES estimates of their methane emissions, which may substantially underestimate real-world methane emissions. Therefore,
+harnessing technology for methane measurement is an important step toward improving the accuracy and transparency of
+We continue to dedicate resources toward enabling a technology-based integration of our CAF throughout our relevant
+methane emissions data, which, in turn, can help to mobilize targeted methane emissions reduction efforts globally.
+business processes. For example, we have integrated our CAF into our deal origination process — completing a carbon
+assessment using CAF is now a requirement that is automatically triggered for new in-scope transactions. This integration For the purposes of our own portfolio-level Oil & Gas Operational carbon intensity target, we are engaging with and
+makes CAF a standard component of the information submitted to decision-making committees. It also provides our assessing data providers that are focused on tackling methane emissions, particularly with those who are integrating a
+banking teams with tools to guide them in completing CAF at a transaction-level and to understand the impact of the variety of measurement-based emissions into their data products. By supporting the industry in improving the availability
+proposed transaction to the relevant portfolio’s carbon intensity. Furthermore, it enables senior leaders across sector and and accuracy of methane emissions data, we hope to gain a more realistic picture of a client’s carbon intensity, improve the
+product teams globally to have better visibility, through a dashboard, of various portfolio-level analytics. quality of CAF scores for Oil & Gas clients and have better insights into the makeup of our financed emissions, while also
+informing our engagement efforts with clients.
+As part of our efforts to streamline our business process for calculating CAF scores, we are developing a proprietary ESG
+data management product. This product is currently used by multiple teams across the Firm and is designed to curate and We also work to support our clients in identifying and implementing strategies that can have the greatest impact in their
+host a wide range of internal and external ESG data sources. We are allocating resources toward further development and emissions reduction efforts. We use our learnings to engage with our clients and provide advice and strategic capital to
+maturation of the product. This reference data can be used for calculating CAF scores and conducting climate risk scenario help support their decarbonization. For example, we support our Oil & Gas clients in participating in initiatives that aim
+analysis and stress testing, among other things. to enhance measurement-based methane emissions reporting frameworks for the sector, when appropriate. We are also
+equipping our bankers with tools to guide their conversations with our clients on their methane reduction efforts. Refer to
+page 15 for more information on the climate-related resources and capacity building we are providing to our workforce.
+11
+
+=== PAGE BREAK ===
+
+Managing Our Operational Footprint
+3
+In addition to helping meet the sustainability objectives of customers and clients through our business, we JPMorgan Chase’s GHG Mitigation Hierarchy
+strive to manage the environmental impact of our own operations — including our real estate and supply
+STRATEGY
+chain. Our reported operational footprint is driven primarily by the energy and resources we use to run our
+global network of more than 5,500 corporate offices, bank branches and data centers, as well as regular
+Designing new activities to be low-carbon from the outset — such as by purchasing or
+activities such as business travel. Our approach includes managing our energy and carbon footprint,
+AVOID constructing low-emissions equipment and buildings — or deciding not to pursue new,
+constructing and operating more sustainable buildings and implementing leading practices in sustainable
+high-emitting activities.
+sourcing and resource management. For details on our operational GHG emissions data and renewable
+electricity use, refer to pages 23–24.
+Energy and Carbon Footprint Management
+Upgrading or retrofitting existing equipment, buildings and processes to be more energy-
+Our strategy for energy and carbon footprint management is guided by the concept of the GHG mitigation REDUCE
+efficient, and therefore, reduce emissions.
+hierarchy, designed to prioritize actions with the largest potential impact on emissions reduction. We
+work to avoid or minimize emissions as close as possible to their source, both to maximize efficiency
+of our operations and reduce our contributions to atmospheric GHG concentrations. Our approach also
+considers our current operational decarbonization targets, including reducing Scope 1 and Scope 2 (location-
+based) GHG emissions by 40% by 2030 vs. a 2017 baseline, sourcing renewable electricity for 100% of our Substituting high-carbon energy sources with low- or zero-carbon alternatives, such as
+REPLACE
+global electric power needs annually, and satisfying at least 70% of our renewable electricity with on-site renewable electricity.
+generation and long-term renewable electricity contracts by the end of 2025. We continue to evaluate our
+energy and carbon footprint management strategy, including our targets, and we may adjust our approach
+taking into consideration market conditions, availability of technology and the broader business interests of
+the Firm, among other factors. Addressing residual emissions and/or support development of climate solutions through the
+REMOVE OR
+purchase and retirement of high-quality carbon credits, with emphasis on high-durability
+COMPENSATE
+carbon removal.7,8
+7 To learn more about the criteria we prioritize when evaluating the quality and credibility of carbon credits, please refer to Carbon Market Principles and page 37 of our 2023 ESG Report.
+8 Durability is defined as amount of time for which CO can be stored in a stable and safe manner. In this context, high-durability is defined as 1,000+ years of anticipated CO storage. 12
+2 2
+
+=== PAGE BREAK ===
+
+The following outlines some of the initiatives we are currently pursuing in line with our strategy for energy and carbon footprint management. To learn more about other strategies to enhance the environmental sustainability of our operations and supply chain, refer to
+pages 33–40 of our 2023 ESG Report.
+IMPROVING EFFICIENCY AND ACCELERATING ELECTRIFICATION SOURCING RENEWABLES PURCHASING HIGH-QUALITY CARBON CREDITS9
+Enhancing energy efficiency and pursuing opportunities for electrification are In addition to minimizing total energy consumption, we are working to reduce To complement our ongoing emission reduction efforts, we also seek to address our
+important elements of our strategy. To this end, in 2023, we: operational GHG emissions by generating and sourcing renewable electricity for remaining unabated emissions by purchasing and retiring high-quality carbon credits
+100% of our global electric power needs annually. This includes aiming to increase throughout the year. To learn more about core principles that we reference when
+• continued to streamline and consolidate our data centers, migrating toward more
+our use of on-site solar energy systems, as well as negotiating long-term electricity evaluating carbon credits, please refer to our Carbon Principles Paper.
+efficient facilities, and to expand deployment of advanced hardware and software
+contracts and purchasing energy attribute certificates (“EACs”).
+to support ongoing improvements in energy and operational efficiency. • In 2023, our portfolio included credits from nature-based, hybrid and engineered
+• On-site solar: we completed construction of two additional solar installations removal projects, including improved forest management (“IFM”), afforestation,
+• improved the energy efficiency of technology used by our employees by
+totaling over 12.3 MW capacity in our corporate office buildings, bringing us blue carbon, biochar and bio-oil sequestration. By supporting different kinds of
+implementing a program to reduce standard brightness settings for newly
+closer to a planned total of more than 90 MW of capacity by the end of 2025. carbon removal projects, we aim to help develop the broader market and scale
+deployed monitors, resulting in decreased energy use and associated emissions.
+emerging solutions. Over time, we will consider increasing procurement of long-
+• Long-term energy contracts: for our electricity needs that cannot be met with
+• reduced energy use and GHG emissions associated with the amenities provided in term or permanent carbon dioxide removals (“CDR”) with the goal of helping to
+on-site renewables, we aim to procure additional renewable electricity via long-
+our offices, by rolling out more sustainable drinking water taps across our sites in accelerate and scale the development of related technologies.
+term power purchase agreements (“PPAs”), virtual power purchase agreements
+Europe, the Middle East and Africa that provide up to 60% energy savings when in
+and renewable supply contracts. • Also in 2023, the Firm signed long-term agreements to purchase over $200
+standby mode.
+million in high-quality, durable CDR. The CDR from these agreements is intended
+• EAC Procurement: to continue to meet our target to source renewable electricity
+to remove and store approximately 800,000 mtCOe from the atmosphere and
+for 100% of our global electric power needs, we purchase applicable EACs, e.g., 2
+to enable us to match every ton of our unabated Scope 1 direct operational GHG
+Renewable Energy Certificates (“RECs”) and International-RECs. We believe
+emissions with durable carbon removal by 2030.
+these instruments are an important lever in the commercialization of renewable
+electricity, helping to foster market growth and sustainability of the electric
+power generation sector.
+9 Carbon credits and the market for them are evolving rapidly. Although we endeavor to source high-quality carbon credits verified by independent third parties, the ability to use carbon credits to fully and permanently address unabated emissions relies on certain assumptions and is
+subject to debate among experts. 13
+
+=== PAGE BREAK ===
+
+Accountability, Transparency and Engagement
+We have taken steps to respond to climate-related risks and opportunities in our business, but we are aware that there is more work we can do, and we will continue to learn — including through the feedback we receive from our stakeholders. Our environmental
+sustainability strategy is supported and strengthened by our ongoing efforts to enhance accountability, transparency and engagement.
+Accountability Policy and Industry Engagement governance. When participating with these groups, we continue to exercise our own
+business judgment based on the best interest of the Firm and serving our clients. We
+We strive to leverage the Firm’s robust management structures to foster sound We recognize the need for thoughtful public policy on climate- and energy-related
+also participate in a variety of initiatives focused on advancing sustainability, such as
+management and a culture of accountability on ESG matters. This includes defining matters. Such public policy can help accelerate the Firm’s progress on sustainability-
+the following in the Oil & Gas sector:
+oversight and management of climate-related initiatives within and across our related efforts and contribute to sustainable economic growth. It is among the
+• In 2024, select banking leaders of JPMorgan Chase took part in the Methane
+LOBs (refer to page 4 for more information). We aim for transparency by reporting prerequisites for achievement of our and others’ climate targets. We engage with
+Abatement Taskforce’s Financial Working Group, a COP28 initiated effort
+progress against key climate and ESG-related targets annually — including processes external stakeholders and trade associations on policies that we believe can help
+coordinated by the Climate Bonds Initiative, which aimed to produce voluntary
+and controls for data disclosure and verification. make net zero goals achievable and further the availability of affordable and secure
+guidelines for investments that result in a reduction of methane emissions aligned
+energy while continuing to make our own independent decisions.
+Public Reporting with the IEA NZE.
+We believe that no one company or sector can solve the challenges and complexities
+• In 2024, we engaged the energy industry and financial communities at events
+We recognize stakeholders’ interest in timely information concerning our climate- of climate change; rather, engagement between public and private actors — and
+across the U.S., from Texas Christian University’s Global Energy Symposium to the
+related strategies and activities. We communicate information about our ESG across industries — can help lead the development and implementation of solutions
+New York City Transition-IQ Forum to the Aspen Institute’s Aspen ESG Summit.
+practices and performance, including climate, through a number of channels that that address diverse stakeholder needs.
+may include our Annual Report, Climate reporting, regulatory filings, website, press • JPMorgan Chase sponsored the United States Hispanic Chamber of Commerce’s
+The Firm also belongs to a number of trade associations that advocate on major
+releases, direct conversations with stakeholders, and various other reports and Energy Summit in June 2024, where we spoke about opportunities to enhance
+public policy issues of importance to the Firm and the communities we serve. The
+presentations. We maintain a dedicated ESG information page on our website to both decarbonization and energy security through methane abatement and
+Firm’s participation in these associations comes with the understanding that we
+facilitate access to information that we publish on these topics. We are also closely carbon capture and storage technology, and ways that Hispanic-owned business
+may not always align with all their positions or those of its other members. We make
+monitoring and responding to regulatory developments related to mandatory climate can participate in associated supply chains.
+independent decisions as a Firm, and we may provide feedback on these associations’
+reporting requirements in many jurisdictions around the world.
+efforts. A list of the Firm’s principal trade associations is disclosed in our • In 2024, at New York Climate Week, we hosted an event with the Oil and Gas Climate
+Political Engagement Report. Initiative, bridging together the public and private sectors, including representatives
+from energy and financial firms. The event focused on emissions reduction efforts,
+Similarly, we may engage with industry groups focused on complex global challenges,
+data and disclosure enhancements, and cross-sector opportunities.
+including climate change. We participate with these groups as long as they align with
+our objectives, enhance our ability to meet those objectives and have appropriate
+14
+
+=== PAGE BREAK ===
+
+Stakeholder Engagement
+Our stakeholders include customers and clients, shareholders, employees, communities, regulators and policymakers, research analysts and suppliers. We engage with stakeholders throughout the year to obtain insight into their needs and perspectives, as well as to
+gather feedback on our strategy and performance, including as they relate to climate change.
+EDUCATING OUR WORKFORCE ON CLIMATE REALIZING ENVIRONMENTAL BENEFITS THROUGH ENGAGEMENT WITH OUR SUPPLIERS
+We are enhancing our ability to support our clients in navigating their low-carbon transition journeys, achieving their We recognize that the environmental impact of our operations extends to our suppliers’ practices. As such, we aim to engage
+climate goals and executing on value creation strategies. One way we do this is providing our banking teams across LOBs with suppliers who are working to improve their environmental sustainability. For example, in 2023, the Firm collaborated with
+with climate-related resources covering a wide range of topics, such as methane abatement and measuring technologies; World Wide Technology — a global technology solutions provider — to help optimize the use of transit cases to transport hardware
+climate-related regulatory updates; key technologies, financing options and investment opportunities of the energy to our data centers. By replacing pallets with transit cases and minimizing equipment packaging and other components, such as
+transition; and sector-specific decarbonization pathways. Our Global ESG Research team also hosts an intranet site power cords and user manuals, we have reduced truck shipments and generated waste, resulting in an estimated 4,333 mtCO10
+2
+providing ESG & Sustainability Education research, training and resources that employees can access. avoided during 2023.
+Additionally, we offer a Climate Risk training course to our employees. This course includes training modules on a variety Our Supplier Environmental Sustainability Guidelines — established in 2023 — further highlight our efforts to engage with
+of topics, such as climate science, managing and quantifying climate risk at JPMorgan Chase and climate risk stress testing. our suppliers on environmental issues. They are intended to establish a framework to further incorporate environmental
+We also offer a variety of training opportunities to our employees across ESG topics, such as on biodiversity loss, green and considerations into our procurement process, as appropriate, and to encourage our suppliers to integrate positive environmental
+social bonds, and inclusive leadership. practices within their own organizations.
+STRENGTHENING OUR SUSTAINABILITY INITIATIVES THROUGH EMPLOYEE ENGAGEMENT ELECTRIC TRUCK INNOVATION IN KANSAS
+We encourage our employees to think about how they can live more sustainably and how they can reduce their In August 2024, our Chairman and CEO, Jamie Dimon, toured the recently opened Kansas City, Kansas headquarters and
+environmental impact both at work and at home. Through our Global Sustainability Series events, employees are invited factory of Orange EV — a company that builds electric terminal trucks for use in warehouses, ports and rail yards. The company
+to participate in discussions featuring external sustainability experts and the Firm’s sustainability leaders to learn about manufactures all of its trucks in the U.S., employing workers in Kansas City and around the country. Orange EV’s electrification of
+opportunities to take effective action. In addition, our GoGreen program, a global network of nearly 60 employee-led trucks in the transportation sector is an example of the innovation taking place in the Heartland region of the U.S. Deployment
+volunteer teams, works to foster a community of informed, engaged and inspired employees who contribute to our of EV trucks in supply chains and at transportation hubs can reduce GHG emissions and result in cleaner air and public health
+sustainability culture. The mission of the GoGreen teams is to increase employee awareness of sustainability initiatives benefits for communities, while saving customers money over time through reduced fuel and maintenance costs.
+at the Firm — including our operational sustainability targets and what we are doing to meet them — as well as offer
+employees opportunities to learn about and engage in sustainable activities at work, at home and in their communities. To
+learn more, refer to page 39 of our 2023 ESG Report.
+10 Scope 3 GHG emissions, other than Category 6 - business travel, fall outside of the scope of our reported operational GHG emissions (see page 23 for more information on our operational GHG emissions). 15
+
+=== PAGE BREAK ===
+
+Metrics & Targets
+Measuring Our Progress Scaling Green Solutions
+1
+We intend to measure and report our progress over time on climate-related matters, $1 Trillion for Green
+both to provide information to our stakeholders and to inform how we manage and
+implement our environmental sustainability strategy. We plan to continue to evaluate In 2023, we financed and facilitated approximately $66 billion in support of our $1 trillion Green objective of our Sustainable Development Target (“SDT”), particularly
+our targets and make our own decisions on our approach to them. We may make through green bond underwriting and financing for renewable and clean energy, as shown in the table below. Collectively, since setting our target in 2021 through
+any adjustments to our targets that we deem necessary in light of considerations December 31, 2023, we have financed and facilitated $242 billion toward our $1 trillion Green objective. While we pursue our SDT, including the Green objective, we note
+including the latest climate science and technology, macroeconomic trends, that it is subject to other prerequisites and critical considerations, both within and outside our control.
+commercial impacts and our clients’ business needs. In this section, we provide
+To learn more about our progress toward our SDT and the activities it is designed to support and amplify across our business, refer to pages 9–13 of our 2023 ESG Report.
+details of the metrics and targets we are currently using in conjunction with each of
+Refer to Our Approach to Our Sustainable Development Target for more information on our criteria for determining which business activity is eligible to count toward our
+the three pillars of our environmental sustainability strategy.
+SDT and how we account for the value of transactions.
+Progress toward our climate and ESG-related targets is subject to a number of
+conditions and prerequisites, including market conditions, technological innovation Cumulative Green Progress by Eligibility Criteria
+and public policy changes; as such, we do not expect our progress to be linear.
+2022 $B 2023 $B CUMULATIVE
+TOTALi $B
+1
+Renewables and Clean Energy $20 $15 $50 2023 PROGRESS IN MULTIPLE CRITERIA
+SCALING GREEN SOLUTIONS
+Clean Technology $4 $4 $9
+Including progress toward our goal of financing and facilitating $1 trillion
+Sustainable Transportation $2 $6 $30
+to support climate solutions, clean energy and sustainable resource
+management by the end of 2030. Green Buildings $4 $1 $7
+Water Management $2 $2 $10
+2
+Circular Economy and Waste Management $1 $0 $1
+BALANCING ENVIRONMENTAL, SOCIAL AND ECONOMIC NEEDS
+Multiple Criteria $37 $37 $134
+Including progress toward our net zero-aligned targets and disclosing absolute
+financed and facilitated emissions for key sectors of our financing portfolio. Total $70 $66 $242 Note: Total may not sum due to rounding.
+Note: Totals may not sum due to rounding.
+3
+i. Total as cumulative progress from 2021 to 2023.
+MANAGING OUR OPERATIONAL FOOTPRINT
+Including our Scope 1, Scope 2 and Scope 3 Category 6 - business travel GHG
+emissions and progress toward our operational decarbonization targets.
+16
+
+=== PAGE BREAK ===
+
+Balancing
+2 PROGRESS ON NET ZERO-ALIGNED TARGETS11
+Environmental, Social DDEETTAAIILLSS BBAASSEELLIINNEEii JJPPMMOORRGGAANN CCHHAASSEE PPRROOGGRREESSSS
+2030 Portfolio Carbon Change in Portfolio
+SECTOR Scope(s) Unit of Baseline Portfolio Carbon
+and Economic Needs TARGET Intensity as of Carbon Intensity
+Included Measurement Year Intensity Baseline
+December 31, 2023 from Baselineiv
+29.5
+Scope 3
+Our Net Zero-Aligned Targets gCO / MJ 2019 45.9 -36% from 34.8 -24.1%
+(end use) 2
+Energy Mix baseline
+Our net zero-aligned targets are currently constructed for 2030 as portfolio-level
+targets by sector, using output-based emissions intensity reduction metrics and aligned
+-45%
+to the IEA NZE scenario. We set targets using our own independent assessment of Scopes 1 and 2 gCOe / MJ 2019 4.9 4.7 -4.0%
+Oil & Gas 2 from baseline
+what we determine is reasonable, achievable and science-based, and what will serve
+Operational
+the best interests of our business and clients. In this section, we provide performance
+to date toward our net zero-aligned targets and disclose our financed and facilitated
+105.3
+emissions on an absolute basis for key sectors of our portfolio. Scope 1 kgCO / MWh 2019 342.6 -69% from 268.8 -21.5%
+2
+Electric Power baseline
+PROGRESS TOWARD OUR TARGETS
+86.1
+While we have made progress toward some of our targets, we have not made Scopes 1, 2 and 3
+gCOe / km 2019 164.8 -48% from 126.4 -23.3%
+Auto (tank-to-wheel) 2
+progress on others to date as compared to their respective baselines, and we baseline
+Manufacturing
+recognize that year-on-year fluctuations will occur. Our focus is on continuing to help
+our clients on their decarbonization efforts, addressing their financing and banking
+625.0
+Scope 1
+needs, while seeking opportunities to create long-term value for our shareholders. gCO / RTK 2021 972.6 -36% from 808.0 -16.9%
+(tank-to-wake) 2
+Aviation baseline
+While we believe the actions we are taking today will facilitate our continued
+progress in the years ahead, our progress toward and ability to achieve our targets 8.4
+Scope 1 11.4
+is dependent on the pace of global decarbonization and other factors outside gCO / t-nm 2021 -26% from 11.9 4.9%
+(tank-to-wake) 2 (revisedii)
+Shipping baseline (revised)
+our control along with commercial considerations. The world will need time to
+implement effective decarbonization solutions while maintaining the availability of
+0.981
+affordable and secure energy to meet economic and societal needs. Global policy tCOe / t
+Scopes 1 and 2 2 2020 1.412 -30% from 1.390 -1.5%
+crude steel
+action that drives the adoption of clean energy, promotes the development of clean Iron & Steel baseline
+technology supply chains and attracts private sector investment, coupled with
+market and consumer behavioral changes, are prerequisites for our progress. kgCOe / t 460.0
+2
+Scopes 1 and 2 cementitious 2020 639.3 -28% from 634.6 -0.7%
+To learn more about how we work to support our clients in their decarbonization Cement product baseline
+efforts and in turn progress toward our net zero-aligned targets, please refer
+to pages 8–11.
+6.5
+tCO / t 8.6
+Scopes 1 and 2 2 2021 -24% from 8.8 2.2%
+The table on the right summarizes our progress toward our net zero-aligned targets aluminum (revisediii)
+Aluminum baseline (revised)
+as of December 31, 2023. Additional detail on our progress in each of our targets
+follows on pages 18–20, including macroeconomic trends that may impact our ability
+i. To calculate portfolio baseline carbon intensities, we use client carbon intensity data for the baseline year and exposure data from the following year, except for the Aviation sector, where the
+to meet our targets consistent with business needs. baseline year and exposure year are the same (2021).
+ii. Revised 2021 portfolio baseline for Shipping to 11.4 g CO / t-nm from previously disclosed 12.5 g CO / t-nm.
+2 2
+iii. Revised 2021 portfolio baseline for Aluminum to 8.6 g CO / t aluminum from previously disclosed 8.7 g CO / t aluminum.
+2 2
+iv. Percentage change may not calculate as shown due to rounding.
+11 Our targets are based on data and scenario projections available as of September 2023. Future updates to the IEA NZE scenario and/or other inputs — for example, changes in global emissions, available technologies or economic conditions — may result in changes to the projected
+emissions trajectories, and we may therefore update our targets. We monitor these changes, as well as improved visibility, quality or availability of data, and assess the need to revise our baselines and targets as appropriate. We revised baselines for the Shipping and Aluminum sectors this year. 17
+
+=== PAGE BREAK ===
+
+ENERGY MIX (SCOPE 3 EMISSIONS) OIL & GAS OPERATIONAL ELECTRIC POWER
+As of December 31, 2023, the carbon intensity of our Energy Mix As of December 31, 2023, the carbon intensity of our Oil & Gas As of December 31, 2023, the carbon intensity of our Electric Power
+portfolio has decreased by 24.1%, compared to the 2019 baseline. Operational portfolio has decreased by 4.0%, compared to the 2019 portfolio has decreased by 21.5%, compared to the 2019 baseline.
+Our progress is mainly attributable to our increased financing of baseline. This decrease is mainly driven by clients in our portfolio This decrease is driven by a combination of our clients transitioning
+zero-carbon power generation coupled with a reduction in our making progress toward their decarbonization goals as the their generation mix to lower emissions sources and the Firm
+exposure to the Oil & Gas sector as the industry’s external financing industry continues to focus on key operational areas like methane increasing financing to companies and projects with zero-carbon
+needs have reduced in recent years. Although the substitution of oil emissions, in part due to current public policy and legislation. When power generation. Our continued focus on supporting the rapid build
+and natural gas supply with zero-carbon power generation in our compared to the global decarbonization of Oil & Gas Operational out of renewables has resulted in our portfolio’s progress outpacing
+financing portfolio has outpaced global trends between 2019 and sector, our portfolio reflects a relatively similar rate of carbon the carbon intensity reduction trend observed in the OECD region
+202212, additional effort will be needed to maintain our progress intensity reduction13. For more detail on how we support our Oil & between 2019 and 202214. Our continued focus on helping accelerate
+toward meeting our portfolio-level target. These efforts will involve Gas clients in reducing their operational emissions through targeted capital deployment, especially through tax-oriented investments, and
+us continuing to finance zero-carbon investments, our clients efforts toward methane emissions reduction, refer to page 11. providing our clients with differentiated solutions has helped move
+adopting and expanding zero-carbon solutions, and policymakers’ our portfolio closer to our target. At the same time, global demand
+implementation of policies and incentives to support the transition. for reliable and affordable electricity continues to rise, which may
+Given that the carbon intensity of our Energy Mix portfolio reflects impact our and our clients’ ability to meet decarbonization targets.
+the distribution of the financing we provide to each energy type, We plan to continue to support our clients with advice and innovative
+changes in macroeconomic factors — such as market demand and financing solutions.
+energy prices — can negatively impact the rate of progress toward
+our target. We remain focused on using our capital to support the
+decarbonization of the overall energy supply while continuing to
+support our clients in both expanding clean energy sources and
+maintaining an affordable and reliable energy supply.
+12 Global progress estimated using energy supply and emissions data for 2019 sourced from World Energy Outlook 2021 published in October 2021 (Table A.1d: World energy supply and Table A.4d: World CO emissions, respectively); and energy supply and emissions data for 2022 sourced from
+2
+World Energy Outlook 2023 (Table A.1c: World energy supply and Table A.4c: World CO emissions, respectively) published in October 2023.
+2
+13 Global progress estimated using energy supply and emissions data for 2019 sourced from World Energy Outlook 2021 published in October 2021 (Table A.1d: World energy supply and Table A.4d: World CO emissions, respectively); and energy supply and emissions data for 2022 sourced from
+2
+World Energy Outlook 2023 (Table A.1c: World energy supply and Table A.4c: World CO emissions, respectively) published in October 2023.
+2
+14 Global progress estimated using generation and emissions data for 2019 sourced from World Energy Outlook 2021 published in October 2021 (Table A.3d: World electricity sector and Table A.4d: World CO emissions, respectively); and for 2022 sourced from World Energy Outlook 2023
+2
+published in October 2023 (Table A.3c: World electricity sector and Table A.4c: World CO emissions, respectively). 18
+2
+
+=== PAGE BREAK ===
+
+AUTO MANUFACTURING AVIATION SHIPPING
+As of December 31, 2023, the carbon intensity of our Auto As of December 31, 2023, the carbon intensity of our Aviation We have revised our 2021 baseline for our Shipping portfolio to
+Manufacturing portfolio has decreased by 23.3%, compared to the portfolio has decreased by 16.9%, compared to the 2021 baseline. 11.4 gCO / t-nm to account for data quality improvements. As of
+2
+2019 baseline. This decrease is driven mainly by banking new and Client carbon intensity improvements and changes in our exposure December 31, 2023, the carbon intensity of our Shipping portfolio
+emerging pure-play EV manufacturers and the growing portfolio of to the sector — including increased financing to new and existing has increased by 4.9%, compared to the revised 2021 baseline. This
+EV offerings by legacy auto manufacturers that produce traditional clients as well as decreased exposure to certain high-carbon increase is mainly due to changes in our exposure to the sector
+internal combustion engines (“ICE”), hybrid and alternative intensity clients — contributed to our progress. When compared toward clients with higher carbon intensity. The Shipping sector
+drivetrain vehicles. The sector’s overall effort to transition to an to the global decarbonization trend of the sector16, our portfolio globally experienced a modest improvement in aggregate carbon
+all-EV future, as well as the policy, legislative and market behavior reflects a relatively similar rate of carbon intensity reduction. We intensity between 2021 and 202217, however, our portfolio has not
+changes that are catalyzing the shift, are prerequisites in allowing will continue to engage with our clients to seek to provide them with benefited from this trend given the small and highly concentrated
+us to continue to make progress toward our target. Additionally, financing opportunities to support the transition of the sector. We nature of our financing to the sector, which may also impact our
+improvements in fuel efficiency and the introduction of more hybrid anticipate that drivers for achieving significant decarbonization of ability to meet our sector target. After announcing our sector target
+engine product offerings continue to reduce the carbon intensity the sector will include changes in consumer behavior and operational in 2023, we began implementation of our CAF across the portfolio,
+of ICE vehicles being sold. Our portfolio’s rate of decarbonization efficiencies such as maximizing flight occupancy. Another driver is starting with the largest portions of exposure and gradually
+outpaces the progress being made by the sector at a global-level15. scaling the availability of SAF by accelerating the buildout of the extending it to additional segments. During this initial phase,
+However, challenges in the pace of EV adoption suggests a need for SAF value chain and airlines successfully securing SAF offtakes. We fluctuations in the portfolio’s carbon intensity are expected as we
+more efforts globally by the public and private sectors to deploy are helping advance the development of SAF as founding members implement our CAF across in-scope transactions. We anticipate that
+and scale solutions across the value chain – especially in areas such of the Sustainable Aviation Buyers Alliance and as investors in the we will continue to refine our CAF methodology as we continue
+as battery manufacturing and EV charging – to support the sector’s United Airlines Venture Sustainable Flight Fund. To learn more about to engage with our clients and learn more about the sector’s
+decarbonization. We will continue to engage with our clients and these efforts, refer to page 7 of our 2023 Climate Report. decarbonization strategies and constraints. We will continue to
+seek to provide them with financing opportunities to support the engage with our clients on areas such as operational efficiency and
+transition of the sector. alternative fuels to support them on their decarbonization journeys.
+We also recognize that decarbonization efforts within the shipping
+industry are largely driven by international regulatory bodies, which
+set the trends and targets for our shipping portfolio clients.
+15 Global progress estimated using sector activity and emissions data for 2019 sourced from Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach (Table A.5: Economic and Activity Indicators) published in September 2023 and World Energy Outlook 2021 (Table A.4d: World CO
+2
+emissions) published in October 2021, respectively; sector activity and emissions data for 2022 sourced from World Energy Outlook 2023 (Table A.5c: World economic and activity indicators and Table A.4c: World CO emissions, respectively) published in October 2023.
+2
+16 Global progress estimated using sector activity and emissions data for 2021 and 2022 sourced from World Energy Outlook 2023 (Table A.5c: World economic and activity indicators and Table A.4c: World CO emissions, respectively) published in October 2023.
+2
+17 Global progress estimated using sector activity and emissions data for 2021 and 2022 sourced from World Energy Outlook 2023 (Table A.5c: World economic and activity indicators and Table A.4c: World CO emissions, respectively) published in October 2023. 19
+2
+
+=== PAGE BREAK ===
+
+IRON & STEEL CEMENT ALUMINUM
+As of December 31, 2023, the carbon intensity of our Iron & Steel As of December 31, 2023, the carbon intensity of our Cement We have revised our 2021 baseline for our Aluminum portfolio to 8.6
+portfolio has decreased by 1.5%, compared to the 2020 baseline. portfolio has decreased by 0.7%, compared to the 2020 baseline. tCO / t aluminum as a result of data quality improvements and an
+2
+This decrease primarily results from changes in our exposure This decrease is mainly due to an increase in financing provided to increase in data coverage from our data vendors. As of December 31,
+to the sector, which, relative to the distribution of our baseline clients with lower carbon intensity. When compared to the global 2023, the carbon intensity of our Aluminum portfolio has increased
+portfolio, now tilts slightly toward clients with lower carbon intensity. decarbonization trend of the sector19, our portfolio reflects a slightly by 2.2%, compared to the revised 2021 baseline. This increase is
+Although the sector has made progress in emissions reduction slower rate of carbon intensity reduction. The Cement sector is mainly driven by changes in our exposure to the sector, which now
+through energy efficiency improvements and increased use of scrap unique in its reliance on technological advancements – namely skews lightly toward clients with higher intensity. As with the Shipping
+material, the carbon intensity of the global Iron & Steel sector has CCUS – to enable broad scale decarbonization. While some of our sector target, our progress reflects the initial phase of implementing
+remained relatively flat from 2020 to 202218. Significant, long-term clients have started to reduce their carbon intensity, the impact our CAF to assess in-scope transactions within the Aluminum
+reduction in the carbon intensity of the sector relies partly on the of their actions on our overall portfolio carbon intensity has been portfolio. We expect we will continue to refine our CAF methodology
+deployment and scale of decarbonization technologies, such as small relative to that of exposure changes. We will continue to as we continue to engage with our clients and learn more about the
+hydrogen-based production and CCUS. Our portfolio carbon intensity use our capital and to engage with our clients to support their sector’s decarbonization strategies and constraints. Globally, the
+remains lower than the global average, as it was at the time of decarbonization efforts and the development of CCUS technologies sector saw a moderate improvement in its carbon intensity between
+our portfolio baseline. This is due to our financing to the sector and their value chains. 2021 to 202220. Our portfolio did not benefit from this trend, however,
+being concentrated in North America, where electric arc furnace given the small and highly concentrated nature of our financing to the
+penetration is higher than the global average. We will continue to sector, which may also impact our ability to meet our sector target.
+engage with our clients and seek to provide them with financing In addition, clients in our Aluminum portfolio have dispersed carbon
+opportunities to support the transition of the sector. intensities due to the sector’s reliance on grid power and the varying
+rates of decarbonization in the Power sector between developed
+and emerging market countries. Acknowledging the importance of
+our continued support to clients in emerging markets, we expect our
+portfolio intensity to continue to fluctuate in the coming years as the
+world decarbonizes power grids. We will also continue to engage with
+our clients and support the industry’s efforts to decarbonize, such as
+increasing the share of secondary (recycled) aluminum produced.
+18 Global progress estimated using sector activity data for 2020 sourced from Global steel production in the Net Zero Scenario, 2010-2030, last updated 2 Nov 2021, and emissions data for 2020 sourced from World Energy Outlook 2021 published in October 2021 (Table A.4d: World CO emissions),
+2
+and sector activity and emissions data for 2022 sourced from World Energy Outlook 2023 published in October 2023 (Table A.5c: World economic and activity indicators and Table A.4c: World CO emissions, respectively).
+2
+19 Global progress estimated using sector activity data for 2020 and 2022 sourced from Global cement production in the Net Zero Scenario, 2010-2030, IEA (2023), last updated in June 2023; and emissions data for 2020 sourced from World Energy Outlook 2021 published in October 2021
+(Table A.4d: World CO emissions) and 2022 sourced from World Energy Outlook 2023 (Table A.4c: World CO emissions) published in October 2023.
+2 2
+20 Global progress estimated using sector activity and emissions data for 2021 and 2022 sourced from Primary Aluminum Production, 2005 – 2023, International Aluminum Institute, issued August 2024; and Greenhouse Gas Emissions – Aluminum Sector, 2005 – 2023, International Aluminum
+Institute, issued in January 2023. 20
+
+=== PAGE BREAK ===
+
+Measuring Our Absolute Financed and ABSOLUTE FINANCED AND FACILITATED EMISSIONS AS OF DECEMBER 31, 2023
+Facilitated Emissions
+AABBSSOOLLUUTTEE FFIINNAANNCCEEDD AANNDD FFAACCIILLIITTAATTEEDD EEMMIISSSSIIOONNSS EECCOONNOOMMIICC IINNTTEENNSSIITTYY
+((mmiilllliioonn ttCCOO 22 ee)) ((ppeerr UUSS$$11 mmiilllliioonn ooff lleennddiinngg//ccaappiittaall mmaarrkkeettss)) DATA QUALITY
+Measuring and reporting our financed and facilitated emissions on an absolute SCOPE(S)
+SECTOR SCORES
+INCLUDED For Committed Lending For Capital Markets For Committed Lending For Capital Markets
+basis is a growing area of interest for our stakeholders and can be useful metrics in (1-5)i
+(Financed Emissions) (Facilitated Emissions) (Financed Emissions) (Facilitated Emissions)
+understanding the impact of our emission reduction efforts. As such, we have taken
+steps to quantify and disclose absolute financed and facilitated emissions for sectors
+Scope 3
+of our financing portfolio for which we have set net zero-aligned targets. 96.5 36.2 2,134.6 2,556.2 3.1
+(end use)
+Energy Mixii
+OUR APPROACH TO CALCULATE OUR ABSOLUTE FINANCED AND
+FACILITATED EMISSIONS
+Scopes 1 and 2 6.2 2.0 256.6 274.8 3.2
+Our methodology for calculating absolute financed and facilitated emissions Oil & Gas
+Operational
+builds on international standards and guidance while also aiming to align with the
+principles and methodology underlying our sector-specific net zero-aligned targets.
+We tailored our approach to focus on what we consider to be the most important
+Scope 1 31.9 8.9 852.4 658.1 3.1
+sources of emissions for each sector, accounting for our financing exposure to each
+Electric Power
+of our clients in those sectors. To address one of the most significant challenges of
+measuring absolute financed and facilitated emissions, we also seek to minimize the
+Scopes 1, 2 and 3
+distortion that may result from the effect of short-term market volatility on client 2.0 1.1 460.8 420.1 3.2
+Auto (tank-to-wheel)
+valuations. We believe our approach calculates absolute financed and facilitated Manufacturing
+emission figures that correlate with real-world emissions performance of clients in
+our applicable sector portfolios.
+Scope 1
+1.0 0.7 680.8 596.4 3.0
+(tank-to-wake)
+We plan to continue to monitor evolving best practices on absolute financed and Aviation
+facilitated emissions measurement to inform our methodology. While we believe that
+our approach correlates with real-world emissions performance, we also disclose Scope 1
+0.2 0.1 506.2 259.4 1.5
+a version of this metric aligned to PCAF within the appendix section of this report (tank-to-wake)
+Shipping
+(refer to pages 32–33).
+For more information on our approach, refer to the “Absolute Financed Emissions”
+Scopes 1 and 2 2.6 1.2 1,378.9 1,473.9 1.4
+section in our Carbon Compass® methodology.
+Iron & Steel
+Scopes 1 and 2 1.9 1.0 1,405.0 1,626.1 1.3
+Cement
+Scopes 1 and 2 0.4 0.6 727.6 1,578.0 3.0
+Aluminum
+i. Data quality scores are assigned depending on the quality of data available for each client, with 1 representing highest quality and 5 representing lowest quality. We calculate and report a
+weighted average data quality score for each sector based on the financing provided to each client relative to our total financing to the sector. Refer to section 4.5 of our Carbon Compass®
+methodology to learn more.
+ii. Due to the integrated nature of our Energy Mix target and its partial overlap with our existing Electric Power target, we will include our financing of zero-carbon power generation activities
+in both targets’ calculations.
+21
+
+=== PAGE BREAK ===
+
+Energy Supply Financing Ratio Data Challenges
+We have developed our own methodology to calculate our Energy Supply Financing Ratio (“ESFR”). The ESFR metric Improving the quality, timeliness and availability of data is important for properly measuring emissions and monitoring progress over
+compares the amount of financing supporting low-carbon intensive and zero-carbon (referred to as “Low-Carbon”) energy time. This section summarizes the key points on data considerations and ongoing challenges that we face.
+supply versus that supporting high-carbon intensive and unabated fossil-based (referred to as “High-Carbon”) energy
+supply. While this disclosure metric can provide more insight into the capital that we are providing, we are not aligning our MEASUREMENT VS. ESTIMATION
+financing to meet a specific target for this ratio. The decision to disclose this ratio was made following engagement with our
+There are well-known challenges with the quality and reliability of emissions data in many sectors. This means we sometimes
+shareholders including the New York City Comptroller, which serves as the Trustee for each of the New York City
+rely on estimated versus directly measured emissions data. For example, in the Oil & Gas sector, there are inconsistencies in the
+Public Pension Funds.
+measurement, management and reporting of data across companies, as well as lack of reliable and standardized techniques for
+measurement in certain areas, such as methane emissions. As a result, reported methane emissions rely on estimation methods
+For the year ended December 31, 2023, our ESFR of 1.29x shows that for each dollar supporting High-Carbon energy supply,
+that are less accurate than direct measurement methods. We are working with industry partners and NGOs to help make direct
+1.29 dollars supported Low-Carbon energy supply.
+measurement technologies the preferred method of tracking and reporting methane emissions. More generally, emerging best
+The ESFR disclosure can provide insight into capital formation in the real economy, but it also has limitations. First, it is a
+practices, including companies reporting to organizations that provide data aggregation services and soliciting assurance for
+disclosure metric, not a mechanism to drive energy transition. Banks operate in competitive markets and do not control
+reported GHG emissions data, will help improve emission-related data quality and reliability. To know more about our efforts toward
+the absolute or relative level of financing opportunities available for energy supply. Rather, the energy transition is driven
+helping improve availability and accuracy of methane emissions data, refer to page 11.
+by a range of factors largely outside of an individual bank’s control, including the implementation of policy mechanisms,
+technological advancements and changing consumer preferences. Second, while this metric can provide further insight
+DATA LAG
+into the financing we are providing, it is not a direct proxy for decarbonization activity happening in the economy, or for
+Another challenge we face is with the timely availability of data inputs to calculate carbon intensity. In the Auto Manufacturing sector,
+total energy supply investment dollars. Financing provided by banks only reflects a portion of the total capital deployed by
+for example, availability of certain data from regulatory sources can be significantly delayed — sometimes up to two to three years.
+companies engaged in the supply of energy to power the global economy. Capital provided through companies’ retained
+In such cases, we seek to address gaps using a defined data waterfall approach that may include company-disclosed figures, provided
+earnings, state and federal governments, venture capitalists and private equity firms also plays a key role in supporting the
+they are verified and prepared in line with recommended protocols. Failing that, we use proxy values. As climate- and sustainability-
+investments needs of energy supply sectors.
+focused disclosure becomes more standardized, we expect lags — especially on company-reported data — to reduce gradually.
+We aim to support the energy transition while recognizing the need to continue supporting traditional energy sectors
+to help their decarbonization efforts and promote global energy security, availability, affordability and accessibility. We COMPARABLE METHODOLOGIES
+are focused on helping our clients achieve their business objectives, including their efforts to responsibly reduce their
+While we seek to design and implement robust proxies that minimize the impact on our estimates when preferred data becomes
+emissions today, while diversifying their use of different energy sources over time.
+available, there are cases where this may not be achievable. For example, in our Electric Power portfolio, a small proportion of
+For more information on our approach, details on our methodology and resulting metric, refer to our ESFR methodology. companies for which no data is available receive a default carbon intensity based on a relatively conservative proxy. Unless the
+company’s North America Industry Classification System codes or project financing use of proceeds indicate it to be a zero-emitting
+power producer, in which case it is assigned a carbon intensity of zero, the company is assigned a fuel mix that is equal parts coal
+and natural gas. However, due to the large differences between the emissions intensities of the different fuel types, there could be
+significant differences between estimates and actual data. To mitigate this, we are continuing to work with our clients and other
+stakeholders to improve overall quality and availability of data. We review our data sourcing choices to assess whether better
+alternatives have become available.
+LACK OF DATA ON EMERGING DECARBONIZATION TECHNOLOGIES
+Emerging technologies such as hydrogen, biofuels, and carbon capture, use and storage — will play a key role in helping clients
+decarbonize. However, data availability in these areas remains a significant challenge. Innovative solutions continue to emerge but
+lack the scale today that is necessary to meaningfully impact our portfolio-level emissions intensity. We recognize that data in this
+space is evolving, and we plan to consider viable data solutions as they become available.
+22
+
+=== PAGE BREAK ===
+
+2023i 2017
+Managing Our Operational
+(Baseline year)ii
+3
+GHG EMISSIONS (mtCOe)
+Footprint 2
+Scope 1 GHG Emissions 115,294iii 84,463
+Natural gas 48,232 44,628
+We measure and report our Scope 1, Scope 2 and Scope 3 Category 6 - business travel emissions, as well as
+Propane 50 235
+our progress toward our current operational decarbonization targets.
+Fuel oil 420 1,387
+Operational GHG Emissions Jet fuel 13,059 9,116
+Fugitive emissions 48,658 27,130
+JPMorgan Chase’s reported 2023 operational GHG emissions were driven by two primary activities: powering
+Diesel 2,855 1,648
+our buildings (e.g., electricity, heating and cooling) and business travel. Scope 1 GHG emissions were driven
+Fleet 1,892 51iv
+by our building operations and company-owned aircraft and vehicles. Scope 2 emissions, from purchased
+Other energy usev 128 268
+electricity, remain the largest driver of our building-related emissions and overall operational GHG footprint.
+Scope 2 GHG Emissions (Location-Based) 792,479iii 944,641
+Our Scope 3 business travel-related emissions are largely from commercially operated air travel.
+Purchased electricity 788,837 937,012
+The table on the right summarizes our 2023 operational GHG emissions against our 2017 baseline.
+Purchased steam, district heat and chilled water 3,642 7,629
+As a result of continued improvements in data quality and availability, we updated our emissions calculation Scope 1 GHG Emissions + Scope 2 GHG Emissions (Location-Based) 907,773 1,029,104
+methodology to more accurately measure our operational GHG emissions. Enhancements include expanding Percentage reduction in Scope 1 and Scope 2 (Location-Based) from 2017 baseline -12% —
+our operational boundary definitions, using energy intensity and GHG emissions factors with broader
+GHG emissions intensityvi 5.7 10.3
+geographical coverage, and improved data sources to more accurately reflect our business travel emissions21.
+Scope 2 GHG Emissions (Market-Based) 3,642iii 858,769
+Consequently, we have restated our 2017 baseline using this updated methodology — where possible — and
+Purchased electricity — 851,140
+have calculated our 2023 metrics using the same approach.
+Purchased steam, district heat and chilled water 3,642 7,629
+Scope 1 GHG Emissions + Scope 2 GHG Emissions (Market-Based) 118,936 943,232
+Scope 3 GHG Emissions (Category 6 - business travel)vii 255,481iii 187,713
+Scope 1 GHG Emissions + Scope 2 GHG Emissions (Market-Based) + Scope 3 GHG Emissions (Category 6) 374,417iii 1,130,945
+Verified carbon offsetsviii 374,417iii 175,155
+Net emissions: Scope 1 GHG Emissions + Scope 2 GHG Emissions (Market-Based) + Scope 3 GHG Emissions — 955,790
+(Category 6)
+i. For 2023, we have updated the methodology we use to estimate our v. Includes heavy fuel oils, anthracite coal, biofuels and waste.
+operational GHG emissions. vi. Includes Scope 1 and Scope 2 (location-based) GHG emissions; mtCOe/
+2
+ii. Data for 2017 has not been subject to external verification and may be revised. million USD revenue.
+Restatement of our 2017 baseline using our updated methodology resulted in vii. For 2023, Scope 3 GHG Emissions (Category 6 - business travel) includes:
+a 1.2% increase in the combined total of our Scope 1, Scope 2 (Location-Based) air and rail travel, car rental, ride share, expensed mileage and hotel
+and Scope 3 (Category 6 -business travel) GHG Emissions compared to the stays. For 2017, Scope 3 GHG Emissions (Category 6 - business travel)
+previously reported baseline. includes only air travel data. Due to data limitations, and to align with our
+iii. We engaged an external third-party to perform a limited assurance updated emissions methodology, we applied the percentage breakdown
+engagement over these metrics presented for 2023. Find our Management of haul distances and cabin classes from 2023 air travel data as a proxy to
+Assertion and the Report of Independent Accountants here. calculate 2017 air travel emissions.
+iv. For 2017, emissions from fleet were not updated to the current methodology viii. Carbon offsets, also referred to as "carbon credits" and the market for
+due to data limitations. Total emissions from fleet accounted for them are evolving rapidly. Although we endeavor to source high-quality
+approximately 0.06% of the overall Scope 1 GHG emissions and 0.005% of the carbon credits verified by independent third parties, the ability to use
+overall Scope 1 and Scope 2 (location-based) GHG emissions for 2017. carbon credits to fully and permanently address unabated emissions
+relies on certain assumptions and is subject to debate among experts.
+21 Find our Management Assertion and the Report of Independent Accountants here. 23
+
+=== PAGE BREAK ===
+
+Electric Power
+2023 2017
+Since 2020, we have achieved our target of sourcing renewable electricity for 100%
+ELECTRIC POWER (MWh)
+of our global electric power needs annually, which we have accomplished through
+a combination of on-site solar installations at JPMorgan Chase commercial and
+Purchased electricity 2,016,262i 2,154,995
+retail locations and the purchase of renewable electricity via both long-term power
+purchase agreements and applicable EACs.
+Electricity from long-term renewable contractsii 704,633 N/A
+The table on the right summarizes our renewable electricity use obtained via either
+on-site generation or contractual instruments.
+Electricity production (on-site solar) 47,443 2,598
+Percentage of electric power needs met with on-site generation and long-term renewable electricity contractsii 36% N/A
+Purchased renewable electricityiii 2,016,262i 200,000
+Percentage of electric power from renewable sources (production and instruments) 100% 9%
+i. We engaged an external third-party to perform a limited assurance engagement over these metrics presented for 2023. Find our Management Assertion and the Report of Independent
+Accountants here.
+ii. Tracking began in 2021.
+iii. Purchased renewable electricity from unbundled energy attribute certificates, contractual instruments which included long-term power purchase agreements, virtual power purchase agreements
+and renewable supply contracts.
+24
+
+=== PAGE BREAK ===
+
+Risk Management
+Our Climate Risk Framework
+Climate risk refers to the potential threats posed by climate change to the Firm and/or our clients, customers, operations and business strategy. Climate change is viewed as a catalyst that can influence risks (credit and investment, market, operational and strategic)
+managed by the Firm. Climate risk is categorized into physical risk and transition risk.
+Physical risk involves economic costs and financial losses due to a changing climate. Acute physical risk includes increased Transition risk involves the financial and economic consequences of society’s shift toward a lower-carbon economy. Transition
+frequency or severity of climate and weather events, such as floods, wildfires and tropical cyclones. Chronic physical risk includes risk includes possible changes in public policy, adoption of new technologies and shifts in consumer preferences. Transition risks
+more gradual shifts in the climate, such as sea level rise, persistent changes in precipitation levels and increase in average may also be influenced by changes in the physical climate.
+ambient temperatures. Indirect physical risk includes the second-order effects of these acute and chronic risks, such as supply
+chain disruptions or changes to property valuations.
+Our climate risk framework outlines the capabilities we employ to identify, assess, manage and quantify the potential impacts of physical and transition risk, which we view as drivers of each of our four risk types. On the following pages, we have sections discussing the
+following components of our climate risk framework: Risk Governance, Scenario Analysis, Risk Identification and Risk Measurement. Data Management and Reporting and Disclosures capabilities are described throughout various sections of this chapter.
+JPMorgan Chase continues to invest in talent, as well as data and technology resources to support the management of climate, nature and social risks.
+The Firm’s Climate Risk Framework
+RISK GOVERNANCE SCENARIO ANALYSIS RISK IDENTIFICATION RISK MEASUREMENT DATA MANAGEMENT REPORTING & DISCLOSURES
+25
+
+=== PAGE BREAK ===
+
+Risk Governance
+We maintain a framework and strategy for identifying, monitoring and managing climate risk which is integrated into our risk governance process. This framework allows for the escalation of significant climate risk-related issues to LOB Risk Committees. The Board Risk
+Committee also receives information on significant climate risks and climate-related initiatives, as appropriate.
+Scenario Analysis
+Scenario Analysis is a key component of our climate risk framework. To assess the range of potential climate-driven paths and outcomes, we apply an array of scenarios to our internal risk processes, as appropriate. We use internationally recognized scenarios from the
+Network for Greening the Financial System (“NGFS”) and the Intergovernmental Panel on Climate Change (“IPCC”) to inform our measurement of potential financial and economic impacts to the Firm from climate risks.
+The NGFS and IPCC scenarios represent widely-accepted, plausible pathways for society’s future GHG emissions and consider the complex interactions between global socioeconomic systems and natural Earth systems over time.
+Scenario Analysis is not a prediction of the future, but rather a tool to understand potential future outcomes. It helps us identify potential vulnerabilities impacting our clients, customers, operations and business strategy across a range of plausible future states
+of the world.
+Physical Risk Scenario Analysis Transition Risk Scenario Analysis Integrated Climate Scenario
+To evaluate the potential impacts of more frequent and severe weather events on our To gauge the potential impacts of transition risk to the Firm, we use macroeconomic We continue to examine alternative climate scenarios, including internally designed
+business operations, credit exposures and collateral locations, we use physical risk and industry-specific factors, like Oil & Gas demand and steel production, from NGFS scenarios, with a goal of improving the integration of both physical and transition
+scenario inputs derived from the IPCC. We use both a “baseline” physical risk scenario scenarios. Consistent with the physical risk approach, we use a “baseline” transition risks, taking into account their potential combined impacts on the broader economy,
+and a “stress” physical risk scenario to understand possible outcomes. risk scenario and a “stress” transition risk scenario, both from the NGFS. and considering the Firm’s specific concentrations and exposures. These alternatives
+may also decrease our dependence on third-party scenarios. Taken together, these
+BASELINE SCENARIO BASELINE SCENARIO and other efforts are intended to enhance our ability to identify, measure, monitor
+and manage climate-related financial risks.
+The IPCC Representative Concentration Pathway (“RCP”) 4.5 scenario represents a The NGFS Current Policies (“CP”) scenario represents a low-transition risk scenario
+middle-of-the-road scenario where societal, economic and technological trends do based on the current state of global climate policy. The scenario assumes that no
+Time Horizons
+not shift markedly from historical patterns: global and national institutions make additional emissions reduction policies are implemented by governments, leading to
+slow progress toward sustainable development goals and the intensity of resource high physical risks. In this scenario, 3°C or more of warming could occur by 210022. Because of the varying pace and cumulative effects of climate change, we assess
+and energy use declines. The scenario assumes that global mean temperature scenario outputs and manage climate risks across a range of time horizons. We
+reaches 2.7°C warming above pre-industrial levels by 2100. STRESS SCENARIO categorize a timeframe of less than five years as short-term. This categorization aligns
+In 2023, the NGFS discontinued the Divergent Net Zero (“DNZE”) scenario. While the with our loss and capital adequacy assessments. It is also consistent with our risk
+STRESS SCENARIO
+Firm continues to leverage the DNZE scenario as an extreme transition risk NGFS identification framework and the short-term climate scenario assumptions we use.
+The IPCC RCP 8.5 scenario represents the highest emissions IPCC scenario. The scenario, we are developing an internal, integrated climate scenario (discussed in
+Furthermore, we classify a medium-term time horizon as 5 to 10 years and a long-
+scenario assumes that global mean temperature reaches 4.4°C warming above more detail in the following paragraph). The DNZE scenario assumes that global net
+term time horizon as 10+ years, understanding that the effects of climate change may
+pre-industrial levels by 2100 due to the continued heavy use of fossil fuel resources zero emissions are reached by 2050 through a rapid increase in carbon prices with
+unfold over longer time horizons. In this way, our strategic approach to climate risk
+and a continued rise in resource- and energy-intensive activities around the world. an accelerated phase-out of fossil fuels, despite divergence in policies introduced
+management seeks to cover both potential current and future risks, immediate and
+Under this scenario, there is no transition to a low-carbon economy and GHG by governments across the world. The scenario assumes that global warming is
+far-sighted, seeking sustainability and resilience in the face of evolving
+emissions continue to rise throughout the 21st century. successfully limited to 1.5°C by 2100, which limits physical risk impacts.
+climate scenarios.
+22 Temperature increases are relative to global mean temperatures at pre-industrial levels (1850–1900). 26
+
+=== PAGE BREAK ===
+
+Risk Identification
+We have integrated climate into the firmwide risk identification framework as a driver of existing credit and investment, market, operational and strategic risk types. Supporting this framework is a classification system, illustrated below, that describes how climate risk
+drivers could translate into potential impacts to our clients and our operations. We apply our scenario analysis tools to this framework to identify how climate change may impact the Firm’s risk profile. Identified climate risks are incorporated into the Firm’s risk inventory.
+Translating Climate Risk Drivers into Potential Risks to the Firm23
+23 List is not exhaustive. We continue to refine our taxonomy based on an evolving understanding of how climate-related risk drivers may manifest as risks to the Firm.
+KSIR
+ETAMILC
+CLIMATE RISK DRIVERS IMPACT TRANSMISSION CHANNELS
+Factors that cause a risk to exist Avenues of potential impacts through which climate risk drivers manifest into risk types
+ksiR
+lacisyhP
+Acute Physical Risk
+(e.g., floods, wildfires, tropical storms)
+Chronic Physical Risk
+(e.g., sea level rise, changing precipitation levels, temperature increases)
+ksiR
+noitisnarT
+JPMORGAN CHASE RISK TYPES
+Categories of risks as outlined in JPMorgan Chase’s Annual Report on Form 10-K
+Regulatory and/or Governmental Policy Change
+Economic
+Technological Evolution
+Strategic Risk
+Financial Costs and/or Asset Price Declines
+Market Preference Country and/or Business Competitiveness Market Risk
+Reputational damage Credit & Investment Risk
+k
+s
+iR
+la Litigation Operational Risk
+c
+is
+y
+h
+P
+Physical Damages and/or Business Distruption
+Physical and Transition Risk
+Physical and transition risk can manifest in a variety of ways. The table on the following page provides examples of these risks and how they could directly or indirectly affect the four major risk types we manage.
+The term “first-order impacts” refers to impacts that directly affect an individual company, property or consumer. The term “second-order impacts” refers to secondary impacts to financial markets, local economies or other businesses. In some cases, the “first-order”
+impacts may build over time and trigger the “second-order” impacts — for example, repeated business disruption following severe weather events may lead to higher insurance costs in the local area.
+27
+
+=== PAGE BREAK ===
+
+Examples of Potential Climate Risk Impacts
+RISK TYPE PPHHYYSSIICCAALL RRIISSKK TTRRAANNSSIITTIIOONN RRIISSKK
+FIRST ORDER SECOND ORDER FIRST ORDER SECOND ORDER
+Increasing frequency and severity of Over time, the higher amount of direct A shift in consumer preference away from A sustained low-profitability environment
+CREDIT AND INVESTMENT RISK
+weather events leads to customer and/or damage resulting from severe weather certain carbon-intensive products leads in local economies reliant on carbon
+Risk associated with the default or change in credit profile of a client property damage and an increased events leads to increased insurance costs, to reduced profitability for clients slow to intensive industries leads to lower local
+client, counterparty or customer; or loss of principal or a reduction likelihood of default diminishing consumers’ ability to pay adapt to a low-carbon economy economic output, higher unemployment,
+in expected returns on investments, including consumer credit and increased customer and client
+risk, wholesale credit risk and investment portfolio risk default risk
+Heat and drought causes variability in Increasing frequency and severity of Increasing consumer demand for electric Sustained EV demand combined
+MARKET RISK
+agriculture output, or severe weather weather events in a high physical risk vehicles (“EVs”) negatively impacts with ongoing constraints in the EV
+Risk associated with the effect of changes in market factors, such disrupts commodity supply chains, region leads to a systemic change in the equity value of slow-to-transition supply chain leads to long-term price
+as interest and foreign exchange rates, equity and commodity leading to price volatility the types of commodities produced automotive manufacturers appreciation and volatility for certain
+prices, credit spreads or implied volatilities, on the value of assets in those regions and therefore commodities
+and liabilities held for both the short and long term affects prices in a sustained way
+A severe weather event — such as a flood Increasingly frequent JPMorgan Chase's implementation of Fast evolving and ambiguous regulatory
+OPERATIONAL RISK
+or tropical cyclone — causes damage to and destructive weather events in high new climate-related models, reporting and legal landscape on climate topics
+Risk of an adverse outcome resulting from inadequate or failed JPMorgan Chase building with temporary physical risk regions leads to migration of against climate related targets, and the could lead to more regulatory scrutiny
+internal processes or systems; human factors; or external events business disruption and repair costs businesses and residents away from emergence of various climate-related and litigation being brought against the
+impacting the Firm’s processes or systems. Operational risk includes these regions, creating hiring and regulatory expectations globally leads to financial sector, leading to increased legal
+compliance, conduct, legal, and estimations and model risk employee retention challenges for increased operational risk and compliance costs
+local JPMorgan Chase offices
+The Firm continues to invest in properties High physical risk in regions where The Firm fails to attract green business The Firm is no longer viewed as a leading
+STRATEGIC RISK
+that are increasingly susceptible to JPMorgan Chase has made strategic opportunities as society shifts towards a banking partner for a large part of the
+Risk to earnings, capital, liquidity or reputation associated with physical damages from severe weather investments (e.g., offices, branches, low-carbon economy global economy
+poorly designed or failed business plans or inadequate response events, leading to reduced profitability data centers) causes the Firm to
+to changes in the operating environment for the Firm abandon/restructure location strategies
+in these regions
+28
+
+=== PAGE BREAK ===
+
+Risk Types
+We are using our resources to better understand how physical and transition risks may manifest and their potential impacts on the existing risk types the Firm manages.
+Credit and Investment Risk
+As an example, credit and investment risk is one of the four risk types we manage and is the risk associated with the default or change in the credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments
+including consumer credit risk, wholesale credit risk and investment portfolio risk.
+We use our risk identification process and scenario analysis capabilities to measure the potential adverse impacts the baseline and stress climate risk scenarios may have on our credit portfolios, both today and in the future. We are analyzing the direct impacts of physical
+and transition risk — including property damage and financial loss due to severe weather events or the potential reduction in profitability of a client, counterparty or customer as a result of a societal transition from a high-carbon to a lower carbon-intensive footprint. We
+are also considering indirect and longer-term risk drivers, including the potential for reduced availability or increased cost of insurance for clients of JPMorgan Chase in a given geography, adoption of new technologies and shifts in consumer preferences.
+CONSUMER CREDIT RISK WHOLESALE CREDIT RISK
+As of December 31, 2023, the Firm had $1.6 trillion of consumer credit exposure, including residential real estate, auto loans and As of December 31, 2023, the Firm had $1.3 trillion of wholesale credit exposure. In its wholesale businesses, the Firm is
+credit cards. We use catastrophe models to estimate the potential impact of hypothetical severe weather events, including flooding exposed to credit risk primarily through its underwriting, lending, market-making, and hedging activities with and for clients
+and tropical cyclones, on our real estate portfolios. Catastrophe models provide estimates of event frequency and severity, as well and counterparties, as well as through various operating services (such as cash management and clearing activities), securities
+as resultant property damage under different emissions scenarios. Such metrics contribute to analyses of potential future climate- financing activities and cash placed with banks.
+related credit risk by informing estimates of risk drivers, such as insurance costs and asset values. However, such modelling has
+We have built a stress framework to estimate potential impacts from a range of climate transition pathways on client financials
+limitations, such as only considering current building codes and flood defenses and not future ones that may be built in response to
+and credit ratings. Financial impacts from the transition to a low-carbon economy could manifest in a variety of ways, including
+storms. For example, retained residential real estate loans, predominantly in the U.S., made up $326 billion of the total consumer
+weaker demand for carbon-intensive products, resulting in lower revenue or higher operating costs for carbon-emitting companies,
+credit portfolio. Today, the risks of severe weather events for this portfolio are substantially mitigated through geographic
+if a carbon tax is implemented. Additionally, companies may need to increase their capital expenditures through investments that
+diversification of the properties, the prevalence of hazard insurance and the effective average life of the underlying loans, among
+improve resilience to the low-carbon transition (e.g., power companies investing in renewables).
+other factors. As a result, financial losses due to severe weather events have not been material to the Firm. As we evaluate the
+potential for future impacts, we are considering outcomes in which these mitigants are less effective — for example, if insurance For clients operating in carbon-intensive sectors (e.g., Oil & Gas, Automotive Manufacturing, Power Generation, Aviation, Steel
+costs become prohibitively expensive or availability of insurance is limited in geographic scope or coverage. and Cement Manufacturing), we estimate the potential impact of a climate transition scenario on their credit rating by projecting
+detailed cashflows within the context of a transition scenario (refer to Scenario Analysis on page 26). This estimation takes into
+The cumulative effect of physical climate risk may impact our residential real estate portfolio in several ways, including the following:
+account the client-level CAF quantitative and qualitative scores, which, as described on pages 9–11, assess a client’s historical
+• Greater physical damages: increased likelihood or severity of severe weather events may increase consumer credit losses. emissions reductions, current and forecasted carbon intensity, as well as actions taken to advance their decarbonization.
+• Higher insurance premiums: higher insurance premiums may increase living expenses and financial burden for consumers. To assess the impact of climate transition risk on sectors with relatively lower carbon intensity, we conduct a separate client-specific
+internal stress analysis24. The potential effect on a client’s credit rating is estimated by stressing client financials consistent with
+• Reduced coverage or availability of insurance: insurers may further limit types of damage they cover or withdraw coverage from
+industry projected performance in the transition scenario and factoring in the additional costs incurred due to a carbon tax on
+specific geographies.
+the company’s emissions.
+• House price impacts: cumulative effect of climate-driven events may adversely impact house prices and local economies in
+We have also developed risk measurement capabilities, including catastrophe modelling — which as noted in the Consumer Credit
+certain geographies, potentially disproportionately impacting lower-income households and communities.
+Risk section, has limitations such as only considering current building codes and flood defenses and not future ones that may be
+We continue to examine how the transition to a low-carbon economy may create financial burden on consumers from potentially built in response to storms — to estimate the potential impact of severe weather events exacerbated by climate change on our
+higher energy prices, pass-through of carbon taxes on goods and services, or result in declines in the value of other assets (e.g., Commercial Real Estate portfolio. Damages from hurricanes and floods could cause potential physical damage to the underlying
+gas-burning vehicles), which could impact consumers’ ability to repay credit obligations and may result in additional credit losses properties, leading to expenses for repairs and disruptions in revenue, as well as changes in overall property values that could
+to the Firm. impact the credit quality of the portfolio. The impact of severe weather events on the Commercial Real Estate portfolio is currently
+estimated to be limited given relatively low exposure to areas most impacted by severe weather events.
+24 Climate transition stress analysis for clients in lower carbon intensity sectors is used for internal climate analysis and not used in client decisioning. 29
+
+=== PAGE BREAK ===
+
+RISK MEASUREMENT IN FOCUS: HEATMAP OF WHOLESALE CREDIT EXPOSURES (AS OF DECEMBER 31, 2023)
+Below is a heatmap of wholesale credit exposures using a five-point color scale to indicate revenue-based carbon intensity — to the extent that reliable data is available — and physical risk by sector. Revenue-based carbon intensity is sourced from third-party data
+aggregation services. The physical risk categorizations are based on an internal methodology that assesses sector-specific characteristics that may lead to physical risk vulnerabilities, such as reliance on outdoor labor and climate-vulnerable resources. Changes in carbon
+intensity ratings from 2022 were mostly driven by data quality enhancements and increased availability of GHG emissions data.
+Key: Very Low Low Moderate High Very High Not analyzed Year-on-year increase in intensity Year-on-year decrease in intensity
+Total Credit Exposure Revenue-Based Total Credit Exposure Revenue-Based
+Sector (USD million) Carbon Intensity Physical Risk Sector (USD million) Carbon Intensity Physical Risk
+COMMERCIAL & INDUSTRIAL 501,353 High Moderate Metals/Mining 15,508 Very High High
+Consumer & Retail 127,086 Moderate Low Steel 3,862 Very High High
+Retail 36,376 Low Low Aluminum 1,126 Very High Very High
+Business & Consumer Services 35,214 Moderate Low Coal 198 N/A High
+Food & Beverage 33,186 Moderate Low Other Metals & Mining 10,322 Very High High
+Consumer Hard Goods 13,366 High Low Transportation 16,060 High Moderate
+Leisure 8,944 Low Moderate FINANCIAL INSTITUTIONS 220,192 Moderate N/A
+Technology, Media & Telecommunications 77,296 Moderate Moderate Asset Managers 129,574 N/A N/A
+Industrials 75,092 Very High Moderate Banks & Finance Cos 57,177 Moderate N/A
+Machinery & Equipment 35,299 Very High Moderate Insurance 20,501 Very low N/A
+Construction & Building Materials 16,509 High Moderate Financial Markets Infrastructure 4,251 Very low N/A
+Agriculture, Forest Products & Textiles 15,026 High High Securities Firms 8,689 Low N/A
+Aerospace & Defense 8,258 Very High Moderate REAL ESTATE 208,261 Low Low
+Healthcare 65,025 Very low Moderate Multifamily 121,967 N/A Low
+Oil & Gas 34,475 Very High High Office 16,494 Very low Low
+Exploration & Production ("E&P") and Oilfield Services 18,657 Very High High Industrial 20,272 Low Low
+Other Oil & Gas 15,818 Very High High Retail 12,811 Moderate Low
+Automotive 33,977 Very High Moderate Lodging 4,748 Moderate Moderate
+Auto Dealers 16,588 Very High Low Other Income Producing Properties 15,750 Very low Moderate
+Auto Manufacturing 17,389 High Moderate Services and Non Income Producing 16,219 Moderate Moderate
+Utilities 36,061 Very High High GOVERNMENT & AGENCIES 53,690 N/A N/A
+Electric 13,604 Very High Very High OTHER INDUSTRIES 280,626 N/A N/A
+Gas 9,356 Very High High Individuals and Individual Entities 145,849 N/A N/A
+Integrated & Other Utilities 13,101 Very High High Other 134,777 Moderate N/A
+Chemicals/Plastics 20,773 High Moderate TOTAL 1,264,122 High Moderate
+Chemicals 15,319 High Moderate of which: exposure to high-intensity sectors 296,936
+Plastic & Rubber 5,454 High Moderate
+Note: Data in the above table is as of December 31, 2023. The revenue-based carbon intensity heatmap color is based on the average sector total revenue-based carbon intensity (Scope 1+2+3) in tCOe/USD million, weighted by exposure to each counterparty in the sector. The physical risk rating is based on
+2
+our internal methodology, which assesses characteristics of each global industry that could lead to physical risk vulnerability and focuses on the direct activities of companies. Our internal methodology for calculating physical risk was updated this year, leading to ratings changes for certain sectors. Revenue-
+based carbon intensity ratings, which consider supply chain as part of Scope 3 reporting, may change over time for various reasons including enhancement of emissions data quality and reliability in certain sectors. As more companies directly report Scope 3 emissions, we expect the directly-reported data to
+reduce our reliance on data aggregation services that provide Scope 3 emissions estimations. Grey cells indicate sectors and sub-sectors we have not yet scored and/or sectors with insufficient data. Total credit exposure includes retained loans, lending-related commitments and derivative receivables.
+30
+
+=== PAGE BREAK ===
+
+Other Risk Types
+Market Risk
+Market risk is the risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity may impact clients, customers, employees, capital providers and other stakeholders. In many cases we recognize that a position we
+and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short- and long- take will be favored by some and disapproved of by others, and where all positions including neutrality can be controversial.
+term. Climate risk drivers may lead to sharp volatility or persistent changes in the prices of commodities and financial assets; for
+Companies remain under scrutiny for their approach to managing climate transition risks as well as environmental and social risks,
+example, companies in carbon intensive sectors without credible transition plans may have assets that are viewed as stranded,
+which could lead to reputation risk from the real or perceived lack of progress and transparency. The Firm may face reputation risk
+resulting in materially depressed equity prices. The Firm has established a stress framework to quantify the impact of the transition
+relating to its climate risk framework and environmental sustainability strategy.
+risk stress scenarios on vulnerable asset classes. We have also analyzed a series of physical drivers to estimate the potential
+impacts of various acute physical risk events to markets exposures.
+LIQUIDITY RISK
+Operational Risk Liquidity risk is the risk that the Firm will be unable to meet its cash and collateral needs as they arise or that it will not have the
+appropriate amount, composition and tenor of funding and liquidity to support its assets and liabilities. The Firm’s liquidity could be
+Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems, human factors
+impaired by factors such as market-wide illiquidity or disruption, unanticipated outflows of cash or collateral and lack of market or
+or external events impacting the Firm’s processes or systems. We have integrated climate risk drivers into our operational risk
+customer confidence in JPMorgan Chase or financial institutions in general. We use a transition risk scenario to assess the potential
+framework and associated firmwide resiliency processes. Increasingly volatile and severe weather events, including more severe
+impact of climate on the Firm’s liquidity.
+storms, flooding, heat and related impacts, such as drought and wildfires, may impact the likelihood and severity of a variety of
+existing operational risks.
+We evaluate potential climate driven impacts through ongoing assessments of operational risks to employees and customers, our
+facilities, property and service providers, and our business activities. Evaluations are documented and may also inform the firmwide Climate-related Country Risk
+risk identification framework, which centrally captures risks across all risk types. As an example, we use these risks to develop
+The Firm may be exposed to country risk resulting from financial, economic, political or other significant developments,
+business disruption threat scenarios that inform business resiliency planning, testing and simulation exercises. This, in turn, allows
+which adversely affect the value of the Firm’s exposures related to a particular country or set of countries. Country risk may
+us to assess the adequacy of our resiliency capabilities and identify potential vulnerabilities and opportunities for enhancement.
+be a driver of risk or an aggregation of exposures that could give rise to multiple risk types such as credit or market risk.
+These activities, along with other factors, help further our management and mitigation of climate-driven impacts.
+Negative impacts of climate change may affect a country’s economic, fiscal, monetary or political frameworks in numerous
+We have also developed the global Climate Location Site Assessment (“CLSA”) process, which considers the risks to, and resiliency
+ways, which, in turn, may adversely affect its sovereign credit ratings. We have incorporated climate risk considerations, as
+of, the Firm’s infrastructure to the impacts of climate change. This process is completed by metro area and is prioritized by key
+appropriate, into existing sovereign ratings. In addition, we developed a score to help us evaluate the potential sensitivity of
+operational locations and the projected severity of impacts of physical climate change. The CLSAs provide resiliency-related
+sovereign ratings to climate risks beyond the standard rating horizon or specific stress scenarios.
+information to support firmwide processes, including risk identification and business resiliency planning exercises.
+Strategic Risk
+Managing Nature and Social Risks
+Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly designed or failed business plans
+or inadequate response to changes in the operating environment. In response to climate change, and in support of our clients
+We have frameworks in place to identify certain client business models with high concentrations of particular nature and social
+transitioning to a lower-carbon economy, we may make changes to our business strategy, product offerings and risk profile.
+(“N&S”) risk that have the highest potential reputational impact to the Firm. These frameworks also include restricted activities
+related to the environment and human rights. For example, we will not provide financial services to clients deriving the majority
+REPUTATION RISK
+of their revenues from the extraction of coal. For more information on our framework for managing N&S risks, including the Firm’s
+Reputation risk is the risk that an action or inaction may negatively impact perception of the Firm’s integrity and reduce confidence in
+other restricted activities and sensitive business activities and locations, please refer to pages 82 and 83 of our 2023 ESG Report.
+the Firm’s competence by various stakeholders, including clients, counterparties, customers, communities, investors, regulators, or
+employees. Reputational risk assessment is designed to take into account the commercial consequences of actions or inactions that
+31
+
+=== PAGE BREAK ===
+
+Appendices
+Absolute Financed and Facilitated Emissions: PCAF-aligned Metrics25
+We recognize the benefit of comparable industry-specific PCAF-aligned Absolute Financed and Facilitated Emissions26
+methodologies for measurement and disclosure of absolute
+financed and facilitated emissions. Although the methodologies AABBSSOOLLUUTTEE FFIINNAANNCCEEDD AANNDD FFAACCIILLIITTAATTEEDD EEMMIISSSSIIOONNSS EECCOONNOOMMIICC IINNTTEENNSSIITTYY
+DATA
+are still evolving, we are disclosing in the table to the right ((mmiilllliioonn tt CCOOee))iiiiii ((ppeerr UUSS $$11 mmiilllliioonn ooff lleennddiinngg))vviiiiii
+22 QUALITY
+SECTORi SCOPE(S) INCLUDEDii
+PCAF-aligned absolute financed and facilitated emissions. SCORES
+For Committed Lending For Capital Markets For Committed Lending For Capital Markets
+(Financed Emissions)iv, v (Facilitated Emissions)vi, vii (Financed Emissions) (Facilitated Emissions) (1–5)ix
+We provide disclosure on absolute financed and facilitated
+emissions for eight sectors of our financing portfolio in the
+Energy Mix Scope 3 (end use) 23.4 12.0 3,667.6 887.5 3.2
+Metrics and Targets chapter (refer to page 21). We have
+calculated these metrics using our own methodology (Carbon Oil & Gas Operational Scopes 1 and 2 0.9 0.7 222.1 101.9 3.4
+Compass® methodology), which we believe calculates absolute
+Electric Power Scope 1 2.0 1.9 528.4 148.5 3.1
+financed and facilitated emission figures that correlate with
+real-world emissions performance of clients in our applicable
+Auto Manufacturing Scopes 1, 2 and 3 (tank-to-wheel) 0.2 0.2 575.6 87.7 3.3
+sector portfolios. We continue to monitor evolving best
+practices for the financial sector to inform our own approach Aviation Scope 1 (tank-to-wake) 0.1 0.1 654.0 138.6 3.0
+and to provide information of interest to our stakeholders.
+Shipping Scope 1 (tank-to-wake) 0.01 0.05 252.8 163.7 1.5
+Iron & Steel Scopes 1 and 2 0.2 0.7 907.1 579.2 1.4
+Cement Scopes 1 and 2 0.6 0.1 1,523.9 610.2 1.3
+Aluminum Scopes 1 and 2 0.1 0.3 704.0 653.5 3.0
+i. The sectors included in this table align with the sectors covered by iv. “Absolute financed emissions” are defined as the total GHG emissions vi. “Absolute facilitated emissions” are defined as the total GHG viii. Economic intensity is calculated as absolute financed or facilitated
+our Carbon Compass® methodology for our net zero-aligned targets. of an asset class or portfolio. For public companies, this is calculated emissions associated with capital markets activity facilitated by emissions in metric tons of carbon dioxide equivalents per million
+ii. The scopes included in this table align with the scopes included in as outstanding exposure divided by enterprise value including cash a financial institution. For public companies, this is calculated as dollars loaned or facilitated.
+our Carbon Compass® methodology and represent scopes for which (“EVIC”) multiplied by company emissions. For private companies, it is total amount raised in the capital market transaction multiplied ix. Data quality scores are assigned depending on the quality of data
+appropriate emissions data is available. calculated as outstanding exposure divided by total equity plus debt by the volume attributed to the financial institution (based on its available for each client, with 1 representing highest quality and
+iii. The absolute financed and facilitated emissions in this table times company emissions. If equity value is negative, it is treated as participation), divided by enterprise value including cash (“EVIC”). 5 representing lowest quality. We calculate and report a weighted
+utilized the proxy methodology described in our Carbon Compass® zero. Per the PCAF standard, outstanding exposure represents the This figure is then multiplied by a weighing factor (33%) and by average data quality score for each sector based on the financing
+methodology when emissions data is not readily available. These amount of the loan the borrower has drawn as of the year-end date. company emissions. provided to each client relative to our total financing to the sector.
+proxy calculations are derived based on in-scope clients with v. The absolute financed emissions in this table include wholesale credit vii. The absolute facilitated emissions in this table include securitized Refer to section 4.5 of our Carbon Compass® methodology to
+committed exposure for lending, as well as capital markets exposure. (excluding overdrafts) to clients within the sectors listed. products and green bonds and exclude syndicated loans within the learn more.
+sectors listed.
+25 This section presents disclosure of absolute financed and facilitated emissions intended to align with PCAF, with the exception of the deviations as footnoted throughout the table.
+26 The figures in the table only consider the in-scope clients per our Carbon Compass® methodology. 32
+
+=== PAGE BREAK ===
+
+The table below summarizes main deviations of our Carbon Compass® methodology from PCAF’s methodology.
+CARBON COMPASS® METHODOLOGY PCAF METHODOLOGY REASONS FOR DEVIATION
+12-mo monthly average Year-end outstanding Using 12-month monthly average enables us to capture the impact of short-term
+LENDING
+committed financing balance obligations, such as bridge loans, which frequently have terms of less than one year.
+12-mo monthly average As one of the top investors in renewable energy tax-oriented investments in the U.S.,
+TAX-ORIENTED INVESTMENTS Not covered
+outstanding balance we believe including tax-oriented investments best captures our financing impact.
+Including 100% of our share in capital markets activity allows us to provide a more
+complete picture of our financing activity and how we are supporting our clients
+33% of all capital market
+100% of capital markets activity
+CAPITAL MARKETS issuances in scope through capital markets facilitation. In addition, we include all capital markets
+on a 3-year rolling average basis
+on a yearly basis
+activity we participate in, regardless of bookrunner status, with the aim of providing
+a more comprehensive view of our overall exposure to facilitated emissions.
+Public
+3-year average EVIC End-of-period EVIC
+Companies
+CCAAPPIITTAALL UUssiinngg aa tthhrreeee--yyeeaarr aavveerraaggee ooff ccaappiittaall ssttrruuccttuurree hheellppss uuss rreedduuccee ddiissttoorrttiioonn dduuee ttoo tthhee
+SSTTRRUUCCTTUURREE eeffffeecctt ooff vvoollaattiilliittyy oonn ccoommppaannyy vvaalluuaattiioonnss
+Private
+3-year average Debt + Equity End-of-period Debt + Equity
+Companies
+33
+
+=== PAGE BREAK ===
+
+List of Acronyms
+AWM Asset & Wealth Management EV Electric vehicle mtCOe Metric ton of carbon dioxide equivalent
+2
+CAF Carbon Assessment Framework EVIC Enterprise value including cash MW Megawatt
+CASS Corporate Advisory and Sustainable Solutions FEC Firmwide Environmental Committee MWh Megawatt hour
+CCB Consumer & Community Banking gCO Grams of carbon dioxide NGFS Network for Greening the Financial System
+2
+CCT Center for Carbon Transition gCOe Grams of carbon dioxide equivalent OC Operating Committee
+2
+CCUS Carbon capture, utilization, and storage GEB Green Economy Banking PCAF Partnership for Carbon Accounting Financials
+CDR Carbon dioxide removal GHG Greenhouse gas PPAs Power Purchase Agreements
+CEO Chief Executive Officer GSSS Green, Social, Sustainability and Sustainability-linked RCP Representative Concentration Pathway
+CFO Chief Financial Officer ICE Internal combustion engine RECs Renewable Energy Certificates
+CIB Commercial & Investment Bank IEA International Energy Agency RTK Revenue tonne-kilometers
+CLSA Climate Location Site Assessment IEA NZE International Energy Agency Net Zero Emissions by 2050 Scenario SAF Sustainable aviation fuel
+CO Carbon dioxide IFM Improved Forest Management SBE SB Energy
+2
+CP The NGFS Current Policies scenario IPCC Intergovernmental Panel on Climate Change SDT Sustainable Development Target
+CRO Chief Risk Officer JPMAM J.P. Morgan Asset Management SEC Securities and Exchange Commission
+DNZE The NGFS Divergent Net Zero scenario kgCO Kilograms of carbon dioxide t Metric ton
+2
+E&P Exploration & Production km Kilometer tCO Metric ton of carbon dioxide
+2
+N&S Nature and Social LOBs Lines of Business tCOe Metric ton of carbon dioxide equivalent
+2
+EACs Energy Attribute Certificates M&A Merger and Acquisitions TCFD Task Force on Climate-Related Financial Disclosures
+ESFR Energy Supply Financing Ratio MJ Megajoule t-nm Metric ton nautical mile
+ESG Environmental, Social and Governance mt Metric ton U.S. United States
+34

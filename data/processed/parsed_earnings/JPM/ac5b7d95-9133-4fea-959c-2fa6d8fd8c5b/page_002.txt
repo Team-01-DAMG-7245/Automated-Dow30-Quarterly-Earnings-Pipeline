@@ -1,0 +1,41 @@
+JPMorgan Chase & Co.
+News Release
+In the discussion below of Firmwide results of JPMorgan Chase & Co. (“JPMorganChase” or the “Firm”), information is presented
+on a managed basis, which is a non-GAAP financial measure, unless otherwise specified. The discussion below of the Firm’s business
+segments and Corporate is also presented on a managed basis. For more information about managed basis and non-GAAP financial
+measures used by management to evaluate the performance of each line of business, refer to page 6.
+Comparisons noted in the sections below are for the second quarter of 2025 versus the prior-year second quarter, unless otherwise
+specified.
+JPMORGANCHASE (JPM)
+Results for JPM 1Q25 2Q24
+($ millions, except per share data) 2Q25 1Q25 2Q24 $ O/(U) O/(U) % $ O/(U) O/(U) %
+Net revenue - reported $ 44,912 $ 45,310 $ 50,200 $ (398) (1) % $ (5,288) (11) %
+Net revenue - managed 45,680 46,014 50,992 (334) (1) (5,312) (10)
+Noninterest expense 23,779 23,597 23,713 182 1 66 —
+Provision for credit losses 2,849 3,305 3,052 (456) (14) (203) (7)
+Net income $ 14,987 $ 14,643 $ 18,149 $ 344 2 % $ (3,162) (17) %
+Earnings per share - diluted $ 5.24 $ 5.07 $ 6.12 $ 0.17 3 % $ (0.88) (14) %
+Return on common equity 18 % 18 % 23 %
+Return on tangible common equity 21 21 28
+Discussion of Results:
+Net income was $15.0 billion, down 17%.
+Net revenue was $45.7 billion, down 10%. Net interest income was $23.3 billion, up 2%. Noninterest revenue was $22.4
+billion, down 20%.
+Net interest income excluding Markets2 was $22.8 billion, down 1%, driven by the impact of lower rates and deposit margin
+compression, predominantly offset by higher wholesale deposit balances and higher revolving balances in Card Services, as
+well as the impact of securities activity including activity in prior quarters. Noninterest revenue excluding Markets2 was $14.0
+billion, down 31%. Excluding the $7.9 billion net gain related to Visa shares14 and $546 million of securities losses in the prior
+year, noninterest revenue excluding Markets2 was up 8%, driven by higher asset management fees in AWM and CCB, higher
+auto operating lease income, higher investment banking fees and higher Payments fees. Markets revenue was $8.9 billion, up
+15%.
+Noninterest expense was $23.8 billion, flat to the prior year. Excluding the $1.0 billion contribution of Visa shares to the
+JPMorgan Chase Foundation in the prior year, noninterest expense was up 5%, driven by higher compensation, including higher
+revenue-related compensation and growth in front office and technology employees, as well as higher brokerage expense and
+distribution fees, auto lease depreciation and technology expense, partially offset by lower legal expense.
+The provision for credit losses was $2.8 billion. Net charge-offs of $2.4 billion, predominantly in Card Services, were up $179
+million. The net reserve build of $439 million, primarily in Wholesale, was driven by the impact of net lending activity, largely
+offset by a decrease in the weight placed on the adverse scenarios. In the prior year, the provision was $3.1 billion, net charge-
+offs were $2.2 billion and the net reserve build was $821 million.
+The current quarter included a $774 million income tax benefit in Corporate, driven by the resolution of certain tax audits and
+the impact of tax regulations finalized in 2024 related to foreign currency translation gains and losses.
+2

@@ -1,0 +1,34 @@
+EBITDAR & Adjusted Debt/EBITDAR Calculations
+EBITDAR Calculation
+The Home Pro Forma Adjusted Debt/EBITDAR Calculation
+SRS(2)
+(USD millions) Depot(1) Combined(5)
+Net earnings $ 15,143 $ 75 $ 15,218 The Home Pro Forma
+(USD millions) Depot Combined
+Interest and other, net(3) 1,765 404 2,169
+Adjusted debt $ 54,983 $68,998
+Income taxes 4,781 37 4,818
+EBITDAR $ 26,254 $27,461
+Depreciation and amortization(4) 3,206 536 3,742 Adjusted debt/EBITDAR(1) 2.1x 2.5x
+Operating rents 1,359 155 1,514
+1) Adjusted debt/EBITDAR would have been 2.0x for The Home Depot
+EBITDAR $26,254 $1,207 $27,461
+and 2.4x for the Pro Forma Combined had it been calculated using
+the operating lease liabilities recorded on the respective balance
+1) Actual results for the twelve months ended January 28, 2024 sheets. We continue to use the eight times operating rents
+methodology to calculate adjusted debt post Topic 842
+2) Actual results based on unaudited, preliminary financial statements for the twelve months
+implementation as it typically results in a more conservative
+ended December 31, 2023
+estimate and is still used by a primary U.S. rating agency
+3) For SRS, includes interest on outstanding indebtedness expected to be repaid at closing.
+Does not include adjustments for interest related to the acquisition debt
+4) For The Home Depot, includes depreciation of distribution centers and tool rental
+equipment included in cost of sales, and excludes debt issuance costs and other debt-
+related amortization of $41 million for the twelve months ended January28, 2024, which
+is included in interest and other, net above
+5) No pro forma adjustments were made to any of the components of EBITDAR. Amounts in
+this column represent the combined unadjusted results of The Home Depot and SRS for
+the respective fiscal periods
+15
+CONFIDENTIAL

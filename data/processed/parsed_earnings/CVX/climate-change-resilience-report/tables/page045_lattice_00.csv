@@ -1,0 +1,132 @@
+0,1,2,3,4
+satellites,"•  Detection thresholds 
+range from  
+25,000 kg/hr to 
+100 kg/hr
+•  Monthly to daily global 
+coverage","•  Potential to be the  
+lowest-cost option by site
+•  Helpful in identifying 
+super-emitters","•  Detection thresholds are  
+high and restrict detection  
+to very large sources
+•  Limited in producing  
+facility-scale resolution
+•  Does not work on cloudy days
+•  Struggles with detection 
+over water and identifying 
+the emitter with multiple 
+operators nearby 
+•  Needs accurate local wind 
+data for quantification","Block 0/14, Angola
+Eastern Mediterranean, Israel
+El Trapial, Argentina
+Gorgon and Wheatstone LNG, AU
+Tengizchevroil, Kazakhstan
+Permian Basin, U.S."
+aircraft,"•  Detection thresholds 
+range from 50 kg/hr  
+to less than 3 kg/hr
+•  Scale of hundreds of 
+sites per day","•  Leading service providers 
+can likely capture most 
+facility emissions","•  Not all technologies 
+provide specific source or 
+emission size information, 
+meaning additional 
+detection is needed to 
+identify the source","Denver-Julesburg Basin, U.S.
+Permian Basin, U.S.
+Gorgon and Wheatstone LNG, AU
+Vaca Muerta, Argentina
+Gulf of Mexico, U.S."
+"facility-scale periodic  
+monitoring  
+(drone or mobile lab)","•  Detection limits of 
+less than 1 kg/hr are 
+possible with the right 
+wind conditions and 
+site access
+•  Scale of tens of sites 
+per day in onshore 
+applications","•  Ability to scan an entire 
+site, including areas 
+that would otherwise be 
+difficult to reach with 
+handheld devices","•  Field application requires 
+individual site visits and 
+travel time between sites 
+or platforms
+•  Challenges near electrical 
+power lines and near 
+airports for drones
+•  Weight of the emissions 
+sensors can reduce battery 
+life and limit flight time  
+for drones","Agbami/Delta, Nigeria
+Block 0/14, Angola
+Denver-Julesburg Basin, U.S.
+Gorgon and Wheatstone LNG, AU
+Gulf of Mexico, U.S. 
+Permian Basin, U.S."
+"facility-scale near- 
+continuous monitoring  
+(fixed cameras, sensors, etc.)","•  Detection limits 
+vary with the sensor 
+placement and wind 
+conditions and range 
+from 25 kg/hr to less 
+than 1 kg/hr
+•  Equipment is fixed at 
+one site or location","•  Potential for 24/7 site 
+coverage
+•  Could have uses beyond 
+methane detection
+•  May provide information on 
+the duration of intermittent 
+sources","•  Research and development 
+is needed to scale this 
+approach
+•  Generally need precise 
+wind data to interpret 
+detection results","Denver-Julesburg Basin, U.S.
+Permian Basin, U.S.
+Tengizchevroil, Kazakhstan
+Wheatstone LNG, AU"
+"manual leak detection  
+(handheld screening like OGI  
+and EPA Method 21)","•  Detection limits 
+vary based on 
+environmental 
+and human factors 
+but are generally 
+characterized at less 
+than 1 kg/hr
+•  Scale of a few sites 
+per day","•  Ability to identify  
+exact location of a source  
+of emissions 
+•  Third-party services 
+available in locations with 
+regulatory programs
+•  Potential to incorporate  
+into emissions reporting  
+for fugitive components
+•  Current industry and 
+regulatory approach","•  Labor-intensive 
+•  Travel time between sites 
+•  Human and site factors 
+impact results
+•  Does not quantify 
+emissions
+•  Can be difficult to reach 
+elevated sources with 
+handheld detection tools","Block 0/14, Angola
+Denver-Julesburg Basin, U.S.
+Eastern Mediterranean, Israel
+Gorgon and Wheatstone LNG, AU
+Gulf of Mexico, U.S.
+Permian Basin, U.S.
+San Joaquin Valley, U.S.
+Tengizchevroil, Kazakhstan
+El Trapial, Argentina"

@@ -1,0 +1,48 @@
+{
+  "ticker": "CAT",
+  "file_name": "2Q-2025-Glossary-of-Terms.pdf",
+  "parsed_date": "2025-10-09T08:10:13.603005",
+  "stages_completed": [
+    "text_extraction",
+    "table_extraction",
+    "image_extraction",
+    "format_conversion"
+  ],
+  "extraction_methods": {
+    "text": "pdfplumber with OCR fallback (pytesseract)",
+    "tables": "Camelot hybrid (lattice + stream)",
+    "layout": "PubLayNet deep learning model",
+    "images": "PyMuPDF embedded + layout-based extraction",
+    "formats": "Markdown, JSON, Plain Text"
+  },
+  "results": {
+    "text_extraction": {
+      "success": true,
+      "pages": 4,
+      "total_characters": 11728
+    },
+    "table_extraction": {
+      "success": true,
+      "tables_extracted": 8
+    },
+    "layout_detection": {
+      "success": false,
+      "error": "No layout data returned"
+    },
+    "image_extraction": {
+      "success": true,
+      "embedded_images": 0,
+      "figure_blocks": 0,
+      "total_images": 0
+    },
+    "format_conversion": {
+      "success": true,
+      "formats": [
+        "markdown",
+        "json",
+        "txt",
+        "report"
+      ]
+    }
+  }
+}

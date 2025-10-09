@@ -1,0 +1,62 @@
+{
+  "page": 30,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 13,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Two important aspects are as follows:",
+      "1": "or energy storage systems can surpass the energy densities of"
+    },
+    {
+      "0": "",
+      "1": "liquid fuels."
+    },
+    {
+      "0": "\u2022  Gravimetric density, the energy contained in a unit mass of fuel,",
+      "1": ""
+    },
+    {
+      "0": "determines how far a vehicle can travel with a given amount of",
+      "1": "Gaseous fuels, like CNG and hydrogen, currently require large and"
+    },
+    {
+      "0": "fuel. Higher gravimetric density means less weight is required to",
+      "1": "heavy tanks for onboard vehicle storage. Further research and"
+    },
+    {
+      "0": "be carried as fuel, meaning more weight capacity is available for",
+      "1": "development are needed to reduce the weight and size of such"
+    },
+    {
+      "0": "carrying people and freight.",
+      "1": "storage tanks. Li-ion battery systems have achieved considerable"
+    },
+    {
+      "0": "",
+      "1": "progress in light-duty vehicle applications in the past decade,"
+    },
+    {
+      "0": "\u2022  Volumetric density, the energy stored in a unit volume of fuel,",
+      "1": "but some trade-offs in range, which is dictated by energy density,"
+    },
+    {
+      "0": "determines how much space the fuel takes up. Higher volumetric",
+      "1": "still exist.22"
+    },
+    {
+      "0": "energy density means less vehicle space is required to store",
+      "1": ""
+    },
+    {
+      "0": "the fuel, and thus more space is available for carrying people",
+      "1": ""
+    },
+    {
+      "0": "and freight.",
+      "1": ""
+    }
+  ]
+}

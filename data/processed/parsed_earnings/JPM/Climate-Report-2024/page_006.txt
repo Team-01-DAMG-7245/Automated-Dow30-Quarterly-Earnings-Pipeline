@@ -1,0 +1,58 @@
+Executive Overview
+QUICK LINKS
+ESFR methodology
+Our Net Zero-Aligned Targets
+In this report, we provide details on our approach to climate-related efforts including:
+Our approach to setting net zero-aligned targets (Carbon Compass®
+methodology) and progress as of December 31, 2023 • How our corporate governance practices are designed to support the identification
+We continue our efforts to align key sectors of our financing portfolio1 with net zero
+and management of climate-related risks and opportunities;
+Our absolute financed and facilitated emissions emissions outcomes. To date, we have set nine net zero-aligned targets for eight
+sectors — Oil & Gas, Electric Power, Auto Manufacturing, Aviation, Shipping, Iron &
+• How our business is responding to climate risks and opportunities, including
+Our operational GHG emissions
+Steel, Cement and Aluminum — aligned with the International Energy Agency’s Net
+our evolving approach for supporting our clients’ climate goals and the global
+Our 2023 ESG Report Zero by 2050 scenario.
+transition to a low-carbon economy;
+Our Annual Sustainable Bond Report We developed our Carbon Assessment Framework (“CAF”) to help assess our clients’
+• How we are measuring our performance and how we are making progress toward
+decarbonization plans. CAF creates an opportunity for us to engage with our clients,
+our climate targets, including our actions to align key sectors of our lending and
+understand their views, plans and constraints, as well as their capital needs. We
+underwriting portfolio with net zero emissions; and
+use CAF as one element of our decision-making; for each new proposed in-scope
+• How we identify, assess and manage climate risks within our risk
+transaction, our CAF provides decision-makers at the Firm with insights into how the
+management framework.
+Company at a Glance transaction may impact a portfolio’s carbon intensity.
+We may adjust our efforts over time.
+At this time, we are not setting targets for additional sectors of our portfolio due
+JPMorgan Chase & Co. (“JPMorgan Chase”, the “Firm” or “we”) is a financial This report has been informed by the Task Force on Climate-related Financial to factors including data limitations, lack of available decarbonization pathways
+services company based in the United States of America (“U.S.”), with Disclosures (“TCFD”) recommendations. Our Climate Report Data Tables include a and commercial considerations. Our focus remains on helping our clients’
+U.S. branches in 48 states and Washington D.C., 309,926 employees in 65 TCFD Index that maps our disclosures to the TCFD recommendations. decarbonization efforts, understanding their regional and business characteristics,
+countries worldwide and $3.9 trillion in assets as of December 31, 2023. The and supporting today’s energy needs while creating long-term value for our business
+All data in this report is as of December 31, 2023, unless otherwise noted.
+Firm is a leader in investment banking, financial services for consumers and and shareholders. We plan to continue playing our part in the energy transition by
+small businesses, commercial banking, financial transaction processing and providing strategic advice to our clients, leveraging our balance sheet and connecting
+Energy Supply Financing Ratio
+asset management. Under the J.P. Morgan and Chase brands, the Firm serves capital seekers with providers. We also plan to continue engaging with the public
+millions of customers, predominantly in the U.S., and many of the world’s sector, governments, regulators and policymakers on climate-related matters and to
+We have developed our own methodology to calculate our Energy Supply Financing
+most prominent corporate, institutional and government clients globally. continue to report on details of our approach and progress.
+Ratio (“ESFR”). The ESFR metric compares the amount of financing supporting low-
+Effective in the second quarter of 2024, the Firm reorganized its reportable carbon intensive and zero-carbon (referred to as “Low-Carbon”) energy supply versus To learn more about our net zero-aligned targets and our CAF, please refer to
+business segments by combining the former Corporate & Investment Bank that supporting high-carbon intensive and unabated fossil-based (referred to as pages 9–11.
+and Commercial Banking business segments to form one reportable segment, “High-Carbon”) energy supply. While this disclosure metric can provide more insight
+the Commercial & Investment Bank (“CIB”). As a result of the reorganization, into the capital that we are providing, we are not aligning our financing to meet a
+the Firm now has three reportable business segments, as well as a Corporate specific target for this ratio. The decision to disclose this ratio was made following
+segment. The Firm’s consumer business is the Consumer & Community engagement with our shareholders including the New York City Comptroller, which
+Banking (“CCB”) segment. The Firm’s wholesale businesses are the CIB and serves as the Trustee for each of the New York City Public Pension Funds.
+Asset & Wealth Management (“AWM”) segments. For further information,
+For the year ended December 31, 2023, our ESFR of 1.29x shows that for each dollar
+refer to the Business Segment Results of our Form 10-Q for the six month
+supporting High-Carbon energy supply, 1.29 dollars supported Low-Carbon energy supply.
+period ending on June 30, 2024.
+For more information on our approach, details on our methodology and resulting
+metric, refer to page 22 and our ESFR methodology.
+1 Our financing portfolio is defined to include all lending, tax-oriented investments and capital markets activity with in-scope clients. 2

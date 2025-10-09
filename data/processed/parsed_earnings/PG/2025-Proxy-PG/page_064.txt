@@ -1,0 +1,56 @@
+EXECUTIVE COMPENSATION
+We utilize an industry standard lattice-based valuation model to calculate the fair value for stock options granted. Assumptions utilized in the
+model, which are evaluated and revised to reflect market conditions and experience, were as follows:
+Years ended June 30: 2025 2024 2023
+Interest rate 3.5-4.4% 4.6-5.5% 3.7-4.1%
+Weighted average interest rate 3.7% 4.6% 3.7%
+Dividend yield 2.4% 2.5% 2.6%
+Expected volatility 18% 18% 21%
+Expected life in years 8.9 8.8 8.8
+Lattice-based option valuation models incorporate ranges of assumptions for inputs, and those ranges are disclosed in the preceding table.
+Expected volatility is based on a combination of historical volatility of our stock and implied volatilities of call options on our stock. We use
+historical data to estimate option exercise and employee termination patterns within the valuation model. The expected life of options
+granted is derived from the output of the option valuation model and represents the average period of time that options granted are
+expected to be outstanding. The interest rate for periods within the contractual life of the options is based on the U.S. Treasury yield curve in
+effect at the time of grant. For information on the valuation assumptions with respect to grants made in prior fiscal years, please see the
+corresponding note to the Consolidated Financial Statements contained in the Company’s Annual Report for the respective fiscal year. For
+more information regarding these awards, including retention and vesting requirements and applicable performance measures, see the
+Compensation Discussion & Analysis.
+(4) This column reflects aggregate changes in the actuarial present value of Mr. Schulten’s, Mr. Jejurikar’s, and Mr. Raman’s pension benefits under
+The Procter & Gamble Company Global IRA (the “IRA”), and Mr. Schulten’s pension benefits under The Procter & Gamble Pension Plan
+(Germany). None of the other NEOs participates in a pension plan. None of the NEOs had above-market earnings on deferred compensation.
+(5) Please see the table below for information on the numbers that comprise the All Other Compensation column.
+(6) Mr. Raman’s salary was converted to and paid in Swiss francs using a Bloomberg monthly spot rate representing the average of the buy and
+sell rates for the month.
+ALL OTHER COMPENSATION
+Expatriate,
+Flexible Relocation
+Retirement Executive Compensation and Tax
+Plan Group Life Program Equalization Executive
+Name and Principal Contributionsi Insuranceii Contributionsiii Paymentsiv Benefitsv Total
+Position Year ($) ($) ($) ($) ($) ($)
+Jon R. Moeller 2024-25 70,101 33,343 6,500 0 192,613 302,556
+Chairman of the Board, 2023-24 84,467 30,168 6,100 0 254,915 375,651
+President, and CEO
+2022-23 74,791 25,878 5,950 0 299,443 406,062
+2024-25 70,101 8,531 6,500 0 10,810 95,941
+Andre Schulten
+Chief Financial Officer 2023-24 84,467 7,029 6,100 535 10,700 108,831
+2022-23 74,791 5,620 5,225 0 10,300 95,936
+2024-25 48,442 15,233 6,500 400 11,405 81,981
+Shailesh Jejurikar
+Chief Operating Officer 2023-24 45,766 13,274 6,100 1,598 9,895 76,632
+2022-23 40,701 11,017 5,950 5,032 11,383 74,083
+Jennifer L. Davis
+2024-25 70,101 0 6,500 0 12,230 88,831
+CEO - Health Care
+Sundar Raman
+2024-25 70,101 0 3,450 993,017 15,612 1,082,180
+CEO - Fabric and Home Care
+i. Amounts contributed by the Company pursuant to the PST, a qualified defined contribution plan providing retirement benefits for U.S.-based
+employees. NEOs also receive contributions in the form of RSU grants pursuant to the PST Restoration Program, a nonqualified defined
+contribution plan. These RSU awards are included in the Stock Awards column of the Summary Compensation Table.
+ii. Under the Executive Group Life Insurance Program (“EGLIP”), which was closed to new participants in 2013, the Company provides key
+executives life insurance coverage equal to salary plus their STAR target up to a maximum of $5,000,000. Mr. Raman and Ms. Davis were not
+eligible to participate in the EGLIP until after it was closed. The policies are owned by the Company. Because premium payments are returned
+59 The Procter & Gamble Company

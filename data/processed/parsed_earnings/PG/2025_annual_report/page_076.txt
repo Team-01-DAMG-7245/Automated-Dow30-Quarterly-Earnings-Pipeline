@@ -1,0 +1,45 @@
+64 The Procter & Gamble Company
+The components of the Company’s total operating lease cost for the fiscal years ended June 30, 2025, 2024 and 2023, were as
+follows:
+Fiscal years ended June 30 2025 2024 2023
+Operating lease cost $ 276 $ 252 $ 229
+Variable lease cost (1) 81 91 79
+Total lease cost $ 357 $ 343 $ 308
+(1) Includes primarily costs for utilities, common area maintenance, property taxes and other operating costs associated with operating leases
+that are not included in the lease liability and are recognized in the period in which they are incurred.
+Supplemental balance sheet and other information related to leases is as follows:
+As of June 30 2025 2024
+Operating leases:
+Right-of-use assets (Other noncurrent assets) $ 925 $ 875
+Current lease liabilities (Accrued and other liabilities) 255 243
+Noncurrent lease liabilities (Other noncurrent liabilities) 701 666
+Total operating lease liabilities $ 956 $ 909
+Weighted average remaining lease term:
+Operating leases 6.0 years 6.0 years
+Weighted average discount rate:
+Operating leases 4.6 % 4.5 %
+At June 30, 2025, future payments of operating lease liabilities were as follows:
+June 30, 2025
+1 year $ 255
+2 years 216
+3 years 170
+4 years 143
+5 years 97
+Over 5 years 198
+Total lease payments 1,079
+Less: Interest (123)
+Present value of lease liabilities $ 956
+Total cash paid for amounts included in the measurement of lease liabilities was $280 and $255 for the fiscal years ended
+June 30, 2025 and 2024, respectively.
+The right-of-use assets obtained in exchange for lease liabilities were $261 and $357 for the fiscal years ended June 30, 2025
+and 2024, respectively.
+NOTE 13
+COMMITMENTS AND CONTINGENCIES
+Guarantees
+In conjunction with certain transactions, primarily divestitures, we may provide routine indemnifications (e.g., indemnification
+for representations and warranties and retention of previously existing environmental, tax and employee liabilities) for which
+terms range in duration and, in some circumstances, are not explicitly defined. The maximum obligation under some
+indemnifications is also not explicitly stated and, as a result, the overall amount of these obligations cannot be reasonably
+estimated. We have not made significant payments for these indemnifications. We believe that if we were to incur a loss on any
+of these matters, the loss would not have a material effect on our financial position, results of operations or cash flows.
+A mounts in millions of dollars except per share amounts or as otherwise specified.

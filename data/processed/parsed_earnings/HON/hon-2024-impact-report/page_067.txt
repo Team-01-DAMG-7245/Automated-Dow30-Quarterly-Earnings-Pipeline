@@ -1,0 +1,30 @@
+ESG DATA
+ESG
+DATA
+ESG Data Sheet
+Category Metric 2022 2023
+Scope 1 GHG emissions, metric tons CO e 1,059,105 690,042
+2
+Scope 2 GHG emissions, location-based, metric tons CO e 697,091 665,877
+2
+Total Scope 1 & 2 emissions, location-based, metric tons CO2e 1,756,196 1,355,919
+GHG intensity, Scope 1 & 2 location-based, metric tons CO e/$M revenue 49.5 37.0
+2
+Scope 2 GHG emissions, market-based, metric tons CO e 694,255 695,345
+2
+Scope 3 GHG emissions2, select categories, metric tons CO e
+2
+Purchased goods and services 16,222,277 15,557,194
+Capital goods 471,091 608,814
+Greenhouse
+Fuel and energy-related activities (not included in Scope 1 & 2) 349,765 332,286
+Gas (GHG) Emissions1
+Upstream transportation and distribution 876,674 262,323
+Waste generated in operations 95,754 61,698
+Business travel 72,177 98,749
+Employee commuting 106,537 104,789
+Upstream leased assets 591 433
+Downstream leased assets 6,424 9,983
+Carbon neutrality pledge³ Scope 1 by 2035 and Scope 2 by 2035
+Science-based targets⁴ SBTi Committed
+Honeywell | 2024 IMPACT REPORT | 67

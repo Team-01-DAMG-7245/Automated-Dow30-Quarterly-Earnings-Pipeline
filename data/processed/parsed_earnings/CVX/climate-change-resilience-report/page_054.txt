@@ -1,0 +1,55 @@
+performance of multiple suppliers of the same product and to
+incentivize performance improvements.
+chevron was an early adopter
+Allocations: A consistent allocation approach is important of emissions reporting
+to ensure comparability of product-level emissions. The
+inherent bias imposed by allocation choices can lead to potential
+For more than 20 years, Chevron has reported, at the company
+“methodology arbitrage” wherein one product appears superior level, both direct emissions and the largest category of its
+based solely on accounting choices. When more than one product indirect emissions (combustion of our products). We recently
+is produced at a facility, there are multiple ways to allocate achieved reasonable assurance‡ of our corporate inventory.
+emissions across products – based on quantity, mass, energy or
+economic value at various levels of granularity, including regional,
+facility or process unit – all of which result in different values for a
+carbon footprint. There are many reasons that avoidance, abatement or removal may
+be undertaken by a different party. For example:
+Consistency in allocation decisions can facilitate comparability. For
+example, in mining gems, both gems and waste rocks result. Some • Lower cost of avoidance, abatement or removals.
+propose that all emissions resulting from mining activities should
+be allocated to the gems, as they are the primary economic value • Products may be commingled in storage or transport, which
+driver of the mine. However, others propose that the emissions makes tracing differentiated products impossible (common in
+should be distributed to both the gems and the waste rocks energy products).
+based on the proportional volume produced given the physical
+processing. Chevron believes it is important to consider both • Local markets for a lower carbon activity may not exist, and
+the economic value and physical processing requirements when shipping of the physical products – when and if possible – to
+allocating emissions across products from the same facility. markets that value carbon efficiency may increase overall
+carbon emissions.
+Attribution: Effective use of carbon attributes can harness
+market forces to promote carbon efficiency at the least cost to • Entities with the desire to fund emissions reductions may be
+society. GHGs are global in nature, having the same impact on geographically separated from the lower-cost carbon emissions
+climate change no matter where emissions occur.* Therefore, in the reduction, in which case, decoupling environmental attributes
+pursuit of the Paris Agreement goals, GHG emissions reductions enables broader access to markets, which can accelerate a more
+could be encouraged no matter where they occur and as cost- cost-efficient lower carbon future.39
+efficiently as possible. One way to achieve this is to decouple
+the carbon performance of a product or service via the creation Consistent methodologies that track both physical and contracted
+of an environmental attribute paired with another product. This carbon performance are needed to enable efficient markets,
+system, sometimes referred to as “book-and-claim,”† enables one ensure emissions are counted once and enable effective
+party to incentivize and claim an emissions reduction even if the reconciliation of emissions.
+reduction physically occurs elsewhere.
+Exhibit 31: Differences between absolute emissions reporting and intensity- or performance-based reporting
+term definition uses
+absolute emissions Total emissions emitted • Indicates relative size of business
+reporting over a period of time, usually • Drives absolute emissions reductions through operational and design changes
+associated with an activity, • Incentivizes divestment, shutdowns and reporting methodology arbitrage
+product or area
+intensity- or performance- Emissions divided by • Establishes a normalized performance measure
+based reporting production or energy units • Provides insight on carbon efficiency
+• Drives absolute reductions through operational and design changes
+• Incentivizes more carbon-efficient production growth
+* Other reasons, such as local air criteria pollution, may influence location of emissions, but the emissions still contribute to climate change. The impact is global, not local.
+† A number of regulatory and nonregulatory programs use this practice, such as in renewable fuels and renewable electricity.
+‡ “Reasonable assurance” refers to a high level of confidence that stated information is accurate and complete, allowing a verifier to conclude that the GHG information is fairly stated, contrasted with no
+assurance or limited assurance. “Limited assurance” refers to a negative form of conclusion which allows verifiers to conclude that nothing has come to their attention to cause them to believe that GHG
+information is misstated. For our most recent ESG assurance statement, visit chevron.co/ESGassurance.
+Chevron Corporation 2023 Climate Change Resilience Report
+52

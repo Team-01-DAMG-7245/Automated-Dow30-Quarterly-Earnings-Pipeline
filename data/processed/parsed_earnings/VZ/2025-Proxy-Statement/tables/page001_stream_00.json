@@ -1,0 +1,16 @@
+{
+  "page": 1,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 2,
+  "columns": 1,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "Proxy Statement"
+    },
+    {
+      "0": "2025"
+    }
+  ]
+}

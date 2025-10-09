@@ -1,0 +1,53 @@
+The Procter & Gamble Company 65
+In certain situations, we guarantee loans for suppliers and customers. The total amount of guarantees issued under such
+arrangements is not material.
+Off-Balance Sheet Arrangements
+We do not have off-balance sheet financing arrangements, including variable interest entities, that have a material impact on our
+financial statements.
+Purchase Commitments
+We have purchase commitments for materials, supplies, services and property, plant and equipment as part of the normal course
+of business. Commitments made under take-or-pay obligations are as follows:
+Fiscal years ending June 30 2026 2027 2028 2029 2030 Thereafter
+Purchase obligations $ 893 $ 585 $ 365 $ 248 $ 130 $ 397
+Such amounts represent minimum commitments under take-or-pay agreements with suppliers and are in line with expected
+usage. These amounts include purchase commitments related to service contracts for information technology, human resources
+management and facilities management activities that have been outsourced to third-party suppliers. Due to the proprietary
+nature of many of our materials and processes, certain supply contracts contain penalty provisions for early termination. We do
+not expect to incur penalty payments under these provisions that would materially affect our financial position, results of
+operations or cash flows.
+Litigation
+We are subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a wide range
+of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental, patent and trademark
+matters, labor and employment matters and tax. While considerable uncertainty exists, in the opinion of management and our
+counsel, the ultimate resolution of the various lawsuits and claims will not materially affect our financial position, results of
+operations or cash flows.
+We are also subject to contingencies pursuant to environmental laws and regulations that in the future may require us to take
+action to correct the effects on the environment of prior manufacturing and waste disposal practices. Based on currently
+available information, we do not believe the ultimate resolution of environmental remediation will materially affect our
+financial position, results of operations or cash flows.
+NOTE 14
+SUPPLIER FINANCE PROGRAMS
+The Company has an ongoing program to negotiate extended payment terms with its suppliers consistent with market practices.
+The Company also supports a Supply Chain Finance program (“SCF”) with several global financial institutions. Under SCF, the
+Company maintains an accounts payable system to facilitate participating suppliers' ability to sell receivables from the
+Company to a SCF bank. These participating suppliers negotiate their sales of receivables arrangements directly with the
+respective SCF bank. The Company is not party to those agreements, but the SCF banks allow the suppliers to utilize the
+Company’s creditworthiness in establishing credit spreads and associated costs. Under this model, this arrangement generally
+provides the suppliers with more favorable terms than they would be able to secure on their own. The Company has no
+economic interest in a supplier’s decision to sell a receivable. Once a qualifying supplier chooses to participate in SCF, the
+supplier selects which individual Company invoices to sell to the SCF bank. The Company’s obligations to its suppliers,
+including the amounts due and scheduled payment dates, are not impacted by the supplier’s decisions to finance amounts under
+these arrangements. The Company does not provide any form of guarantee under these financing arrangements. Our payment
+terms for suppliers under this program generally range from 60 to 180 days. All outstanding amounts related to suppliers
+participating in SCF are recorded within Accounts payable in our Consolidated Balance Sheets, and the associated payments are
+included in operating activities within our Consolidated Statements of Cash Flows.
+The summary of the Company's outstanding obligation confirmed as valid under the SCF program is as follows:
+2025
+CONFIRMED OBLIGATIONS OUTSTANDING AT JUNE 30, 2024 $ 5,559
+Invoices confirmed 17,132
+Confirmed invoices paid (16,999)
+Translation and other 98
+CONFIRMED OBLIGATIONS OUTSTANDING AT JUNE 30, 2025 $ 5,790
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+Not applicable.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

@@ -1,0 +1,55 @@
+Hydrogen: Hydrogen is a versatile energy carrier, with potential as Renewable fuels: Renewable fuels can be produced from
+a lower carbon fuel, particularly in sectors where carbon intensity bio-based feedstocks through conventional refining process
+is harder to abate, including heavy-duty transportation, marine technologies and include biodiesel, renewable diesel, sustainable
+transportation and heat-intensive manufacturing. Hydrogen aviation fuel (SAF) and advanced gasoline. The IEA notes that
+may also play a role in the power generation sector as a fuel renewable fuels will be central to reducing emissions from long-
+source and as a storage medium to balance intermittency of distance transportation, aviation and high-temperature heat
+renewables. Lower carbon intensity hydrogen demand could industries. Renewable fuels are particularly important in lowering
+significantly increase if infrastructure is built and hydrogen costs the carbon intensity of transportation, serving as low-carbon
+come down (Exhibit 11).18 The emergence of hydrogen value solutions for existing technologies, such as light-duty vehicles
+chains connecting producers with consumers is also critical to in the near term and heavy-duty trucks, ships and aircraft with
+enabling scale. Government policies can help reduce costs and few alternative solutions in the long term. Many renewable
+lower the risk of investment for early entrants. Transparent and fuels are compatible with existing infrastructure and can be used
+standard quantification of carbon intensity of hydrogen and with existing technologies, making them an attractive lower-
+hydrogen-derived fuels is needed to inform decision making and emissions substitute for conventional fuels. Use of renewable
+accelerate effective reductions. More than 15 different standards fuels can result in lower emissions than conventional fuels on
+exist or are under development to calculate hydrogen carbon a lifecycle basis, depending on feedstocks, production pathways,
+intensity. Each varies on key approaches, such as temporal and and carbon accounting treatment of emissions associated
+geographical location of renewable energy used for hydrogen with cropland cultivation and avoided emissions. Differences
+production 19 and chain of custody requirements. The same activity in accounting treatment can result in the same biofuel appearing
+or product having a different emissions performance assessment to have different carbon performance.
+can lead to methodology arbitrage, market fragmentation
+and suboptimal investment. Battery storage: Over the past decade, there has been notable
+cost reduction and performance improvement in lithium-ion
+(Li-ion) batteries and other storage technologies. However, in
+recent years, cost declines have slowed, and in 2022, costs actually
+Exhibit 11. Under the IEA APS, hydrogen demand could
+increased due to higher raw material prices and supply chain
+significantly increase by midcentury
+constraints.20 Renewable energy production and technology
+(bcm/y)
+advancements such as smart-grid and demand-management,
+coupled with battery storage, have the potential to increase
+800 electrification and reduce carbon emissions. These advances
+facilitate increased use of renewable energy in electricity
+generation and help mitigate the problem of intermittency.
+600
+Assessing the carbon efficiency of technologies enabled by
+batteries can be enhanced using a lifecycle approach to carbon
+accounting. For example, batteries can account for up to 60% of
+400 GHG emissions in electric vehicle (EV) production.21 Including
+emissions associated with battery production in a lifecycle
+assessment of carbon accounting can provide a more complete
+200 assessment of relative GHG performance.
+Even with improvements in energy storage, many leading energy
+experts agree that additional technology breakthroughs are
+0
+2021 2030 2050 needed to enable wider scaling of renewables and decarbonization
+in other hard-to-abate sectors. We believe CCUS and hydrogen are
+Industry Buildings Power
+among the most promising of these other technologies.
+Transport Input for H2-based fuels Other
+Source: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022, License: CC BY
+4.0 (report), CC BY NC SA 4.0 (Annex A).
+Chevron Corporation 2023 Climate Change Resilience Report
+27

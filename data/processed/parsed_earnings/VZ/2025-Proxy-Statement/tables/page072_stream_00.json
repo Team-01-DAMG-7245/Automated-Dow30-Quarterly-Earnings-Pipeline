@@ -1,0 +1,406 @@
+{
+  "page": 72,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 44,
+  "columns": 7,
+  "accuracy": 29.42,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "",
+      "2": "Executive",
+      "3": "Audit",
+      "4": "Stock",
+      "5": "Shareholder",
+      "6": "Additional"
+    },
+    {
+      "0": "summary",
+      "1": "Governance",
+      "2": "compensation",
+      "3": "matters",
+      "4": "ownership",
+      "5": "proposals",
+      "6": "information"
+    },
+    {
+      "0": "Items 4 \u20136",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Shareholder proposals",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "We have been advised that the shareholders submitting the proposals or their representatives intend to present the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "following proposals at the Annual Meeting. The statements contained in the proposals and supporting statements",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "are the sole responsibility of the respective proponents. We have printed the proposals as they were submitted. The",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "proposals may contain assertions about Verizon or other matters that Verizon believes are incorrect, but we do not",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "attempt to refute all of those assertions. The addresses of the proponents are available upon written request to the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Assistant Corporate Secretary at the address specified under \u201cContacting us.\u201d",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Item\u00a04: Climate lobbying alignment",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Trillium ESG Global Equity Fund, owner of shares of Verizon\u2019s common stock worth at least $25,000, proposes the following:",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "CLIMATE LOBBYING ALIGNMENT",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "WHEREAS: In its 2023 10\u2011K, Verizon acknowledges that the physical impacts of climate change could cause considerable",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "damage to its infrastructure, disrupt service, and interrupt the flow of products and services from key suppliers. It notes the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "latter could lead to financial results that \u201cdiffer materially\u201d from those in its forward\u2011looking statements.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Hurricanes Helene and Milton are examples of climate change enhanced events that caused considerable damage",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "to Verizon\u2019s networks, leading to widespread cell and internet outages.1,2,3  As global temperatures rise, the frequency",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "and intensity of severe weather have the potential to hamper Verizon's ability to do business and deliver core",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "customer services.4",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Verizon identifies climate change as a high priority issue5  and has set goals to reduce its operational greenhouse gas",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "emissions by 53% by 2030 and value chain emissions by 40% by 2035. It is also pressing its high\u2011impact value",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "chain companies to adopt aggressive emissions reduction targets. While targets are critical, physical and transition",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "risks associated with climate change will very likely continue beyond 2030. One of Verizon's most effective tools to",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "mitigate future infrastructure damage is its public policy advocacy to help scale policies that accelerate adoption of",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "low carbon energy and facilitate resiliency, extreme physical risk mitigation, and economywide decarbonization.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Yet, Verizon rarely discloses its climate public policy priorities and risks reputational damage6  and contributing to",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "systemic risk7  by funding organizations lobbying against climate legislation. It is a member of several industry",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "associations that actively impede adoption of critical climate policies, including the National Association of",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Manufacturers,8  Business Roundtable,9  and California Chamber of Commerce.10",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Currently, Verizon's disclosures do not adequately inform investors about how it ensures its direct and indirect",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "lobbying supports and aligns with its enterprise\u2011wide decarbonization goals and strategies. Many companies are now",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "issuing climate lobbying disclosures to better inform investors, including Unilever11  and Enel12  as leading examples.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "RESOLVED: Shareholders request the Board of Directors analyze and report to shareholders annually (at",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "reasonable cost and omitting confidential information) on whether and how Verizon is aligning its lobbying and policy",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "influence activities and positions, both direct and indirect (through trade associations, coalitions, alliances, and other",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "organizations) with its climate targets and commitments, including the activities and positions analyzed, the criteria",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "used to assess alignment, and involvement of stakeholders, if any, in its analytical process.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "In evaluating the degree of alignment between its decarbonization goals and its lobbying, Verizon should consider",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "not only its policy positions and those of organizations of which it is a member but also the actual lobbying activities,",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "such as legislative comment submissions.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "The proponent believes this request is consistent with investor expectations described in the Global Standard on",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "Responsible Climate Lobbying, 13  a valuable resource for implementation.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    },
+    {
+      "0": "62",
+      "1": "Verizon 2025 Proxy Statement",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": ""
+    }
+  ]
+}

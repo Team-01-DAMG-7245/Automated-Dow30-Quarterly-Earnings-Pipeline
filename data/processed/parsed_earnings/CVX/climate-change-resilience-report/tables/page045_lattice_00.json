@@ -1,0 +1,45 @@
+{
+  "page": 45,
+  "table_number": 0,
+  "method": "lattice",
+  "rows": 5,
+  "columns": 5,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "satellites",
+      "1": "\u2022  Detection thresholds \nrange from  \n25,000\u00a0kg/hr to \n100\u00a0kg/hr\n\u2022  Monthly to daily global \ncoverage",
+      "2": "\u2022  Potential to be the  \nlowest-cost option by site\n\u2022  Helpful in identifying \nsuper-emitters",
+      "3": "\u2022  Detection thresholds are  \nhigh and restrict detection  \nto very large sources\n\u2022  Limited in producing  \nfacility-scale resolution\n\u2022  Does not work on cloudy days\n\u2022  Struggles with detection \nover water and identifying \nthe emitter with multiple \noperators nearby \n\u2022  Needs accurate local wind \ndata for quantification",
+      "4": "Block 0/14, Angola\nEastern Mediterranean, Israel\nEl Trapial, Argentina\nGorgon and Wheatstone LNG, AU\nTengizchevroil, Kazakhstan\nPermian Basin, U.S."
+    },
+    {
+      "0": "aircraft",
+      "1": "\u2022  Detection thresholds \nrange from 50 kg/hr  \nto less than 3 kg/hr\n\u2022  Scale of hundreds of \nsites per day",
+      "2": "\u2022  Leading service providers \ncan likely capture most \nfacility emissions",
+      "3": "\u2022  Not all technologies \nprovide specific source or \nemission size information, \nmeaning additional \ndetection is needed to \nidentify the source",
+      "4": "Denver-Julesburg Basin, U.S.\nPermian Basin, U.S.\nGorgon and Wheatstone LNG, AU\nVaca Muerta, Argentina\nGulf of Mexico, U.S."
+    },
+    {
+      "0": "facility-scale periodic  \nmonitoring  \n(drone or mobile lab)",
+      "1": "\u2022  Detection limits of \nless than 1 kg/hr are \npossible with the right \nwind conditions and \nsite access\n\u2022  Scale of tens of sites \nper day in onshore \napplications",
+      "2": "\u2022  Ability to scan an entire \nsite, including areas \nthat would otherwise be \ndifficult to reach with \nhandheld devices",
+      "3": "\u2022  Field application requires \nindividual site visits and \ntravel time between sites \nor platforms\n\u2022  Challenges near electrical \npower lines and near \nairports for drones\n\u2022  Weight of the emissions \nsensors can reduce battery \nlife and limit flight time  \nfor drones",
+      "4": "Agbami/Delta, Nigeria\nBlock 0/14, Angola\nDenver-Julesburg Basin, U.S.\nGorgon and Wheatstone LNG, AU\nGulf of Mexico, U.S. \nPermian Basin, U.S."
+    },
+    {
+      "0": "facility-scale near- \ncontinuous monitoring  \n(fixed cameras, sensors, etc.)",
+      "1": "\u2022  Detection limits \nvary with the sensor \nplacement and wind \nconditions and range \nfrom 25 kg/hr to less \nthan 1 kg/hr\n\u2022  Equipment is fixed at \none site or location",
+      "2": "\u2022  Potential for 24/7 site \ncoverage\n\u2022  Could have uses beyond \nmethane detection\n\u2022  May provide information on \nthe duration of intermittent \nsources",
+      "3": "\u2022  Research and development \nis needed to scale this \napproach\n\u2022  Generally need precise \nwind data to interpret \ndetection results",
+      "4": "Denver-Julesburg Basin, U.S.\nPermian Basin, U.S.\nTengizchevroil, Kazakhstan\nWheatstone LNG, AU"
+    },
+    {
+      "0": "manual leak detection  \n(handheld screening like OGI  \nand EPA Method 21)",
+      "1": "\u2022  Detection limits \nvary based on \nenvironmental \nand human factors \nbut are generally \ncharacterized at less \nthan 1 kg/hr\n\u2022  Scale of a few sites \nper day",
+      "2": "\u2022  Ability to identify  \nexact location of a source  \nof emissions \n\u2022  Third-party services \navailable in locations with \nregulatory programs\n\u2022  Potential to incorporate  \ninto emissions reporting  \nfor fugitive components\n\u2022  Current industry and \nregulatory approach",
+      "3": "\u2022  Labor-intensive \n\u2022  Travel time between sites \n\u2022  Human and site factors \nimpact results\n\u2022  Does not quantify \nemissions\n\u2022  Can be difficult to reach \nelevated sources with \nhandheld detection tools",
+      "4": "Block 0/14, Angola\nDenver-Julesburg Basin, U.S.\nEastern Mediterranean, Israel\nGorgon and Wheatstone LNG, AU\nGulf of Mexico, U.S.\nPermian Basin, U.S.\nSan Joaquin Valley, U.S.\nTengizchevroil, Kazakhstan\nEl Trapial, Argentina"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+THE WALT DISNEY COMPANY
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited; $ in millions)
+Nine Months Ended
+June 28, June 29,
+2025 2024
+OPERATING ACTIVITIES
+Net income $ 11,988 $ 5,209
+Depreciation and amortization 3,932 3,705
+Impairments of goodwill, produced and licensed content and other assets 419 2,038
+Deferred income taxes (2,915) (489)
+Equity in the income of investees (203) (468)
+Cash distributions received from equity investees 110 327
+Net change in produced and licensed content costs and advances 819 1,121
+Equity-based compensation 1,004 1,036
+Other, net (153) (20)
+Changes in operating assets and liabilities
+Receivables (660) (1,373)
+Inventories (70) (2)
+Other assets (201) 74
+Accounts payable and other liabilities (307) (814)
+Income taxes (136) (1,891)
+Cash provided by operations 13,627 8,453
+INVESTING ACTIVITIES
+Investments in parks, resorts and other property (6,108) (3,923)
+Purchase of investments (98) (1,006)
+Other, net 13 26
+Cash used in investing activities (6,193) (4,903)
+FINANCING ACTIVITIES
+Commercial paper borrowings (payments), net (1,498) 1,377
+Borrowings 1,057 132
+Reduction of borrowings (2,969) (729)
+Dividends (905) (549)
+Repurchases of common stock (2,496) (2,523)
+Acquisition of redeemable noncontrolling interests (439) (8,610)
+Other, net (840) (820)
+Cash used in financing activities (8,090) (11,722)
+Impact of exchange rates on cash, cash equivalents and restricted cash 31 (14)
+Change in cash, cash equivalents and restricted cash (625) (8,186)
+Cash, cash equivalents and restricted cash, beginning of period 6,102 14,235
+Cash, cash equivalents and restricted cash, end of period $ 5,477 $ 6,049
+15

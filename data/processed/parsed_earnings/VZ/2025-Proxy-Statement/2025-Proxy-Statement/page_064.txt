@@ -1,0 +1,53 @@
+Proxy Executive Audit Stock Shareholder Additional
+summary Governance compensation matters ownership proposals information
+a The amounts deducted or added in calculating the total average equity award adjustments are as follows:
+Average year Average Average value
+end fair value change in fair Average of dividends or
+of equity value of equity fair value at other earnings
+awards awards Average fair Average the end of the paid on stock
+granted in granted in value as of change in fair prior year of or option
+the year and prior years and vesting date of value of equity equity awards awards not
+outstanding outstanding equity awards awards granted that failed otherwise
+and unvested and unvested granted and in prior years to meet vesting reflected in fair Total average
+as of the end as of the end vested that vested in conditions value or total equity award
+of the year of the year in the year the year in the year compensation adjustments
+Year ($) ($) ($) ($) ($) ($) ($)
+2024 8,536,589 689,621 0 (750,803) 0 0 8,475,407
+2023 6,605,811 (1,134,678) 0 (871,555) (806,513) 0 3,793,065
+2022 5,138,130 (1,483,883) 0 (197,419) 0 0 3,456,829
+2021 4,859,383 (1,048,432) 0 (1,938,114) (553,367) 0 1,319,470
+2020 6,344,668 (9,872) 0 464,165 0 0 6,798,961
+5 Cumulative total shareholder return (TSR) is calculated by dividing (i) the sum of (a) the cumulative amount of dividends for the
+measurement period, assuming dividend reinvestment, and (b) the difference between the Company’s share price at the end and the
+beginning of the measurement period, by (ii) the Company’s share price at the beginning of the measurement period.
+6 Represents the weighted peer group TSR, weighted according to the respective companies’ stock market capitalization at the beginning
+of each period for which a return is indicated. The peer group used for this purpose is the S&P 500 Telecommunications Services Index,
+which is the peer group used in the Company’s 2024 Annual Report on Form 10‑K for purposes of the stock performance graph
+pursuant to Item 201(e) of Regulation S‑K.
+7 The amounts reported represent the amount of net income reflected in the Company’s audited financial statements for
+the applicable year.
+8 Adjusted EPS is calculated by excluding from the calculation of reported EPS the effect of special items. A reconciliation of adjusted
+EPS to reported EPS may be found in Appendix A.
+Pay versus performance relationship discussion
+As described in greater detail in the Compensation Discussion and Analysis beginning on page 23, Verizon’s
+executive compensation program reflects a pay‑for‑performance philosophy, with approximately 90% of named
+executive officers’ total compensation opportunity in the form of variable, incentive‑based pay. The metrics we use
+for both our long‑term and short‑term incentive awards are selected based on an objective to pay for superior
+results and sustainable growth by rewarding the achievement of challenging short- and long‑term performance goals
+designed to build shareholder value and drive performance. While Verizon utilizes several performance measures to
+align executive compensation with Company performance, all of those Company measures are not presented in the
+Pay versus Performance table.
+The following charts illustrate the relationship between the “Compensation Actually Paid” and the financial
+performance measures set forth in the Pay versus Performance table above: TSR, peer group TSR, net income and
+adjusted EPS, which is the measure the Company identified as the most important performance measure (that is not
+otherwise required to be disclosed in the table) used by the Company to link “Compensation Actually Paid” to the
+Company’s named executive officers, for the most recently completed fiscal year, to Company performance. The
+Company selected adjusted EPS, which is a performance metric under our Long‑Term Plan (subject to adjustment in
+accordance with the terms of the awards), because it is a performance metric under each of the annual Long‑Term
+Plan awards that impacts the 2024 “Compensation Actually Paid”, and the Company’s adjusted EPS has an impact
+on the Company’s stock price and relative TSR, which also affect the value of those awards.
+We believe the “Compensation Actually Paid” in each of the years reported above and over the five‑year cumulative
+period are reflective of the Committee’s emphasis on “pay‑for‑performance” as the “Compensation Actually Paid”
+fluctuated year‑over‑year, primarily due to the result of our stock performance and our varying levels of achievement
+against pre‑established performance goals under our short‑term and long‑term plans.
+54 Verizon 2025 Proxy Statement

@@ -1,0 +1,40 @@
+RISK MEASUREMENT IN FOCUS: HEATMAP OF WHOLESALE CREDIT EXPOSURES (AS OF DECEMBER 31, 2023)
+Below is a heatmap of wholesale credit exposures using a five-point color scale to indicate revenue-based carbon intensity — to the extent that reliable data is available — and physical risk by sector. Revenue-based carbon intensity is sourced from third-party data
+aggregation services. The physical risk categorizations are based on an internal methodology that assesses sector-specific characteristics that may lead to physical risk vulnerabilities, such as reliance on outdoor labor and climate-vulnerable resources. Changes in carbon
+intensity ratings from 2022 were mostly driven by data quality enhancements and increased availability of GHG emissions data.
+Key: Very Low Low Moderate High Very High Not analyzed Year-on-year increase in intensity Year-on-year decrease in intensity
+Total Credit Exposure Revenue-Based Total Credit Exposure Revenue-Based
+Sector (USD million) Carbon Intensity Physical Risk Sector (USD million) Carbon Intensity Physical Risk
+COMMERCIAL & INDUSTRIAL 501,353 High Moderate Metals/Mining 15,508 Very High High
+Consumer & Retail 127,086 Moderate Low Steel 3,862 Very High High
+Retail 36,376 Low Low Aluminum 1,126 Very High Very High
+Business & Consumer Services 35,214 Moderate Low Coal 198 N/A High
+Food & Beverage 33,186 Moderate Low Other Metals & Mining 10,322 Very High High
+Consumer Hard Goods 13,366 High Low Transportation 16,060 High Moderate
+Leisure 8,944 Low Moderate FINANCIAL INSTITUTIONS 220,192 Moderate N/A
+Technology, Media & Telecommunications 77,296 Moderate Moderate Asset Managers 129,574 N/A N/A
+Industrials 75,092 Very High Moderate Banks & Finance Cos 57,177 Moderate N/A
+Machinery & Equipment 35,299 Very High Moderate Insurance 20,501 Very low N/A
+Construction & Building Materials 16,509 High Moderate Financial Markets Infrastructure 4,251 Very low N/A
+Agriculture, Forest Products & Textiles 15,026 High High Securities Firms 8,689 Low N/A
+Aerospace & Defense 8,258 Very High Moderate REAL ESTATE 208,261 Low Low
+Healthcare 65,025 Very low Moderate Multifamily 121,967 N/A Low
+Oil & Gas 34,475 Very High High Office 16,494 Very low Low
+Exploration & Production ("E&P") and Oilfield Services 18,657 Very High High Industrial 20,272 Low Low
+Other Oil & Gas 15,818 Very High High Retail 12,811 Moderate Low
+Automotive 33,977 Very High Moderate Lodging 4,748 Moderate Moderate
+Auto Dealers 16,588 Very High Low Other Income Producing Properties 15,750 Very low Moderate
+Auto Manufacturing 17,389 High Moderate Services and Non Income Producing 16,219 Moderate Moderate
+Utilities 36,061 Very High High GOVERNMENT & AGENCIES 53,690 N/A N/A
+Electric 13,604 Very High Very High OTHER INDUSTRIES 280,626 N/A N/A
+Gas 9,356 Very High High Individuals and Individual Entities 145,849 N/A N/A
+Integrated & Other Utilities 13,101 Very High High Other 134,777 Moderate N/A
+Chemicals/Plastics 20,773 High Moderate TOTAL 1,264,122 High Moderate
+Chemicals 15,319 High Moderate of which: exposure to high-intensity sectors 296,936
+Plastic & Rubber 5,454 High Moderate
+Note: Data in the above table is as of December 31, 2023. The revenue-based carbon intensity heatmap color is based on the average sector total revenue-based carbon intensity (Scope 1+2+3) in tCOe/USD million, weighted by exposure to each counterparty in the sector. The physical risk rating is based on
+2
+our internal methodology, which assesses characteristics of each global industry that could lead to physical risk vulnerability and focuses on the direct activities of companies. Our internal methodology for calculating physical risk was updated this year, leading to ratings changes for certain sectors. Revenue-
+based carbon intensity ratings, which consider supply chain as part of Scope 3 reporting, may change over time for various reasons including enhancement of emissions data quality and reliability in certain sectors. As more companies directly report Scope 3 emissions, we expect the directly-reported data to
+reduce our reliance on data aggregation services that provide Scope 3 emissions estimations. Grey cells indicate sectors and sub-sectors we have not yet scored and/or sectors with insufficient data. Total credit exposure includes retained loans, lending-related commitments and derivative receivables.
+30

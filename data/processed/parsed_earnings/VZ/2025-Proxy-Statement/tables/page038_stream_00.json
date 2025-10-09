@@ -1,0 +1,362 @@
+{
+  "page": 38,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 44,
+  "columns": 6,
+  "accuracy": 49.01,
+  "data": [
+    {
+      "0": "Proxy",
+      "1": "Executive",
+      "2": "Audit",
+      "3": "Stock",
+      "4": "Shareholder",
+      "5": "Additional"
+    },
+    {
+      "0": "Governance \nsummary",
+      "1": "compensation",
+      "2": "matters",
+      "3": "ownership",
+      "4": "proposals",
+      "5": "information"
+    },
+    {
+      "0": "Long\u2011\u2011term incentive compensation",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "The Long\u2011Term Plan is intended to align executives\u2019 and shareholders\u2019 interests and to reward participants for",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "creating long\u2011term shareholder value.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "Annual Long\u2011Term Plan awards are made in PSUs and RSUs. The value of each PSU or RSU is equal to the value of one",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "share of Verizon common stock. The Committee assumes each executive will earn 100% of the PSUs and RSUs",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "awarded for purposes of determining the total compensation opportunity. PSUs and RSUs accrue dividend equivalents",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "that are deemed to be reinvested in PSUs and RSUs, respectively. These dividend equivalents are paid when, and only",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "to the extent that, the related PSUs and RSUs are actually earned. PSUs are earned over a three\u2011year performance",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "cycle, with cliff vesting at the end of the three\u2011year period. The Committee believes that a three\u2011year performance cycle",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "is appropriate for the PSU awards because a multi\u2011year performance cycle measures the effectiveness of",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "management\u2019s execution of long\u2011term strategies and the effect on shareholder value. RSUs vest ratably over three",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "years, which aligns with market practice and enables us to continue to attract and retain key executive talent.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "Consistent with 2023 awards, the 2024 Long\u2011Term Plan awards for executives other than Mr. Vestberg, were",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "comprised of 60% PSUs and 40% RSUs and Mr. Vestberg\u2019s 2024 award was comprised of 67% PSUs and 33%",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "RSUs. For the 2024 awards, the Committee retained the cumulative free cash flow and adjusted EPS PSU",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "performance metrics from the 2023 awards, and utilized wireless service revenue instead of service and other",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "revenue for the revenue metric. The Committee chose wireless service revenue because wireless service revenue",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "does not include certain regulatory fees that are outside of our control or revenue from our wireline business, and",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "instead represents revenue from our wireless business, including our fixed wireless access business, which is an",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "important driver of our growth and the focus of our investments and strategy.\u00a0The three metrics remained equally",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "weighted, with one\u2011third based on Verizon\u2019s cumulative free cash flow, one\u2011third based on Verizon\u2019s cumulative",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "adjusted EPS and one\u2011third based on Verizon\u2019s cumulative wireless service revenue over the three\u2011year performance",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "period. The Committee also retained relative total shareholder return (TSR) as a modifier to the PSU vesting",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "percentage as compared against the companies in the S&P 100.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "The number of PSUs actually earned and paid is determined based upon Verizon\u2019s achievement of pre\u2011established",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "performance targets over the three\u2011year performance cycle, and the ultimate value of each PSU depends on",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "Verizon\u2019s stock price. Because the value of PSUs is linked to both stock price and performance targets, PSUs",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "provide a strong incentive to executives to deliver value to Verizon\u2019s shareholders. RSUs also provide a performance",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "link as the value of the award depends on Verizon\u2019s stock price. Both PSUs and RSUs provide a retention incentive by",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "requiring the executive to remain employed with Verizon through the end of the applicable vesting period, subject to",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "certain qualifying separations. The 2024 PSUs and RSUs are payable in shares of Verizon stock.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "2024 Long\u2011\u2011Term Plan award opportunities",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "The Committee set the annual target long\u2011term incentive award levels to create an appropriate total compensation",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "opportunity for the named executive officers in light of the Committee\u2019s reference of the 50th  percentile for",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "comparable executives within the peer group and the compensation mix considerations described above, and taking",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "into account market practices for each individual\u2019s role and responsibilities, the individual\u2019s performance, the",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "strategic impact of the individual\u2019s role and internal pay alignment.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "The 2024 target award opportunity for the named executive officers was allocated between PSUs and RSUs as",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "noted above, and the target award opportunity allocated to each type of award was converted into a target number",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "of units using the closing price of Verizon\u2019s common stock on the grant date.",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "2024 Long\u2011\u2011Term Plan target award opportunity",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    {
+      "0": "Named executive officer",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "As\u00a0a\u00a0dollar\u00a0value"
+    }
+  ]
+}

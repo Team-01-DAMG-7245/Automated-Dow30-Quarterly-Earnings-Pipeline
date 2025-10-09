@@ -1,0 +1,57 @@
+The Procter & Gamble Company 59
+exposure correlation and netting. To the extent we choose to manage volatility associated with the net exposures, we enter into
+various financial transactions that we account for using the applicable accounting guidance for derivative instruments and
+hedging activities. These financial transactions are governed by our policies covering acceptable counterparty exposure,
+instrument types and other hedging practices.
+If the Company elects to do so and if the instrument meets certain specified accounting criteria, management designates
+derivative instruments as cash flow hedges, fair value hedges or net investment hedges. We record derivative instruments at fair
+value and the accounting for changes in the fair value depends on the intended use of the derivative, the resulting designation
+and the effectiveness of the instrument in offsetting the risk exposure it is designed to hedge. We generally have a high degree
+of effectiveness between the exposure being hedged and the hedging instrument.
+Credit Risk Management
+We have counterparty credit guidelines and normally enter into transactions with investment grade financial institutions, to the
+extent commercially viable. Counterparty exposures are monitored daily and downgrades in counterparty credit ratings are
+reviewed on a timely basis. We have not incurred, and do not expect to incur, material credit losses on our risk management or
+other financial instruments.
+Certain of the Company's financial instruments used in hedging transactions are governed by industry standard netting and
+collateral agreements with counterparties. If the Company's credit rating were to fall below the levels stipulated in the
+agreements, the counterparties could demand either collateralization or termination of the arrangements. The aggregate fair
+value of the instruments covered by these contractual features that are in a net liability position was $1,061 and $307 as of
+June 30, 2025 and 2024, respectively. The Company has not been required to post collateral as a result of these contractual
+features.
+Interest Rate Risk Management
+Our policy is to manage interest cost using a mixture of fixed-rate and variable-rate debt. To manage this risk in a cost-efficient
+manner, we enter into interest rate swaps whereby we agree to exchange with the counterparty, at specified intervals, the
+difference between fixed and variable interest amounts calculated by reference to a notional amount.
+We designate certain interest rate swaps on fixed-rate debt that meet specific accounting criteria as fair value hedges. For fair
+value hedges, the changes in the fair value of both the hedging instruments and the underlying debt obligations are immediately
+recognized in earnings.
+Foreign Currency Risk Management
+We manufacture and sell our products and finance our operations in a number of countries throughout the world. As a result, we
+are exposed to movements in foreign currency exchange rates. We leverage the Company’s diversified portfolio of exposures as
+a natural hedge. In certain cases, we enter into non-qualifying foreign currency contracts to hedge certain balance sheet items
+subject to revaluation. The change in fair value of these instruments and the underlying exposure are both immediately
+recognized in earnings.
+To manage exchange rate risk related to our intercompany financing, we primarily use forward contracts and currency swaps.
+The change in fair value of these non-qualifying instruments is immediately recognized in earnings, substantially offsetting the
+foreign currency mark-to-market impact of the related exposure.
+Net Investment Hedging
+We hedge certain net investment positions in foreign subsidiaries. To accomplish this, we either borrow directly in foreign
+currencies and designate all or a portion of the foreign currency debt as a hedge of the applicable net investment position or we
+enter into foreign currency swaps that are designated as hedges of net investments. The time value component of the net
+investment hedge currency swaps is excluded from the assessment of hedge effectiveness. Changes in the fair value of the
+swap, including changes in the fair value of the excluded time value component, are recognized in OCI and offset the value of
+the net investment being hedged. The time value component is subsequently reported in income on a systematic basis.
+Commodity Risk Management
+Certain raw materials used in our products or production processes are subject to price volatility caused by weather, supply
+conditions, political and economic variables and other unpredictable factors. As of and during the fiscal years ended June 30,
+2025 and 2024, we did not have any financial commodity hedging activity.
+Insurance
+We self-insure for most insurable risks. However, we purchase insurance for Directors and Officers Liability and certain other
+coverage where it is required by law or by contract.
+Fair Value Hierarchy
+Accounting guidance on fair value measurements for certain financial assets and liabilities requires that financial assets and
+liabilities carried at fair value be classified and disclosed in one of the following categories:
+• Level 1: Quoted market prices in active markets for identical assets or liabilities.
+• Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

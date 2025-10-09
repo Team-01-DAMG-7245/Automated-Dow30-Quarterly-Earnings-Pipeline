@@ -1,0 +1,308 @@
+[
+  {
+    "ir_url": "https://investors.3m.com/governance/corporate-officers",
+    "method": "homepage_link",
+    "link_text": "leadership",
+    "success": true,
+    "ticker": "MMM",
+    "company_name": "3M",
+    "company_website": "https://www.3m.com",
+    "discovered_date": "2025-10-09T07:54:33.234085"
+  },
+  {
+    "ir_url": "https://www.americanexpress.com/ir",
+    "method": "common_pattern",
+    "pattern": "/ir",
+    "success": true,
+    "ticker": "AXP",
+    "company_name": "American Express",
+    "company_website": "https://www.americanexpress.com",
+    "discovered_date": "2025-10-09T07:54:37.595587"
+  },
+  {
+    "ir_url": "http://investors.amgen.com/",
+    "method": "homepage_link",
+    "link_text": "investors",
+    "success": true,
+    "ticker": "AMGN",
+    "company_name": "Amgen",
+    "company_website": "https://www.amgen.com",
+    "discovered_date": "2025-10-09T07:54:46.754652"
+  },
+  {
+    "ir_url": null,
+    "edgar_cik": null,
+    "method": "edgar_failed",
+    "success": false,
+    "error": "CIK not found",
+    "ticker": "AMZN",
+    "company_name": "Amazon",
+    "company_website": NaN,
+    "discovered_date": "2025-10-09T07:54:49.078032"
+  },
+  {
+    "ir_url": "https://investor.apple.com/",
+    "method": "homepage_link",
+    "link_text": "investors",
+    "success": true,
+    "ticker": "AAPL",
+    "company_name": "Apple",
+    "company_website": "https://www.apple.com",
+    "discovered_date": "2025-10-09T07:54:55.605438"
+  },
+  {
+    "ir_url": "https://www.boeing.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "BA",
+    "company_name": "Boeing",
+    "company_website": "https://www.boeing.com",
+    "discovered_date": "2025-10-09T07:54:59.332488"
+  },
+  {
+    "ir_url": "https://www.caterpillar.com/company/investors",
+    "method": "common_pattern",
+    "pattern": "/company/investors",
+    "success": true,
+    "ticker": "CAT",
+    "company_name": "Caterpillar",
+    "company_website": "https://www.caterpillar.com",
+    "discovered_date": "2025-10-09T07:55:04.790772"
+  },
+  {
+    "ir_url": "https://www.chevron.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "CVX",
+    "company_name": "Chevron",
+    "company_website": "https://www.chevron.com",
+    "discovered_date": "2025-10-09T07:55:07.858974"
+  },
+  {
+    "ir_url": null,
+    "edgar_cik": null,
+    "method": "edgar_failed",
+    "success": false,
+    "error": "CIK not found",
+    "ticker": "CSCO",
+    "company_name": "Cisco",
+    "company_website": "https://www.cisco.com",
+    "discovered_date": "2025-10-09T07:55:12.226415"
+  },
+  {
+    "ir_url": "https://www.coca-colacompany.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "KO",
+    "company_name": "Coca-Cola",
+    "company_website": "https://www.coca-colacompany.com",
+    "discovered_date": "2025-10-09T07:55:15.057237"
+  },
+  {
+    "ir_url": "https://www.thewaltdisneycompany.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "company_website": "https://www.thewaltdisneycompany.com",
+    "discovered_date": "2025-10-09T07:55:17.995921"
+  },
+  {
+    "ir_url": "https://www.goldmansachs.com/investor-relations",
+    "method": "common_pattern",
+    "pattern": "/investor-relations",
+    "success": true,
+    "ticker": "GS",
+    "company_name": "Goldman Sachs",
+    "company_website": "https://www.goldmansachs.com",
+    "discovered_date": "2025-10-09T07:55:20.894029"
+  },
+  {
+    "ir_url": "https://www.homedepot.com/ir",
+    "method": "common_pattern",
+    "pattern": "/ir",
+    "success": true,
+    "ticker": "HD",
+    "company_name": "Home Depot",
+    "company_website": "https://www.homedepot.com",
+    "discovered_date": "2025-10-09T07:55:24.073013"
+  },
+  {
+    "ir_url": "https://www.honeywell.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "HON",
+    "company_name": "Honeywell",
+    "company_website": "https://www.honeywell.com",
+    "discovered_date": "2025-10-09T07:55:26.433817"
+  },
+  {
+    "ir_url": "https://www.ibm.com/ir",
+    "method": "common_pattern",
+    "pattern": "/ir",
+    "success": true,
+    "ticker": "IBM",
+    "company_name": "IBM",
+    "company_website": "https://www.ibm.com",
+    "discovered_date": "2025-10-09T07:55:29.424767"
+  },
+  {
+    "ir_url": "https://www.investor.jnj.com/overview/default.aspx",
+    "method": "homepage_link",
+    "link_text": "investors",
+    "success": true,
+    "ticker": "JNJ",
+    "company_name": "Johnson & Johnson",
+    "company_website": "https://www.jnj.com",
+    "discovered_date": "2025-10-09T07:55:35.535448"
+  },
+  {
+    "ir_url": "https://www.jpmorganchase.com/investor-relations",
+    "method": "common_pattern",
+    "pattern": "/investor-relations",
+    "success": true,
+    "ticker": "JPM",
+    "company_name": "JPMorgan Chase",
+    "company_website": "https://www.jpmorganchase.com",
+    "discovered_date": "2025-10-09T07:55:38.342415"
+  },
+  {
+    "ir_url": "https://corporate.mcdonalds.com/corpmcd/investors.html",
+    "method": "homepage_link",
+    "link_text": "investor relations",
+    "success": true,
+    "ticker": "MCD",
+    "company_name": "McDonald's",
+    "company_website": "https://www.mcdonalds.com",
+    "discovered_date": "2025-10-09T07:55:42.995784"
+  },
+  {
+    "ir_url": "https://www.merck.com/investor-relations",
+    "method": "common_pattern",
+    "pattern": "/investor-relations",
+    "success": true,
+    "ticker": "MRK",
+    "company_name": "Merck",
+    "company_website": "https://www.merck.com",
+    "discovered_date": "2025-10-09T07:55:45.818020"
+  },
+  {
+    "ir_url": "https://www.microsoft.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "MSFT",
+    "company_name": "Microsoft",
+    "company_website": "https://www.microsoft.com",
+    "discovered_date": "2025-10-09T07:55:48.552679"
+  },
+  {
+    "ir_url": "http://investors.nike.com/",
+    "method": "homepage_link",
+    "link_text": "investors",
+    "success": true,
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "company_website": "https://www.nike.com",
+    "discovered_date": "2025-10-09T07:55:53.792278"
+  },
+  {
+    "ir_url": null,
+    "edgar_cik": null,
+    "method": "edgar_failed",
+    "success": false,
+    "error": "CIK not found",
+    "ticker": "NVDA",
+    "company_name": "Nvidia",
+    "company_website": NaN,
+    "discovered_date": "2025-10-09T07:55:56.117997"
+  },
+  {
+    "ir_url": "https://www.pg.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "PG",
+    "company_name": "Procter & Gamble",
+    "company_website": "https://www.pg.com",
+    "discovered_date": "2025-10-09T07:55:59.390435"
+  },
+  {
+    "ir_url": "https://investor.salesforce.com/overview/default.aspx",
+    "method": "homepage_link",
+    "link_text": "",
+    "success": true,
+    "ticker": "CRM",
+    "company_name": "Salesforce",
+    "company_website": "https://www.salesforce.com",
+    "discovered_date": "2025-10-09T07:56:07.942516"
+  },
+  {
+    "ir_url": null,
+    "edgar_cik": null,
+    "method": "edgar_failed",
+    "success": false,
+    "error": "CIK not found",
+    "ticker": "SHW",
+    "company_name": "Sherwin-Williams",
+    "company_website": NaN,
+    "discovered_date": "2025-10-09T07:56:10.127952"
+  },
+  {
+    "ir_url": "https://investor.travelers.com/home/default.aspx",
+    "method": "homepage_link",
+    "link_text": "investors",
+    "success": true,
+    "ticker": "TRV",
+    "company_name": "Travelers Companies, Inc.",
+    "company_website": "https://www.travelers.com",
+    "discovered_date": "2025-10-09T07:56:17.665076"
+  },
+  {
+    "ir_url": "https://www.unitedhealthgroup.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "UNH",
+    "company_name": "UnitedHealth Group",
+    "company_website": "https://www.unitedhealthgroup.com",
+    "discovered_date": "2025-10-09T07:56:19.975348"
+  },
+  {
+    "ir_url": "https://www.verizon.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "VZ",
+    "company_name": "Verizon",
+    "company_website": "https://www.verizon.com",
+    "discovered_date": "2025-10-09T07:56:22.916627"
+  },
+  {
+    "ir_url": null,
+    "edgar_cik": null,
+    "method": "edgar_failed",
+    "success": false,
+    "error": "CIK not found",
+    "ticker": "V",
+    "company_name": "Visa",
+    "company_website": "https://www.visa.com",
+    "discovered_date": "2025-10-09T07:56:27.594791"
+  },
+  {
+    "ir_url": null,
+    "edgar_cik": null,
+    "method": "edgar_failed",
+    "success": false,
+    "error": "CIK not found",
+    "ticker": "WMT",
+    "company_name": "Walmart",
+    "company_website": "https://www.walmart.com",
+    "discovered_date": "2025-10-09T07:56:33.097504"
+  }
+]

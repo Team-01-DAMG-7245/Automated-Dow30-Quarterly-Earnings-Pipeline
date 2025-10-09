@@ -1,0 +1,82 @@
+{
+  "page": 37,
+  "table_number": 0,
+  "method": "stream",
+  "rows": 18,
+  "columns": 2,
+  "accuracy": 100.0,
+  "data": [
+    {
+      "0": "oil may require steam for production, which can impact both",
+      "1": "avoiding fugitive and vented emissions and flaring, and deploying"
+    },
+    {
+      "0": "cost and emissions.",
+      "1": "CCUS technology can all impact the carbon intensity of gas."
+    },
+    {
+      "0": "4,440",
+      "1": "800"
+    },
+    {
+      "0": "300",
+      "1": "300"
+    },
+    {
+      "0": "250",
+      "1": "250"
+    },
+    {
+      "0": "75th percentile",
+      "1": "75th percentile"
+    },
+    {
+      "0": "200",
+      "1": "200"
+    },
+    {
+      "0": "Kilograms CO2e/boe\n50th percentile\n63 kg CO2e/boe",
+      "1": "Kilograms CO2e/boe\n53 kg CO2e/boe"
+    },
+    {
+      "0": "54 kg CO2e/boe",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "50th percentile"
+    },
+    {
+      "0": "150",
+      "1": "34 kg CO2e/boe\n150"
+    },
+    {
+      "0": "25th percentile",
+      "1": "25th percentile"
+    },
+    {
+      "0": "30 kg CO2e/boe",
+      "1": "33 kg CO2e/boe"
+    },
+    {
+      "0": "100",
+      "1": "100\nChevron, 2022"
+    },
+    {
+      "0": "Chevron, 2022",
+      "1": ""
+    },
+    {
+      "0": "",
+      "1": "28 kg CO2e/boe"
+    },
+    {
+      "0": "25 kg CO2e/boe",
+      "1": ""
+    },
+    {
+      "0": "50",
+      "1": "50"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+- 7 -
+A reconciliation of GAAP to non-GAAP net income and EPS is provided in the table that
+follows.
+Second Quarter
+$ in millions, except EPS amounts 2025 2024
+EPS
+GAAP EPS $1.76 $2.14
+Difference 0.37 0.14
+Non-GAAP EPS that excludes items listed below3 $2.13 $2.28
+Net Income
+GAAP net income2 $4,427 $5,455
+Difference 939 354
+Non-GAAP net income that excludes items listed below2,3 $5,366 $5,809
+Excluded Items:
+Acquisition- and divestiture-related costs4 $594 $633
+Restructuring costs 779 177
+Income from investments in equity securities (61) (49)
+Decrease to net income before taxes 1,312 761
+Estimated income tax (benefit) expense5 (373) (407)
+Decrease to net income $939 $354
+Planned Acquisition of Verona Pharma
+On July 9, 2025, the Company furthered its science-led business development strategy
+by announcing an agreement under which the Company, through a subsidiary, will acquire
+Verona Pharma plc (Verona Pharma) for $107 per American Depository Share, each of which
+represents eight Verona Pharma ordinary shares, for a total transaction value of approximately
+$10 billion. Through the acquisition, the Company will add Ohtuvayre, a first-in-class selective
+dual inhibitor of phosphodiesterase 3 and 4 (PDE3 and PDE4), to its growing cardio-pulmonary
+pipeline and portfolio.
+The U.S. Food and Drug Administration (FDA) approved Ohtuvayre in June 2024 for the
+maintenance treatment of chronic obstructive pulmonary disease (COPD) in adult patients. It is
+the first novel inhaled mechanism for the treatment of COPD in more than 20 years. The
+transaction is anticipated to close in the fourth quarter of 2025.
+Pipeline and Portfolio Highlights
+In the second quarter, the Company continued to advance its broad and diverse pipeline
+with multiple regulatory and clinical milestones.
+In oncology, the FDA approved KEYTRUDA as part of a therapy regimen for the
+treatment of certain adult patients with resectable locally advanced head and neck squamous
+cell carcinoma (HNSCC), based on results from the Phase 3 KEYNOTE-689 trial. This approval
+5 Includes the estimated tax impacts on the reconciling items based on applying the statutory rate of the originating territory of the
+non-GAAP adjustments for both periods presented. Amount in the second quarter of 2025 also includes a $146 million benefit
+primarily resulting from favorable audit adjustments. Amount in the second quarter of 2024 also includes a $259 million benefit due
+to a reduction in reserves for unrecognized income tax benefits resulting from the expiration of the statute of limitations for
+assessments related to the 2019 federal tax return year.

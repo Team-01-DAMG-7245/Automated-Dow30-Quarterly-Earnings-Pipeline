@@ -1,0 +1,43 @@
+The Procter & Gamble Company 51
+Net earnings per common share were calculated as follows:
+Fiscal years ended June 30 2025 2024 2023
+CONSOLIDATED AMOUNTS
+Net earnings attributable to P&G (Diluted) $ 15,974 $ 14,879 $ 14,653
+Less: Preferred dividends 291 284 282
+Net earnings attributable to P&G available to common shareholders
+(Basic) $ 15,682 $ 14,595 $ 14,371
+SHARES IN MILLIONS
+Basic weighted average common shares outstanding 2,350.1 2,360.1 2,368.2
+Add effect of dilutive securities:
+Stock options and other unvested equity awards (1) 33.3 38.3 39.4
+Convertible preferred shares (2) 71.0 73.6 76.3
+Diluted weighted average common shares outstanding 2,454.4 2,471.9 2,483.9
+NET EARNINGS PER COMMON SHARE
+Basic $ 6.67 $ 6.18 $ 6.07
+Diluted $ 6.51 $ 6.02 $ 5.90
+(1) For the years ended June 30, 2025, 2024 and 2023, the weighted average of stock options that were antidilutive and not included in the
+diluted net earnings per share calculation were 6 million, 4 million and 19 million, respectively.
+(2) An overview of preferred shares can be found in Note 8.
+NOTE 7
+SHARE-BASED COMPENSATION
+The Company has two primary share-based compensation programs under which we annually grant stock option, restricted
+stock unit (RSU) and performance stock unit (PSU) awards to certain managers and directors.
+In our main long-term incentive program, managers can elect to receive stock options or RSUs. All options vest after three
+years and have a 10-year life. Exercise prices on options are set equal to the market price of the underlying shares on the date of
+the grant. RSUs vest and settle in shares of common stock three years from the grant date.
+Senior-level executives participate in an additional long-term incentive program that awards PSUs, which are paid in shares
+after the end of a three-year performance period subject to pre-established performance goals. The program includes a Relative
+Total Shareholder Return (R-TSR) modifier under which the number of shares ultimately granted is also impacted by the
+Company's actual shareholder return relative to our consumer products competitive peer set.
+In addition to these long-term incentive programs, we award RSUs to the Company's non-employee directors and make other
+minor stock option and RSU grants to employees for which the terms are not substantially different from our long-term
+incentive awards.
+The Company's share-based compensation plan was approved by shareholders in 2019. Under the 2019 plan, a maximum of
+150 million shares of common stock was authorized for issuance and a total of 58 million shares remain available for grant.
+The Company recognizes share-based compensation expense based on the fair value of the awards at the date of grant. The
+expense is recognized on a straight-line basis over the requisite service period. Awards to employees eligible for retirement
+prior to the award becoming fully vested are recognized as compensation expense ratably from the grant date through the date
+the employee first becomes eligible to retire and/or is no longer required to provide services to earn the award. Share-based
+compensation expense is included as part of Cost of products sold and SG&A in the Consolidated Statements of Earnings and
+includes an estimate of forfeitures, which is based on historical data.
+Amounts in millions of dollars except per share amounts or as otherwise specified.

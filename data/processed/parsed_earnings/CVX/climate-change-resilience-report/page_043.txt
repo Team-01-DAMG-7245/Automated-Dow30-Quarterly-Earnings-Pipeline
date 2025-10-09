@@ -1,0 +1,65 @@
+methane management
+We believe addressing methane emissions has become a key part of being flaring during emergency and upset conditions. Our Angola LNG joint
+a responsible producer of oil, products and natural gas. Chevron’s ambition venture was built to provide access to a market for associated natural gas.
+is to be a global leader in methane emissions performance. We have reduced flaring intensity from our operated assets in Angola by
+more than 80% since 2016.
+Our upstream methane-intensity target is 2.0 kg CO₂e/boe by 2028, and
+we have reduced the methane intensity of Chevron’s oil and gas operations Chevron is trialing emerging technology and collaborating with third
+by more than 50% since 2016. OGCI, of which Chevron is a member, has a parties to help find better ways to detect and measure methane emissions.
+2025 collective methane intensity target of well below 0.2% of marketed Improving our methane detection capabilities helps us better identify
+gas from operated assets. In 2022, our upstream methane intensity emissions reduction opportunities. We anticipate that our methane emis-
+performance was estimated at 0.13% of marketed gas production from sions monitoring and detection program will provide additional insights to
+operated assets and 0.17% of marketed gas production on an equity improve how our facilities are operated and maintained.
+basis.* In 2021, our methane intensity performance in the Permian Basin
+Chevron is taking actions to improve the quality and transparency of
+production segment was in the top quartile of oil and gas producers.
+methane emissions disclosures. As quantitative technologies become
+In 2022, Chevron committed to designing, where possible, new upstream more widely available and protocols are developed to reconcile current
+facilities without routine methane emissions. We flare natural gas when inventories with actual measurements, we are working to incorporate field
+necessary for safety and operational purposes and in areas where pipelines measurement into existing emission factor-based inventories.
+and other alternatives for transporting gas do not exist. During develop-
+Read more about Chevron’s strategy, goals and action plan to prevent,
+ment planning in the Permian Basin, we consider gas takeaway availability
+detect and reduce methane emissions at chevron.co/methanereport.
+as if it were a permitting condition. This approach has resulted in limited
+The Environmental Partnership (TEP): Chevron is a founding partner of Collaboratory to Advance Methane Science (CAMS) and Methane
+TEP, an industry initiative aimed at accelerating the adoption of practices Emissions Technology Evaluation Center (METEC): Chevron is a founding
+that reduce methane emissions. The over 100 companies participating in member of CAMS and also serves on the Industrial Advisory Board of the
+this initiative have conducted nearly 1.9 million leak detection surveys and METEC, a facility at Colorado State University (CSU) that provides realistic
+replaced more than 114,000 pneumatic controllers with lower- or non- oil field settings to test new methane detection technologies. Our CAMS
+emitting technologies or otherwise removed them from service. projects include an aerial survey in the Permian Basin, a review of satellite
+monitoring capabilities and a measurement study of emissions from LNG
+Oil and Gas Climate Initiative (OGCI): Chevron is a member of OGCI.
+transport activities. Other projects include TOPBOT, where researchers will
+Member companies have a methane-intensity target to help reduce collec-
+work to close the gap between top-down and bottom-up methane emis-
+tive average upstream methane intensity to well below 0.20% by 2025,
+sions estimates, and development of AI-based software to help improve
+measuring the volume of methane emissions from upstream oil and gas
+quantification and localization capabilities of point methane sensors.
+operations as a percentage of the total volume of gas marketed.
+Chevron has supported CSU’s methane work over the past two years by
+Veritas: Chevron has joined Veritas, the GTI Energy Methane Emissions
+engaging in the Colorado Coordinated Campaign (C3), which has sought
+Measurement and Verification Initiative. The goal of Veritas is to develop
+to build emissions models of the Denver-Julesburg Basin by incorporating
+and advance technical protocols for measurement and assurance to
+data from flyovers, ground-based emissions measurement and the
+provide a widely accepted methodology to incorporate field-informed
+Methane Emissions Estimation Tool model. Chevron is also supporting
+methane quantification into emissions inventories. In summer 2022,
+CSU’s Site Air Basin Emissions Reconciliation (SABER) project, which is
+Chevron tested and provided technical feedback on the protocols. Chevron
+working to demonstrate reconciliation between top-down and bottom-up
+is continuing to test and provide feedback on the first official version of the
+estimates of emissions in a complex oil and gas production basin.
+protocols, which were made public in February 2023.
+Project Astra: Chevron participates in Project Astra, a methane sensor
+network that leverages data sharing and analytics to provide near-
+continuous monitoring across some oil and gas facilities in the Permian
+* While we are including this methane metric to allow for comparability with other reporting
+Basin. Project Astra is led by the University of Texas at Austin. frameworks, we continue to use kg CO₂e/boe for our methane metric because it allows for allocation
+of emissions between multiple products of the same operation (oil, gas, NGLs) and is more useful for
+comparing different types of assets.
+Chevron Corporation 2023 Climate Change Resilience Report
+41

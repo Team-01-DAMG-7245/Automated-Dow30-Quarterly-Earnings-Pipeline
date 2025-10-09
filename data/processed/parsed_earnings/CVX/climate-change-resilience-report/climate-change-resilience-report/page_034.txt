@@ -1,0 +1,64 @@
+$90
+International tight oil Shallow
+water OPEC
+Deepwater OPEC
+$80 Canada
+(oil sands)
+$70
+GTL
+Shallow
+water U.S.
+$60 non-OPEC Onshore (lower 48) OPEC tight oil
+$50 D n e o e n p -O w P at E e C r n O o n n s - h O o P r E e C
+Russia
+$40
+Iran
+$30 Saudi Arabia United Iraq
+Arab
+Emirates
+$20
+$10
+$0
+0 10 20 30 40 50 60 70 80 90
+tnerB
+lbb
+rep
+$ ,egnar
+ecirp
+nevekaerb
+drawrof
+tnioP
+Exhibit 18. Global liquids long-term supply curve and average point forward breakeven prices in 2029
+show the supply curve is relatively flat, implying increased competition among producers
+Cumulative liquids capacity 2029 (mmbd)
+Average point forward breakeven price
+Liquids supply shown includes crude oil, natural gas liquids, coal-to-liquids (CTLs) and gas-to-liquids (GTLs).
+Point forward breakeven is the amount of capital needed to produce the resource from today forward. This differs from full-cycle breakeven, which includes all costs for developing a new field. For a
+further discussion of breakeven calculations, see Energy Economics, Tight Oil Market Dynamics: Benchmarks, Breakeven Points, and Inelasticities, February 2018, sciencedirect.com/science/article/pii/
+S0140988317304103.
+Source, as modified by Chevron Corporation: Wood Mackenzie, Oil Supply Tool, May 2023.
+A common way to visualize oil supply is via a supply curve by exchanges.29 The IEA projects global gas demand to remain near
+resource type, in which the width of the bar represents the amount 2022 levels in 2023 as growth in Asian gas markets is offset by
+of total production for a given year and the height of the bar further declines in Europe. The STEPS projects that global gas
+indicates a representative price range over which that resource demand will increase to just over 4,300 bcm in the 2030s and
+is economical to produce (Exhibit 18). Similar types of resources, will plateau around that level through 2050. Growth in natural
+or resources from certain regions, are grouped together and thus gas demand is driven by natural gas’s status as a relatively cost-
+show a range of prices instead of a single price. In a more detailed competitive resource, a desire among industrial consumers to
+and expanded version, every field would be its own line on the diversify fuel sources, and efforts in some jurisdictions to reduce
+supply stack. Assets can move relative to one another when their local air pollution and carbon emissions. Gas markets continue to
+breakeven values change due to technology, geopolitical or policy price regionally, with Asia-Pacific remaining the largest growth
+changes, fiscal terms, or other reasons. The supply stack is a useful market for gas to 2050.30 However, Asia will continue to compete
+way to gauge trends in the overall cost of supply and whether there with Europe for incremental LNG supply as the latter seeks to
+have been shifts through time. However, care should be taken replace lost Russian supply. Due to concerns around cost and
+when drawing detailed conclusions from a supply stack, as the energy security following the Russia-Ukraine military conflict,
+exact annual values depend on forecasts, such as project timing scenario ranges in future demand of natural gas are very wide
+and performance. for the next decade or so. A recent analysis of third-party future
+energy scenarios shows that forecasted natural gas demand in
+3.3.3 View on natural gas demand 2040 ranges from roughly 1,000 bcm to 7,000 bcm, a range wider
+The IEA estimates that global natural gas demand fell by 1.5% than total gas demand in 2022 (4,000 bcm).
+in 2022 to 4,046 bcm as key markets, notably Europe, faced
+an energy crisis and record high prices in the wake of supply
+disruptions stemming from the Russia-Ukraine military conflict.
+In 2022, LNG accounted for approximately 40% of natural gas
+Chevron Corporation 2023 Climate Change Resilience Report
+32

@@ -1,0 +1,70 @@
+• Battery storage increases 30-fold between 2021 and 2030, with and $125 billion per year thereafter, in real terms, following
+storage surpassing natural gas as the principal source of system rapid deployment in clean energy technology. The IEA states
+flexibility by 2035. that “reducing oil investment to this level would lead to a very
+different outcome if done in advance of – or instead of – the huge
+• No new cars with internal combustion engines are sold after scaling up in clean energy spending and consequent reduction in
+2035, and nearly all trucks sold in 2040 and beyond use oil demand that features in this scenario.”
+electricity or hydrogen.
+• By 2050, crude oil prices drop to less than $25 per barrel, in real Exhibit 4: IEA NZE Scenario (2022) assumed carbon price
+terms, and international gas prices drop to $2–$5 per mmbtu,
+in real terms. 2030 2050
+• By 2050, carbon prices rise to $250 per tonne CO₂e in advanced
+economies, $200 in China, India, Indonesia, Brazil and South advanced economies with net zero pledges*
+Africa, and $180 in other emerging-market and developing
+economies (Exhibit 4). $140/tonne $250/tonne
+• By 2050, CCUS accounts for 6.2 gigatonnes (Gt) of CO₂ removals. emerging-market and developing
+economies with net zero pledges†
+• Energy efficiency and changes in consumer behavior drive much
+$90/tonne $200/tonne
+of the emissions reduction (Exhibit 5):
+– Approximately 50% of emissions reductions for industry other emerging-market and developing economies
+and buildings result from energy efficiency measures
+$25/tonne $180/tonne
+– Fuel switching (approximately 65%) and behavior changes
+(approximately 20%) drive demand reductions in the
+transportation sector
+* Includes all Organization for Economic Co-operation and Development (OECD)
+countries except Mexico.
+– Approximately 75% of the projected emissions reductions
+† Includes China, India, Indonesia, Brazil and South Africa. Note that as of the
+related to behavior change stem from measures directly 2022 IEA NZE Scenario update, this no longer includes Russia.
+mandated or influenced by government policies such Source: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022,
+License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+as congestion charges, speed limits and high-speed
+rail build-out
+– Behavior changes include less space heating and air
+Exhibit 5. Global CO₂ emissions from energy reductions
+conditioning, levies on frequent fliers, and policies that
+in IEA APS and IEA NZE Scenario
+encourage travel by rail and discourage car use in cities
+(Gigatonnes)
+and SUV ownership
+40
+oil
+• Oil demand: In the NZE Scenario, oil demand drops to
+30
+approximately 23 mmbd by 2050, a decrease of approxi-
+mately 75% from today’s levels. The majority of oil demand
+in 2050 is from uses for which oil is not combusted, such as
+APS
+chemical feedstocks, lubricants, paraffin waxes and asphalt. 20
+Oil consumption for transportation drops by approximately
+90% from 2021. Sectors such as aviation and shipping decline
+to a lesser extent and account for approximately 2 mmbd of
+10
+demand in 2050.
+NZE
+2050
+• Oil supply: Lower demand implies that less supply is required.
+0
+However, because of the natural decline inherent in oil
+2015 2020 2040 2050
+production, even under the NZE Scenario, ongoing investment
+in existing fields is still needed. Upstream oil investment Historic IEA APS Industry Buildings
+averages approximately $300 billion per year through 2030 IEA STEPS Electricity Transport Other
+APS = Announced Pledges Scenario
+STEPS = Stated Policies Scenario
+Source: IEA, World Energy Outlook 2022, iea.org/reports/world-energy-outlook-2022,
+License: CC BY 4.0 (report), CC BY NC SA 4.0 (Annex A).
+Chevron Corporation 2023 Climate Change Resilience Report
+18

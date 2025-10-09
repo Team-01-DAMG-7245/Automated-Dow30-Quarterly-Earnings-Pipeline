@@ -1,0 +1,399 @@
+July 15, 2025
+2Q25
+Financial Results
+
+=== PAGE BREAK ===
+
+2Q25 Financial highlights
+$1.9T
+CET1 capital ratios2 Std. RWA3
+ROTCE1
+Std.
+15.0%
+| Adv.
+15.1%
+$1.5T
+Cash and marketable securities4
+21%
+$560B
+Total Loss-Absorbing Capacity2 $1.4T
+Average loans
+⚫ 2Q25 net income of $15.0B and EPS of $5.24
+– Excluding a significant item5, 2Q25 net income of $14.2B, EPS of $4.96 and ROTCE of 20%
+Income statement
+⚫ Managed revenue of $45.7B6
+⚫ Expense of $23.8B and managed overhead ratio of 52%6
+⚫ Loans: average loans of $1.4T up 5% YoY and 3% QoQ
+⚫ Deposits: average deposits of $2.5T up 6% YoY and 3% QoQ
+Balance sheet
+⚫ CET1 capital of $284B2
+– Standardized CET1 capital ratio of 15.0%2; Advanced CET1 capital ratio of 15.1%2
+⚫ Common dividend of $3.9B or $1.40 per share
+Capital distributed ⚫ $7.1B of common stock net repurchases7
+⚫ Net payout LTM of 71%7,8
+SIGNIFICANT ITEMS ($MM, EXCLUDING EPS)
+Pretax Net income EPS
+Income tax benefit in Corporate - $774 $0.28
+1See note 3 on slide 9 5See note 5 on slide 9
+2Represents the estimated Basel III common equity Tier 1 (“CET1”) capital and ratio and Total Loss-Absorbing 6See note 1 on slide 9
+Capacity for the current period. See note 1 on slide 10 7Includes the net impact of employee issuances. Excludes excise tax and commissions
+3Standardized risk-weighted assets (“RWA”). Estimated for the current period. See note 1 on slide 10 8Last twelve months (“LTM”)
+4Cash and marketable securities represent HQLA and unencumbered marketable securities. Estimated for the
+current period. See note 2 on slide 10
+1
+
+=== PAGE BREAK ===
+
+2Q25 Financial results1
+$B, EXCEPT PER SHARE DATA
+$ O/(U)
+2Q25 1Q25 2Q24
+Net interest income $23.3 ($0.1) $0.5
+Noninterest revenue 22.4 (0.3) (5.8)
+Managed revenue1 $B 2Q25 1Q25 2Q24 45.7 (0.3) (5.3)
+Net charge-offs $2.4 $2.3 $2.2
+Expense 23.8 0.2 0.1
+Reserve build/(release) 0.4 1.0 0.8
+Credit costs Credit costs $2.8 $3.3 $3.1 2.8 (0.5) (0.2)
+Net income 2Q25 Tax rate6 $15.0 $0.3 ($3.2)
+Effective rate: 18.0%
+Net income applicable to common stockholders Managed rate: 21.3%1,7 $14.6 $0.3 ($3.1)
+EPS – diluted $5.24 $0.17 ($0.88)
+ROE2 2Q25 ROE O/H ratio 18% 18% 23%
+CCB 36% 52%
+ROTCE2,3 21 21 28
+CIB 17% 49%
+Overhead ratio – managed1,2 AWM 36% 65% 52 51 47
+Memo:
+NII excluding Markets4 $22.8 $0.2 ($0.2)
+NIR excluding Markets4 14.0 0.2 (6.3)
+Markets revenue 8.9 (0.7) 1.1
+Managed revenue1 45.7 (0.3) (5.3)
+Adjusted expense5 $23.7 $0.2 $0.3
+Adjusted overhead ratio1,2,5 52% 51% 46%
+Note: Totals may not sum due to rounding
+1See note 1 on slide 9
+2 Actual numbers for all periods, not over/(under)
+3See note 3 on slide 9
+4See note 2 on slide 9
+5See note 4 on slide 9
+6Includes the income tax benefit in Corporate of $774mm
+7Reflects fully taxable-equivalent (“FTE”) adjustments of $768mm in 2Q25
+2
+
+=== PAGE BREAK ===
+
+Fortress balance sheet
+$B, EXCEPT PER SHARE DATA STANDARDIZED CET1 RATIO1
+2Q25 1Q25 2Q24
+Risk-based capital metrics1
+81 bps
+CET1 capital $284 $280 $267
+CET1 capital ratio – Standardized 15.0% 15.4% 15.3%
+15.4% (60 bps)
+CET1 capital ratio – Advanced 15.1 15.6 15.5 4 bps 15.0%
+(59 bps) (2 bps)
+Basel III Standardized RWA $1,886 $1,815 $1,743
+Leverage-based capital metric2
+Firm SLR 5.9% 6.0% 6.1%
+1Q25 Net Capital RWA AOCI7 Other8 2Q25
+income5 Distributions6
+Liquidity metrics3 STANDARDIZED RISK-WEIGHTED ASSETS ($B)1
+Firm LCR 113% 113% 112%
+Bank LCR 120 124 125 28 1,886
+Total excess HQLA $274 $292 $275
+5
+39
+HQLA and unencumbered marketable securities 1,543 1,516 1,464
+1,815
+Balance sheet metrics
+Total assets (EOP) $4,552 $4,358 $4,143
+Deposits (average) 2,505 2,430 2,371
+Tangible book value per share4 103.40 100.36 92.77
+1Q25 Lending9 Market Risk Credit Risk 2Q25
+ex. Lending
+Note: Totals may not sum due to rounding
+1Estimated for the current period. See note 1 on slide 10 5Reflects Net Income Applicable to Common Equity
+2Estimated for the current period. Represents the supplementary leverage ratio (“SLR”) 6Includes net share repurchases and common dividends
+3Estimated for the current period. Liquidity Coverage Ratio (“LCR”) represents the average LCR for the Firm and 7Excludes AOCI on cash flow hedges and DVA related to structured notes
+JPMorgan Chase Bank, N.A. (“Bank”). See note 2 on slide 10 8Primarily CET1 capital deductions
+4See note 3 on slide 9 9Includes Loans and Commitments
+3
+
+=== PAGE BREAK ===
+
+CCB CIB AWM Corp.
+Consumer & Community Banking1
+SELECTED INCOME STATEMENT DATA ($MM) FINANCIAL PERFORMANCE
+$ O/(U) ⚫ Net income of $5.2B, up 23% YoY
+2Q25 1Q25 2Q24 ⚫ Revenueof $18.8B, up 6% YoY, predominantly driven by higher net
+Revenue2 $18,847 $534 $1,146 interest income in Card Services on higher revolving balances, higher
+Banking & Wealth Management 10,698 444 323 noninterest revenue in Banking & Wealth Management, as well as higher
+Home Lending 1,250 43 (69) operating lease income in Auto
+Card Services & Auto 6,899 47 892
+⚫ Expenseof $9.9B, up 5% YoY, largely driven by higher technology
+Expense 9,858 1 433
+expense and higher auto lease depreciation
+Credit costs 2,082 (547) (561)
+Net charge-offs (NCOs) 2,086 (68) 22 ⚫ Credit costs of $2.1B
+Change in allowance (4) (479) (583) ⚫ NCOs of $2.1B, up $22mm YoY, primarily driven by Card Services
+Net income $5,169 $744 $959 ⚫ Reserves were relatively flat, as changes in the weighted-average
+macroeconomic outlook were offset by loan growth in Card Services
+KEY DRIVERS / STATISTICS ($B)3 KEY DRIVERS / STATISTICS ($B) –DETAIL BY BUSINESS
+2Q25 1Q25 2Q24 2Q25 1Q25 2Q24
+Banking & Wealth Management
+Average equity $56.0 $56.0 $54.5
+Business Banking average loans $19.2 $19.5 $19.5
+ROE 36% 31% 30%
+Business Banking loan originations 0.9 0.8 1.3
+Overhead ratio 52 54 53 Client investment assets (EOP) 1,155.0 1,079.8 1,013.7
+Average loans $576.1 $574.4 $571.7 Deposit margin 2.76% 2.69% 2.72%
+Home Lending
+Average deposits 1,060.4 1,053.7 1,073.5
+Average loans $242.7 $244.3 $254.4
+Active mobile customers (mm)4 59.9 59.0 55.6
+Loan originations6 13.5 9.4 10.7
+Debit & credit card sales volume5 $487.2 $448.7 $453.7 Third-party mortgage loans serviced (EOP) 653.3 661.6 642.8
+Net charge-off/(recovery) rate (0.04)% (0.04)% (0.07)%
+⚫ Average loans up 1% YoY and flat QoQ Card Services & Auto
+Card Services average loans $228.4 $224.5 $210.1
+⚫ Average deposits down 1% YoY and up 1% QoQ
+Auto average loans and leased assets 86.6 86.1 86.5
+⚫ Active mobile customers up 8% YoY Auto loan and lease originations 11.3 10.7 10.8
+Card Services net charge-off rate 3.40% 3.58% 3.50%
+⚫ Debit & credit card sales volume up 7% YoY
+Card Services net revenue rate 10.06 10.38 9.61
+⚫ Client investment assets up 14% YoY and 7% QoQ Card Services sales volume5 $340.0 $310.6 $316.6
+1 See note 1 on slide 9
+2See note 3 on slide 10
+For additional footnotes see slide 11
+4
+
+=== PAGE BREAK ===
+
+CCB CIB AWM Corp.
+Commercial & Investment Bank1
+SELECTED INCOME STATEMENT DATA ($MM) FINANCIAL PERFORMANCE
+$ O/(U) ⚫ Net income of $6.7B, up 13% YoY; revenue of $19.5B, up 9% YoY
+2Q25 1Q25 2Q24 ⚫ Banking & Payments revenue
+⚫ IB revenue of $2.7B, up 9% YoY, predominantly driven by higher debt
+Revenue $19,535 ($131) $1,618
+underwriting and advisory fees, partially offset by lower equity underwriting
+Investment Banking revenue 2,684 416 220
+fees
+Payments 4,735 170 189
+⚫ Paymentsrevenue of $4.7B, up 4% YoY; excluding the net impact of equity
+Lending 1,829 (86) (107)
+investments, revenue up 3%, driven by higher deposit balances and fee
+Other - (6) (4)
+growth, predominantly offset by deposit margin compression
+Total Banking & Payments 9,248 494 298 ⚫ Lending revenue of $1.8B, down 6% YoY, largely driven by higher losses on
+Fixed Income Markets 5,690 (159) 709 2 hedges of the retained lending portfolio
+Equity Markets 3,246 (568) 434 2 ⚫ Markets & Securities Services revenue
+Securities Services 1,418 149 157 ⚫ Markets revenue of $8.9B, up 15% YoY
+Credit Adjustments & Other (67) (47) 20 – Fixed Income Markets revenue of $5.7B, up 14% YoY, driven by higher
+Total Markets & Securities Services 10,287 (625) 1,320 revenue in Currencies & Emerging Markets, Rates and Commodities,
+Expense 9,641 (201) 475 partially offset by lower revenue in the Securitized Products Group7and
+Credit costs 696 (9) 312 Fixed Income Financing
+– Equity Markets revenue of $3.2B, up 15% YoY, predominantly driven by
+Net income $6,650 ($292) $753
+higher revenue across products, notably in Derivatives
+⚫ Securities Services revenue of $1.4B, up 12% YoY, driven by higher deposit
+balances as well as fee growth on higher client activity and market levels
+⚫ Expenseof $9.6B, up 5% YoY, driven by higher compensation, brokerage and
+KEY DRIVERS / STATISTICS ($B)3
+technology expense, partially offset by lower legal expense
+⚫ Credit costs of $696mm, driven by a reserve build in the Commercial &
+2Q25 1Q25 2Q24
+Industrial portfolio, which reflected the impact of net lending activity and credit
+Average equity $149.5 $149.5 $132.0 quality changes on certain exposures, partially offset by a decrease in the
+ROE 17% 18% 17% weight placed on the adverse scenarios
+⚫ Net reserve build of $371mm and NCOs of $325mm
+Overhead ratio 49 50 51
+REVENUE BY CLIENT COVERAGE SEGMENT ($MM)
+IB fees ($mm) $2,513 $2,248 $2,356
+4 $ O/(U)
+Average Banking & Payments loans 345.4 339.9 351.4
+2Q25 1Q25 2Q24
+5
+Average client deposits 1,089.8 1,034.4 936.7
+Banking & Payments revenue8 $9,248 $494 $298
+Assets under custody ($T) 38.0 35.7 34.0 Global Corporate & Investment Banking9 6,319 390 229
+Net charge-off/(recovery) rate6 0.25% 0.15% 0.14% Commercial Banking 2,929 104 69
+Commercial & Specialized Industries10 2,067 111 131
+Commercial Real Estate Banking 862 (7) (62)
+1 See note 1 on slide 9; For additional footnotes see slide 11
+5
+
+=== PAGE BREAK ===
+
+CCB CIB AWM Corp.
+Asset & Wealth Management1
+SELECTED INCOME STATEMENT DATA ($MM) FINANCIAL PERFORMANCE
+⚫ Net income of $1.5B, up 17% YoY
+$ O/(U)
+⚫ Revenueof $5.8B, up 10% YoY, driven by growth in management fees on
+2Q25 1Q25 2Q24 strong net inflows and higher average market levels, as well as higher
+brokerage activity and higher deposit balances
+Revenue $5,760 $29 $508
+⚫ Expenseof $3.7B, up 5% YoY, driven by higher compensation, including
+Asset Management 2,705 34 268
+higher revenue-related compensation and continuedgrowth in private
+Global Private Bank 3,055 (5) 240 banking advisor teams, as well as higher distribution fees
+Expense 3,733 20 190 ⚫ AUM of $4.3T was up 18% YoY and client assets of $6.4T were up 19%
+YoY, each driven by continued net inflows and higher market levels
+Credit costs 46 56 26
+⚫ For the quarter, AUM had long-term net inflows of $31B and liquidity net
+Net income $1,473 ($110) $210
+inflows of $5B
+⚫ Average loans of $241B, up 7% YoY and 3% QoQ
+⚫ Average deposits of $248B, up 9% YoY and 2% QoQ
+KEY DRIVERS / STATISTICS ($B)2
+2Q25 1Q25 2Q24
+Average equity $16.0 $16.0 $15.5
+ROE 36% 39% 32%
+Pretax margin 34 35 32
+Assets under management ("AUM") $4,343 $4,113 $3,682
+Client assets 6,421 6,002 5,387
+Average loans 240.6 233.9 224.1
+Average deposits 248.4 244.1 227.4
+1 See note 1 on slide 9
+2 Actual numbers for all periods, not over/(under)
+6
+
+=== PAGE BREAK ===
+
+CCB CIB AWM Corp.
+Corporate1
+SELECTED INCOME STATEMENT DATA ($MM) FINANCIAL PERFORMANCE
+⚫ Revenueof $1.5B, down $8.6B YoY
+$ O/(U)
+⚫ Net interest income of $1.5B, down $875mm YoY, driven by the impact
+2Q25 1Q25 2Q24 of changes in funds transfer pricing2for consumer deposits as well as
+lower rates, partially offset by the impact of securities activity including
+Revenue $1,538 ($766) ($8,584)
+activity in prior quarters
+Net interest income2 1,489 (162) (875) ⚫ Noninterest revenue of $49mm, down $7.7B, driven by the absence of
+the $7.9B net gain related to Visa shares in the prior year, partially
+Noninterest revenue 49 (604) (7,709)
+offset by lower net investment securities losses
+Expense 547 362 (1,032)
+⚫ Expenseof $547mm, down $1.0B YoY, driven by the absence of the
+Credit costs 25 44 20 $1.0B contribution of Visa shares to the JPMorgan Chase Foundation in
+the prior year
+Net income $1,695 $2 ($5,084)
+⚫ The current quarter included a $774mm income tax benefit, driven by the
+resolution of certain tax audits and the impact of tax regulations finalized in
+2024 related to foreign currency translation gains and losses
+1 See note 1 on slide 9
+2 See note 3 on slide 10
+7
+
+=== PAGE BREAK ===
+
+Outlook1
+FIRMWIDE
+~$95.5B
+Expect FY2025 net interest income of ,market dependent
+1
+~$92B
+Expect FY2025 net interest income excluding Markets of , market dependent
+~$95.5B
+2 Expect FY2025 adjusted expense of , market dependent
+– Adjusted expense excludes Firmwide legal expense
+3 ~3.6%
+Expect FY2025 Card Services NCO rate of
+1 See notes 1, 2 and 4 on slide 9
+8
+
+=== PAGE BREAK ===
+
+Notes on non-GAAP financial measures
+1. In addition to analyzing the Firm’s results on a reported basis, management reviews Firmwide results, including the overhead ratio, on a “managed” basis; these
+Firmwide managed basis results are non-GAAP financial measures. The Firm also reviews the results of the lines of business on a managed basis. The Firm’s
+definition of managed basis starts, in each case, with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm as
+a whole and for each of the reportable business segments and Corporate on a fully taxable-equivalent basis. Accordingly, revenuefrom investments that receive tax
+credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities. These financial measures allow
+management to assess the comparability of revenue from year-to-year arising from both taxable and tax-exempt sources. The corresponding income tax impact related
+to tax-exempt items is recorded within income tax expense. These adjustments have no impact on net income as reported by the Firm as a whole or by each of the
+lines of business and Corporate. For a reconciliation of the Firm’s results from a reported to managed basis, refer to page 7 ofthe Earnings Release Financial
+Supplement
+2. In addition to reviewing net interest income (“NII”) and noninterest revenue (“NIR”) on a managed basis, management also reviewsthese metrics excluding Markets,
+which is composed of Fixed Income Markets and Equity Markets. Markets revenue consists of principal transactions, fees, commissions and other income, as well as
+net interest income. These metrics, which exclude Markets, are non-GAAP financial measures. Management reviews these metrics to assess the performance of the
+Firm’s lending, investing (including asset-liability management) and deposit-raising activities, apart from any volatility associated with Markets activities. In addition,
+management also assesses Markets business performance on a total revenue basis as offsets may occur across revenue lines. For example, securities that generate
+net interest income may be risk-managed by derivatives that are reflected at fair value in principal transactions revenue. Management believes these measures provide
+investors and analysts with alternative measures to analyze the revenue trends of the Firm. For a reconciliation of NII and NIR from reported to excluding Markets,
+refer to page 28 of the Earnings Release Financial Supplement. For additional information on Markets revenue, refer to pages 81-82 of the Firm’s 2024 Form 10-K
+3. Tangible common equity (“TCE”), return on tangible common equity (“ROTCE”) and tangible book value per share (“TBVPS”) are each non-GAAP financial measures.
+TCE represents the Firm’s common stockholders’ equity (i.e., total stockholders’ equity less preferred stock) less goodwill and identifiable intangible assets (other than
+mortgage servicing rights), net of related deferred tax liabilities. For a reconciliation from common stockholders’ equity to TCE, refer to page 10 of the Earnings
+Release Financial Supplement. ROTCE measures the Firm’s net income applicable to common equity as a percentage of average TCE. TBVPS represents the Firm’s
+TCE at period-end divided by common shares at period-end. Book value per share was $122.51, $119.24 and $111.29 atJune 30, 2025, March 31, 2025and June 30,
+2024, respectively. TCE, ROTCE and TBVPS are utilized by the Firm, as well as investors and analysts, in assessing the Firm’suse of equity
+4. Adjusted expense and adjusted overhead ratio are each non-GAAP financial measures. Adjusted expense represents noninterest expense excluding Firmwide legal
+expense of $118mm, $121mm and $317mm for the three months ended June 30, 2025, March 31, 2025and June 30, 2024, respectively. The adjusted overhead ratio
+measures the Firm’s adjusted expense as a percentage of managed net revenue. Management believes this information helps investors understand the effect of these
+items on reported results and provides an alternate presentation of the Firm’s performance
+5. Second-quarter 2025 net income, earnings per share and ROTCE excluding the $774mm income tax benefit are non-GAAP financial measures. Excluding this item
+resulted in a decrease of $774mm (after tax) to reported net income from $15.0B to $14.2B; a decrease of $0.28 per share to reported EPS from $5.24 to $4.96; and a
+decrease of 1% to ROTCE from 21% to 20%. Management believes these measures provide useful information to investors and analystsin assessing the Firm’s
+results
+9
+
+=== PAGE BREAK ===
+
+Additional notes
+1. As of January 1, 2025, the benefit from the Current Expected Credit Losses ("CECL") capital transition provision had been fully phased-out; as of June 30, 2024, CET1
+capital and Total Loss-Absorbing Capacity reflected the remaining $720mm CECL benefit. Refer to Note 21 of the Firm's Quarterly Report on Form 10-Q for the
+quarterly period ended March 31, 2025and Note 27 of the Firm’s 2024 Form 10-K for additional information
+2. Total excess high-quality liquid assets (“HQLA”) represent the average eligible unencumbered liquid assets that are in excess ofwhat is required to meet the estimated
+Firm and Bank total net cash outflows over a prospective 30 calendar-day period of significant stress under the LCR rule. HQLA and unencumbered marketable
+securities include end-of-period HQLA, excluding regulatory prescribed haircuts under the LCR rule where applicable, for both the Firm and the excess HQLA-eligible
+securities included as part of the excess liquidity at JPMorgan Chase Bank, N.A., which are not transferable to non-bank affiliates and thus excluded from the Firm’s
+LCR. Also include other end-of-period unencumbered marketable securities, such as equity and debt securities. Does not include borrowing capacity at Federal Home
+Loan Banks and the discount window at the Federal Reserve Bank. Refer to Liquidity Risk Management on pages 40-46 of the Firm’s Quarterly Report on Form 10-Q
+for the quarterly period ended March 31, 2025and pages 108-115 of the Firm’s 2024 Form 10-K for additional information
+3. During the fourth quarter of 2024, the Firm made a change to its funds transfer pricing with respect to consumer deposits, resulting in an increase in the funding benefit
+reflected within CCB net interest income which is fully offset within Corporate net interest income. Refer to page 17 of the Firm's Quarterly Report on Form 10-Q for the
+quarterly period ended March 31, 2025and page 71 of the Firm’s 2024 Form 10-K for additional information
+10
+
+=== PAGE BREAK ===
+
+Additional notes on slides 4-5
+Slide 4 –Consumer & Community Banking
+3. Actual numbers for all periods, not over/(under)
+4. Users of all mobile platforms who have logged in within the past 90 days
+5. Excludes Commercial Card
+6. Firmwide mortgage origination volume was $16.3B, $11.2B and $12.3B for the three months ended June 30, 2025, March 31, 2025 and June 30, 2024, respectively
+Slide 5 –Commercial & Investment Bank
+2. In the fourth quarter of 2024, certain net funding costs that were previously allocated to Fixed Income Markets were reclassified to Equity Markets. Prior-period
+amounts have been revised to conform with the current presentation
+3. Actual numbers for all periods, not over/(under)
+4. On January 1, 2025, $5.6B of loans were realigned from Global Corporate Banking to Fixed Income Markets
+5. Client deposits and other third-party liabilities (“client deposits”) pertain to the Payments and Securities Services businesses
+6. Loans held-for-sale and loans at fair value were excluded when calculating the net charge-off/(recovery) rate
+7. Securitized Products Group is comprised of Securitized Products and tax-oriented investments
+8. Refer to page 78 of the Firm’s Annual Report on Form 10-K for the year ended December 31, 2024 for a description of each of the client coverage segments
+9. In the second quarter of 2025, amounts were reclassified from Other to Global Corporate Banking & Global Investment Banking reflecting the subsequent alignment of
+certain business activities after the Firm’s Business Segment reorganization in the second quarter of 2024. Prior-period amountshave been revised to conform with the
+current presentation
+10. In the second quarter of 2025, the Middle Market Banking client coverage segment was renamed Commercial & Specialized Industries
+11
+
+=== PAGE BREAK ===
+
+Forward-looking statements
+This presentation contains forward-looking statements within the meaning of the Private Securities Litigation
+Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorgan Chase &
+Co.’s management and are subject to significant risks and uncertainties. Actual results may differ from those set
+forth in the forward-looking statements. Factors that could cause JPMorgan Chase & Co.’s actual results to differ
+materially from those described in the forward-looking statements can be found in JPMorgan Chase & Co.’s
+Annual Report on Form 10-K for the year ended December 31, 2024 and Quarterly Report on Form 10-Q for the
+quarter ended March 31, 2025, which have been filed with the Securities and Exchange Commission and are
+available on JPMorgan Chase & Co.’s website (https://jpmorganchaseco.gcs-web.com/ir/sec-other-
+filings/overview), and on the Securities and Exchange Commission’s website (www.sec.gov). JPMorgan Chase &
+Co. does not undertake to update any forward-looking statements.
+12

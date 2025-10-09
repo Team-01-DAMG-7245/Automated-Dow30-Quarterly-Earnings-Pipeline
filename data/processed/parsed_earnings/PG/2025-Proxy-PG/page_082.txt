@@ -1,0 +1,56 @@
+PAY VERSUS PERFORMANCE
+For the “Other NEOs Average” columns below, all amounts reflect the average of the values for the applicable
+NEOs in each fiscal year in accordance with SEC rules.
+Other NEOs Average
+Adjustments 2024-25 2023-24 2022-23 2021-22 2020-21
+Summary Compensation Table Total 7,832,698 8,191,635 7,174,555 6,783,743 6,683,975
+(Deduct): Aggregate grant date fair value for stock awards and option
+awards included in the SCT(b) (5,565,296) (5,256,231) (4,441,759) (4,432,973) (3,893,129)
+Add: Fair value at fiscal year end of awards granted during the covered
+fiscal year that were outstanding and unvested at fiscal year end(c) 3,562,295 6,620,680 5,502,775 5,110,606 3,934,323
+Add: Year-over-year change in fair value at fiscal year end of awards
+granted in any prior fiscal year that were outstanding and unvested at
+the fiscal year end(d) (932,960) 2,152,092 494,333 2,005,209 2,432,618
+Add: Fair value at vesting date of Stock Awards and Options granted
+and vested during the fiscal year(e) 134,817 138,791 120,064 96,519 111,647
+Add/(Deduct): Change as of the vesting date (from the end of the prior
+fiscal year) in fair value of awards granted in any prior fiscal year for
+which vesting conditions were satisfied during the fiscal year(f) 696,732 1,315,673 (28,946) 1,800,418 1,285,975
+Add: Fair value at end of prior fiscal year of awards granted in any prior
+fiscal year that failed to meet the applicable vesting conditions during
+the covered fiscal year(g) 0 0 0 0 0
+(Deduct): Aggregate change in the actuarial present value of the
+accumulated benefit under any pension plan(h) (165,250) (198,250) (9,500) — —
+Add: Aggregate service cost and prior service cost for pension plans(i) 0 0 0 0 0
+Total value of adjustments (2,269,662) 4,772,755 1,636,966 4,579,779 3,871,434
+CAP Amounts (as calculated) 5,563,035 12,964,390 8,811,521 11,363,522 10,555,409
+a) Mr. Moeller served as CEO for the entirety of FY 2022-23 through FY 2024-25. David Taylor is listed as the additional CEO in FY 2021-22. Mr. Taylor
+served 4 months as CEO and 8 months as Executive Chairman of the Board before retiring at the end of FY 2021-22. Mr. Moeller served 8
+months as CEO in FY 2021-22. Mr. Taylor served as CEO for the entirety of FY 2020-21.
+b) Represents the aggregate grant date fair value as of the indicated fiscal year of the RSUs, PSUs, and options granted to the CEO, and the
+additional CEO in FY 2021-22, and the average grant date fair values for the respective NEOs as applicable for each year, during such fiscal year,
+calculated using the same methodology used for financial statement reporting purposes.
+c) Represents the aggregate fair value as of the indicated fiscal year end of outstanding and unvested stock awards and option awards granted
+during such fiscal year. Stock option fair values are calculated using an industry standard lattice-based valuation model as of the measurement
+date, which is based on the stock price and assumptions (i.e., term, volatility, dividend yield, risk free rates) as of the measurement date. PSU fair
+values are calculated using the stock price and a Monte-Carlo simulation as of the measurement date, as well as a modifier for forecasted
+performance. RSU fair values as of the measurement date are calculated using the stock price on the measurement date plus accrued
+dividends. In FY 2021-22, the additional CEO (Mr. Taylor) as well as one non-CEO NEO retired on June 30, 2022, and, as such, the fair value of their
+2022 options, RSUs and PSUs were pro-rated at 75% to reflect their fiscal year service and will not vest until October and August 2025,
+respectively.
+d) Represents the aggregate change in fair value during the indicated fiscal year of the outstanding and unvested RSUs, PSUs, and options. See
+footnote (c) above for information about our equity valuations.
+e) Represents the aggregate fair value at vesting of RSUs, PSUs, and options that were granted and vested during the indicated fiscal year. See
+footnote (c) above for information about our equity valuations. Amounts in this row reflect the annual grant of RSUs under our PST Restoration
+Program, which is described in the Grants of Plan-Based Awards Table and footnotes. Additionally, for the CEO, an additional CEO in FY 2021-22,
+and any other retirement-eligible NEOs, this row includes the portion of any current year RSUs that was withheld to pay required payroll
+employment tax (FICA/Medicare) obligations (and income taxes due on the amounts withheld) due in connection with the executive qualifying
+as retirement-eligible during the applicable year.
+f) Represents the aggregate change in fair value, measured from the prior fiscal year-end to the vesting date, of each RSU, PSU and option that
+was granted in a prior fiscal year and which vested during the indicated fiscal year. See footnote (c) above for information about our equity
+valuations.
+g) No amounts were required to be reported for any CEO, additional CEO, or other NEO.
+h) Represents the aggregate change in the actuarial present value of the accumulated benefit under pension plans.
+i) There are no service costs or prior service costs for any of the CEO or the other NEOs. The applicable executives earned pensions in their home
+country but have been localized to the United States. As such, they are no longer earning benefits in their home country pension plans.
+77 The Procter & Gamble Company

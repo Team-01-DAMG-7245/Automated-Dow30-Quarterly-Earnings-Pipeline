@@ -1,0 +1,46 @@
+EXHIBIT C
+15.2 Committee Action. Except as provided in Section 7.7, the Committee may, in its discretion,
+determine that notwithstanding Section 15.1, any Awards shall be transferable, without compensation to the
+transferor, to and exercisable by such transferees, and subject to such terms and conditions as the Committee
+may deem appropriate; provided, however, no Award may be transferred for value without shareholder approval.
+15.3 Restrictions on Share Transferability. The Committee may impose such restrictions on any
+Shares acquired by a Participant under the Plan as it may deem advisable, including, without limitation, minimum
+holding period requirements, and/or restrictions under applicable federal securities laws, under the requirements
+of any stock exchange or market upon which such Shares are then listed or traded, or under any blue sky or state
+securities laws applicable to such Shares.
+ARTICLE 16 TERMINATION OF EMPLOYMENT OR TERMINATION OF DIRECTORSHIP
+Each Award Agreement evidencing the grant of an Award shall provide for the following:
+(a) The extent to which a Participant shall retain or forfeit such Award following the
+Participant’s Termination of Employment or Termination of Directorship, as applicable.
+(b) With respect to an Award in the form of an Option or SAR, the extent to which a
+Participant shall have the right to exercise the Option or SAR following the Participant’s Termination
+of Employment or Termination of Directorship, as applicable.
+The foregoing provisions shall be determined in the sole discretion of the Committee, shall be included
+in each Award Agreement entered into with each Participant, need not be uniform among all Award Agreements,
+and may reflect distinctions based on the reasons for termination.
+ARTICLE 17 EFFECT OF A CHANGE IN CONTROL
+Notwithstanding any other provision of this Plan to the contrary, the provisions of this Article 17 shall
+apply in the event of a Change in Control:
+17.1 Awards Assumed by Successor. Any Award granted under the Plan that is Assumed (as
+defined in Section 17.2 below) by an entity effecting a Change in Control shall vest and be exercisable, if applicable,
+in accordance with the terms of the original grant unless, during the two (2) year period commencing on the date
+of the Change in Control:
+(a) a Participant’s employment or directorship is involuntarily terminated for reasons
+other than for Cause; or
+(b) a Participant who is an Employee terminates the Participant’s employment for Good
+Reason.
+If clause (a) or (b) applies, the Award shall become fully vested and exercisable, if applicable, and any
+restrictions that apply to the Award shall lapse, and any performance-based Award shall be deemed to be satisfied
+based on actual performance through the date of the Participant’s termination if such performance is
+determinable in the judgement of the Committee and based on target level performance if actual performance is
+not determinable. Notwithstanding the foregoing, with respect to any Award that is subject to Code Section 409A,
+if the Change in Control is not also a “change in control event” within the meaning of Section 409A, the payment
+shall be made on the date payment would have been made had the Termination of Employment or Termination
+of Directorship not occurred. For purposes of this Section 17.1, a Termination of Employment shall not be
+considered to be for Good Reason unless:
+(a) the Participant has provided the Company with a written notice of the Participant’s
+intent to terminate employment for Good Reason within sixty (60) days of the Participant becoming
+aware of the circumstances giving rise to Good Reason; and
+(b) the Participant allows the Company thirty (30) days to remedy such circumstances to
+the extent curable.
+C-14 The Procter & Gamble Company

@@ -1,0 +1,52 @@
+58 The Procter & Gamble Company
+Cash Flows. Management's best estimate of cash requirements and discretionary contributions for the pension benefits and
+other retiree benefit plans for the fiscal year ending June 30, 2026, is $218 and $54, respectively. Expected contributions are
+dependent on many variables, including the variability of the market value of the plan assets as compared to the benefit
+obligation and other market or regulatory conditions. In addition, we take into consideration our business investment
+opportunities and resulting cash requirements. Accordingly, actual funding may differ significantly from current estimates.
+Total benefit payments expected to be paid to participants, which include payments funded from the Company's assets and
+payments from the plans are as follows:
+Fiscal years ending June 30 Pension Benefits Other Retiree Benefits
+EXPECTED BENEFIT PAYMENTS
+2026 $ 657 $ 201
+2027 663 203
+2028 720 208
+2029 726 218
+2030 760 225
+2031 - 2035 4,131 1,258
+Employee Stock Ownership Plan
+We maintain the ESOP to provide funding for certain employee benefits discussed in the preceding paragraphs.
+The ESOP borrowed $1.0 billion in 1989, and the proceeds were used to purchase Series A ESOP Convertible Class A
+Preferred Stock to fund a portion of the U.S. DC plan. Principal and interest requirements of the borrowing were paid by the
+Trust from dividends on the preferred shares and from advances provided by the Company. The original borrowing of $1.0
+billion has been repaid in full. No advances from the Company remain outstanding at June 30, 2025. Each share is convertible
+at the option of the holder into one share of the Company's common stock. The dividend for the current year was equal to the
+common stock dividend of $4.08 per share. The liquidation value is $6.82 per share.
+In 1991, the ESOP borrowed an additional $1.0 billion. The proceeds were used to purchase Series B ESOP Convertible
+Class A Preferred Stock to fund a portion of retiree health care benefits. These shares, net of the ESOP's debt, are considered
+plan assets of the other retiree benefits plan discussed above. The original borrowings of $1.0 billion were repaid in 2021. Debt
+service requirements were funded by preferred stock dividends, cash contributions and advances provided by the Company, of
+which $672 are outstanding at June 30, 2025. Each share is convertible at the option of the holder into one share of the
+Company's common stock. The dividend for the current year was equal to the common stock dividend of $4.08 per share. The
+liquidation value is $12.96 per share.
+Our ESOP accounting practices are consistent with current ESOP accounting guidance, including the permissible continuation
+of certain provisions from prior accounting guidance. ESOP debt, which was guaranteed by the Company, was recorded as debt
+with an offset to the Reserve for ESOP debt retirement, which is presented within Shareholders' equity. Advances to the ESOP
+by the Company are recorded as an increase in the Reserve for ESOP debt retirement. Interest incurred on the ESOP debt was
+recorded as Interest expense. Dividends on all preferred shares are charged to Retained earnings.
+The series A and B preferred shares of the ESOP are allocated to employees based on debt service requirements. The number of
+preferred shares outstanding at June 30 was as follows:
+Shares in thousands 2025 2024 2023
+Allocated 20,648 22,724 24,449
+Unallocated — — 535
+TOTAL SERIES A 20,648 22,724 24,984
+Allocated 34,965 33,723 32,172
+Unallocated 14,142 15,864 17,867
+TOTAL SERIES B 49,107 49,587 50,039
+For purposes of calculating diluted net earnings per common share, the preferred shares held by the ESOP are considered
+converted from inception.
+NOTE 9
+RISK MANAGEMENT ACTIVITIES AND FAIR VALUE MEASUREMENTS
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates,
+currency exchange rates and commodity prices. We evaluate exposures on a centralized basis to take advantage of natural
+A mounts in millions of dollars except per share amounts or as otherwise specified.
