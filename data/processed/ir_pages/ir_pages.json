@@ -7,7 +7,7 @@
     "ticker": "MMM",
     "company_name": "3M",
     "company_website": "https://www.3m.com",
-    "discovered_date": "2025-10-09T07:54:33.234085"
+    "discovered_date": "2025-10-09T18:53:45.301566"
   },
   {
     "ir_url": "https://www.americanexpress.com/ir",
@@ -17,7 +17,7 @@
     "ticker": "AXP",
     "company_name": "American Express",
     "company_website": "https://www.americanexpress.com",
-    "discovered_date": "2025-10-09T07:54:37.595587"
+    "discovered_date": "2025-10-09T18:53:49.421654"
   },
   {
     "ir_url": "http://investors.amgen.com/",
@@ -27,7 +27,7 @@
     "ticker": "AMGN",
     "company_name": "Amgen",
     "company_website": "https://www.amgen.com",
-    "discovered_date": "2025-10-09T07:54:46.754652"
+    "discovered_date": "2025-10-09T18:53:58.296161"
   },
   {
     "ir_url": null,
@@ -38,7 +38,7 @@
     "ticker": "AMZN",
     "company_name": "Amazon",
     "company_website": NaN,
-    "discovered_date": "2025-10-09T07:54:49.078032"
+    "discovered_date": "2025-10-09T18:54:00.575461"
   },
   {
     "ir_url": "https://investor.apple.com/",
@@ -48,7 +48,7 @@
     "ticker": "AAPL",
     "company_name": "Apple",
     "company_website": "https://www.apple.com",
-    "discovered_date": "2025-10-09T07:54:55.605438"
+    "discovered_date": "2025-10-09T18:54:07.664500"
   },
   {
     "ir_url": "https://www.boeing.com/investors",
@@ -58,17 +58,17 @@
     "ticker": "BA",
     "company_name": "Boeing",
     "company_website": "https://www.boeing.com",
-    "discovered_date": "2025-10-09T07:54:59.332488"
+    "discovered_date": "2025-10-09T18:54:10.629358"
   },
   {
-    "ir_url": "https://www.caterpillar.com/company/investors",
+    "ir_url": "https://www.caterpillar.com/en/investors",
     "method": "common_pattern",
-    "pattern": "/company/investors",
+    "pattern": "/en/investors",
     "success": true,
     "ticker": "CAT",
     "company_name": "Caterpillar",
     "company_website": "https://www.caterpillar.com",
-    "discovered_date": "2025-10-09T07:55:04.790772"
+    "discovered_date": "2025-10-09T18:54:18.381687"
   },
   {
     "ir_url": "https://www.chevron.com/investors",
@@ -78,7 +78,7 @@
     "ticker": "CVX",
     "company_name": "Chevron",
     "company_website": "https://www.chevron.com",
-    "discovered_date": "2025-10-09T07:55:07.858974"
+    "discovered_date": "2025-10-09T18:54:21.343443"
   },
   {
     "ir_url": null,
@@ -89,7 +89,7 @@
     "ticker": "CSCO",
     "company_name": "Cisco",
     "company_website": "https://www.cisco.com",
-    "discovered_date": "2025-10-09T07:55:12.226415"
+    "discovered_date": "2025-10-09T18:54:25.961997"
   },
   {
     "ir_url": "https://www.coca-colacompany.com/investors",
@@ -99,7 +99,7 @@
     "ticker": "KO",
     "company_name": "Coca-Cola",
     "company_website": "https://www.coca-colacompany.com",
-    "discovered_date": "2025-10-09T07:55:15.057237"
+    "discovered_date": "2025-10-09T18:54:28.628406"
   },
   {
     "ir_url": "https://www.thewaltdisneycompany.com/investors",
@@ -109,7 +109,7 @@
     "ticker": "DIS",
     "company_name": "Disney",
     "company_website": "https://www.thewaltdisneycompany.com",
-    "discovered_date": "2025-10-09T07:55:17.995921"
+    "discovered_date": "2025-10-09T18:54:31.267154"
   },
   {
     "ir_url": "https://www.goldmansachs.com/investor-relations",
@@ -119,7 +119,7 @@
     "ticker": "GS",
     "company_name": "Goldman Sachs",
     "company_website": "https://www.goldmansachs.com",
-    "discovered_date": "2025-10-09T07:55:20.894029"
+    "discovered_date": "2025-10-09T18:54:33.673919"
   },
   {
     "ir_url": "https://www.homedepot.com/ir",
@@ -129,7 +129,7 @@
     "ticker": "HD",
     "company_name": "Home Depot",
     "company_website": "https://www.homedepot.com",
-    "discovered_date": "2025-10-09T07:55:24.073013"
+    "discovered_date": "2025-10-09T18:54:36.378383"
   },
   {
     "ir_url": "https://www.honeywell.com/investors",
@@ -139,7 +139,7 @@
     "ticker": "HON",
     "company_name": "Honeywell",
     "company_website": "https://www.honeywell.com",
-    "discovered_date": "2025-10-09T07:55:26.433817"
+    "discovered_date": "2025-10-09T18:54:38.595539"
   },
   {
     "ir_url": "https://www.ibm.com/ir",
@@ -149,7 +149,7 @@
     "ticker": "IBM",
     "company_name": "IBM",
     "company_website": "https://www.ibm.com",
-    "discovered_date": "2025-10-09T07:55:29.424767"
+    "discovered_date": "2025-10-09T18:54:41.131452"
   },
   {
     "ir_url": "https://www.investor.jnj.com/overview/default.aspx",
@@ -159,7 +159,7 @@
     "ticker": "JNJ",
     "company_name": "Johnson & Johnson",
     "company_website": "https://www.jnj.com",
-    "discovered_date": "2025-10-09T07:55:35.535448"
+    "discovered_date": "2025-10-09T18:54:47.962507"
   },
   {
     "ir_url": "https://www.jpmorganchase.com/investor-relations",
@@ -169,7 +169,7 @@
     "ticker": "JPM",
     "company_name": "JPMorgan Chase",
     "company_website": "https://www.jpmorganchase.com",
-    "discovered_date": "2025-10-09T07:55:38.342415"
+    "discovered_date": "2025-10-09T18:54:50.740712"
   },
   {
     "ir_url": "https://corporate.mcdonalds.com/corpmcd/investors.html",
@@ -179,7 +179,7 @@
     "ticker": "MCD",
     "company_name": "McDonald's",
     "company_website": "https://www.mcdonalds.com",
-    "discovered_date": "2025-10-09T07:55:42.995784"
+    "discovered_date": "2025-10-09T18:54:55.420560"
   },
   {
     "ir_url": "https://www.merck.com/investor-relations",
@@ -189,7 +189,7 @@
     "ticker": "MRK",
     "company_name": "Merck",
     "company_website": "https://www.merck.com",
-    "discovered_date": "2025-10-09T07:55:45.818020"
+    "discovered_date": "2025-10-09T18:54:58.431506"
   },
   {
     "ir_url": "https://www.microsoft.com/investors",
@@ -199,7 +199,7 @@
     "ticker": "MSFT",
     "company_name": "Microsoft",
     "company_website": "https://www.microsoft.com",
-    "discovered_date": "2025-10-09T07:55:48.552679"
+    "discovered_date": "2025-10-09T18:55:01.897983"
   },
   {
     "ir_url": "http://investors.nike.com/",
@@ -209,7 +209,7 @@
     "ticker": "NKE",
     "company_name": "Nike",
     "company_website": "https://www.nike.com",
-    "discovered_date": "2025-10-09T07:55:53.792278"
+    "discovered_date": "2025-10-09T18:55:12.272299"
   },
   {
     "ir_url": null,
@@ -220,17 +220,17 @@
     "ticker": "NVDA",
     "company_name": "Nvidia",
     "company_website": NaN,
-    "discovered_date": "2025-10-09T07:55:56.117997"
+    "discovered_date": "2025-10-09T18:55:14.512760"
   },
   {
-    "ir_url": "https://www.pg.com/investors",
+    "ir_url": "https://www.pg.com/investor-relations",
     "method": "common_pattern",
-    "pattern": "/investors",
+    "pattern": "/investor-relations",
     "success": true,
     "ticker": "PG",
     "company_name": "Procter & Gamble",
     "company_website": "https://www.pg.com",
-    "discovered_date": "2025-10-09T07:55:59.390435"
+    "discovered_date": "2025-10-09T18:55:27.388760"
   },
   {
     "ir_url": "https://investor.salesforce.com/overview/default.aspx",
@@ -240,7 +240,7 @@
     "ticker": "CRM",
     "company_name": "Salesforce",
     "company_website": "https://www.salesforce.com",
-    "discovered_date": "2025-10-09T07:56:07.942516"
+    "discovered_date": "2025-10-09T18:55:41.810598"
   },
   {
     "ir_url": null,
@@ -251,7 +251,7 @@
     "ticker": "SHW",
     "company_name": "Sherwin-Williams",
     "company_website": NaN,
-    "discovered_date": "2025-10-09T07:56:10.127952"
+    "discovered_date": "2025-10-09T18:55:44.190306"
   },
   {
     "ir_url": "https://investor.travelers.com/home/default.aspx",
@@ -261,7 +261,7 @@
     "ticker": "TRV",
     "company_name": "Travelers Companies, Inc.",
     "company_website": "https://www.travelers.com",
-    "discovered_date": "2025-10-09T07:56:17.665076"
+    "discovered_date": "2025-10-09T18:55:50.807463"
   },
   {
     "ir_url": "https://www.unitedhealthgroup.com/investors",
@@ -271,7 +271,7 @@
     "ticker": "UNH",
     "company_name": "UnitedHealth Group",
     "company_website": "https://www.unitedhealthgroup.com",
-    "discovered_date": "2025-10-09T07:56:19.975348"
+    "discovered_date": "2025-10-09T18:55:52.968318"
   },
   {
     "ir_url": "https://www.verizon.com/investors",
@@ -281,7 +281,7 @@
     "ticker": "VZ",
     "company_name": "Verizon",
     "company_website": "https://www.verizon.com",
-    "discovered_date": "2025-10-09T07:56:22.916627"
+    "discovered_date": "2025-10-09T18:55:56.836266"
   },
   {
     "ir_url": null,
@@ -292,7 +292,7 @@
     "ticker": "V",
     "company_name": "Visa",
     "company_website": "https://www.visa.com",
-    "discovered_date": "2025-10-09T07:56:27.594791"
+    "discovered_date": "2025-10-09T18:56:01.802035"
   },
   {
     "ir_url": null,
@@ -303,6 +303,6 @@
     "ticker": "WMT",
     "company_name": "Walmart",
     "company_website": "https://www.walmart.com",
-    "discovered_date": "2025-10-09T07:56:33.097504"
+    "discovered_date": "2025-10-09T18:56:06.695780"
   }
 ]
