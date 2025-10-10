@@ -1,0 +1,14 @@
+# AWS S3 Configuration for Project LANTERN
+# Copy this file to .env and fill in your AWS credentials
+
+# AWS Credentials (Required)
+AWS_ACCESS_KEY_ID=your_access_key_here
+AWS_SECRET_ACCESS_KEY=your_secret_key_here
+
+# S3 Configuration (Optional - defaults provided)
+S3_BUCKET_NAME=lantern-dow30-results
+AWS_REGION=us-east-1
+
+# Project Configuration
+PROJECT_ROOT=/opt/airflow
+DATA_ROOT=/opt/airflow/data

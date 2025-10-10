@@ -14,6 +14,7 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 - **📊 Multi-Format Output**: Converts documents to Markdown, JSON, and plain text
 - **🔄 Airflow Orchestration**: Fully automated pipeline with monitoring and error handling
 - **📈 Comprehensive Coverage**: Processes 30+ companies with 300+ reports
+- **☁️ Cloud Storage**: Optional AWS S3 integration for scalable data storage
 
 ## 🏗️ Architecture
 
@@ -36,6 +37,7 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 - Docker and Docker Compose
 - Python 3.11+
 - 8GB+ RAM (for AI models)
+- AWS Account (for S3 storage - optional)
 
 ### Installation
 
@@ -54,9 +56,21 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
    - Open http://localhost:8080
    - Login: `airflow` / `airflow`
 
-4. **Run the pipeline**
+4. **Configure AWS S3 (Optional)**
+   ```bash
+   # Copy the AWS configuration template
+   cp aws_config.example .env
+   
+   # Edit .env and add your AWS credentials
+   # AWS_ACCESS_KEY_ID=your_access_key_here
+   # AWS_SECRET_ACCESS_KEY=your_secret_key_here
+   # S3_BUCKET_NAME=your-bucket-name
+   ```
+
+5. **Run the pipeline**
    - Navigate to the `lantern_quarterly_pipeline` DAG
    - Click "Trigger DAG" to start processing
+   - To enable S3 upload, set `upload_to_s3: true` in the DAG parameters
 
 ### Manual Execution
 
@@ -164,6 +178,64 @@ Set these in Airflow UI → Admin → Variables:
 AIRFLOW_UID=50000
 AIRFLOW_GID=0
 ```
+
+### AWS S3 Configuration
+
+The pipeline supports optional cloud storage using AWS S3. Data is organized by company and reporting period:
+
+```
+s3://your-bucket/
+├── company/
+│   ├── AAPL/
+│   │   ├── 2024Q3/
+│   │   │   ├── raw_reports/          # Original PDF files
+│   │   │   ├── parsed_content/       # Extracted text, tables, images
+│   │   │   └── converted_formats/    # JSON, Markdown, TXT
+│   │   └── 2024Q4/...
+│   └── MSFT/...
+├── reference/                        # Company metadata and URLs
+│   └── run_20250109_143022/
+│       ├── dow30_companies.json
+│       └── earnings_urls.json
+└── summary/                          # Upload summaries
+    └── run_20250109_143022/
+        └── upload_summary.json
+```
+
+#### Setup Steps:
+
+1. **Create AWS Account** (if you don't have one)
+2. **Create IAM User** with S3 permissions:
+   ```json
+   {
+     "Version": "2012-10-17",
+     "Statement": [
+       {
+         "Effect": "Allow",
+         "Action": [
+           "s3:CreateBucket",
+           "s3:PutObject",
+           "s3:GetObject",
+           "s3:ListBucket"
+         ],
+         "Resource": "*"
+       }
+     ]
+   }
+   ```
+3. **Configure Credentials**:
+   ```bash
+   # Copy template and edit
+   cp aws_config.example .env
+   
+   # Add your credentials
+   AWS_ACCESS_KEY_ID=AKIA...
+   AWS_SECRET_ACCESS_KEY=...
+   S3_BUCKET_NAME=your-unique-bucket-name
+   ```
+4. **Enable S3 Upload** in Airflow:
+   - Trigger DAG with config: `{"upload_to_s3": true}`
+   - Or set in DAG parameters when triggering
 
 ## 📈 Pipeline Stages
 
