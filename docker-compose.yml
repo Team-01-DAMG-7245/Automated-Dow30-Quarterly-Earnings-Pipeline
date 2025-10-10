@@ -1,12 +1,13 @@
 # docker-compose.yml
 # Airflow setup for Project LANTERN
 
-x-airflow-common: &airflow-common
+version: '3.8'
+
+x-airflow-common:
+  &airflow-common
   image: apache/airflow:2.7.3-python3.11
-  user: "${AIRFLOW_UID:-50000}:${AIRFLOW_GID:-0}"   # run as non-root
-  env_file:
-    - .env
-  environment: &airflow-common-env
+  environment:
+    &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: LocalExecutor
     AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
     AIRFLOW__CORE__FERNET_KEY: ''
@@ -14,8 +15,12 @@ x-airflow-common: &airflow-common
     AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
     AIRFLOW__API__AUTH_BACKENDS: 'airflow.api.auth.backend.basic_auth,airflow.api.auth.backend.session'
     AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: 'true'
-    # Dev-only: extra Python deps installed at container start
     _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
+    # AWS S3 Configuration (set these in your environment or .env file)
+    AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
+    AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
+    S3_BUCKET_NAME: ${S3_BUCKET_NAME:-lantern-dow30-results}
+    AWS_REGION: ${AWS_REGION:-us-east-1}
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
@@ -24,12 +29,13 @@ x-airflow-common: &airflow-common
     - ${AIRFLOW_PROJ_DIR:-.}/src:/opt/airflow/src
     - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
     - ${AIRFLOW_PROJ_DIR:-.}/params.yaml:/opt/airflow/params.yaml
-  depends_on: &airflow-common-depends-on
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on:
+    &airflow-common-depends-on
     postgres:
       condition: service_healthy
 
 services:
-  # ===== Postgres =====
   postgres:
     image: postgres:13
     environment:
@@ -45,21 +51,6 @@ services:
       start_period: 5s
     restart: always
 
-  # ===== One-shot DB migrate + create admin user =====
-  airflow-init:
-    <<: *airflow-common
-    entrypoint: []
-    command: >
-      bash -lc "airflow db migrate &&
-      airflow users create --username ${_AIRFLOW_WWW_USER_USERNAME:-airflow} --firstname Admin --lastname User --role Admin --email admin@example.com --password ${_AIRFLOW_WWW_USER_PASSWORD:-airflow} || true"
-    environment:
-      <<: *airflow-common-env
-      _AIRFLOW_DB_MIGRATE: 'true'
-      _AIRFLOW_WWW_USER_CREATE: 'true'
-    restart: "no"
-
-
-  # ===== Webserver =====
   airflow-webserver:
     <<: *airflow-common
     command: webserver
@@ -77,7 +68,6 @@ services:
       airflow-init:
         condition: service_completed_successfully
 
-  # ===== Scheduler =====
   airflow-scheduler:
     <<: *airflow-common
     command: scheduler
@@ -93,14 +83,40 @@ services:
       airflow-init:
         condition: service_completed_successfully
 
-  # ===== CLI helper (optional) =====
+  airflow-init:
+    <<: *airflow-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        mkdir -p /sources/logs /sources/dags /sources/plugins
+        chown -R "${AIRFLOW_UID}:0" /sources/{logs,dags,plugins}
+        # Install essential packages for S3 and PyMuPDF
+        echo "Installing essential packages..."
+        pip install boto3 PyMuPDF python-dotenv requests
+        exec /entrypoint airflow version
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_MIGRATE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: ${_AIRFLOW_WWW_USER_USERNAME:-airflow}
+      _AIRFLOW_WWW_USER_PASSWORD: ${_AIRFLOW_WWW_USER_PASSWORD:-airflow}
+      _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
+    user: "0:0"
+    volumes:
+      - ${AIRFLOW_PROJ_DIR:-.}:/sources
+
   airflow-cli:
     <<: *airflow-common
-    profiles: [debug]
+    profiles:
+      - debug
     environment:
       <<: *airflow-common-env
       CONNECTION_CHECK_MAX_COUNT: "0"
-    command: ["bash", "-lc", "airflow"]
+    command:
+      - bash
+      - -c
+      - airflow
 
 volumes:
   postgres-db-volume:

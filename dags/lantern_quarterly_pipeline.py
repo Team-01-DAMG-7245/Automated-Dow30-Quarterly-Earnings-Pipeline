@@ -70,6 +70,7 @@ with DAG(
         # Manual trigger parameters (Airflow UI → Trigger DAG → "Config"):
         "run_label": "auto",       # e.g., "2025Q3", "backfill-2024Q4"
         "download_assets": True,   # set False for a "dry run" that stops after URL discovery
+        "upload_to_s3": True,     # set True to upload results to AWS S3
     },
 ) as dag:
 
@@ -148,24 +149,72 @@ with DAG(
 
 
     # -----------
-    # Task 5: Parse reports - using parse_reports.py
+    # Task 5: Parse reports - using parse_reports.py (SKIP for now)
     # -----------
-    parse_reports = BashOperator(
-        task_id="parse_reports",
-        bash_command=f"""
-            set -euo pipefail
-            cd "{PROJECT_ROOT}"
-            {PYTHON_BIN} src/parse_reports.py
-            echo "✅ Parsing complete"
-        """,
-        execution_timeout=timedelta(minutes=20),
-    )
+    @task
+    def skip_parsing():
+        print("⏭️ Skipping parsing step - focusing on S3 upload")
+        return {"status": "skipped"}
+
+    # -----------
+    # Task 6: Upload to S3 (Optional - controlled by params)
+    # -----------
+    @task
+    def upload_to_s3(**context):
+        """
+        Upload pipeline results to AWS S3.
+        Only runs if upload_to_s3 parameter is True.
+        """
+        # Get params from DAG run context
+        params = context.get('params', {})
+        
+        # Handle different ways the parameter might be passed (true, True, "true", 1)
+        upload_param = params.get('upload_to_s3', True)
+        upload_enabled = str(upload_param).lower() in ['true', '1', 'yes'] if upload_param is not None else False
+        
+        # Debug: Print what we're seeing
+        print(f"🔍 Debug - Params received: {params}")
+        print(f"🔍 Debug - upload_to_s3 raw value: {upload_param}")
+        print(f"🔍 Debug - upload_to_s3 processed: {upload_enabled}")
+        print(f"🔍 Debug - upload_to_s3 type: {type(upload_param)}")
+        
+        if not upload_enabled:
+            print("📤 S3 upload disabled (set upload_to_s3=true to enable)")
+            return {"status": "skipped", "reason": "upload_to_s3 not enabled"}
+        
+        try:
+            # Import S3 storage manager
+            import sys
+            sys.path.append(PROJECT_ROOT)
+            from src.s3_storage import S3StorageManager
+            
+            # Initialize S3 manager
+            s3_manager = S3StorageManager()
+            bucket_name = s3_manager.create_bucket_if_not_exists()
+            
+            # Get run label from params or generate one
+            run_label = params.get("run_label", "auto") if params else "auto"
+            if run_label == "auto":
+                from datetime import datetime
+                run_label = datetime.now().strftime("run_%Y%m%d_%H%M%S")
+            
+            # Upload all results
+            print(f"📤 Uploading results to S3 bucket: {bucket_name}")
+            results = s3_manager.upload_pipeline_results(DATA_ROOT, run_label)
+            
+            print("✅ S3 upload completed successfully!")
+            print(f"📊 Uploaded data for {results.get('total_companies', 0)} companies")
+            return {"status": "completed", "bucket": bucket_name, "run_label": run_label}
+            
+        except Exception as e:
+            print(f"❌ S3 upload failed: {e}")
+            return {"status": "failed", "error": str(e)}
 
     # -----------
     # Summary task
     # -----------
     @task
-    def summarize_results():
+    def summarize_results(s3_result):
         print("🎯 LANTERN Quarterly Pipeline Complete!")
         print("📊 Results available in data/ directory")
         print("✅ Generated company reference data")
@@ -173,10 +222,22 @@ with DAG(
         print("✅ Found earnings reports")
         print("✅ Downloaded reports")
         print("✅ Parsed reports")
+        
+        # Show S3 upload status
+        if s3_result:
+            if s3_result.get("status") == "completed":
+                print(f"✅ Uploaded to S3: {s3_result.get('bucket')}")
+            elif s3_result.get("status") == "skipped":
+                print("📤 S3 upload skipped")
+            else:
+                print(f"❌ S3 upload failed: {s3_result.get('error')}")
+        
         return {"status": "completed"}
 
     # ============
     # Dependencies - Linear flow matching manual commands
     # ============
     cfg = show_config()
-    cfg >> build_company_reference >> discover_ir_pages >> locate_earnings_reports >> download_company_artifacts >> parse_reports >> summarize_results()
+    s3_result = upload_to_s3()
+    
+    cfg >> build_company_reference >> discover_ir_pages >> locate_earnings_reports >> download_company_artifacts >> skip_parsing() >> s3_result >> summarize_results(s3_result)

@@ -14,6 +14,7 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 - **📊 Multi-Format Output**: Converts documents to Markdown, JSON, and plain text
 - **🔄 Airflow Orchestration**: Fully automated pipeline with monitoring and error handling
 - **📈 Comprehensive Coverage**: Processes 30+ companies with 300+ reports
+- **☁️ Cloud Storage**: Optional AWS S3 integration for scalable data storage
 
 ## 🏗️ Architecture
 
@@ -33,164 +34,250 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 
 ### Prerequisites
 
-- Docker Desktop installed and running
+- Docker and Docker Compose
 - Python 3.11+
 - 8GB+ RAM (for AI models)
-- 5GB+ free disk space (for Docker images)
+- AWS Account (for S3 storage - optional)
 
 ### Installation
 
-1. **Clone and navigate**
+1. **Clone the repository**
    ```bash
    git clone <repository-url>
    cd project-lantern-dow30
    ```
 
-2. **Start Docker Desktop** - Wait for whale icon in menu bar
-
-3. **Start services** (first time: 5-15 minutes)
+2. **Start the services**
    ```bash
-   docker compose up -d
+   docker-compose up -d
    ```
 
-4. **Monitor initialization**
-   ```bash
-   docker compose logs -f airflow-init
-   docker compose ps
-   ```
-
-5. **Access Airflow UI**
+3. **Access Airflow UI**
    - Open http://localhost:8080
    - Login: `airflow` / `airflow`
 
-6. **Configure Variables** (Admin → Variables)
-   - `lantern_project_root` → `/opt/airflow`
-   - `lantern_python_bin` → `python`
-   - `lantern_data_root` → `/opt/airflow/data`
+4. **Configure AWS S3 (Optional)**
+   ```bash
+   # Copy the AWS configuration template
+   cp aws_config.example .env
+   
+   # Edit .env and add your AWS credentials
+   # AWS_ACCESS_KEY_ID=your_access_key_here
+   # AWS_SECRET_ACCESS_KEY=your_secret_key_here
+   # S3_BUCKET_NAME=your-bucket-name
+   ```
 
-7. **Run Pipeline**
-   - Find `lantern_quarterly_pipeline` DAG
-   - Toggle ON
-   - Click "Trigger DAG"
+5. **Run the pipeline**
+   - Navigate to the `lantern_quarterly_pipeline` DAG
+   - Click "Trigger DAG" to start processing
+   - To enable S3 upload, set `upload_to_s3: true` in the DAG parameters
 
-## 🐳 Docker Commands
+### Manual Execution
+
+You can also run the pipeline manually:
 
 ```bash
-# Start services
-docker compose up -d
+# Step 1: Generate company data
+python src/scrape_dow30_wikipedia.py
 
-# Stop services
-docker compose down
+# Step 2: Find IR pages  
+python src/find_ir_pages.py
 
-# View logs
-docker compose logs -f
+# Step 3: Find earnings reports
+python src/find_earnings_reports.py
 
-# Check status
-docker compose ps
+# Step 4: Download reports
+python src/download_reports.py
 
-# Restart
-docker compose restart
-
-# Complete reset
-docker compose down -v
+# Step 5: Parse reports
+python src/parse_reports.py
 ```
 
 ## 📊 Pipeline Results
 
-### Coverage
-- **Companies**: 30/30 (100%)
-- **IR Pages**: 24/30 (80%)
-- **Reports Found**: 301
-- **Downloads**: 43 files
-- **Parsing**: Complete
+### Coverage Statistics
+- **Companies Processed**: 30 (100% of Dow 30)
+- **IR Pages Found**: 24/30 companies (80% success rate)
+- **Earnings Reports**: 301 total reports discovered
+- **Downloads Successful**: 43 files downloaded
+- **Parsing Complete**: Full text, table, and image extraction
 
 ### Output Structure
 ```
 data/
 ├── raw/
-│   ├── scraped/           # Company reference
-│   └── earnings_reports/  # PDFs
+│   ├── scraped/           # Company reference data
+│   └── earnings_reports/  # Downloaded PDF files
 ├── processed/
-│   ├── ir_pages/          # IR URLs
-│   ├── earnings_reports/  # Report links
-│   └── parsed_earnings/   # Parsed content
+│   ├── ir_pages/          # Discovered IR URLs
+│   ├── earnings_reports/  # Earnings report links
+│   └── parsed_earnings/   # Parsed content by company
 └── parsed/
-    └── converted/
-        ├── markdown/      # Human-readable
-        ├── json/          # Structured
+    └── converted/         # Multi-format outputs
+        ├── markdown/      # Human-readable format
+        ├── json/          # Structured data
         └── txt/           # Plain text
 ```
 
 ## 🛠️ Technical Stack
 
-### Core
-- Apache Airflow 2.7.3
-- Python 3.11
-- Docker & PostgreSQL 13
+### Core Technologies
+- **Apache Airflow**: Workflow orchestration
+- **Python 3.11**: Primary language
+- **Docker**: Containerization
+- **PostgreSQL**: Airflow metadata
 
-### AI/ML
-- PyMuPDF, pdfplumber, camelot-py
-- pytesseract, layoutparser
-- torch
+### AI/ML Libraries
+- **PyMuPDF**: PDF processing
+- **pdfplumber**: Text extraction
+- **camelot-py**: Table extraction
+- **pytesseract**: OCR processing
+- **layoutparser**: Document layout analysis
+- **torch**: Deep learning models
 
-### Data
-- pandas, numpy
-- requests, BeautifulSoup
-- tldextract
+### Data Processing
+- **pandas**: Data manipulation
+- **requests**: Web scraping
+- **BeautifulSoup**: HTML parsing
+- **tldextract**: Domain processing
 
 ## 📁 Project Structure
 
 ```
 project-lantern-dow30/
-├── dags/                          # Airflow DAGs
-├── src/                           # Core scripts
-├── data/                          # Data storage
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
+├── dags/                          # Airflow DAG definitions
+│   └── lantern_quarterly_pipeline.py
+├── src/                          # Core scripts
+│   ├── scrape_dow30_wikipedia.py # Company data scraping
+│   ├── find_ir_pages.py          # IR page discovery
+│   ├── find_earnings_reports.py  # Earnings report search
+│   ├── download_reports.py       # Report downloading
+│   ├── parse_reports.py          # AI-powered parsing
+│   └── [processing modules]
+├── data/                         # Data storage
+│   ├── raw/                      # Raw downloads
+│   ├── processed/                # Processed data
+│   └── parsed/                   # Final outputs
+├── reports/                      # Analysis reports
+├── docker-compose.yml            # Service orchestration
+├── requirements.txt              # Python dependencies
+└── README.md                     # This file
 ```
+
+## 🔧 Configuration
+
+### Airflow Variables
+Set these in Airflow UI → Admin → Variables:
+
+- `lantern_project_root`: `/opt/airflow` (Docker) or your local path
+- `lantern_python_bin`: `python`
+- `lantern_data_root`: `${PROJECT_ROOT}/data`
+
+### Environment Variables
+```bash
+AIRFLOW_UID=50000
+AIRFLOW_GID=0
+```
+
+### AWS S3 Configuration
+
+The pipeline supports optional cloud storage using AWS S3. Data is organized by company and reporting period:
+
+```
+s3://your-bucket/
+├── company/
+│   ├── AAPL/
+│   │   ├── 2024Q3/
+│   │   │   ├── raw_reports/          # Original PDF files
+│   │   │   ├── parsed_content/       # Extracted text, tables, images
+│   │   │   └── converted_formats/    # JSON, Markdown, TXT
+│   │   └── 2024Q4/...
+│   └── MSFT/...
+├── reference/                        # Company metadata and URLs
+│   └── run_20250109_143022/
+│       ├── dow30_companies.json
+│       └── earnings_urls.json
+└── summary/                          # Upload summaries
+    └── run_20250109_143022/
+        └── upload_summary.json
+```
+
+#### Setup Steps:
+
+1. **Create AWS Account** (if you don't have one)
+2. **Create IAM User** with S3 permissions:
+   ```json
+   {
+     "Version": "2012-10-17",
+     "Statement": [
+       {
+         "Effect": "Allow",
+         "Action": [
+           "s3:CreateBucket",
+           "s3:PutObject",
+           "s3:GetObject",
+           "s3:ListBucket"
+         ],
+         "Resource": "*"
+       }
+     ]
+   }
+   ```
+3. **Configure Credentials**:
+   ```bash
+   # Copy template and edit
+   cp aws_config.example .env
+   
+   # Add your credentials
+   AWS_ACCESS_KEY_ID=AKIA...
+   AWS_SECRET_ACCESS_KEY=...
+   S3_BUCKET_NAME=your-unique-bucket-name
+   ```
+4. **Enable S3 Upload** in Airflow:
+   - Trigger DAG with config: `{"upload_to_s3": true}`
+   - Or set in DAG parameters when triggering
 
 ## 📈 Pipeline Stages
 
-1. **Company Discovery** - Scrape Dow 30 from Wikipedia (30 companies)
-2. **IR Page Discovery** - Find investor relations pages (24/30 found)
-3. **Earnings Search** - Locate quarterly reports (301 reports)
-4. **Download** - Retrieve PDF files (43 downloaded)
-5. **AI Parsing** - Extract text, tables, images (multi-format output)
+### Stage 1: Company Discovery
+- Scrapes Dow 30 components from Wikipedia
+- Extracts company names, tickers, and websites
+- **Output**: 30 companies with 27 having websites
 
-## 🔍 Monitoring
+### Stage 2: IR Page Discovery  
+- Searches company websites for investor relations pages
+- Uses pattern matching and homepage link analysis
+- Falls back to SEC EDGAR when needed
+- **Output**: 24/30 companies with IR pages found
 
-### Airflow UI
-- Dashboard: http://localhost:8080
-- DAG/Graph views for task monitoring
-- Detailed task logs
+### Stage 3: Earnings Report Search
+- Crawls IR pages for quarterly earnings reports
+- Identifies latest reports using scoring algorithms
+- **Output**: 301 potential reports from 17 companies
 
-### Container Logs
-```bash
-docker compose logs -f airflow-scheduler
-docker compose logs -f airflow-webserver
-```
+### Stage 4: Report Download
+- Downloads PDF files with retry logic
+- Handles various URL formats and redirects
+- **Output**: 43 successfully downloaded files
 
-## 🔄 Development
+### Stage 5: AI-Powered Parsing
+- **Text Extraction**: pdfplumber + OCR fallback
+- **Table Extraction**: Hybrid lattice/stream detection
+- **Image Extraction**: PyMuPDF + layout analysis
+- **Format Conversion**: Markdown, JSON, plain text
+- **Output**: Multi-format structured data
 
-### Making Changes
-- Edit locally in `src/` and `dags/`
-- Changes auto-sync to containers
-- Restart if needed: `docker compose restart`
+### Logs and Monitoring
 
-### Adding Dependencies
-```bash
-# Add to requirements.txt
-echo "package-name>=1.0.0" >> requirements.txt
-docker compose down
-docker compose up -d --build
-```
+- **Airflow UI**: http://localhost:8080
+- **Task Logs**: Available in Airflow UI under each task
+- **Container Logs**: `docker-compose logs <service>`
 
-### Manual Execution
-```bash
-python src/scrape_dow30_wikipedia.py
-python src/find_ir_pages.py
-python src/find_earnings_reports.py
-python src/download_reports.py
-python src/parse_reports.py
-```
+## 👥 Team Contributions
+
+| Team Member | Tasks Completed |
+|-------------|-----------------|
+| **Natnicha** | • Dow 30 company discovery and website identification<br>• Company reference database creation<br>• IR page detection algorithms<br>• Document parsing and content extraction |
+| **Swara** | • Earnings report discovery and scoring<br>• Automated download pipeline development<br>• Airflow workflow orchestration<br>• AWS S3 cloud storage integration |
+| **Kundana** | • IR page identification systems<br>• Documentation and project reflection |
+

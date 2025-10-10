@@ -1,23 +1,13 @@
 [
   {
-    "ir_url": "https://investors.3m.com/governance/corporate-officers",
+    "ir_url": "https://investor.apple.com/",
     "method": "homepage_link",
-    "link_text": "leadership",
+    "link_text": "investors",
     "success": true,
-    "ticker": "MMM",
-    "company_name": "3M",
-    "company_website": "https://www.3m.com",
-    "discovered_date": "2025-10-09T18:53:45.301566"
-  },
-  {
-    "ir_url": "https://www.americanexpress.com/ir",
-    "method": "common_pattern",
-    "pattern": "/ir",
-    "success": true,
-    "ticker": "AXP",
-    "company_name": "American Express",
-    "company_website": "https://www.americanexpress.com",
-    "discovered_date": "2025-10-09T18:53:49.421654"
+    "ticker": "AAPL",
+    "company_name": "Apple",
+    "company_website": "https://www.apple.com",
+    "discovered_date": "2025-10-09T18:54:07.664500"
   },
   {
     "ir_url": "http://investors.amgen.com/",
@@ -37,18 +27,18 @@
     "error": "CIK not found",
     "ticker": "AMZN",
     "company_name": "Amazon",
-    "company_website": NaN,
+    "company_website": null,
     "discovered_date": "2025-10-09T18:54:00.575461"
   },
   {
-    "ir_url": "https://investor.apple.com/",
-    "method": "homepage_link",
-    "link_text": "investors",
+    "ir_url": "https://www.americanexpress.com/ir",
+    "method": "common_pattern",
+    "pattern": "/ir",
     "success": true,
-    "ticker": "AAPL",
-    "company_name": "Apple",
-    "company_website": "https://www.apple.com",
-    "discovered_date": "2025-10-09T18:54:07.664500"
+    "ticker": "AXP",
+    "company_name": "American Express",
+    "company_website": "https://www.americanexpress.com",
+    "discovered_date": "2025-10-09T18:53:49.421654"
   },
   {
     "ir_url": "https://www.boeing.com/investors",
@@ -71,14 +61,14 @@
     "discovered_date": "2025-10-09T18:54:18.381687"
   },
   {
-    "ir_url": "https://www.chevron.com/investors",
-    "method": "common_pattern",
-    "pattern": "/investors",
+    "ir_url": "https://investor.salesforce.com/overview/default.aspx",
+    "method": "homepage_link",
+    "link_text": "",
     "success": true,
-    "ticker": "CVX",
-    "company_name": "Chevron",
-    "company_website": "https://www.chevron.com",
-    "discovered_date": "2025-10-09T18:54:21.343443"
+    "ticker": "CRM",
+    "company_name": "Salesforce",
+    "company_website": "https://www.salesforce.com",
+    "discovered_date": "2025-10-09T18:55:41.810598"
   },
   {
     "ir_url": null,
@@ -92,14 +82,14 @@
     "discovered_date": "2025-10-09T18:54:25.961997"
   },
   {
-    "ir_url": "https://www.coca-colacompany.com/investors",
+    "ir_url": "https://www.chevron.com/investors",
     "method": "common_pattern",
     "pattern": "/investors",
     "success": true,
-    "ticker": "KO",
-    "company_name": "Coca-Cola",
-    "company_website": "https://www.coca-colacompany.com",
-    "discovered_date": "2025-10-09T18:54:28.628406"
+    "ticker": "CVX",
+    "company_name": "Chevron",
+    "company_website": "https://www.chevron.com",
+    "discovered_date": "2025-10-09T18:54:21.343443"
   },
   {
     "ir_url": "https://www.thewaltdisneycompany.com/investors",
@@ -172,6 +162,16 @@
     "discovered_date": "2025-10-09T18:54:50.740712"
   },
   {
+    "ir_url": "https://www.coca-colacompany.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "KO",
+    "company_name": "Coca-Cola",
+    "company_website": "https://www.coca-colacompany.com",
+    "discovered_date": "2025-10-09T18:54:28.628406"
+  },
+  {
     "ir_url": "https://corporate.mcdonalds.com/corpmcd/investors.html",
     "method": "homepage_link",
     "link_text": "investor relations",
@@ -180,6 +180,16 @@
     "company_name": "McDonald's",
     "company_website": "https://www.mcdonalds.com",
     "discovered_date": "2025-10-09T18:54:55.420560"
+  },
+  {
+    "ir_url": "https://investors.3m.com/governance/corporate-officers",
+    "method": "homepage_link",
+    "link_text": "leadership",
+    "success": true,
+    "ticker": "MMM",
+    "company_name": "3M",
+    "company_website": "https://www.3m.com",
+    "discovered_date": "2025-10-09T18:53:45.301566"
   },
   {
     "ir_url": "https://www.merck.com/investor-relations",
@@ -219,7 +229,7 @@
     "error": "CIK not found",
     "ticker": "NVDA",
     "company_name": "Nvidia",
-    "company_website": NaN,
+    "company_website": null,
     "discovered_date": "2025-10-09T18:55:14.512760"
   },
   {
@@ -233,16 +243,6 @@
     "discovered_date": "2025-10-09T18:55:27.388760"
   },
   {
-    "ir_url": "https://investor.salesforce.com/overview/default.aspx",
-    "method": "homepage_link",
-    "link_text": "",
-    "success": true,
-    "ticker": "CRM",
-    "company_name": "Salesforce",
-    "company_website": "https://www.salesforce.com",
-    "discovered_date": "2025-10-09T18:55:41.810598"
-  },
-  {
     "ir_url": null,
     "edgar_cik": null,
     "method": "edgar_failed",
@@ -250,7 +250,7 @@
     "error": "CIK not found",
     "ticker": "SHW",
     "company_name": "Sherwin-Williams",
-    "company_website": NaN,
+    "company_website": null,
     "discovered_date": "2025-10-09T18:55:44.190306"
   },
   {
@@ -274,16 +274,6 @@
     "discovered_date": "2025-10-09T18:55:52.968318"
   },
   {
-    "ir_url": "https://www.verizon.com/investors",
-    "method": "common_pattern",
-    "pattern": "/investors",
-    "success": true,
-    "ticker": "VZ",
-    "company_name": "Verizon",
-    "company_website": "https://www.verizon.com",
-    "discovered_date": "2025-10-09T18:55:56.836266"
-  },
-  {
     "ir_url": null,
     "edgar_cik": null,
     "method": "edgar_failed",
@@ -293,6 +283,16 @@
     "company_name": "Visa",
     "company_website": "https://www.visa.com",
     "discovered_date": "2025-10-09T18:56:01.802035"
+  },
+  {
+    "ir_url": "https://www.verizon.com/investors",
+    "method": "common_pattern",
+    "pattern": "/investors",
+    "success": true,
+    "ticker": "VZ",
+    "company_name": "Verizon",
+    "company_website": "https://www.verizon.com",
+    "discovered_date": "2025-10-09T18:55:56.836266"
   },
   {
     "ir_url": null,
