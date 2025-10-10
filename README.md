@@ -16,6 +16,13 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 - **📈 Comprehensive Coverage**: Processes 30+ companies with 300+ reports
 - **☁️ Cloud Storage**: Optional AWS S3 integration for scalable data storage
 
+| **Team Member** | **Key Contributions**                                                       |
+| --------------- | --------------------------------------------------------------------------- |
+| **Kundana**     | Dow 30 reference list, IR page identification, AWS S3 setup & documentation |
+| **Swara**       | Latest earnings report discovery, Airflow orchestration & S3 integration    |
+| **Natnincha**   | Report download & parsing, data validation, IR refinement                   |
+
+
 ## 🏗️ Architecture
 
 ```
