@@ -117,19 +117,17 @@ class S3StorageManager:
             if not content_type:
                 content_type = self._get_content_type(local_file_path)
             
-            # Prepare upload parameters
-            upload_kwargs = {
-                'Bucket': self.bucket_name,
-                'Key': s3_key,
+            # Prepare ExtraArgs for upload_file
+            extra_args = {
                 'ContentType': content_type
             }
             
             # Add metadata if provided
             if metadata:
-                upload_kwargs['Metadata'] = metadata
+                extra_args['Metadata'] = metadata
             
             # Upload file
-            self.s3_client.upload_file(local_file_path, **upload_kwargs)
+            self.s3_client.upload_file(local_file_path, self.bucket_name, s3_key, ExtraArgs=extra_args)
             logger.info(f"✅ Uploaded: {local_file_path} → s3://{self.bucket_name}/{s3_key}")
             return True
             

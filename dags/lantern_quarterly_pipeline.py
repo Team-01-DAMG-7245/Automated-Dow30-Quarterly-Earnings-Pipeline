@@ -70,7 +70,7 @@ with DAG(
         # Manual trigger parameters (Airflow UI → Trigger DAG → "Config"):
         "run_label": "auto",       # e.g., "2025Q3", "backfill-2024Q4"
         "download_assets": True,   # set False for a "dry run" that stops after URL discovery
-        "upload_to_s3": False,     # set True to upload results to AWS S3
+        "upload_to_s3": True,     # set True to upload results to AWS S3
     },
 ) as dag:
 
@@ -160,12 +160,23 @@ with DAG(
     # Task 6: Upload to S3 (Optional - controlled by params)
     # -----------
     @task
-    def upload_to_s3(params: Dict[str, Any] = None):
+    def upload_to_s3(**context):
         """
         Upload pipeline results to AWS S3.
         Only runs if upload_to_s3 parameter is True.
         """
-        upload_enabled = params.get("upload_to_s3", False) if params else False
+        # Get params from DAG run context
+        params = context.get('params', {})
+        
+        # Handle different ways the parameter might be passed (true, True, "true", 1)
+        upload_param = params.get('upload_to_s3', True)
+        upload_enabled = str(upload_param).lower() in ['true', '1', 'yes'] if upload_param is not None else False
+        
+        # Debug: Print what we're seeing
+        print(f"🔍 Debug - Params received: {params}")
+        print(f"🔍 Debug - upload_to_s3 raw value: {upload_param}")
+        print(f"🔍 Debug - upload_to_s3 processed: {upload_enabled}")
+        print(f"🔍 Debug - upload_to_s3 type: {type(upload_param)}")
         
         if not upload_enabled:
             print("📤 S3 upload disabled (set upload_to_s3=true to enable)")
@@ -203,7 +214,7 @@ with DAG(
     # Summary task
     # -----------
     @task
-    def summarize_results(params: Dict[str, Any] = None, s3_result: Dict[str, Any] = None):
+    def summarize_results(s3_result):
         print("🎯 LANTERN Quarterly Pipeline Complete!")
         print("📊 Results available in data/ directory")
         print("✅ Generated company reference data")
@@ -229,4 +240,4 @@ with DAG(
     cfg = show_config()
     s3_result = upload_to_s3()
     
-    cfg >> build_company_reference >> discover_ir_pages >> locate_earnings_reports >> download_company_artifacts >> skip_parsing() >> s3_result >> summarize_results()
+    cfg >> build_company_reference >> discover_ir_pages >> locate_earnings_reports >> download_company_artifacts >> skip_parsing() >> s3_result >> summarize_results(s3_result)
