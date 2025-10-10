@@ -100,7 +100,7 @@ with DAG(
             set -euo pipefail
             cd "{PROJECT_ROOT}"
             {PYTHON_BIN} src/scrape_dow30_wikipedia.py
-            test -s "{REF_COMPANIES}" || (echo "Missing {REF_COMPANIES}" && exit 2)
+            test -s "data/raw/scraped/dow30_companies.csv" || (echo "Missing data/raw/scraped/dow30_companies.csv" && exit 2)
         """,
     )
 
