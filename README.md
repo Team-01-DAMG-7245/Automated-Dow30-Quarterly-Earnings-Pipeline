@@ -38,8 +38,11 @@ Project LANTERN is a comprehensive data pipeline that automatically discovers, d
 ```
 
 ## 🚀 Quick Start
-Documentation and project reflection Codelabs: https://codelabs-preview.appspot.com/?file_id=1IFZfiqRGc0BlpBJSmeF0G1SxeHYczArDDNNhFX68aD8#0
 
+Demo video: https://youtu.be/XnkfH6JxYZU
+Documentation and project reflection: https://docs.google.com/document/d/1IFZfiqRGc0BlpBJSmeF0G1SxeHYczArDDNNhFX68aD8/edit?tab=t.0
+Codelabs: https://codelabs-preview.appspot.com/?file_id=1IFZfiqRGc0BlpBJSmeF0G1SxeHYczArDDNNhFX68aD8#0
+Github: https://github.com/Team-01-DAMG-7245/Automated-Dow30-Quarterly-Earnings-Pipeline
 
 ### Prerequisites
 
