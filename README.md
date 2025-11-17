@@ -291,5 +291,5 @@ s3://your-bucket/
 |-------------|-----------------|
 | **Natnicha** | • Dow 30 company discovery and website identification<br>• Company reference database creation<br>• IR page detection algorithms<br>• Document parsing and content extraction |
 | **Swara** | • Earnings report discovery and scoring<br>• Automated download pipeline development<br>• Airflow workflow orchestration<br>• AWS S3 cloud storage integration |
-| **Kundana** | • IR page identification systems<br>• Documentation and project reflection |
+| **Kundana** | • IR page identification systems<br>• Dow 30 reference list<br>• AWS S3 setup<br>•Documentation and project reflection |
 
